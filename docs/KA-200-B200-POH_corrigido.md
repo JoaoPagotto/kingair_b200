@@ -3562,1007 +3562,933 @@ Pilot and copilot are each counted as 2 people with diluter demand masks set at 
       3) Duration with full bottle = 73 minutes
       4) Duration with 57% capacity = .57 x 73 = 41 minutes.
 
-![Image](KA-200-B200-POH_imagens/p00112_01.png)
-
 ## OXYGEN DURATION WITH FULL BOTTLE (100% CAPACITY)
 
-| Stated Cyl inder Size (Cu Ft) - Cyl inder Size (Cu Ft) - (Cu Ft)   | 1 - DURATION IN MINUTES   | 2 - DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | 5 - DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   | DURATION IN MINUTES   |
-|--------------------------------------------------------------------|---------------------------|---------------------------|-----------------------|-----------------------|---------------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| 22                                                                 |                           |                           |                       |                       |                           |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       | .                     | .                     |
-| 49 or 50                                                           |                           |                           |                       |                       |                           |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |
-|                                                                    |                           |                           |                       |                       |                           |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |
-| 76 or n                                                            |                           |                           |                       |                       |                           |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |
-|                                                                    |                           |                           |                       |                       |                           |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |                       |
+†NUMBER OF PEOPLE USING — DURATION IN MINUTES
 
-## HEATINGICOOLING SYSTEM
+| Stated Cylinder Size (Cu Ft) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | †16 | †17 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 22 | 144 | 72 | 48 | 36 | 28 | 24 | 20 | 18 | 16 | 14 | 13 | 12 | 11 | 10 | * | * | * |
+| 49 or 50 | 317 | 158 | 105 | 79 | 63 | 52 | 45 | 39 | 35 | 31 | 28 | 26 | 24 | 22 | 21 | 19 | 18 |
+| 66 | 422 | 211 | 140 | 105 | 84 | 70 | 60 | 52 | 47 | 42 | 38 | 35 | 32 | 30 | 28 | 26 | 24 |
+| 76 or 77 | 488 | 244 | 162 | 122 | 97 | 81 | 69 | 61 | 54 | 48 | 44 | 40 | 37 | 34 | 32 | 30 | 28 |
+| 115 | 732 | 366 | 244 | 183 | 146 | 122 | 104 | 91 | 81 | 73 | 66 | 61 | 56 | 52 | 48 | 45 | 43 |
 
-- 1 Bleed Air Valves OPEN (ENVIR OFF for more efficient cooling on the ground:)
-- 2 Cabin Temperature Mode AUTO
-- 3 Vent Blower AUTO
-- 4 Radiant Heat or Aft Blower (if installed) AS REQUIRED (The radiant heat system should be used in conjunction with manual temp control mode only-)
-- 5\_ Temperature Control AS REQUIRED
-6. Cabin Air Control AS REQUIRED (to divert cabin air flow to the cockpit)
+\*Will not meet oxygen requirements
+
+† For oxygen duration computations, count each diluter-demand crew mask in use as 2 (e.g., with 4 passengers and a crew of 2, enter the table at 8 people using).
+
+## HEATING/COOLING SYSTEM
+
+1. Bleed Air Valves - OPEN (ENVIR OFF for more efficient cooling on the ground.)
+2. Cabin Temperature Mode - AUTO
+3. Vent Blower - AUTO
+4. Radiant Heat or Aft Blower (if installed) - AS REQUIRED (The radiant heat system should be used in conjunction with manual temp control mode only.)
+5. Temperature Control - AS REQUIRED
+6. Cabin Air Control - AS REQUIRED (to divert cabin air flow to the cockpit)
 
 ## NOTE
 
-With the Cabin Mode switch in AUTO, MAN HEAT or MAN COOL, the ventilation blower operates in the low position. For increased air circulation, turn the Vent Blower Switch to HIGH: For maximum cooling, the ventilation blower should be in the HIGH mode and the aft blower (if installed) should be selected ON. With air conditioner maintain at least 60% Nv speed on the right engine. ciator will illuminate, and the air conditioner clutch will disengage. For maximum heating; the ventilation blowers should be selected to HIGH and the aft blower should be selected OFF. Temp on,
+With the Cabin Temp Mode switch in AUTO, MAN HEAT or MAN COOL, the ventilation blower operates in the low position. For increased air circulation, turn the Vent Blower Switch to HIGH. For maximum cooling, the ventilation blower should be in the HIGH mode and the aft blower (if installed) should be selected ON. With air conditioner on, maintain at least 60% N1 speed on the right engine. If below N1 minimum speed, the AIR COND N1 LOW annunciator will illuminate, and the air conditioner clutch will disengage. For maximum heating, the ventilation blowers should be selected to HIGH and the aft blower should be selected OFF.
 
-## RADIANT HEAT (IF INSTALLED)
+*RADIANT HEAT (IF INSTALLED)*
 
-auxiliary power unit to warm the cabin prior to engine starting; and may be used for supplemental heat in flight, if required.
+Overhead radiant heat, operated by a switch in the environmental group, can be used in conjunction with an auxiliary power unit to warm the cabin prior to engine starting, and may be used for supplemental heat in flight, if required.
 
-## DEFROSTER AIR
+*DEFROSTER AIR*
 
-1. Windshield Defroster Air Control (right side of pilot's control column) ON (pull)
-
-## Raytheom Aircraft Company
-
-Super King Air BzOO/BZOOC
-
-- 2\_ Pilot; Copilot; and Cabin Air Controls OFF (if increased defroster air flow is required)
+1. Windshield Defroster Air Control (right side of pilot's control column) - ON (pull)
+2. Pilot, Copilot, and Cabin Air Controls - OFF (if increased defroster air flow is required)
 
 ## BLENDING ANTI-ICING ADDITIVE TO FUEL
 
 The following procedure must be observed when blending anti-icing additive with fuel.
 
-- 1 . The additive must conform to specification MIL-I-27686 or MIL-|-85470.
-- 2 The concentration of the additive must be a minimum of 0.10% and of additive is sufficient for 105 to 155 gallons of fuel.
-- 3 When blending the additive as the airplane is being refueled, use the following precautions:
-- a Refuel at a rate of 30 to 45 gallons per minute. A rate of less than 30 GPM may be used when topping off the tanks.
-- Start additive after fuel flow starts, and stop before fuel flow stops:
-- C Ensure additive is directed into the flowing fuel stream.
-- Do not allow concentrated additive to contact coated interior of fuel cells or airplane surfaces\_
+1. The additive must conform to specification MIL-I-27686 or MIL-I-85470.
+2. The concentration of the additive must be a minimum of 0.10% and a maximum of 0.15% by volume. Thus, a 20 oz. can of additive is sufficient for 105 to 155 gallons of fuel.
+3. When blending the additive as the airplane is being refueled, use the following precautions:
+   a. Refuel at a rate of 30 to 45 gallons per minute. A rate of less than 30 GPM may be used when topping off the tanks.
+   b. Start additive after fuel flow starts, and stop before fuel flow stops.
+   c. Ensure additive is directed into the flowing fuel stream.
+   d. Do not allow concentrated additive to contact coated interior of fuel cells or airplane surfaces.
 
 ## ADDING BIOCIDE TO FUEL
 
-Refer to the Super King Air 200 Series Maintenance Manual and to the latest revision of Pratt &amp; Whitney Canada Engine Service Bulletin No. 3044 for concentrations to use, and for procedures, recommendations, and limitations pertaining to the use of biocidallfungicidal additives in turbine fuels.
+Refer to the Super King Air 200 Series Maintenance Manual and to the latest revision of Pratt & Whitney Canada Engine Service Bulletin No. 3044 for concentrations to use, and for procedures, recommendations, and limitations pertaining to the use of biocidal/fungicidal additives in turbine fuels.
 
 ## USE OF JET B, JP-4, AND AVIATION GASOLINE
 
 Fuel quantity indicators will not indicate correctly when using Jet B, JP-4, or aviation gasoline due to the differences in their density and dielectric constants. The indicated fuel quantity should be corrected using the factors show below. These factors have been generalized in some cases for simplicity, thus results should be considered as approximations.
 
-When using Jet B or JP-4 multiply the indicated fuel quantity by .96 to obtain the corrected fuel quantity:
+When using Jet B or JP-4 multiply the indicated fuel quantity by .96 to obtain the corrected fuel quantity.
 
 When using aviation gasoline, multiply the indicated fuel quantity by .94 to obtain the corrected fuel quantity.
 
 ## NICKEL-CADMIUM BATTERY CHECK (GROUND OPERATION ONLY)
 
-Illumination of the BATTERY CHARGE annunciators indicates an above-normal charge current: Following an engine start; the battery recharge current is very high and causes the illumination of the BATTERY CHARGE anunciator. It should normally extinguish within five minutes: If it does not; or if it should reappear, the battery charge current should be monitored using the procedure shown below until it decreases to a level to extinguish the BATTERY CHARGE annunciator. Check the battery charge current every 90 seconds until the charge current decreases sufficiently to extinguish the annunciator: No decrease in charging current between checks indicates an unsatisfactory condition and the battery should be removed and checked by a qualified nickel-cadmium battery shop. Do not take off with annunciator illuminated unless a decreasing battery charge current
+Illumination of the BATTERY CHARGE annunciators indicates an above-normal charge current. Following an engine start, the battery recharge current is very high and causes the illumination of the BATTERY CHARGE annunciator. It should normally extinguish within five minutes. If it does not, or if it should reappear, the battery charge current should be monitored using the procedure shown below until it decreases to a level to extinguish the BATTERY CHARGE annunciator. Check the battery charge current every 90 seconds until the charge current decreases sufficiently to extinguish the annunciator. No decrease in charging current between checks indicates an unsatisfactory condition and the battery should be removed and checked by a qualified nickel-cadmium battery shop. Do not take off with annunciator illuminated unless a decreasing battery charge current is confirmed.
 
-1. Either Generator OFF
-2. 2\_ Voltmeter ENSURE INDICATION OF 28 VOLTS
-3. 3\_ Battery Switch OFF MOMENTARILY, NOTING DECREASE IN LOADMETER:
+1. Either Generator - OFF
+2. Voltmeter - ENSURE INDICATION OF 28 VOLTS
+3. Battery Switch - OFF MOMENTARILY, NOTING DECREASE IN LOADMETER.
 
 If Decrease in Loadmeter Exceeds 2.5%:
 
-- 4 Battery \_ CONTINUE TO CHARGE\_ REPEATING STEP 3 EVERY 90 SECONDS:
-
-![Image](KA-200-B200-POH_imagens/p00114_01.png)
-
-5. Battery Charge Annunciator EXTINGUISHED WHEN DECREASE IN LOADMETER IS LESS THAN 2.5%.
+4. Battery - CONTINUE TO CHARGE, REPEATING STEP 3 EVERY 90 SECONDS.
+5. Battery Charge Annunciator - EXTINGUISHED WHEN DECREASE IN LOADMETER IS LESS THAN 2.5%.
 
 ## COLD WEATHER PROCEDURES (SNOW, SLUSH, AND ICE)
 
-## PREFLIGHT INSPECTION
+*PREFLIGHT INSPECTION*
 
-Verify that the tires are not frozen to the ramp; and that the brakes are free of ice contamination: Deicing or anti-icing solutions may be used on the tires and brakes if are frozen. Solutions which contain a lubricant; such as oil, must not be used as will decrease the effectiveness of the brakes: they they
+Verify that the tires are not frozen to the ramp, and that the brakes are free of ice contamination. Deicing or anti-icing solutions may be used on the tires and brakes if they are frozen. Solutions which contain a lubricant, such as oil, must not be used as they will decrease the effectiveness of the brakes.
 
-In addition to the normal exterior preflight inspection, special attention should be given all vents, openings, static ports, control surfaces, hinge points, and the tail, and fuselage surfaces for accumulations of ice or snow. Removal of these accumulations is necessary to takeoff\_ Airfoil contours may be altered by the ice and snow to the extent that their lift qualities will be seriously impaired: Ice and snow on the fuselage can increase and weight Frost that may form on the wing fuel tank bottom skins need not be removed prior to flight. Frost that may accumulate on other portions of the the tail surfaces, or on any control surface, must be removed prior to flight: wing; prior drag wing;
+In addition to the normal exterior preflight inspection, special attention should be given all vents, openings, static ports, control surfaces, hinge points, and the wing, tail, and fuselage surfaces for accumulations of ice or snow. Removal of these accumulations is necessary prior to takeoff. Airfoil contours may be altered by the ice and snow to the extent that their lift qualities will be seriously impaired. Ice and snow on the fuselage can increase drag and weight. Frost that may form on the wing fuel tank bottom skins need not be removed prior to flight. Frost that may accumulate on other portions of the wing, the tail surfaces, or on any control surface, must be removed prior to flight.
 
-Inspect the propeller blades and hubs for ice and snow. Unless engine inlet covers have been installed during snow or icing conditions, the propellers should be turned by hand in the direction of normal rotation to make sure they are free to rotate prior to starting engines:
+Inspect the propeller blades and hubs for ice and snow. Unless engine inlet covers have been installed during snow or icing conditions, the propellers should be turned by hand in the direction of normal rotation to make sure they are free to rotate prior to starting engines.
 
-The removal of frozen deposits by chipping or scraping is not recommended A soft brush, squeegee, or mop may be used to clear snow that is not adhering to the surfaces. If use of deicinglanti-icing fluids are required to produce a clean airplane, special attention must be given to ensure that the pitot masts, static ports, fuel vents, cockpit windows and the area forward of the cockpit windows are free of the deicinganti-icing solution. Both wings and both stabilizers must receive the same complete treatment: The type and concentration of deicing/anti-icing solution being applied and the rate of precipitation will affect the length of time the treatment will be effective. Refer to Chapter 12 of the Beech Super King Air 200 Series Maintenance Manual and Section VIII of this manual for additional information on deicing and anti-icing of airplanes on the ground. See Section II, Limitations; for a list of approved fluids:
+The removal of frozen deposits by chipping or scraping is not recommended. A soft brush, squeegee, or mop may be used to clear snow that is not adhering to the surfaces. If use of deicing/anti-icing fluids are required to produce a clean airplane, special attention must be given to ensure that the pitot masts, static ports, fuel vents, cockpit windows and the area forward of the cockpit windows are free of the deicing/anti-icing solution. Both wings and both stabilizers must receive the same complete treatment. The type and concentration of deicing/anti-icing solution being applied and the rate of precipitation will affect the length of time the treatment will be effective. Refer to Chapter 12 of the *Beech Super King Air 200 Series Maintenance Manual* and Section VIII of this manual for additional information on deicing and anti-icing of airplanes on the ground. See Section II, Limitations, for a list of approved fluids.
 
-Complete the normal preflight procedures, including a check of the flight controls for complete freedom of movement:
+Complete the normal preflight procedures, including a check of the flight controls for complete freedom of movement.
 
-After engine start, exercise the propellers through and high-pitch and into reverse range to flush any congealed oil through the system. ow-
+After engine start, exercise the propellers through low- and high-pitch and into reverse range to flush any congealed oil through the system.
 
-If the optional brake deicing system is installed; turn it on prior to taxi if brakes require deicing:
+If the optional brake deicing system is installed, turn it on prior to taxi if brakes require deicing.
 
-## TAXIING
+*TAXIING*
 
-Taxiing through deep snow or slush should be avoided when possible. Snow and slush can be forced into brake assemblies which may cause the brakes to freeze during a prolonged hold on the ground or during the subsequent flight: Keep flaps retracted during taxiing to avoid throwing snow or slush into flap mechanisms and to minimize damage to flap surfaces:
+Taxiing through deep snow or slush should be avoided when possible. Snow and slush can be forced into brake assemblies which may cause the brakes to freeze during a prolonged hold on the ground or during the subsequent flight. Keep flaps retracted during taxiing to avoid throwing snow or slush into flap mechanisms and to minimize damage to flap surfaces.
 
 Glaze ice can be difficult to see. Therefore, taxi slowly and allow more clearance from objects when maneuvering the airplane.
 
-## BEFORE TAKEOFF
+*BEFORE TAKEOFF*
 
-After completion of the normal Before Takeoff checklist, verify that the airplane is still free of frozen contami-nants\_
+After completion of the normal Before Takeoff checklist, verify that the airplane is still free of frozen contaminants.
 
-Ensure the runway is free from hazards such as snow drifts, glazed ice, and ruts Ice, frost, or snow on top of deicinglanti-icing solutions must be considered as adhering to the airplane. Takeoff should not be attempted:
+Ensure the runway is free from hazards such as snow drifts, glazed ice, and ruts.
 
-![Image](KA-200-B200-POH_imagens/p00115_01.png)
+**WARNING**
 
-![Image](KA-200-B200-POH_imagens/p00115_02.png)
+Ice, frost, or snow on top of deicing/anti-icing solutions must be considered as adhering to the airplane. Takeoff should not be attempted.
 
-If visible moisture will be encountered during the takeoff, engine ice vanes must be extended to reduce the possibility of ice being ingested into the engine air inlet:
+If visible moisture will be encountered during the takeoff, engine ice vanes must be extended to reduce the possibility of ice being ingested into the engine air inlet.
 
-## TAKEOFF
+*TAKEOFF*
 
-Allow additional take-off distance when snow or slush is on the runway: Extra cycling of the landing gear when above 500 feet AGL may help clear any contamination from the gear system:
+Allow additional take-off distance when snow or slush is on the runway. Extra cycling of the landing gear when above 500 feet AGL may help clear any contamination from the gear system.
 
-When using FAA Approved SAE Type II or Type IV deicinglanti-icing fluids in the concentrated form, the control column force required to rotate for takeoff may temporarily increase approximately 20 pounds The cruise, descent; approach and landing phases of flight are not affected by the use of these tluids:
+When using FAA Approved SAE Type II or Type IV deicing/anti-icing fluids in the concentrated form, the control column force required to rotate for takeoff may temporarily increase approximately 20 pounds. The cruise, descent, approach and landing phases of flight are not affected by the use of these fluids.
 
-## LANDING
+*LANDING*
 
-If it is possible that the brakes may be restricted by ice accumulations from previous ground or in-flight icing conditions, turn the brake deicing system (if installed) on during the descent:
+If it is possible that the brakes may be restricted by ice accumulations from previous ground or in-flight icing conditions, turn the brake deicing system (if installed) on during the descent.
 
-Braking and steering are less effective on slick runways. Also, hydroplaning may occur under wet runway conditions at higher speeds. Use the rudder to maintain directional control until the tires make solid contact with the runway surface\_
+Braking and steering are less effective on slick runways. Also, hydroplaning may occur under wet runway conditions at higher speeds. Use the rudder to maintain directional control until the tires make solid contact with the runway surface.
 
-Selecting reverse thrust can effectively reduce stopping distances on slick runways; however, reverse thrust may cause snow or moisture to be thrown forward; temporarily reducing visibility:
+Selecting reverse thrust can effectively reduce stopping distances on slick runways; however, reverse thrust may cause snow or moisture to be thrown forward, temporarily reducing visibility.
 
-## SHUTDOWN AND SECURING
+*SHUTDOWN AND SECURING*
 
-Avoid setting the parking brake, if possible. This will help reduce the possibility of freezing the brakes. Proper chocking can be used to prevent the airplane from rolling:
+Avoid setting the parking brake, if possible. This will help reduce the possibility of freezing the brakes. Proper chocking can be used to prevent the airplane from rolling.
 
-![Image](KA-200-B200-POH_imagens/p00116_01.png)
-
-THIS PAGE INTENTIONALLY LEFT BLANK
+*(4-22B: THIS PAGE INTENTIONALLY LEFT BLANK)*
 
 ## ICING FLIGHT
 
-This airplane is approved for flight in icing conditions as defined in FAR 25, Appendix C These conditions do not include, nor were tests conducted in, all conditions that may be encountered (e.g-, freezing rain, conditions not defined in FAR 25 have the potential of producing hazardous ice accumulations, which: 1) exceed the capabilities of the airplane's ice protection equipment; andlor 2) create unacceptable airplane perfomance. Flight into icing conditions which lie outside the FAR-defined conditions is not prohibited; however , pilots must be prepared to divert the flight promptly if hazardous ice accumulations occur \_ icing
+This airplane is approved for flight in icing conditions as defined in FAR 25, Appendix C. These conditions do not include, nor were tests conducted in, all conditions that may be encountered (e.g., freezing rain, freezing drizzle, mixed conditions, or conditions defined as severe). Some icing conditions not defined in FAR 25 have the potential of producing hazardous ice accumulations, which: 1) exceed the capabilities of the airplane's ice protection equipment; and/or 2) create unacceptable airplane performance. Flight into icing conditions which lie outside the FAR-defined conditions is not prohibited; however, pilots must be prepared to divert the flight promptly if hazardous ice accumulations occur.
 
-Refer to Section Il for limitations relating to icing fight; and Section IIIA for abnormal procedures associated with icing equipment malfunctions and procedures required by FAA AD 96-09-13.
+Refer to Section II for limitations relating to icing flight, and Section IIIA for abnormal procedures associated with icing equipment malfunctions and procedures required by FAA AD 96-09-13.
 
-![Image](KA-200-B200-POH_imagens/p00117_01.png)
+**WARNING**
 
-Due to distortion of the wing airfoil, ice accumulations on the leading edges can cause a significant lass in rate of climb and in speed performance, as well as increases in Stall speed Even aiter cycling deicing boots, the ice accumulation remaining on the boots and unprotected areas of the airplane can cause large perforance losses: For the same reason, the aural stall warning system may not be accurate and should not be relied upon  Maintain a comfortable margin of airspeed above the normal stall airspeed. In order t0 minimize ice accumulation on unprotected surfaces of the wing, maintain a minimum of 140 knots operations in sustained icing conditions. In the event of windshield reduce airspeed to 226 knots or below. Prior t0 a landing approach, cycle the deicing boots to shed any accumulated ice. during icing;
+Due to distortion of the wing airfoil, ice accumulations on the leading edges can cause a significant loss in rate of climb and in speed performance, as well as increases in stall speed. Even after cycling deicing boots, the ice accumulation remaining on the boots and unprotected areas of the airplane can cause large performance losses. For the same reason, the aural stall warning system may not be accurate and should not be relied upon. Maintain a comfortable margin of airspeed above the normal stall speed. In order to minimize ice accumulation on unprotected surfaces of the wing, maintain a minimum of 140 knots during operations in sustained icing conditions. In the event of windshield icing, reduce airspeed to 226 knots or below. Prior to a landing approach, cycle the deicing boots to shed any accumulated ice.
 
-## BEFORE TAKEOFF (RUNUP)
+*BEFORE TAKEOFF (RUNUP)*
 
-- 1\_ Auto Ignition CHECK
-- a Power Levers IDLE
-- b. Auto Ignition ARM (L &amp; R IGNITION ON annunciators ILLUMINATED)
-- C. Power Levers EXTINGUISHED)
-- d Power Levers IDLE (L &amp; R IGNITION ON annunciators ILLUMINATED)
-0. Auto Ignition OFF (L &amp; R IGNITION ON annunciators EXTINGUISHED)
-- 2 Engine Ice Vanes CHECK (system initially on)
-- a Engine Ice Vanes RETRACT (L &amp; R ICE VANE EXT annunciators EXTINGUISHED)
-- b Engine Ice Vanes (f required tor takeot) EXTEND (L &amp; R ICE VANE BXT annunciators ILLUMINATED)
-- Windshield Anti-ice CHECK
-- a Windshield Anti-ice
-- b. Windshield Anti-ice
-- C\_ Windshield Anti-ice OFF
-- 4 Electrothermal Propeller Deice CHECK
+1. Auto Ignition - CHECK
+   a. Power Levers - IDLE
+   b. Auto Ignition - ARM (L & R IGNITION ON annunciators - ILLUMINATED)
+   c. Power Levers - ADVANCE ABOVE 360-460 FT-LBS TORQUE (L & R IGNITION ON annunciators - EXTINGUISHED)
+   d. Power Levers - IDLE (L & R IGNITION ON annunciators - ILLUMINATED)
+   e. Auto Ignition - OFF (L & R IGNITION ON annunciators - EXTINGUISHED)
+2. Engine Ice Vanes - CHECK (system initially on)
+   a. Engine Ice Vanes - RETRACT (L & R ICE VANE EXT annunciators - EXTINGUISHED)
+   b. Engine Ice Vanes (if required for takeoff) - EXTEND (L & R ICE VANE EXT annunciators - ILLUMINATED)
+3. Windshield Anti-ice - CHECK
+   a. Windshield Anti-ice - HI (Observe increase on left and right loadmeters.)
+   b. Windshield Anti-ice - OFF, THEN NORMAL (Observe increase on left and right loadmeters.)
+   c. Windshield Anti-ice - OFF
+4. Electrothermal Propeller Deice - CHECK
 
-![Image](KA-200-B200-POH_imagens/p00117_02.png)
+**CAUTION**
 
-Da not operate propeller deice when the propellers are Static.
+Do not operate propeller deice when the propellers are static.
 
-- a Automatic Deice AUTO Prop
-- b Deice Ammeter 14 to 18 amps
+- a. Automatic Prop Deice - AUTO
+   b. Deice Ammeter - 14 to 18 amps
+      - Monitor for 90 seconds to ensure automatic timer operation.
 
-- Monitor for 90 seconds to ensure automatic timer operation
+*On Airplanes Prior to BB-829:*
 
-## On Airplanes Prior to BB-829:
+- 2) Manual Propeller Deice Switch - MOMENTARILY HOLD IN "INNER" POSITION, THEN "OUTER" (Small loadmeter deflection on both meters in each position indicates the manual system is operating).
 
-- 2) Manual Propeller Deice Switch MOMENTARILY HOLD IN "INNER" POSITION, THEN "OUTER" (Small loadmeter deflection on both meters in each position indicates the manual system is operating):
+*On Airplanes BB-829 and After, BL-37 and After:*
 
-## On Airplanes BB-829 and After, BL-37 and After:
-
-- C Manual Propeller Deice Switch MOMENTARILY HOLD IN "MANUAL' POSITION (Small loadmeter deflection or; both meters indicates manual system is operating):
-
-## NOTE
-
-Use of current for the manual (backup) system is not registered on the propeller deice ammeter; however, it will be indicated as part Of the airplane's load on the loadmeters (small needle defiection) when the system is switched on.
-
-- d Automatic Propeller Deice Switch OFF
-5. Surface Deice System CHECK
-- a\_ Condition Levers HIGH IDLE
-- b: Pneumatic Pressure CHECK
-- SINGLE AND RELEASE
-- 1) Pneumatic Pressure Will Decrease Momentarily
-- 2) Check boots visually, where possible, for inflation and hold down:
-- 3) Infiation time is 6 seconds for wings; followed by seconds for horizontal stabilizer.
-- d\_ Surtace Deice Switch MANUAL AND HOLD
-- 1) Pneumatic Pressure Will Decrease Momentarily
-- 2) Check boots visually, where possible, for inflation.
-- 0 Surtace Deice Switch RELEASE
-- Check boots visually, where passible for hold down
-- Condition Levers LOW IDLE
-
-![Image](KA-200-B200-POH_imagens/p00118_01.png)
-
-Do not boots during takeoff: cycle
-
-- Stall Warning and Pitot Heat CHECK
-
-![Image](KA-200-B200-POH_imagens/p00118_02.png)
-
-Prolonged use of stall warning &amp;nd pitot heat on the ground will damage the heating elements:
-
-## IN FUGHT
-
-1. Engine Protection Ice
-
-Before visible moisture is encountered at +5*C and below, Or;
-
-At night when freedom from visible moisture is not assured at +5*C and below (Operation of strobe lights will sometimes show ice crystals not normally visible):
-
-- a\_ Engine Ice Vanes BXTEND (L &amp; R ICE VANE EXT annunciators ILLUMINATED)
-- Check proper operation by noting torque drop:
-
-![Image](KA-200-B200-POH_imagens/p00118_03.png)
-
-## WARNING
-
-If in doubt, extend the vanes. Engine icing can occur even though no surface icing is present. If freedom from visible moisture can not be assured, engine ice protection should be activated. Visible moisture is moisture of any form; clouds, ice crystals, Snow, rain, sleet, hail or any combination of these. Operation of strobe lights will sometimes show ice crystals not normallly visible:
+- c. Manual Propeller Deice Switch - MOMENTARILY HOLD IN "MANUAL" POSITION (Small loadmeter deflection on both meters indicates manual system is operating).
 
 ## NOTE
 
-If either engine's ice vane does not attain the selected position within 15 seconds, the appropriate L or R ICE VANE annunciator will illuminate See ENGINE ICE VANE FAILURE in Section IIIA, ABNORMAL PROCEDURES:
+Use of current for the manual (backup) system is not registered on the propeller deice ammeter; however, it will be indicated as part of the airplane's load on the loadmeters (small needle deflection) when the system is switched on.
 
-- 2 Auto Ignition
-- Auto Ignition ARM
+- d. Automatic Propeller Deice Switch - OFF
+5. Surface Deice System - CHECK
+   a. Condition Levers - HIGH IDLE
+   b. Pneumatic Pressure - CHECK
+   c. Surface Deice Switch - SINGLE AND RELEASE
+      1) Pneumatic Pressure - Will Decrease Momentarily
+      2) Check boots visually, where possible, for inflation and hold down.
+      3) Inflation time is 6 seconds for wings, followed by 4 seconds for horizontal stabilizer.
+   d. Surface Deice Switch - MANUAL AND HOLD
+      1) Pneumatic Pressure - Will Decrease Momentarily
+      2) Check boots visually, where possible, for inflation.
+   e. Surface Deice Switch - RELEASE
+      - Check boots visually, where possible for hold down.
+   f. Condition Levers - LOW IDLE
+
+**WARNING**
+
+Do not cycle boots during takeoff.
+
+6. Stall Warning and Pitot Heat - CHECK
+
+**CAUTION**
+
+Prolonged use of stall warning and pitot heat on the ground will damage the heating elements.
+
+*IN FLIGHT*
+
+1. Engine Ice Protection
+
+*Before visible moisture is encountered at +5°C and below, or;*
+
+*At night when freedom from visible moisture is not assured at +5°C and below (Operation of strobe lights will sometimes show ice crystals not normally visible).*
+
+- a. Engine Ice Vanes - EXTEND (L & R ICE VANE EXT annunciators - ILLUMINATED)
+   b. Check proper operation by noting torque drop.
+
+**WARNING**
+
+If in doubt, extend the vanes. Engine icing can occur even though no surface icing is present. If freedom from visible moisture can not be assured, engine ice protection should be activated. Visible moisture is moisture of any form; clouds, ice crystals, snow, rain, sleet, hail or any combination of these. Operation of strobe lights will sometimes show ice crystals not normally visible.
 
 ## NOTE
 
-To prevent prolonged operation of the ignitors with the system ARMED , do not reduce power levers below 500 ft-Ibs torque.
+If either engine's ice vane does not attain the selected position within 15 seconds, the appropriate L or R ICE VANE annunciator will illuminate. See ENGINE ICE VANE FAILURE in Section IIIA, ABNORMAL PROCEDURES.
 
-- 3\_ Electrothermal Propeller Deice
-- a: Automatic Prop Deice AUTO (The system may be operated continuously in flight, and will function automatically until the switch is turned off )
-- b Relieve propeller imbalance due to ice by increasing rpm briefly and returning to the desired setRepeat as necessary: ting:
+2. Auto Ignition
+   - Auto Ignition - ARM
 
-![Image](KA-200-B200-POH_imagens/p00119_01.png)
+## NOTE
+
+Auto Ignition must be ARMED for icing flight, precipitation, and operation during turbulence. To prevent prolonged operation of the ignitors with the system ARMED, do not reduce power levers below 500 ft-lbs torque.
+
+3. Electrothermal Propeller Deice
+   a. Automatic Prop Deice - AUTO (The system may be operated continuously in flight, and will function automatically until the switch is turned off.)
+   b. Relieve propeller imbalance due to ice by increasing rpm briefly and returning to the desired setting. Repeat as necessary.
+
+**CAUTION**
 
 If the deice ammeter does not indicate 14 to 18 amperes, or the automatic timer fails to switch, refer to Section IIIA, ABNORMAL PROCEDURES.
 
-4. Surtace Deice
+4. Surface Deice
 
-![Image](KA-200-B200-POH_imagens/p00119_02.png)
+**WARNING**
 
-All components of the surtace deice system must be monitored during icing flight to ensure the system is functioning normally- These components include:
+All components of the surface deice system must be monitored during icing flight to ensure the system is functioning normally. These components include:
 
-Gyro Suction Gage. The gage should indicate in the area of the green arc corresponding to the airplane altitude. The vacuum will momentarily decrease when the boots are activated: Pneumatic Boots. Visually monitor the boots, where possible, to ensure ice is removed: being
+Pneumatic Pressure Gage. The gage should indicate 12.0 - 20.0 psi before boots are activated. The pressure will momentarily decrease when the boots are activated.
 
-Pneumatic Pressure Gage. The gage should indicate 12.0 20.0 before boots are activated. The pressure will momentarily decrease when the boots are activated psi
+Gyro Suction Gage. The gage should indicate in the area of the green arc corresponding to the airplane altitude. The vacuum will momentarily decrease when the boots are activated.
 
-![Image](KA-200-B200-POH_imagens/p00119_03.png)
+Pneumatic Boots. Visually monitor the boots, where possible, to ensure ice is being removed.
 
-Operation of the surface deice system in ambient temperatures below -40PC can cause permanent damage to the deice boots.
+**CAUTION**
 
-## NOTE
-
-Either engine will supply sufficient pneumatic pressure for deice operation:
-
-When Ice Accumulates 1/2 to inch:
-
-- a Surtace Deice Switch SINGLE AND RELEASE
-- b\_ Repeat as required.
-
-If Single Position of the Surtace Deice Switch Fails:
-
-- C Surface Deice   Switch MANUAL AND HOLD FOR A MINIMUM OF 6 SECONDS , THEN RELEASE:
-- d. Repeat as required
-5. Windshield Anti-ice NORMAUHI
+Operation of the surface deice system in ambient temperatures below -40°C can cause permanent damage to the deice boots.
 
 ## NOTE
 
-Maximum airspeed for etfective windshield anti-icing is 226 Knots.
+Either engine will supply sufficient pneumatic pressure for deice operation.
 
-- 6\_ Left and Right Fuel Vent Heat
-- 7 \_ Left and Right Pitot Heat ON
-8. Stall Warning Heat ON
-- 9\_ Ice Lights AS REQUIRED
-10. Alternate Static Air Source Refer to Section IIIA, ABNORMAL PROCEDURES.
+*When Ice Accumulates 1/2 to 1 inch:*
 
-## BEFORE LANDING
+- a. Surface Deice Switch - SINGLE AND RELEASE
+   b. Repeat as required.
 
-- Surface Deice Switch SINGLE AND RELEASE
-2. Approach Speeds (Flaps Up or Flaps Down) INCREASE IF RESIDUAL ICE REMAINS
-- 3 Landing Distances WILL INCREASE IF APPROACH SPEED IS INCREASED
+*If Single Position of the Surface Deice Switch Fails:*
+
+- c. Surface Deice Switch - MANUAL AND HOLD FOR A MINIMUM OF 6 SECONDS, THEN RELEASE.
+   d. Repeat as required.
+5. Windshield Anti-ice - NORMAL/HI
 
 ## NOTE
 
-Prior to the landing approach, cycle the wing deice boots to shed as much residual ice as be expected t0 increase if ice is not shed from the deice boots
+Maximum airspeed for effective windshield anti-icing is 226 Knots.
+
+6. Left and Right Fuel Vent Heat - ON
+7. Left and Right Pitot Heat - ON
+8. Stall Warning Heat - ON
+9. Ice Lights - AS REQUIRED
+10. Alternate Static Air Source - Refer to Section IIIA, ABNORMAL PROCEDURES.
+
+*BEFORE LANDING*
+
+1. Surface Deice Switch - SINGLE AND RELEASE
+2. Approach Speeds (Flaps Up or Flaps Down) - INCREASE IF RESIDUAL ICE REMAINS
+3. Landing Distances - WILL INCREASE IF APPROACH SPEED IS INCREASED
+
+## NOTE
+
+Prior to the landing approach, cycle the wing deice boots to shed as much residual ice as possible, regardless of the amount of ice remaining on the boots. Stall speeds can be expected to increase if ice is not shed from the deice boots.
 
 ## PRACTICE DEMONSTRATION OF VMCA
 
-used at a safe altitude of at least 5000 feet above the ground in clear air only-
+VMCA demonstration may be required for multi-engine pilot certification. The following procedure shall be used at a safe altitude of at least 5000 feet above the ground in clear air only.
 
-![Image](KA-200-B200-POH_imagens/p00120_01.png)
+**WARNING**
 
-IN-FLIGHT ENGINE CUTS BELOW VsSE SPEED OF 104 KNOTS ARE PROHIBITED.
+IN-FLIGHT ENGINE CUTS BELOW VSSE SPEED OF 104 KNOTS ARE PROHIBITED.
 
-1. Landing Gear UP
-2. Flaps UP
-3. Airspeed
-4. Propeller Levers HIGH RPM
-5. Power Lever (simulated inoperative engine) IDLE
-6. 6\_ Power Lever (other engine) MAXIMUM ALLOWABLE
-7. 7 . Airspeed Reduce approximately 1 knot per second until either or stall warning is obtained. VMCA
+1. Landing Gear - UP
+2. Flaps - UP
+3. Airspeed - ABOVE 104 KNOTS (VSSE)
+4. Propeller Levers - HIGH RPM
+5. Power Lever (simulated inoperative engine) - IDLE
+6. Power Lever (other engine) - MAXIMUM ALLOWABLE
+7. Airspeed - Reduce approximately 1 knot per second until either VMCA or stall warning is obtained.
 
-![Image](KA-200-B200-POH_imagens/p00121_01.png)
+**CAUTION**
 
-Use rudder t0 maintain directional control (heading) and aileron t0 maintain 59 bank towards the operative engine (lateral attitude)  At the first sign of either or Stall waring (which may be evidenced by: inability to maintain heading or lateral attitude, aerodynamic Stall buffet; or stall warning horn sound) immediately initiate recovery: reduce power to idle on the operative engine and immediately lower the nose to regain Vsse: VMCA
+Use rudder to maintain directional control (heading) and aileron to maintain 5° bank towards the operative engine (lateral attitude). At the first sign of either VMCA or stall warning (which may be evidenced by: inability to maintain heading or lateral attitude, aerodynamic stall buffet, or stall warning horn sound) immediately initiate recovery: reduce power to idle on the operative engine and immediately lower the nose to regain VSSE.
 
 ## PRACTICE LANDING GEAR MANUAL EXTENSION (MECHANICAL SYSTEM)
 
-On airplanes to BL-73 and BB-1193 (except BB-1158 &amp;nd BB-1167) not incorporating Beech Kit PIN prior
+On airplanes prior to BL-73 and BB-1193 (except BB-1158 and BB-1167) not incorporating Beech Kit P/N 101-8018-1
 
-- 1 Airspeed ESTABUSH 130 KNOTS
-2. Landing Gear Relay Circuit Breaker (pilots subpanel) PULL
-3. Landing Gear Contral DN
-- 4 VFT AND TURN CLOCKWISE TO THE STOP TO ENGAGE
-5. Alterate Extension Handle PUMP UP AND DOWN UNTIL THE THREE GREEN GEAR-DOWN ANNUNCIATORS ARE ILLUMINATED. ADDITIONAL PUMPING WHEN ALL THREE ANNUNCIATORS ELECTRICAL GEAR RETRACTION
+1. Airspeed - ESTABLISH 130 KNOTS
+2. Landing Gear Relay Circuit Breaker (pilot's subpanel) - PULL
+3. Landing Gear Control - DN
+4. Alternate Engage Handle - LIFT AND TURN CLOCKWISE TO THE STOP TO ENGAGE
+5. Alternate Extension Handle - PUMP UP AND DOWN UNTIL THE THREE GREEN GEAR-DOWN ANNUNCIATORS ARE ILLUMINATED. ADDITIONAL PUMPING WHEN ALL THREE ANNUNCIATORS ARE ILLUMINATED COULD DAMAGE THE DRIVE MECHANISM AND PREVENT SUBSEQUENT ELECTRICAL GEAR RETRACTION.
 
 ## LANDING GEAR RETRACTION AFTER PRACTICE MANUAL EXTENSION (MECHANICAL SYSTEM)
 
-On airplanes prior to BL-73 and BB-1193 (except BB-1158 and BB-11not incorporating Beech Kit PIN 67)
+On airplanes prior to BL-73 and BB-1193 (except BB-1158 and BB-1167) not incorporating Beech Kit P/N 101-8018-1
 
-After a practice manual extension Of the landing gear, the gear may be retracted electrically as follows:
+*After a practice manual extension of the landing gear, the gear may be retracted electrically as follows:*
 
-- Atternate Engage Handle ROTATE COUNTERCLOCKWISE AND PUSH DOWN
-2. Alternate Extension Handle STOW
-3. Landing Gear Control Circuit Breaker (pilots subpanel) PUSH IN
-- 4 Landing Gear UP
+1. Alternate Engage Handle - ROTATE COUNTERCLOCKWISE AND PUSH DOWN
+2. Alternate Extension Handle - STOW
+3. Landing Gear Control Circuit Breaker (pilot's subpanel) - PUSH IN
+4. Landing Gear - UP
 
 ## PRACTICE LANDING GEAR MANUAL EXTENSION (HYDRAULIC SYSTEM)
 
-ing Beech Kit PIN 101-8018-1
+On airplanes BB-1158, BB-1167, BB-1193 and after, BL-73 and after, and those prior airplanes incorporating Beech Kit P/N 101-8018-1
 
-- 1\_ Airspeed BELOW 181 KNOTS
-2. Landing Gear Relay Circuit Breaker (pilots subpanel) PULL
-3. Landing Gear Control DN
-- 4 Altemate Extension Handle PUMP UP AND DOWN UNTIL THE THREE GREEN GEAR-DOWN ANNUNCIATORS ARE ILLUMINATED:
-5. Alternate Extension Handle STOW
+1. Airspeed - BELOW 181 KNOTS
+2. Landing Gear Relay Circuit Breaker (pilot's subpanel) - PULL
+3. Landing Gear Control - DN
+4. Alternate Extension Handle - PUMP UP AND DOWN UNTIL THE THREE GREEN GEAR-DOWN ANNUNCIATORS ARE ILLUMINATED.
+5. Alternate Extension Handle - STOW
 
 ## LANDING GEAR RETRACTION AFTER PRACTICE MANUAL EXTENSION (HYDRAULIC SYSTEM)
 
-On airplanes BB-1158, BB-1167 , BB-1193 and after, BL-73 and after, and those prior airplanes incorporating Beech Kit PIN 101-8018-1
+On airplanes BB-1158, BB-1167, BB-1193 and after, BL-73 and after, and those prior airplanes incorporating Beech Kit P/N 101-8018-1
 
-After a practice manual extension, the gear may be hydraulically retracted as follows:
+*After a practice manual extension, the gear may be hydraulically retracted as follows:*
 
-- Alternate Extension Handle CONFIRM STOWED
-2. Landing Gear Control Circuit Breaker (pilot's subpanel) PUSH IN Relay
-3. Landing Gear UP
+1. Alternate Extension Handle - CONFIRM STOWED
+2. Landing Gear Relay Control Circuit Breaker (pilot's subpanel) - PUSH IN
+3. Landing Gear - UP
 
-- a Battery ON
-- b. With door open and mechanism in locked position, ensure CABIN DOOR annunciator is ILLUMINATED:
-- With door closed and latched, but not locked, ensure the CABIN DOOR annunciator remains ILLU MINATED:
-- d With the door closed and locked, ensure that the CABIN DOOR annunciator is EXTINGUISHED:
-- e. Battery OFF
-2. Ensure that the door is closed and locked using the following procedure:
-- a\_ Ensure that the door handle will not move out of the locked position without depressing the release button:
-- b\_ Lift the top door step and ensure that the red safety arm is around the plunger:
-- Ensure that the green index mark on each of the 4 locking bolts aligns with the black pointer in the observation port:
+## SIMULATING ONE-ENGINE-INOPERATIVE (ZERO THRUST)
 
-## CABINICARGO DOOR ANNUNCIATOR CIRCUITRY CHECK (B200C)
+When establishing zero thrust operation, use the power setting listed below. By using this power setting to establish zero thrust, one avoids the inherent delays of restarting a shut-down engine and preserves almost instant power to counter any attendant hazard.
 
-The following test checks both the cargo door and cabin door annunciator circuity and shall be performed prior to the frst flight of the day:
+1. Propeller - 1600 RPM
+2. Power Lever - SET 120 ft-lbs torque
 
 ## NOTE
 
-This setting will approximate Zero Thrust at low altitudes using recommended One-EngineInoperative Climb speeds:
+This setting will approximate Zero Thrust at low altitudes using recommended One-Engine-Inoperative Climb speeds.
 
 ## NOISE CHARACTERISTICS
 
-Approach to and departure from an airport should be made so as to avoid prolonged flight at low altitude near noise-sensitive areas Avoidance of noise-sensitive areas, if practical, is preferable to overflight at relatively low altitudes:
+Approach to and departure from an airport should be made so as to avoid prolonged flight at low altitude near noise-sensitive areas. Avoidance of noise-sensitive areas, if practical, is preferable to overflight at relatively low altitudes.
 
-sensitive areas, pilots should make every etiort to fily not less than 2000 feet above the surface, weather permitting; even though flight at lower level may be consistent with the provisions of govemment regulations
+For VFR operations over outdoor assemblies of persons, recreational and park areas, and other noise-sensitive areas, pilot's should make every effort to fly not less than 2000 feet above the surface, weather permitting, even though flight at lower level may be consistent with the provisions of government regulations.
 
 ## NOTE
 
-The preceding recommended procedures do not apply where would conflict with Air Tratfic Control clearances or instructions, or where; in tne pilots judgement, an altitude less than 2000 feet is necessary to adequately exercise his they
+The preceding recommended procedures do not apply where they would conflict with Air Traffic Control clearances or instructions, or where, in the pilot's judgement, an altitude less than 2000 feet is necessary to adequately exercise his duty to see and avoid other airplanes.
 
 The flyover noise level established in compliance with FAR 36 is:
 
-79.2 dB(A) for Hartzell 3-blade propellers:
+- 79.2 dB(A) for Hartzell 3-blade propellers.
+- 75.4 dB(A) for McCauley 3-blade propellers.
 
-75.4 dB(A) for McCauley 3-blade propellers.
+No determination has been made by the Federal Aviation Administration that the noise level of this airplane is or should be acceptable or unacceptable for operation at, into, or out of any airport.
 
-No detemmination has been made by the Federal Aviation Administration that the noise Ievel of this airplane
+## CABIN DOOR ANNUNCIATOR CIRCUITRY CHECK (B200)
 
-## CABIN DOOR ANNUNCIATOR CirCUnRY CHECK (B200)
+The following test shall be performed prior to the first flight of the day.
 
-The following test shall be performed prior to the first iight of the day:
+1. Perform the following annunciator circuitry check:
+   a. Battery - ON
+   b. With door open and mechanism in locked position, ensure CABIN DOOR annunciator is ILLUMINATED.
+   c. With door closed and latched, but not locked, ensure the CABIN DOOR annunciator remains ILLUMINATED.
+   d. With the door closed and locked, ensure that the CABIN DOOR annunciator is EXTINGUISHED.
+   e. Battery - OFF
+2. Ensure that the door is closed and locked using the following procedure:
+   a. Ensure that the door handle will not move out of the locked position without depressing the release button.
+   b. Lift the top door step and ensure that the red safety arm is around the plunger.
+   c. Ensure that the green index mark on each of the 4 locking bolts aligns with the black pointer in the observation port.
 
-- 1.
+## CABIN/CARGO DOOR ANNUNCIATOR CIRCUITRY CHECK (B200C)
 
-![Image](KA-200-B200-POH_imagens/p00122_01.png)
+The following test checks both the cargo door and cabin door annunciator circuitry and shall be performed prior to the first flight of the day.
 
-When establishing zero thrust operation; use the power setting listed below. By using this power setting to establish zero thrust, one avoids the inherent delays of restarting a shut-down engine and preserves almost instant power to counter any attendant hazard:
+1. Perform the following annunciator circuitry check:
+   a. Battery - OFF
+   b. Cargo Door - CLOSED AND LOCKED
+   c. With the cabin door closed, but not locked, ensure that the CABIN DOOR annunciator is ILLUMINATED.
+   d. With the cabin door open, ensure that the CABIN DOOR annunciator is EXTINGUISHED.
+   e. Battery - ON
+   f. With the cabin door open, ensure that the CABIN DOOR annunciator is ILLUMINATED.
+   g. With the cabin door closed and locked, ensure that the CABIN DOOR annunciator is EXTINGUISHED.
+   h. Battery - OFF
+2. Ensure the cargo door is closed and locked using the following procedure:
+   a. Check upper handle position - CLOSED AND LOCKED (Open access panel on upper left side of door and attempt to open cargo door latches without releasing safety lock.)
+   b. Ensure that the orange index mark on each of the four rotary cam locks aligns with the notch in the plate on the door frame.
+   c. Check lower pin lock handle position - CLOSED AND LOCKED (Open access panel on lower forward area of door and attempt to rotate the handle without lifting the orange lock hook.)
+   d. Ensure that the orange stripe on the latch pin linkage is aligned with the orange pointer. (Observe through window at lower aft corner.)
+3. Ensure the cabin door is closed and locked using the following procedure:
+   a. Ensure that the door handle will not move out of the locked position without depressing the release button.
+   b. Lift the door step and ensure that the red safety arm is around the plunger.
+   c. Ensure that the orange index mark on each of the six rotary cam locks aligns with the notch in the plate on the door frame.
 
-- 1 Propeller 1600 RPM
-- 2 Power Lever SET 120 it-Ibs torque
+*(4-30: THIS PAGE INTENTIONALLY LEFT BLANK)*
 
-![Image](KA-200-B200-POH_imagens/p00123_01.png)
+## SECTION V — PERFORMANCE TABLE OF CONTENTS
 
-- 1 Perform the following annunciator circuity check:
-- a Battery OFF
-- b. Cargo Door CLOSED AND LOCKED
-- C\_ With the cabin door closed, but not locked, ensure that the CABIN DOOR annunciator is ILLUMINATED:
-- d. With the cabin door open, ensure that the CABIN DOOR annunciator is BXTINGUISHED.
-- e. Battery ON
-- f With the cabin door open, ensure that the CABIN DOOR annunciator is ILLUMINATED.
-- g: With the cabin door closed and locked, ensure that the CABIN DOOR annunciator is EXTINGUISHED:
-- h: Battery OFF
-- 2 Ensure the cargo door is closed &amp;nd locked using the following procedure:
-- Check upper handle position CLOSED AND LOCKED (Open access panel on upper left side of door and attempt t0 open cargo door latches without releasing safety lock:)
-- Ensure that the orange index mark on each of the four rotary cam locks aligns with the notch in the
-- Check lower pin lock handle position CLOSED AND LOCKED (Open access panel on lower for-
-- Ensure that the orange stripe on the latch pin linkage is aligned with the orange pointer: (Observe
-- 3 Ensure the cabin door is closed and locked using the following procedure:
-- a Ensure that the door handle will not move out of tha locked position without depressing the release button
-- b
-- C. Ensure that the orange index mark on each of the six rotary cam locks aligns wth the notch in the plate on the door frame.
+| SUBJECT | PAGE |
+|---|---|
+| **Introduction To Performance and Flight Planning** | 5-5 |
+| **Comments Pertinent To The Use Of Performance Graphs** | 5-12 |
+| **GRAPHS:** | |
+| Airspeed Calibration - Normal System - Take-off Ground Roll | 5-13 |
+| Airspeed Calibration - Normal System | 5-14 |
+| Altimeter Correction - Normal System | 5-15 |
+| Airspeed Calibration - Alternate System | 5-16 |
+| Altimeter Correction - Alternate System | 5-17 |
+| Indicated Outside Air Temperature Correction - ISA | 5-18 |
+| ISA Conversion | 5-19 |
+| Fahrenheit to Celsius Temperature Conversion | 5-20 |
+| Stall Speeds - Power Idle | 5-21 |
+| Cabin Altitude For Various Airplane Altitudes | 5-22 |
+| Maximum Take-off Weight Permitted by Enroute Climb Requirement | 5-23 |
+| Take-off Weight to Achieve Positive One-Engine-Inoperative Climb at Lift-off - Flaps UP | 5-24 |
+| Take-off Weight to Achieve Positive One-Engine-Inoperative Climb at Lift-off - Flaps APPROACH | 5-25 |
+| Maximum Enroute Weight (FAR Part 135 Operations) | 5-26 |
+| Weight - Flaps UP - To Meet FAR 25 Take-off Climb Requirement | 5-27 |
+| Weight - Flaps APPROACH - To Meet FAR 25 Take-off Climb Requirement | 5-28 |
+| Minimum Take-off Power at 2000 RPM With Ice Vanes Retracted (65 Knots) | 5-29 |
+| Minimum Take-off Power With Ice Vanes Extended (65 Knots) | 5-30 |
+| Flight Path | 5-31 |
+| Wind Components | 5-32 |
+| Take-off Distance - Flaps UP | 5-33 |
+| Accelerate-Stop - Flaps UP | 5-34 |
+| Accelerate-Go - Flaps UP | 5-35 |
+| Net Gradient of Climb - Flaps UP | 5-36 |
+| Take-off Distance - Flaps APPROACH | 5-37 |
+| Accelerate-Stop - Flaps APPROACH | 5-38 |
+| Accelerate-Go - Flaps APPROACH | 5-39 |
+| Net Gradient of Climb - Flaps APPROACH | 5-40 |
+| Climb - Two Engines - Flaps UP | 5-41 |
+| Climb - Two Engines - Flaps APPROACH | 5-42 |
+| Climb - One Engine Inoperative | 5-43 |
+| Service Ceiling - One Engine Inoperative | 5-44 |
+| Time, Fuel, and Distance to Climb | 5-45 |
+| **TABLES:** | |
+| Normal Cruise Power at 1700 RPM - ISA -30°C | 5-46 |
+| Normal Cruise Power at 1700 RPM - ISA -20°C | 5-47 |
+| Normal Cruise Power at 1700 RPM - ISA -10°C | 5-48 |
+| Normal Cruise Power at 1700 RPM - ISA | 5-49 |
+| Normal Cruise Power at 1700 RPM - ISA +10°C | 5-50 |
+| Normal Cruise Power at 1700 RPM - ISA +20°C | 5-51 |
+| Normal Cruise Power at 1700 RPM - ISA +30°C | 5-52 |
+| Normal Cruise Power at 1700 RPM - ISA +37°C | 5-53 |
+| **GRAPHS:** | |
+| Normal Cruise Speeds at 1700 RPM | 5-54 |
+| Normal Cruise Power at 1700 RPM | 5-55 |
+| Fuel Flow at Normal Cruise Power at 1700 RPM | 5-56 |
+| Range Profile - Normal Cruise Power at 1700 RPM | 5-57 |
+| **TABLES:** | |
+| Maximum Cruise Power at 1700 RPM - ISA -30°C | 5-58 |
+| Maximum Cruise Power at 1700 RPM - ISA -20°C | 5-59 |
+| Maximum Cruise Power at 1700 RPM - ISA -10°C | 5-60 |
+| Maximum Cruise Power at 1700 RPM - ISA | 5-61 |
+| Maximum Cruise Power at 1700 RPM - ISA +10°C | 5-62 |
+| Maximum Cruise Power at 1700 RPM - ISA +20°C | 5-63 |
 
-## THIS PAGE INTENTIONALLY LEFT BLANK
+## SECTION V — PERFORMANCE TABLE OF CONTENTS (Continued)
 
-![Image](KA-200-B200-POH_imagens/p00124_01.png)
+| SUBJECT | PAGE |
+|---|---|
+| Maximum Cruise Power at 1700 RPM - ISA +30°C | 5-64 |
+| Maximum Cruise Power at 1700 RPM - ISA +37°C | 5-65 |
+| **GRAPHS:** | |
+| Maximum Cruise Speeds at 1700 RPM | 5-66 |
+| Maximum Cruise Power at 1700 RPM | 5-67 |
+| Fuel Flow at Maximum Cruise Power at 1700 RPM | 5-68 |
+| Range Profile - Maximum Cruise Power at 1700 RPM | 5-69 |
+| **TABLES:** | |
+| Normal Cruise Power at 1800 RPM - ISA -30°C | 5-70 |
+| Normal Cruise Power at 1800 RPM - ISA -20°C | 5-71 |
+| Normal Cruise Power at 1800 RPM - ISA -10°C | 5-60 *(as printed)* |
+| Normal Cruise Power at 1800 RPM - ISA | 5-73 |
+| Normal Cruise Power at 1800 RPM - ISA +10°C | 5-74 |
+| Normal Cruise Power at 1800 RPM - ISA +20°C | 5-75 |
+| Normal Cruise Power at 1800 RPM - ISA +30°C | 5-76 |
+| Normal Cruise Power at 1800 RPM - ISA +37°C | 5-77 |
+| **GRAPHS:** | |
+| Normal Cruise Speeds at 1800 RPM | 5-78 |
+| Normal Cruise Power at 1800 RPM | 5-79 |
+| Fuel Flow at Normal Cruise Power at 1800 RPM | 5-80 |
+| Range Profile - Normal Cruise Power at 1800 RPM | 5-81 |
+| **TABLES:** | |
+| Maximum Cruise Power at 1800 RPM - ISA -30°C | 5-82 |
+| Maximum Cruise Power at 1800 RPM - ISA -20°C | 5-83 |
+| Maximum Cruise Power at 1800 RPM - ISA -10°C | 5-84 |
+| Maximum Cruise Power at 1800 RPM - ISA | 5-85 |
+| Maximum Cruise Power at 1800 RPM - ISA +10°C | 5-86 |
+| Maximum Cruise Power at 1800 RPM - ISA +20°C | 5-87 |
+| Maximum Cruise Power at 1800 RPM - ISA +30°C | 5-88 |
+| Maximum Cruise Power at 1800 RPM - ISA +37°C | 5-89 |
+| **GRAPHS:** | |
+| Maximum Cruise Speeds at 1800 RPM | 5-90 |
+| Maximum Cruise Power at 1800 RPM | 5-91 |
+| Fuel Flow at Maximum Cruise Power at 1800 RPM | 5-92 |
+| Range Profile - Maximum Cruise Power at 1800 RPM | 5-93 |
+| **TABLES:** | |
+| Maximum Range Power at 1700 RPM - ISA -30°C | 5-94 |
+| Maximum Range Power at 1700 RPM - ISA -20°C | 5-95 |
+| Maximum Range Power at 1700 RPM - ISA -10°C | 5-96 |
+| Maximum Range Power at 1700 RPM - ISA | 5-97 |
+| Maximum Range Power at 1700 RPM - ISA +10°C | 5-98 |
+| Maximum Range Power at 1700 RPM - ISA +20°C | 5-99 |
+| Maximum Range Power at 1700 RPM - ISA +30°C | 5-100 |
+| Maximum Range Power at 1700 RPM - ISA +37°C | 5-101 |
+| **GRAPHS:** | |
+| Range Profile - Maximum Range Power at 1700 RPM | 5-102 |
+| Range Profile - Full Main and Full Aux Tanks | 5-103 |
+| Endurance Profile - Full Main and Full Aux Tanks | 5-104 |
+| Range Profile - Full Main Tanks | 5-105 |
+| Endurance Profile - Full Main Tanks | 5-106 |
+| **TABLES:** | |
+| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA -30°C | 5-108 |
+| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA -20°C | 5-109 |
+| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA -10°C | 5-110 |
+| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA | 5-111 |
+| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA +10°C | 5-112 |
 
-![Image](KA-200-B200-POH_imagens/p00125_01.png)
+## SECTION V — PERFORMANCE TABLE OF CONTENTS (Continued)
 
-SUBJECT
+| SUBJECT | PAGE |
+|---|---|
+| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA +20°C | 5-113 |
+| One-Engine-Inoperative Maximum Range Power at 1900 RPM - ISA +30°C | 5-114 |
+| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA +37°C | 5-115 |
+| **GRAPHS:** | |
+| Pressurization Controller Setting for Landing | 5-116 |
+| Holding Time | 5-117 |
+| Time, Fuel, and Distance to Descend | 5-118 |
+| Climb - Balked Landing | 5-105 *(as printed)* |
+| Normal Landing Distance Without Propeller Reversing - Flaps DOWN | 5-120 |
+| Normal Landing Distance Without Propeller Reversing - Flaps DOWN | 5-120 *(as printed; second entry as in the original)* |
+| Landing Distance Without Propeller Reversing - Flaps UP | 5-121 |
+| Landing Distance With Propeller Reversing - Flaps DOWN | 5-122 |
+| Landing Distance With Propeller Reversing - Flaps UP | 5-123 |
 
-PAGE
-
-| Introduction To Performance and Flight Planning .                                                                                                                                                                                                                                                                                 | 5-5       |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| GRAPHS:                                                                                                                                                                                                                                                                                                                           |           |
-| Airspeed Calibration - Normal System - Take-off Ground Roll .                                                                                                                                                                                                                                                                     | 5-13      |
-| Airspeed Calibration - Normal System                                                                                                                                                                                                                                                                                              | 5-14      |
-| Altimeter Correction - Normal System                                                                                                                                                                                                                                                                                              | 5-15      |
-| Airspeed Calibration - Alternate System                                                                                                                                                                                                                                                                                           | 5-16      |
-| Altimeter Correction • Altemate System                                                                                                                                                                                                                                                                                            | 5-17      |
-| Indicated Outside Air Temperature Correction - ISA .........................•..•......................................................................                                                                                                                                                                            |           |
-| Indicated Outside Air Temperature Correction - ISA .........................•..•......................................................................                                                                                                                                                                            | 5-18      |
-| Fahrenheit to Celsius Temperature Conversion .....•.....•.......................................•......................................................                                                                                                                                                                           | 5-20      |
-| Stall Speeds - Power Idle .•..•.......................•..........•.............................•............•.........................................................                                                                                                                                                            | 5-21      |
-| Cabin Altitude For Various Airplane Altitudes ........................•.....•.................•..•.........•................................................                                                                                                                                                                      | 5-22      |
-| Maximum Take-off Weight Permitted by Enroute Climb Requirement ....:..................................•................................                                                                                                                                                                                           | 5-23      |
-| Take-off Weight to Achieve Positive One-Engine-Inoperative Climb at L!ft-off - Flaps UP                                                                                                                                                                                                                                           | 5-24      |
-| Take-off Weight to Achieve Positive One-Engine-Inoperative Climb at Lift-off - Aaps APPROACH                                                                                                                                                                                                                                      | 5-25      |
-| Maximum Enroute Weight (FAR Part 135 Operations) .....•..................•...........•...•......................................................                                                                                                                                                                                  | 5-26      |
-| Weight - Flaps UP - To Meet FAR 25 Take-off Climb Requirement .                                                                                                                                                                                                                                                                   | 5-27      |
-| Weight - Flaps APPROACH - To Meet FAA 25Take-off Climb Requirement                                                                                                                                                                                                                                                                | 5-28      |
-| Minimum Take-off Power at 2000 RPM With ice Vanes Retracted (65 Knots) .                                                                                                                                                                                                                                                          | 5-29      |
-| Minimum Take-off Power With Ice Vanes Extended (65 Knots) ......................•..........................................................                                                                                                                                                                                       | 5-30      |
-|                                                                                                                                                                                                                                                                                                                                   | 5-31 5-32 |
-|                                                                                                                                                                                                                                                                                                                                   | 5-32 5-33 |
-|                                                                                                                                                                                                                                                                                                                                   | 5-33      |
-| Accelerate-Go - Flaps UP .••..••...................•............................•....•.....•.......•......•.................•........................................                                                                                                                                                             | 5-34      |
-| Net Gradient of Climb - Flaps UP ................................................................•.............•.................................................                                                                                                                                                                 | 5-36      |
-| Net Gradient of Climb - Flaps UP ................................................................•.............•................................................. Take-off Distance - Aaps APPROACH ...............................................•.......................................................................       | 5-37      |
-| Take-off Distance - Aaps APPROACH ...............................................•.......................................................................                                                                                                                                                                         | 5-38      |
-| Accelerate-Go - Flaps APPROACH ........•.......................................................••...........................................................                                                                                                                                                                      | 5-39      |
-| Accelerate-Go - Flaps APPROACH ........•.......................................................••........................................................... Net Gradient of Climb - Flaps APPROACH                                                                                                                               | 5-40      |
-| Climb - Two Engines - Flaps UP Climb - Two Engines - Flaps APPROACH                                                                                                                                                                                                                                                               | 5-41      |
-| Climb - Two Engines - Flaps UP Climb - Two Engines - Flaps APPROACH                                                                                                                                                                                                                                                               | 5-41 5-42 |
-| Climb - Two Engines - Flaps APPROACH Climb - One Engine Inoperative .................................................•.................................................................................                                                                                                                           | 5-42 5-43 |
-| Climb - One Engine Inoperative .................................................•................................................................................. Service Ceiling - One Engine Inoperative ...........................................................•......................................................... | 5-43 5-44 |
-| Time, Fuel, and Distance to Climb ...................................................................•..........................................................                                                                                                                                                                  | 5-44 5-45 |
-| TABLES:                                                                                                                                                                                                                                                                                                                           |           |
-|                                                                                                                                                                                                                                                                                                                                   | 5-46      |
-| Normal Cruise Power at 1700 RPM - ISA -20°C                                                                                                                                                                                                                                                                                       | 5-47      |
-| Normal Cruise Power at 1700 RPM - ISA -10°C                                                                                                                                                                                                                                                                                       | 5-48      |
-| Normal Cruise Power at 1700 RPM - ISA                                                                                                                                                                                                                                                                                             | 5-49      |
-| Normal Cruise Power at 1700 RPM - ISA +1O°C..............................................•..........................................................                                                                                                                                                                              | 5-50      |
-| Normal Cruise Power at 1700 RPM - ISA +20°C                                                                                                                                                                                                                                                                                       | 5-51      |
-| Normal Cruise Power at 1700 RPM - ISA +30°C...................•................................•...................•................................                                                                                                                                                                              | 5-53      |
-| GRAPHS:                                                                                                                                                                                                                                                                                                                           |           |
-| Normal Cruise Speeds at 1700 RPM ......•...........•....................•..........•..........•...................................•........................                                                                                                                                                                       | 5-54      |
-| Normal Cruise Power at 1700 RPM ....•...............................................•.......................................................................                                                                                                                                                                      | 5-55      |
-| Fuel Row at Normal Cruise Power at 1700 RPM                                                                                                                                                                                                                                                                                       | 5-56      |
-| Range Profile - Normal Cruise Power at 1700 RPM                                                                                                                                                                                                                                                                                   | 5-57      |
-| TABLES:                                                                                                                                                                                                                                                                                                                           |           |
-| Maximum Cruise Power at 1700 RPM .. ISA -30°C                                                                                                                                                                                                                                                                                     | 5-58      |
-| Maximum Cruise Power at 1700 RPM - ISA -20°C                                                                                                                                                                                                                                                                                      | 5..59     |
-| Maximum Cruise Power at 1700 RPM .. ISA -10°C                                                                                                                                                                                                                                                                                     | 5-60      |
-|                                                                                                                                                                                                                                                                                                                                   | 5-61      |
-| Maximum Cruise Power at 1700 RPM - ISA +20°C                                                                                                                                                                                                                                                                                      | 5-63      |
-
-## SECTION V PERFORMANCE TABLE OF CONTENTS
-
-## SECTION V PERFORMANCE
-
-## TABLE OF CONTENTS (Continued)
-
-| SUBJECT                                                                                                                                                   | PAGE   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-|                                                                                                                                                           |        |
-| Maximum Cruise Power at 1700 RPM - ISA +30°C .                                                                                                            | 5-64   |
-| Maximum Cruise Power at 1700-RPM - ISA +37°C .                                                                                                            | 5-65   |
-| GRAPHS:                                                                                                                                                   |        |
-| Maximum Cruise Speeds at 1700 RPM ..                                                                                                                      | 5-66   |
-| Maximum Cruise Power at 1700 RPM ...............................................................................................•........................ | 5-67   |
-| Fuel Flow at Maximum Cruise Power at 1700 RPM                                                                                                             | 5-68   |
-| Range Profile - Maximum Cruise Power at 1700 RPM ..00 ..                                                                                                  | 5-69   |
-| TABLES:                                                                                                                                                   |        |
-| Normal Cruise Power at 1800 RPM - ISA -30°C                                                                                                               | 5-70   |
-| Normal Cruise Power at 1800 RPM -ISA -20°C                                                                                                                | 5-71   |
-| Normal Cruise Power at 1800 RPM - ISA -10°C                                                                                                               | 5-60   |
-| Normal Cruise Power at 1800 RPM - ISA                                                                                                                     | 5-73   |
-| Normal Cruise Power at 1800 RPM - ISA +1O°C                                                                                                               | 5-74   |
-| Normal Cruise Power at 1800 RPM - ISA +20°C                                                                                                               | 5-75   |
-| Normal Cruise Power at 1800 RPM -ISA +30°C                                                                                                                | 5-76   |
-| Normal Cruise Power at 1800 RPM -ISA +30°C                                                                                                                | 5-n    |
-| Normal Cruise Power at 1800 RPM - ISA +37°C .                                                                                                             | 5-n    |
-| GRAPHS:                                                                                                                                                   |        |
-| Normal Cruise Speeds at 1800 RPM                                                                                                                          | 5-78   |
-| Normal Cruise Power at 1800 RPM                                                                                                                           | 5-79   |
-| Fuel Flow at Normal Cruise Power at 1800 RPM .                                                                                                            | 5-80   |
-| Range Profile - Normal Cruise Power at 1800 RPM                                                                                                           | 5-81   |
-| TABLES:                                                                                                                                                   |        |
-| Maximum Cruise Power at 1800 RPM - ISA -30°C                                                                                                              | 5-82   |
-| Maximum Cruise Power at 1800 RPM - ISA -20°C                                                                                                              | 5-83   |
-| Maximum Cruise Power at 1800 RPM - ISA -10°C                                                                                                              | 5:'84  |
-| Maximum Cruise Power at 1800 RPM - ISA                                                                                                                    | 5-85   |
-| Maximum Cruise Power at 1800 RPM - ISA +10°C                                                                                                              | 5-86   |
-| Maximum Cruise Power at 1800 RPM - ISA +20°C...........................................................................•................•........         | 5-87   |
-| Maximum Cruise Power at 1800 RPM - ISA +30°C                                                                                                              | 5-88   |
-| Maximum Cruise Power at 1800 RPM - ISA +37°C                                                                                                              | 5-89   |
-| GRAPHS:                                                                                                                                                   |        |
-| Maximum Cruise Speeds at 1800 RPM                                                                                                                         | 5-90   |
-| Maximum Cruise Power at 1800 RPM ......................•................                                                                                  | 5-91   |
-| Fuel Flow at Maximum Cruise Power at 1800 RPM ..                                                                                                          | 5-92   |
-| Range Profile - Maximum Cruise Power at 1800 RPM                                                                                                          | 5-93   |
-| TABLES:                                                                                                                                                   |        |
-| Maximum Range Power at 1700 RPM - ISA -30°C                                                                                                               |        |
-| Maximum Range Power at 1700 RPM - ISA -20°C                                                                                                               | 5-95   |
-| Maximum Range Power at 1700 RPM - ISA -10°C                                                                                                               | 5-96   |
-| Maximum Range Power at 1700 RPM - ISA                                                                                                                     | 5-97   |
-| Maximum Range Power at 1700 RPM - ISA +10°C..................................................................................................... 5-98     |        |
-| Maximum Range Power at 1700 RPM - ISA +20°C..................................................................................................... 5-99     |        |
-| Maximum Range Power at 1700 RPM - ISA +30°C..................................................................................................... 5-100    |        |
-| Maximum Range Power at 1700 RPM - ISA +37°C                                                                                                               |        |
-| GRAPHS:                                                                                                                                                   |        |
-| Range Profile - Maximum Range Power at 1700 RPM .                                                                                                         | 5-102  |
-| Range Profile - Full Main and Full Aux Tanks                                                                                                              | 5-103  |
-| Endurance Profile - Full Main and Full Aux Tanks                                                                                                          | 5-104  |
-| Range Profile - Full Main Tanks                                                                                                                           | 5-105  |
-| Endurance Profile - Full Main Tanks                                                                                                                       | 5-106  |
-| TABLES:                                                                                                                                                   |        |
-| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA -30°C                                                                                       | 5-108  |
-| One-Engine-Inoperative-Maximum Cruise Power at 1900 RPM - ISA -20°C                                                                                       | 5-109  |
-| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA -1O°C                                                                                       | 5-110  |
-| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA . One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA +1O°C                       | 5-112  |
-
-![Image](KA-200-B200-POH_imagens/p00126_01.png)
-
-SUBJECT
-
-PAGE
-
-| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA +20°C .   | 5-113   |
-|-------------------------------------------------------------------------|---------|
-| One-Engine-Inoperative Maximum Range Power at 1900 RPM - ISA +30°C      | 5-114   |
-| One-Engine-Inoperative Maximum Cruise Power at 1900 RPM - ISA +37°C .   | 5-115   |
-| GRAPHS:                                                                 |         |
-| Pressurization Controller Setting for Landing                           | 5-116   |
-| Holding Time                                                            | 5-117   |
-| Time, Fuel, and Distance to Descend                                     | 5-118   |
-| Climb - Balked Landing                                                  | 5-105   |
-| Normal Landing Distance Without Propeller Reversing - Flaps DOWN        | 5-120   |
-| Normal Landing Distance Without Propeller Reversing - Flaps DOWN        | 5-120   |
-| Landing Distance Without Propeller Reversing - Flaps UP                 | 5-121   |
-| Landing Distance With Propeller Reversing - Flaps DOWN                  | 5-122   |
-| Landing Distance With Propeller Reversing - Flaps UP                    | 5-123   |
-
-## SECTION V PERFORMANCE TABLE OF CONTENTS(Continued)
-
-## THIS PAGE INTENTIONALLY LEFT BLANK
-
-![Image](KA-200-B200-POH_imagens/p00128_01.png)
+*(5-4: THIS PAGE INTENTIONALLY LEFT BLANK)*
 
 ## INTRODUCTION TO PERFORMANCE AND FLIGHT PLANNING
 
-The graphs and tables in this Section present performance information for takeott, climb, landing, and flight information is included within this Section. Examples have been presented on all performance graphs.
+The graphs and tables in this Section present performance information for takeoff, climb, landing, and flight planning at various parameters of weight, power, altitude, and temperature. All FAA-approved performance information is included within this Section. Examples have been presented on all performance graphs.
 
-The following example presents calculations for flight time, block speed, and fuel required for a proposed flight from Denver to Reno the conditions listed below: using
+The following example presents calculations for flight time, block speed, and fuel required for a proposed flight from Denver to Reno using the conditions listed below:
 
 ## CONDITIONS
 
 At Stapleton International (DEN):
 
-| Outside Air Temperature 28°C (82°F)   |
-|---------------------------------------|
-| Field Elevation - 5333 feet1          |
-| Altimeter Setting 29.82 in. Hg        |
-| Wind 330° at 10 knots                 |
-| Runway 35L Length 11,500 feet1        |
+- Outside Air Temperature ................ 28°C (82°F)
+- Field Elevation ................ 5333 feet¹
+- Altimeter Setting ................ 29.82 in. Hg
+- Wind ................ 330° at 10 knots
+- Runway 35L Length ................ 11,500 feet¹
 
-Source: Jeppesen Approach Chart; July 11-80
+¹ Source: Jeppesen Approach Chart, July 11-80
 
-Route of Tripz:
+Route of Trip²:
 
-DEN J116 EKR J173 SLC J154 BAM J32 RNO
+DEN - J116 - EKR - J173 - SLC - J154 - BAM - J32 - RNO
 
-Route Segment Data:2
+Route Segment Data:²
 
-|                 |       |      |   NM | DIR/KNOTS   |     |   °C |   IN. HG |
-|-----------------|-------|------|------|-------------|-----|------|----------|
-| DEN - EKR 265 0 |       | 13°E | 1434 | 350°/40     | -10 |   -6 |    29.82 |
-| EKR - SLC 270 0 |       | 15°E |  192 | 350°/40     | -10 |   -7 |    29.82 |
-| SLC - BVL       | 249 0 | 16°E |   81 | 340°/35     | -20 |    0 |    29.75 |
-| BVL - BAM 250 0 |       | 16°E |  145 | 340°/35     | -20 |    0 |    29.75 |
-| BAM - RNO 227 0 |       | 17 0 | 1464 | 290°/45     | -20 |   -4 |    29.60 |
+| ROUTE SEGMENT | MAGNETIC COURSE | MAGNETIC VARIATION | DISTANCE NM | WIND AT FL 260 DIR/KNOTS | OAT AT FL 260 °C | OAT AT 18,000 FT³ °C | ALTIMETER SETTING IN. HG |
+|---|---|---|---|---|---|---|---|
+| DEN - EKR | 265° | 13°E | 143⁴ | 350°/40 | -10 | -6 | 29.82 |
+| EKR - SLC | 270° | 15°E | 192 | 350°/40 | -10 | -7 | 29.82 |
+| SLC - BVL | 249° | 16°E | 81 | 340°/35 | -20 | 0 | 29.75 |
+| BVL - BAM | 250° | 16°E | 145 | 340°/35 | -20 | 0 | 29.75 |
+| BAM - RNO | 227° | 17°E | 146⁴ | 290°/45 | -20 | -4 | 29.60 |
 
-2Source: Jeppesen High Altitude Enroute Chart US (HI) 2, Oct 24-80.
+²Source: Jeppesen High Altitude Enroute Chart US (HI) 2, Oct 24-80.
 
-illustrate the MEA requirement; the floor of the Jet Airways (18,000 ft MSL) was used in this example. 3To
+³To illustrate the MEA requirement, the floor of the Jet Airways (18,000 ft MSL) was used in this example.
 
-4Includes distance between airport and VORTAC , per Jeppesen Airport Directory, 1978. At Cannon International (RNO):
+⁴Includes distance between airport and VORTAC, per Jeppesen Airport Directory, 1978.
 
-| Outside Air Temperature 32°C (90°F)   |
-|---------------------------------------|
-| Field Elevation 4412 feetS            |
-| Altimeter Setting 29.60 in. Hg        |
-| Wind 270° at 5 knots                  |
-| Runway 25 Length 6101 feetS           |
+At Cannon International (RNO):
 
-To determine the pressure altitude at origin and destination airports, add 1000 feet to field elevation for each 1.00 in. Hg that the reported altimeter setting value is below 29.92 in. Hg, and subtract 1000 feet for each 1.00 in. Hg above 29.92 in. Hg: First, find the difference between 29.92 in. Hg and the reported altimeter setThen multiply the answer by 1000 to find the difference in feet between field elevation and pressure altitude: ting:
+- Outside Air Temperature ................ 32°C (90°F)
+- Field Elevation ................ 4412 feet⁵
+- Altimeter Setting ................ 29.60 in. Hg
+- Wind ................ 270° at 5 knots
+- Runway 25 Length ................ 6101 feet⁵
+
+⁵ Jeppesen Approach Chart, May 30-80.
+
+To determine the pressure altitude at origin and destination airports, add 1000 feet to field elevation for each 1.00 in. Hg that the reported altimeter setting value is below 29.92 in. Hg, and subtract 1000 feet for each 1.00 in. Hg above 29.92 in. Hg. First, find the difference between 29.92 in. Hg and the reported altimeter setting. Then multiply the answer by 1000 to find the difference in feet between field elevation and pressure altitude.
 
 Pressure Altitude at DEN:
 
-29.92 in. Hg 29.82 in Hg = 0.10
+- 29.92 in. Hg - 29.82 in. Hg = 0.10
+- 0.10 X 1000 feet = 100 feet
+- The pressure altitude at DEN is 100 feet above field elevation.
+- Pressure Altitude at DEN = 5333 + 100 = 5433 feet.
 
-0.10 X 1000 teet = 100 feet
+Pressure Altitude at RNO:
 
-The pressure altitude at DEN is 100 feet above field elevation
-
-Pressure Altitude at DEN = 5333 + 100 = 5433 feet;
-
-## Pressure Altitude at RNO:
-
-29.92 in Hg 29.60 in. Hg = 0.32 0.32 X 1000 feet = 320 feet The pressure altitude at RNO is 320 teet above field elevation Pressure Altitude at RNO = 4412 + 320 = 4732 feet
+- 29.92 in. Hg - 29.60 in. Hg = 0.32
+- 0.32 X 1000 feet = 320 feet
+- The pressure altitude at RNO is 320 feet above field elevation.
+- Pressure Altitude at RNO = 4412 + 320 = 4732 feet.
 
 ## PERFORMANCE EXAMPLE
 
 ## TAKE-OFF WEIGHT
 
-Maximum take-off weight limit (from LIMITATIONS Section) 12,500 pounds:
+Maximum take-off weight limit (from LIMITATIONS Section) = 12,500 pounds.
 
-summary of graphs provided in this handbook to restrict take-off weight is presented below:
+A summary of graphs provided in this handbook to restrict take-off weight is presented below:
 
-- MAXIMUM TAKE-OFF WEIGHT PERMITTED BY ENROUTE CLIMB REQUIREMENT (No Restriction)
-- 2 TAKE-OFF WEIGHT TO ACHIEVE POSITIVE ONE-ENGINE-INOPERATIVE CLIMB AT LIFT-OFF (separate graphs for Flaps UP and Flaps APPROACH) (Optional)
+1. MAXIMUM TAKE-OFF WEIGHT PERMITTED BY ENROUTE CLIMB REQUIREMENT (No Restriction)
+2. TAKE-OFF WEIGHT TO ACHIEVE POSITIVE ONE-ENGINE-INOPERATIVE CLIMB AT LIFT-OFF (separate graphs for Flaps UP and Flaps APPROACH) (Optional)
 3. MAXIMUM ENROUTE WEIGHT (FAR 135 OPERATIONS) (Required for FAR Part 135 Operations)
-- 4\_ TAKE-OFF WEIGHT TO MEET FAR 25 TAKE-OFF CLIMB REQUIREMENTS (separate graphs for Flaps UP and Flaps APPROACH) (Optional)
+4. TAKE-OFF WEIGHT TO MEET FAR 25 TAKE-OFF CLIMB REQUIREMENTS (separate graphs for Flaps UP and Flaps APPROACH) (Optional)
 
-## MAXIMUM TAKE-OFF WEIGHT PERMITTED BY ENROUTE CLIMB REQUIREMENT
+*MAXIMUM TAKE-OFF WEIGHT PERMITTED BY ENROUTE CLIMB REQUIREMENT*
 
-There is no weight restriction to meet Enroute Climb Requirements:
+There is no weight restriction to meet Enroute Climb Requirements.
 
-Maximum allowable take-off weight = 12,500 pounds:
+Maximum allowable take-off weight = 12,500 pounds.
 
-## TAKE-OFF WEIGHT TO ACHIEVE POSITIVE ONE-ENGINE-INOPERATIVE CLIMB AT LIFT-OFF
+*TAKE-OFF WEIGHT TO ACHIEVE POSITIVE ONE-ENGINE-INOPERATIVE CLIMB AT LIFT-OFF*
 
-Enter the graphs at 5433 feet and 28'C to determine the maximum weight at which the accelerate-go procedures should be attempted
+Enter the graphs at 5433 feet and 28°C to determine the maximum weight at which the accelerate-go procedures should be attempted.
 
-Maximum Accelerate-Go Weight (Flaps UP) . 12,500 pounds Maximum Accelerate-Go Weight (Flaps APPROACH) 12,450 pounds
+- Maximum Accelerate-Go Weight (Flaps UP) ................ 12,500 pounds
+- Maximum Accelerate-Go Weight (Flaps APPROACH) ................ 12,450 pounds
 
-## MAXIMUM ENROUTE WEIGHT (FAR 135 OPERATIONS)
+*MAXIMUM ENROUTE WEIGHT (FAR 135 OPERATIONS)*
 
-To determine the maximum take-off weight; the weight of the fuel used to reach the MEA is added to the
+To determine the maximum take-off weight, the weight of the fuel used to reach the MEA is added to the maximum enroute weight.
 
-| Time 7 minutes             |
-|----------------------------|
-| Fuel 103 pounds            |
-| Distance 22 nautical miles |
+From the TIME, FUEL, AND DISTANCE TO CLIMB Graph, the time, fuel, and distance required to climb from 5433 feet (28°C) to 18,000 feet (-6°C) are:
 
-Enter the MAXIMUM ENROUTE WEIGHT (FAR 135 OPERATIONS) graph at the conditions for the worst OPC, 18,000 feet, and 29.75 in. Hg:
+- Time ................ 7 minutes
+- Fuel ................ 103 pounds
+- Distance ................ 22 nautical miles
 
-Maximum Enroute Weight to Meet FAR 135 Requirements; 12,550 pounds
+Enter the MAXIMUM ENROUTE WEIGHT (FAR 135 OPERATIONS) graph at the conditions for the worst route segment of the trip, i.e., 0°C, 18,000 feet, and 29.75 in. Hg:
 
-Since this weight is greater than the Maximum Take-off Weight Limitation of 12,500 pounds, there is no limi-
+- Maximum Enroute Weight to Meet FAR 135 Requirements ................ 12,550 pounds
 
-The following information has been presented to provide the option of limiting weight to obtain the pertormance specitications of FAR 25 during the critical take-off and initial climb flight segments: Their use is not mandatory and full compliance with other regulations applicable to FAR 25 is not implied The criteria for limiting weight involves the selection from the Take-off Weight graphs of the most adverse conditions of:
+Since this weight is greater than the Maximum Take-off Weight Limitation of 12,500 pounds, there is no limitation to meet FAR 135 Enroute Weight Requirements. Take-off Weight must not exceed 12,500 pounds.
 
-![Image](KA-200-B200-POH_imagens/p00130_01.png)
+*TAKE-OFF WEIGHT TO MEET FAR 25 TAKE-OFF AND CLIMB CRITERIA*
 
-![Image](KA-200-B200-POH_imagens/p00131_01.png)
+The following information has been presented to provide the option of limiting weight to obtain the performance specifications of FAR 25 during the critical take-off and initial climb flight segments. Their use is not mandatory and full compliance with other regulations applicable to FAR 25 is not implied.
 
+The criteria for limiting weight involves the selection from the Take-off Weight graphs of the most adverse conditions of:
+
+1. One-engine-inoperative climb
 2. Field length to accelerate-stop
 3. Field length to accelerate-go
-3. The take-off flight path required to clear known obstacles beyond the runway
+4. The take-off flight path required to clear known obstacles beyond the runway
 
 The performance graphs associated with the above conditions are:
 
-TAKE-OFF WEIGHT TO MEET FAR 25 TAKE-OFF CLIMB REQUIREMENTS Graphs
-
-ACCELERATE-STOP Graphs
-
-ACCELERATE-GO Graphs
-
-NET GRADIENT OF CLIMB Graphs
-
-TAKE-OFF FLIGHT PATH Graph
+- TAKE-OFF WEIGHT - TO MEET FAR 25 TAKE-OFF CLIMB REQUIREMENTS Graphs
+- ACCELERATE-STOP Graphs
+- ACCELERATE-GO Graphs
+- NET GRADIENT OF CLIMB Graphs
+- TAKE-OFF FLIGHT PATH Graph
 
 (Reference FAR 25.109, 25.111, 25.115, and 25.121)
 
-The performance presented using this criteria is predicated on the autofeather system being armed and operable. The Ground Minimum Control Speed (VMCG) has been determined to be 84 knots: At this speed,
+The performance presented using this criteria is predicated on the autofeather system being armed and operable. The Ground Minimum Control Speed (VMCG) has been determined to be 84 knots. At this speed, control within 25 feet of the runway center line is possible.
 
-The following example illustrates the procedures required to obtain a take-off weight value using the CONDITIONS specified below, and illustrated by the TAKE-OFF FLIGHT PATH Diagram.
+The following example illustrates the procedures required to obtain a take-off weight value using the CONDITIONS specified below, and illustrated by the TAKE-OFF FLIGHT PATH DIAGRAM.
 
 CONDITIONS (These conditions do not pertain to any particular airport location):
 
-| Outside Air Temperature 28°C                                         |
-|----------------------------------------------------------------------|
-| Field Elevation 5330 feet                                            |
-| Altimeter Setting 29.82 in. Hg                                       |
-| Surface Wind 140° at 11 knots                                        |
-| Runway 17 Length 6486 feet                                           |
-| Pressure Altitude (29.92 - 29.82 = 0.10 in. Hg) 5330 + 100 5430 feet |
-| Headwind Component (From WIND COMPONENTS Graph) 9.5 knots            |
-| Obstacles (Height above runway):                                     |
+- Outside Air Temperature ................ 28°C
+- Field Elevation ................ 5330 feet
+- Altimeter Setting ................ 29.82 in. Hg
+- Surface Wind ................ 140° at 11 knots
+- Runway 17 Length ................ 6486 feet
+- Pressure Altitude (29.92 - 29.82 = 0.10 in. Hg) 5330 + 100 ................ 5430 feet
+- Headwind Component (From WIND COMPONENTS Graph) ................ 9.5 knots
+- Obstacles (Height above runway):
+  - 20-foot-high wires 300 feet beyond end of runway
+  - 175-foot-high ridge 3000 feet beyond end of runway
 
-20-foot-high wires 300 feet beyond end of runway
+*TAKE-OFF FLIGHT PATH DIAGRAM (figure): Accelerate-Go Distance Available — 6786 feet; Accelerate-Stop Distance Available — 6486 feet; 300 feet clearway*; 20 feet obstacle; 175 feet obstacle at 3000 feet; runway 6486 feet.*
 
-175-foot-high ridge 3000 feet beyond end of runway
-
-![Image](KA-200-B200-POH_imagens/p00131_02.png)
+\* The maximum allowable clearway for this runway is 1621 feet. (25% of 6486 feet)
 
 ## TAKE-OFF FLIGHT PATH
 
-- From the TAKE-OFF WEIGHT TO MEET FAR 25 TAKE-OFF CLIMB REQUIREMENTS Graphs, determine that the maximum take-off weights to meet FAR 25 climb requirements are 12,500 pounds with flaps at UP , and 12,300 pounds with flaps at APPROACH:
-- From the ACCELERATE-STOP Graphs, using 12,500 pounds with flaps at UP, and 12,300 pounds with flaps at APPROACH, determine that the resulting distances are less than the runway length  Therefore, accelerate-stop is not a limiting factor:
-3. From the ACCELERATE-GO Graphs, using 12,500 pounds with flaps at UP, and 12,300 pounds with flaps at APPROACH, determine that the resulting distances are greater than the available accelerate-go distance of 6786 feet (Refer to the TAKE-OFF FLIGHT PATH Diagram )
-- 4 weight for which this accelerate-go distance is possible.
-- a. Take-off weight of 10,650 pounds with flaps at UP
-- b Take-off weight of 11,700 pounds with flaps at APPROACH
-- 5 Enter the TAKE-OFF FLIGHT PATH Graph to determine the minimum gradient of climb which will result in a flight path clear of the 175-foot-high ridge 3000 feet beyond the end of the runway: (Refer to the TAKE-OFF FLIGHT PATH Diagram above )
-- a: Ridge 175 feet AGL
-- b\_ From Reference Zero (9486 6786) = 2700 feet
-- C. Minimum Gradient of Climb = 5.2%
-- 6 FLAPS UP Graph at 10,650 pounds; and the NET GRADIENT OF CLIMB FLAPS APPROACH Graph at 11,700 pounds
-- Both resulting gradients are less than 5.2%.
-- 7 \_ Enter in reverse the NET GRADIENT OF CLIMB Graphs using the 5.2% net gradient of climb value to determine the weights for which a climb at this value is possible:
-- Flaps UP = 9900 pounds
-- b. Flaps APPROACH 9250 pounds
-- 8 Using the weight of 9900 pounds with the flaps at UP, and 9250 pounds with the flaps at APPROACH, the accelerate-go distance will be shortened  This in tur will decrease the minimum gradient of climb value required to clear the ridge. The allowable take-off weights to meet these requirements are between 10,650 pounds and 9900 pounds withe flaps at UP, or between 11,700 pounds and 9250 pounds with the flaps at APPROACH. Exact weight can be determined by an iterative process of assuming new weight halfway between these weights and using the procures outlined in Steps 3, 5, 6, 7 , and 8. Determine new weights for first iteration as follows:
-- a Flaps UP: 10,650 9900 = 750 2 =375 9900 = 10,275 pounds b Flaps APPROACH:
-- 11,700 9250 = 2450 2 =1225 9250 = 10,475 pounds
-- 9 (Step 3 procedures): From the ACCELERATE-GO Graphs, using 10,275 pounds for flaps at UP, and 10,475 pounds for flaps at APPROACH, the resulting distances are within the available accelerate-go distance of 6786 feet.
-- a 6100 feet with flaps at UP
-- b 5050 feet with flaps at APPROACH
+1. From the TAKE-OFF WEIGHT - TO MEET FAR 25 TAKE-OFF CLIMB REQUIREMENTS Graphs, determine that the maximum take-off weights to meet FAR 25 climb requirements are 12,500 pounds with flaps at UP, and 12,300 pounds with flaps at APPROACH.
+2. From the ACCELERATE-STOP Graphs, using 12,500 pounds with flaps at UP, and 12,300 pounds with flaps at APPROACH, determine that the resulting distances are less than the runway length. Therefore, accelerate-stop is not a limiting factor.
+3. From the ACCELERATE-GO Graphs, using 12,500 pounds with flaps at UP, and 12,300 pounds with flaps at APPROACH, determine that the resulting distances are greater than the available accelerate-go distance of 6786 feet. (Refer to the TAKE-OFF FLIGHT PATH Diagram.)
+4. Using the ACCELERATE-GO Graphs, enter in reverse using the 6786 feet value and determine the weight for which this accelerate-go distance is possible.
+   a. Take-off weight of 10,650 pounds with flaps at UP
+   b. Take-off weight of 11,700 pounds with flaps at APPROACH
+5. Enter the TAKE-OFF FLIGHT PATH Graph to determine the minimum gradient of climb which will result in a flight path clear of the 175-foot-high ridge 3000 feet beyond the end of the runway. (Refer to the TAKE-OFF FLIGHT PATH Diagram above.)
+   a. Ridge = 175 feet AGL
+   b. From Reference Zero (9486 - 6786) = 2700 feet
+   c. Minimum Gradient of Climb = 5.2%
+6. Enter the NET GRADIENT OF CLIMB - FLAPS UP Graph at 10,650 pounds, and the NET GRADIENT OF CLIMB - FLAPS APPROACH Graph at 11,700 pounds.
+   - Both resulting gradients are less than 5.2%.
+7. Enter in reverse the NET GRADIENT OF CLIMB Graphs using the 5.2% net gradient of climb value to determine the weights for which a climb at this value is possible.
+   a. Flaps UP = 9900 pounds
+   b. Flaps APPROACH = 9250 pounds
+8. Using the weight of 9900 pounds with the flaps at UP, and 9250 pounds with the flaps at APPROACH, the accelerate-go distance will be shortened. This in turn will decrease the minimum gradient of climb value required to clear the ridge. The allowable take-off weights to meet these requirements are between 10,650 pounds and 9900 pounds with the flaps at UP, or between 11,700 pounds and 9250 pounds with the flaps at APPROACH. Exact weight can be determined by an iterative process of assuming new weight halfway between these weights and using the procedures outlined in Steps 3, 5, 6, 7, and 8. Determine new weights for first iteration as follows:
+   a. Flaps UP: 10,650 - 9900 = 750 ÷ 2 = 375 + 9900 = 10,275 pounds
+   b. Flaps APPROACH: 11,700 - 9250 = 2450 ÷ 2 = 1225 + 9250 = 10,475 pounds
+9. (Step 3 procedures): From the ACCELERATE-GO Graphs, using 10,275 pounds for flaps at UP, and 10,475 pounds for flaps at APPROACH, the resulting distances are within the available accelerate-go distance of 6786 feet.
+   a. 6100 feet with flaps at UP
+   b. 5050 feet with flaps at APPROACH
 10. (Step 5 procedure): Enter the TAKE-OFF FLIGHT PATH Graph and adjust the horizontal distance from Reference Zero and determine minimum gradient of climb.
-- a\_ Flaps UP From Reference Zero (9486 6100) 3386 feet Minimum Gradient of Climb = 4.1%
-- b Flaps APPROACH From Reference Zero (9486 5050) 4436 feet Minimum Gradient of Climb = 3.2%
-11. (Step 6 procedures): Enter the NET GRADIENT OF CLIMB FLAPS UP Graph at 10,275 pounds for a 4.7% net Enter the NET GRADIENT OF CLIMB FLAPS APPROACH Graph at 10,475 pounds for a 3.5% net gradient of climb
-
-- Since these results are greater than the minimum value, the take-off weights of 10,275 pounds with flaps at UP or 10,475 pounds with flaps at APPROACH may be used.
-- b. If an exact value is required, complete the next step and repeat Steps 3, 5, 6, 7, and 8
-12. (Step 7 procedures): Enter in reverse the NET GRADIENT OF CLIMB FLAPS UP Graph using minigradient of climb of 4.1% for a take-off weight of 10,825 pounds, and the NET GRADIENT OF CLIMB FLAPS APPROACH Graph minimum gradient of climb of 3.2% for a take-off weight of 10,550 pounds: using
-13. (Step 8 procedures): Use the weights of Step 8 and Step 12 to obtain a new assumed weight:
-- a. Flaps UP
-
-10,825 10,275 = 550 + 2 = 275 + 10,275 = 10,550 pounds
-
-- b Flaps APPROACH 10,725 10,475 = 250 2 = 125 + 10,475 = 10,600 pounds
+    a. Flaps UP - From Reference Zero (9486 - 6100) = 3386 feet. Minimum Gradient of Climb = 4.1%
+    b. Flaps APPROACH - From Reference Zero (9486 - 5050) = 4436 feet. Minimum Gradient of Climb = 3.2%
+11. (Step 6 procedures): Enter the NET GRADIENT OF CLIMB - FLAPS UP Graph at 10,275 pounds for a 4.7% net gradient of climb. Enter the NET GRADIENT OF CLIMB - FLAPS APPROACH Graph at 10,475 pounds for a 3.5% net gradient of climb.
+    a. Since these results are greater than the minimum value, the take-off weights of 10,275 pounds with flaps at UP or 10,475 pounds with flaps at APPROACH may be used.
+    b. If an exact value is required, complete the next step and repeat Steps 3, 5, 6, 7, and 8.
+12. (Step 7 procedures): Enter in reverse the NET GRADIENT OF CLIMB - FLAPS UP Graph using minimum gradient of climb of 4.1% for a take-off weight of 10,825 pounds, and the NET GRADIENT OF CLIMB - FLAPS APPROACH Graph using minimum gradient of climb of 3.2% for a take-off weight of 10,550 pounds.
+13. (Step 8 procedures): Use the weights of Step 8 and Step 12 to obtain a new assumed weight.
+    a. Flaps UP: 10,825 - 10,275 = 550 ÷ 2 = 275 + 10,275 = 10,550 pounds
+    b. Flaps APPROACH: 10,725 - 10,475 = 250 ÷ 2 = 125 + 10,475 = 10,600 pounds
 
 Use these assumed weights for second iteration.
 
 14. After several additional iterations, the exact weights which will satisfy all the given conditions are:
-2. Flaps UP = 10,470 pounds with a 4.5% Net Gradient of Climb.
-- b. Flaps APPROACH 10,625 pounds with a 3.3% Net Gradient of Climb.
+    a. Flaps UP = 10,470 pounds with a 4.5% Net Gradient of Climb.
+    b. Flaps APPROACH = 10,625 pounds with a 3.3% Net Gradient of Climb.
 
 The fuel quantity required for start and taxi can be added to these weights.
 
 ## TAKE-OFF DISTANCE
 
-Enter the TAKE-OFF DISTANCE Graphs at 289C , 5433 feet pressure altitude, 12,500 pounds, and 9.5 knots headwind component and obtain the following results:
+Enter the TAKE-OFF DISTANCE Graphs at 28°C, 5433 feet pressure altitude, 12,500 pounds, and 9.5 knots headwind component and obtain the following results:
 
-|                                      | FLAPS 0%   | FLAPS 40%   |
-|--------------------------------------|------------|-------------|
-| Ground Roll                          | 2870 feet  | 2700 feet   |
-| Total Distance Over 50-foot Obstacle | 4900 feet  | 3750 feet   |
-| Take-off Speed:                      |            |             |
-| At Rotation                          | 95 knots   | 94 knots    |
-| At 50 Feet .                         | 121 knots  | 106 knots   |
+| | FLAPS 0% | FLAPS 40% |
+|---|---|---|
+| Ground Roll | 2870 feet | 2700 feet |
+| Total Distance Over 50-foot Obstacle | 4900 feet | 3750 feet |
+| Take-off Speed: At Rotation | 95 knots | 94 knots |
+| Take-off Speed: At 50 Feet | 121 knots | 106 knots |
 
 ## FLIGHT PLANNING
 
-The following calculations provide infommation for flight planning at various parameters of weight, power, altitude, and temperature. Graphs and tables are included for: TIME, FUEL, AND DISTANCE TO CLIMB; TIME, FUEL, AND DISTANCE TO DESCEND; NORMAL CRUISE POWER AT 1700 RPM; MAXIMUM CRUISE POWER AT 1700 RPM; NORMAL CRUISE POWER AT 1800 RPM; MAXIMUM CRUISE POWER AT 1800 RPM; MAXIMUM RANGE POWER AT 1700 RPM; and HOLDING TIME:
+The following calculations provide information for flight planning at various parameters of weight, power, altitude, and temperature. Graphs and tables are included for: TIME, FUEL, AND DISTANCE TO CLIMB; TIME, FUEL, AND DISTANCE TO DESCEND; NORMAL CRUISE POWER AT 1700 RPM; MAXIMUM CRUISE POWER AT 1700 RPM; NORMAL CRUISE POWER AT 1800 RPM; MAXIMUM CRUISE POWER AT 1800 RPM; MAXIMUM RANGE POWER AT 1700 RPM; and HOLDING TIME.
 
-Calculations for flight time, block speed, and fuel requirements for a proposed flight are detailed below
+Calculations for flight time, block speed, and fuel requirements for a proposed flight are detailed below.
 
 Enter the ISA CONVERSION Graph at the conditions indicated:
 
 DEN
 
-|           | Pressure Altitude 5433 feet OAT 28°C ISA Condition ISA +23°C   |
-|-----------|----------------------------------------------------------------|
-| DEN - SLC |                                                                |
-|           | Pressure Altitude 26,000 feet                                  |
-|           | OAT -10°C                                                      |
-|           | ISA Condition ISA +27°C                                        |
-| SLC - RND | SLC - RND                                                      |
-|           | Pressure Altitude 26,000 feet                                  |
+- Pressure Altitude ................ 5433 feet
+- OAT ................ 28°C
+- ISA Condition ................ ISA +23°C
 
-Pressure Altitude \_
+DEN - SLC
+
+- Pressure Altitude ................ 26,000 feet
+- OAT ................ -10°C
+- ISA Condition ................ ISA +27°C
+
+SLC - RNO
+
+- Pressure Altitude ................ 26,000 feet
+- OAT ................ -20°C
+- ISA Condition ................ ISA +17°C
 
 RNO
 
-OAT
+- Pressure Altitude ................ 4732 feet
+- OAT ................ 32°C
+- ISA Condition ................ ISA +27°C
 
-20*C
+Enter the TIME, FUEL, AND DISTANCE TO CLIMB graph at 28°C, to 5433 feet, and to 12,500 pounds and enter at -10°C, to 26,000 feet and to 12,500 pounds and read:
 
-ISA Condition:\_
+- Time to Climb ................ 21 - 3 = 18 min
+- Fuel Used to Climb ................ 250 - 47 = 203 pounds
+- Distance Traveled ................ 62 - 8 = 54 nautical miles
 
-ISA +17'C
+Enter the TIME, FUEL, AND DISTANCE TO DESCEND graph at 26,000 feet, and enter again at 4732 feet, and read:
 
-Pressure Altitude\_
+- Time to Descend ................ 17 - 3 = 14 min
+- Fuel Used to Descend ................ 164 - 36 = 128 pounds
+- Descent Distance ................ 82 - 13 = 69 nautical miles
 
-4732 feet
+The estimated average cruise weight is approximately 11,600 pounds.
 
-OAT
+Enter the tables for NORMAL CRUISE POWER at 1800 RPM for ISA +10°C, ISA +20°C, and for ISA +30°C, and read the cruise speeds for 26,000 feet at 12,000 pounds and 11,000 pounds.
 
-32PC
+**CRUISE TRUE AIRSPEEDS AT FL 260**
 
-ISA Condition  \_
+| | ISA + 10°C | ISA + 20°C | ISA + 30°C |
+|---|---|---|---|
+| 12,000 POUNDS | 277 | 275 | 272 |
+| 11,000 POUNDS | 281 | 279 | 277 |
 
-Enter the TIME, FUEL, AND DISTANCE TO CLIMB graph at 28C, to 5433 and to 12,500 pounds and enter at -108C, to 26,000 teet and to 12,500 pounds and read: feet;
+Interpolate between these speeds for ISA + 27°C and ISA + 17°C at 11,600 pounds.
 
-Time to Climb 21 3 = 18 min
+- Cruise True Airspeed (ISA + 27°C) ................ 275 knots
+- Cruise True Airspeed (ISA + 17°C) ................ 278 knots
 
-Fuel Used to Climb.
+Enter the NORMAL CRUISE POWER at 1800 RPM graph at 26,000 feet and read the recommended torque settings for ISA +27°C (-3°C IOAT) and ISA + 17°C (-13°C IOAT):
 
-250 47 203 pounds
+- ISA + 27°C (-3°C IOAT) ................ 1450 ft-lbs torque per engine
+- ISA + 17°C (-13°C IOAT) ................ 1515 ft-lbs torque per engine
 
-Distance Traveled 62 8 = 54 nautical miles
+Enter the \*FUEL FLOW AT NORMAL CRUISE POWER at 1800 RPM Graph at 26,000 feet and read the fuel flow for ISA +27°C (-3°C IOAT) and ISA +17°C (-13°C IOAT):
 
-Enter the TIME, FUEL, AND DISTANCE TO DESCEND graph at 26,000 feet; and enter again at 4732 feet, and read:
+| | Fuel Flow Per Engine | Total Fuel Flow |
+|---|---|---|
+| ISA + 27°C (-3°C IOAT) | 265 lbs/hr | 530 lbs/hr |
+| ISA + 17°C (-13°C IOAT) | 276 lbs/hr | 552 lbs/hr |
 
-Time t0 Descend 17 - 3 = 14 min
+\*NOTE: For flight planning, enter these graphs at the forecasted ISA condition; for enroute power settings and fuel flow, enter the graphs at the actual IOAT.
 
-Fuel Used to Descend:
+Time and Fuel used were calculated at Normal Cruise Power at 1800 RPM as follows:
 
-164 36 = 128 pounds
+Time = Distance ÷ Ground Speed
 
-Descent Distance \_ 82
-
-The estimated average cruise weight is approximately 11,600 pounds:
-
-and read the cruise speeds for 26,000 feet at 12,000 pounds and 11,000 pounds:
-
-## CRUISE TRUE AIRSPEEDS AT FL 260
-
-|   12,000 POUNDS - ISA + 10°C |   12,000 POUNDS - ISA + 20°C |   12,000 POUNDS - ISA + 30 0 e |   11,000 POUNDS - ISA + 10 0 e |   11,000 POUNDS - ISA+ 20°C |   11,000 POUNDS - ISA + 30°C |
-|------------------------------|------------------------------|--------------------------------|--------------------------------|-----------------------------|------------------------------|
-|                          277 |                          275 |                            272 |                            281 |                         279 |                          277 |
-
-BT01886
-
-Interpolate between these speeds for ISA 27*C and ISA 17C at 11,600 pounds
-
-| Cruise True Airspeed (ISA + 27°C)           |
-|---------------------------------------------|
-| Cruise True Airspeed (ISA + 17°C) 278 knots |
-
-Enter the NORMAL CRUISE POWER at 1800 RPM graph at 26,000 feet and read the recommended torque 3C IOAT) and ISA
-
-ISA 27C 3PC IOAT)
-
-1450 ft-Ibs torque per engine
-
-ISA 17C ( -13PC IOAT) 1515 f-Ibs torque per engine
-
-Enter the #FUEL FLOW AT NORMAL CRUISE POWER at 1800 RPM Graph at 26,000 feet and read the fuel flow for ISA +27C
-
-|                                              | 265 Ibs/hr                 |
-|----------------------------------------------|----------------------------|
-|                                              | Total Fuel Flow 530 Ibs/hr |
-| ISA + 17°e (-13°e IOAT) Fuel Flow Per Engine | 276 Ibs/hr                 |
-|                                              | Total Fuel Flow 552 Ibs/hr |
-
-#NOTE: For flight planning, enter these graphs at the forecasted ISA condition; for enroute power settings and tuel flow, enter the graphs at the actual IOAT.
-
-Time and Fuel used were calculated at Normal Cruise Power at 1800 RPM as tollows:
+Fuel Used = (Time) (Total Fuel Flow)
 
 Results are as follows:
 
-Time Distance\_ Ground Speed
+| ROUTE | DISTANCE NM | ESTIMATED GROUND SPEED KNOTS | TIME AT CRUISE ALTITUDE HRS : MIN | FUEL USED FOR CRUISE LBS |
+|---|---|---|---|---|
+| DEN - EKR | 89* | 260 | :21 | 181 |
+| EKR - SLC | 192 | 256 | :45 | 398 |
+| SLC - BVL | 81 | 267 | :18 | 167 |
+| BVL - BAM | 145 | 266 | :33 | 301 |
+| BAM - RNO | 77* | 245 | :19 | 173 |
 
-Fuel Used (Time) (Total Fuel Flow)
+\*Distance required to climb or descend has been subtracted from segment distance.
 
-BT01970
+## TIME - FUEL - DISTANCE
 
-| ROUTE     | DISTANCE - NM   |   ESTIMATED GROUND SPEED - KNOTS | ALTITUDE - HRS: MIN   |   CRUISE LBS - LBS |
-|-----------|-----------------|----------------------------------|-----------------------|--------------------|
-| DEN - EKR | 89*             |                              260 | :21                   |                181 |
-| EKR - SLC | 192             |                              256 | :45                   |                398 |
-| SLC - BVL | 81              |                              267 | :18                   |                167 |
-| BVL - BAM | 145             |                              266 | :33                   |                301 |
-| BAM - RNO | 77*             |                              245 | :19                   |                173 |
+| ITEM | TIME HRS : MINS | FUEL POUNDS | DISTANCE NM |
+|---|---|---|---|
+| Start, Runup, Taxi, and Take-Off acceleration | 00 : 00 | 90 | 0 |
+| Climb | 00 : 18 | 203 | 54 |
+| Cruise | 2 : 16 | 1220 | 584 |
+| Descent | 00 : 14 | 128 | 69 |
+| Total | 2 : 48 | 1641 | 707 |
 
-BT01884
+Block Speed: 707 NM ÷ 2 hours, 48 minutes = 253 knots
 
-"Distance required to climb or descend has been subtracted from segment distance.
+*RESERVE FUEL*
 
-TIME FUEL DISTANCE
+Reserve Fuel (45 minute at Maximum Range Power): Assume weight at end of cruise to be 11,000 pounds. Enter the tables for MAXIMUM RANGE POWER at 1700 RPM for ISA +10°C and ISA +20°C, and read the fuel flow for 26,000 feet at 11,000 pounds:
 
-| ITEM                                          | TIME HRS: MINS   |   FUEL POUNDS |   DISTANCE NM |
-|-----------------------------------------------|------------------|---------------|---------------|
-| Start, Runup, Taxi, and Take-Off acceleration | 00: 00           |            90 |             0 |
-| Cl imb                                        | 00: 18           |           203 |            54 |
-| Cruise                                        | 2: 16            |          1220 |           584 |
-| Descent                                       | 00: 14           |           128 |            69 |
-| Total                                         | 2: 48            |          1641 |           707 |
+- ISA +10°C ................ 380 lbs/hr Total Fuel Flow
+- ISA +20°C ................ 390 lbs/hr Total Fuel Flow
 
-8701971
+Interpolate to find fuel flow at ISA +17°C:
 
-Block Speed: 707 NM 2 hours, 48 minutes = 253 knots
+- Total fuel flow for reserve = 380 + 7 = 387 lbs/hr
+- Reserve Fuel = 45 minutes X 387 lbs/hr = 291 lbs
 
-## RESERVE FUEL
+*TOTAL FUEL REQUIREMENT*
 
-Reserve Fuel (45 minute at Maximum Range Power): Assume weight at end of cruise to be 11,000 pounds: Enter the tables for MAXIMUM RANGE POWER at 1700 RPM for ISA +10PC and ISA +20*C, and read the fuel flow for 26,000 feet at 11,000 pounds:
+1641 lbs + 291 lbs = 1932 lbs
 
-ISA +10PC
-
-ISA +20PC\_
-
-Interpolate to find fuel flow at ISA +178C:
-
-Reserve Fuel
-
-45 minutes X 387 Ibshhr = 291 Ibs
-
-TOTAL FUEL REQUIREMENT
-
-1641 Ibs 291 Ibs 1932 Ibs
-
-ZERO FUEL WEIGHT LIMITATION
+*ZERO FUEL WEIGHT LIMITATION*
 
 For this example, the following conditions were assumed:
 
-Ramp Weight .
+- Ramp Weight ................ 12,590 pounds
+- Weight of Usable Fuel Onboard ................ 1932 pounds
 
-12,590 pounds
+Zero Fuel Weight = Ramp Weight - Weight of Usable Fuel Onboard
 
-Weight of Usable Fuel Onboard\_ 1932 pounds
+Zero Fuel Weight = 12,590 - 1932 = 10,658 pounds
 
-Zero Fuel Weight Ramp Weight Weight of Usable Fuel Onboard
+Maximum Zero Fuel Weight (from LIMITATIONS Section) ................ = 11,000 pounds
 
-Zero Fuel Weight = 12,590 1932 10,658 pounds
+Maximum Zero Fuel Weight Limitation has not been exceeded.
 
-Maximum Zero Fuel Weight (from LIMITATIONS Section) 11,000 pounds
-
-Maximum Zero Fuel Weight Limitation has not been exceeded:
-
-Anytime the Zero Fuel Weight exceeds the Maximum Zero Fuel Weight Limit by X amount, at least X pounds of payload must be off-loaded. If desired, additional fuel may then be added until the maximum ramp weight Iimitation of 12,590 pounds is again reached.
+Anytime the Zero Fuel Weight exceeds the Maximum Zero Fuel Weight Limit by X amount, at least X pounds of payload must be off-loaded. If desired, additional fuel may then be added until the maximum ramp weight limitation of 12,590 pounds is again reached.
 
 ## LANDING INFORMATION
 
 The estimated Landing Weight is determined by subtracting the fuel required for the trip from the Ramp Weight:
 
-Ramp Weight \_ 12,590 pounds
+- Ramp Weight ................ 12,590 pounds
+- Fuel Required for Total Trip ................ -1641 lbs
+- Landing Weight (12,590 - 1641) ................ 10,949 pounds
 
-Fuel Required for Total 1641 Ibs Trip \_
+NOTE: For the remainder of this example, a landing weight of 10,937 pounds has been assumed.
 
-Landing Weight (12,590 1641) 10,949 pounds
+Enter the NORMAL LANDING DISTANCE WITHOUT PROPELLER REVERSING - FLAPS DOWN Graph at 32°C, 4732 feet, 10,937 pounds, and 4.7 knots headwind component:
 
-NOTE: For the remainder of this example, a landing weight of 10,937 pounds has been assumed
+- Ground Roll ................ 1850 feet
+- Total Over 50-foot Obstacle ................ 3000 feet
+- Approach Speed ................ 99 knots
 
-Enter the NORMAL LANDING DISTANCE WITHOUT PROPELLER REVERSING FLAPS DOWN Graph at
+Enter the CLIMB - BALKED LANDING Graph at 32°C, 4732 feet, and 10,937 pounds
 
-Ground Roll 1850 feet
-
-Total Over 50-toot Obstacle \_
-
-3000 feet
-
-Approach Speed \_ 99 knots
-
-Enter the CLIMB BALKED LANDING Graph at 329C , 4732 feet; and 10,937 pounds
-
-Rate of Climb
-
-1450 feet per minute
-
-Climb Gradient \_ 12.8%
+- Rate of Climb ................ 1450 feet per minute
+- Climb Gradient ................ 12.8%
 
 ## COMMENTS PERTINENT TO THE USE OF PERFORMANCE GRAPHS
 
-- 1\_ In addition to presenting the answer for a particular set of conditions, the example on the graph also presents the order in which the various scales on the graph should be used. For instance , if the first item in the example is OAT, then enter the graph at the known OAT.
-- 2 The reference lines indicate where to begin following the guidelines  Always project to the reference line first; then follow the guidelines to the next known item by maintaining the same PROPORTIONAL DISTANCE between the guideline above and guideline below the projected line: For instance, if the projected Iine intersects the reference line in the ratio of 3UP down/ 7UP up between the guidelines, then maintain this same 3UPIUP relationship between the guidelines all the way to the next known item or answer.
-- 3 The associated conditions define the specific conditions from which performance parameters have been determined: are not intended to be used as instructions; however, performance values determined from charts can only be achieved if the specific conditions exist. They
-- 4 \_ Indicated airspeeds (IAS) were obained using the Airspeed Calibration Normal System graph.
-5. The full amount of usable fuel is availabie for all approved flight conditions
-6. Notes have been provided on various graphs and tables to approximate performance with ice vanes At lower altitudes, where operation on the torque limit is possible, the effect of ice vane extension will be less, depending upon how much power can be recovered after the ice vanes have been extended.
-
-![Image](KA-200-B200-POH_imagens/p00136_01.png)
+1. In addition to presenting the answer for a particular set of conditions, the example on the graph also presents the order in which the various scales on the graph should be used. For instance, if the first item in the example is OAT, then enter the graph at the known OAT.
+2. The reference lines indicate where to begin following the guidelines. Always project to the reference line first, then follow the guidelines to the next known item by maintaining the same PROPORTIONAL DISTANCE between the guideline above and guideline below the projected line. For instance, if the projected line intersects the reference line in the ratio of 3UP down/ 7UP up between the guidelines, then maintain this same 3UP/7UP relationship between the guidelines all the way to the next known item or answer.
+3. The associated conditions define the specific conditions from which performance parameters have been determined. They are not intended to be used as instructions; however, performance values determined from charts can only be achieved if the specific conditions exist.
+4. Indicated airspeeds (IAS) were obained using the Airspeed Calibration - Normal System graph.
+5. The full amount of usable fuel is available for all approved flight conditions.
+6. Notes have been provided on various graphs and tables to approximate performance with ice vanes extended. The effect will vary, depending upon airspeed, temperature, altitude, and ambient conditions. At lower altitudes, where operation on the torque limit is possible, the effect of ice vane extension will be less, depending upon how much power can be recovered after the ice vanes have been extended.
 
 ![Image](KA-200-B200-POH_imagens/p00137_01.png)
 
