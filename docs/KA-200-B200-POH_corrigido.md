@@ -2525,360 +2525,331 @@ In-flight illumination of the BATTERY CHARGE annunciator indicates a possible ba
 2. BATTERY CHARGE Annunciator Extinguished - CONTINUE TO DESTINATION
 3. BATTERY CHARGE Annunciator Still Illuminated - LAND AT NEAREST SUITABLE AIRPORT
 
-![Image](KA-200-B200-POH_imagens/p00087_01.png)
+*EXCESSIVE LOADMETER INDICATION (over 100%)*
 
-## EXCESSIVE LOADMETER INDICATION (over 100%)
+1. Battery - OFF (monitor loadmeter)
 
-1. Battery
+*If Loadmeter Still Indicates Above 100%:*
 
-# Loadmeter Still Indicates Above 100%\_
+2. Nonessential Electrical Equipment - OFF
 
-- 2 Nonessential Electrical Equipment OFF
+*If Loadmeter Indicates 100% or Below:*
 
-#f Loadmeter Indicates 100% or Below:
+3. Battery - ON
 
-3. Battery ON
+*CIRCUIT BREAKER TRIPPED*
 
-## CIRCUIT BREAKER TRIPPED
+1. Nonessential Circuit - DO NOT RESET IN FLIGHT
+2. Essential Circuit:
+   a. Circuit Breaker - PUSH TO RESET
+   b. If Circuit Breaker Trips Again - DO NOT RESET
 
-1. Nonessential Circuit DO NOT RESET IN FLIGHT
-2. 2 Essential Circuit:
-3. a Circuit Breaker PUSH TO RESET
-4. If Circuit Breaker Trips Again DO NOT RESET
+*BUS FEEDER CIRCUIT BREAKER TRIPPED (Fuel Panel Bus Feeders and Right Circuit Breaker Panel Bus Feeders)*
 
-BUS FEEDER CIRCUIT BREAKER TRIPPED (Fuel Panel Bus Feeders and Right Circuit Breaker Panel Bus Feeders)
-
-- A short is indicated, do not reset in fight:
+- A short is indicated, do not reset in flight.
 
 ## NOTE
 
-The items that may be inoperative can be determined from the electrical system schematic in Section VII, SYSTEMS DESCRIPTION:
+The items that may be inoperative can be determined from the electrical system schematic in Section VII, SYSTEMS DESCRIPTION.
 
 ## AVIONICS MASTER POWER SWITCH FAILURE
 
-#f the Avionics Master Pwr Switch Fails to Operate in the ON Position:
+*If the Avionics Master Pwr Switch Fails to Operate in the ON Position:*
 
-- Avionics Master Circuit Breaker PULL
+- Avionics Master Circuit Breaker - PULL
 
 ## NOTE
 
-Tuming on the Avionics Master Pwr switch removes power that holds the avonics relay open: If the switch fails to the OFF position, pulling the Avionics Master circuit breaker will remove power to the and should restore power t0 the avionics buses relay
+Turning on the Avionics Master Pwr switch removes power that holds the avionics relay open. If the switch fails to the OFF position, pulling the Avionics Master circuit breaker will remove power to the relay and should restore power to the avionics buses.
 
 ## LANDING GEAR SYSTEM
 
-## HYDRAULIC FLUID LOW (HYD FLUID LOW Annunciator)
+*HYDRAULIC FLUID LOW (HYD FLUID LOW Annunciator)*
 
-# HYD FLUID LOW annunciator illuminates during fight; attempt t0 extend the landing gear normally 4pon reaching destination. If the landing gear fails t0 extend; follow LANDING GEAR MANUAL EXTENSION procedures:
+If HYD FLUID LOW annunciator illuminates during flight, attempt to extend the landing gear normally upon reaching destination. If the landing gear fails to extend, follow LANDING GEAR MANUAL EXTENSION procedures.
 
-## LANDING GEAR MANUAL EXTENSION (HYDRAULIC SYSTEM)
+*LANDING GEAR MANUAL EXTENSION (HYDRAULIC SYSTEM)*
 
-On airplanes BB-1158, BB-1167 , BB-1193 and after, BL-73 and after, &amp;nd those airplanes incorporating Beech Kit PIN 101-8018-1
+On airplanes BB-1158, BB-1167, BB-1193 and after, BL-73 and after, and those airplanes incorporating Beech Kit P/N 101-8018-1
 
-If the landing gear fails to extend after placing the Landing Gear Control down, pertorm tne following:
+*If the landing gear fails to extend after placing the Landing Gear Control down, perform the following:*
 
-1. Landing Gear Relay Circuit Breaker (pilots subpanel) PULL
-2. 2 Landing Gear Control DN
-3. Aternate Extension Handle PUMP UP AND DOWN UNTIL THE three GREEN GEAR-DOWN ANNUNCIATORS ARE ILLUMINATED. WHILE PUMPING, DO NOT LOWER HANDLE TO THE LEVEL OF THE SECURING CLIP DURING THE DOWN STROKE AS THIS WILL RESULT IN THE LOSS OF PRESSURE.
+1. Landing Gear Relay Circuit Breaker (pilot's subpanel) - PULL
+2. Landing Gear Control - DN
+3. Alternate Extension Handle - PUMP UP AND DOWN UNTIL THE THREE GREEN GEAR-DOWN ANNUNCIATORS ARE ILLUMINATED. WHILE PUMPING, DO NOT LOWER HANDLE TO THE LEVEL OF THE SECURING CLIP DURING THE DOWN STROKE AS THIS WILL RESULT IN THE LOSS OF PRESSURE.
 
-If all three green gear-down annunciators are illuminated:
+*If all three green gear-down annunciators are illuminated:*
 
-- Aterate Extension Handle STOW
+4. Alternate Extension Handle - STOW
+5. Landing Gear Controls - DO NOT ACTIVATE (The Landing Gear Control and the Landing Gear Relay Circuit Breaker must not be activated. The landing gear should be considered UNSAFE until the system is cycled and checked with the airplane on jacks.)
 
-![Image](KA-200-B200-POH_imagens/p00088_01.png)
+*If one or more green gear-down annunciators do not illuminate for any reason and a decision is made to land in this condition:*
 
-5. Landing Gear Controls DO NOT ACTIVATE (The Landing Gear Control and the Landing Gear Relay Circuit Breaker must not be activated: The landing gear should be considered UNSAFE until the system is cycled and checked with the airplane on jacks )
+6. Alternate Extension Handle - CONTINUE PUMPING UNTIL MAXIMUM RESISTANCE IS FELT.
+7. Alternate Extension Handle - DO NOT LOWER. LEAVE AT THE TOP OF THE UP STROKE.
 
-If one or more green gear-down annunciators do not illuminate for any reason and a decision is made to land in this condition:
+   *Prior to Landing:*
 
-6. Altemate Extension Handle CONTINUE PUMPING UNTIL MAXIMUM RESISTANCE IS FELT .
-7. Altemate Extension Handle DO NOT LOWER LEAVE AT THE TOP OF THE UP STROKE
+8. Alternate Extension Handle - PUMP UNTIL MAXIMUM RESISTANCE IS FELT. DO NOT STOW.
 
-Prior t0 Landing:
+   *After Landing:*
 
-8. Altemate Exxtension Handle PUMP UNTIL MAXIMUM RESISTANCE IS FELT. DO NOT STOW.
+9. Alternate Extension Handle - CONTINUE PUMPING, WHEN CONDITIONS PERMIT, TO MAINTAIN HYDRAULIC PRESSURE UNTIL THE GEAR CAN BE MECHANICALLY SECURED. DO NOT STOW HANDLE. DO NOT ACTIVATE THE LANDING GEAR CONTROL OR THE LANDING GEAR RELAY CIRCUIT BREAKER. THE LANDING GEAR SHOULD BE CONSIDERED UNLOCKED UNTIL THE SYSTEM IS CYCLED AND CHECKED WITH THE AIRPLANE ON JACKS.
 
-After Landing:
+*LANDING GEAR MANUAL EXTENSION (MECHANICAL SYSTEM)*
 
-- Atemate Extension Handle CONTINUE PUMPING, WHEN CONDITIONS PERMIT, TO MAINTAIN HANDLE DO NOT ACTIVATE THE LANDING GEAR CONTROL OR THE LANDING GEAR RELAY CiRCUIT BREAKER: THE LANDING GEAR SHOULD BE CONSIDERED UNLOCKED UNTIL THE SYSTEM IS CYCLED AND CHECKED WITH THE AIRPLANE ON JACKS:
+On airplanes prior to BL-73 and BB-1193 (except BB-1158 and BB-1167) not incorporating Beech Kit P/N 101-8018-1
 
-## LANDING GEAR MANUAL EXTENSION (MECHANICAL SYSTEM)
+*If the landing gear fails to extend after placing the Landing Gear Control down, perform the following:*
 
-On airplanes to BL-73 &amp;nd BB-1193 (except BB-1158 and BB-1167) not incorporating Beech Kit PIN 101-8018-1 prior
+1. Airspeed - ESTABLISH 130 KNOTS
+2. Landing Gear Relay Circuit Breaker (pilot's subpanel) - PULL
+3. Landing Gear Control - DN
+4. Alternate Engage Handle - LIFT AND TURN CLOCKWISE TO THE STOP TO ENGAGE.
+5. Alternate Extension Handle - PUMP UP AND DOWN UNTIL THE THREE GREEN GEAR-DOWN ANNUNCIATORS ARE ILLUMINATED. ADDITIONAL PUMPING WHEN ALL THREE ANNUNCIATORS ARE ILLUMINATED COULD DAMAGE THE DRIVE MECHANISM AND PREVENT SUBSEQUENT ELECTRICAL GEAR RETRACTION.
 
-If the landing gear fails to extend after placing the Landing Gear Control down, perform the following:
+*If all three green gear-down annunciators are illuminated:*
 
-- Airspeed ESTABUSH 130 KNOTS
-2. Landing Gear Relay Circuit Breaker (pilots subpanel) PULL
-- 3 Landing Gear Control DN
-- 4 Altemate Engage Handle LIFT AND TURN CLOCKWISE TO THE STOP TO ENGAGE
-- 5 PUMP UP AND DOWN ANNUNCIATORS ARE ILLUMINATED. ADDITIONAL PUMPING WHEN ALL THREE ANNUNCIATORS ARE ILLUMINATED COULD DAMAGE THE DRIVE MECHANISM AND PREVENT SUBSEQUENT ELECTRICAL GEAR RETRACTION:
+6. Alternate Extension Handle - DO NOT STOW (Proceed to step 8.)
 
-#all three green gear-down annunciators are illuminated:
+*If one or more green gear-down annunciators do not illuminate for any reason and a decision is made to land in this condition:*
 
-6. Altemate Extension Handle
-
-If one Or more green gear-down annunciators do not illuminate for any reason and a decision is made t0 land in this condition:
-
-- Attemate Extension Handle CONTINUE PUMPING UNTIL MAXIMUM RESISTANCE IS FELT, EVVEN
-- 8\_ Landing Gear Controls DO NOT ACTIVATE (The Landing Gear Control and the Landing Gear Circuit Breaker must not be activated: The landing gear should be considered UNSAFE until the system is cycled and checked with the airplane on jacks ) Relay
-
-![Image](KA-200-B200-POH_imagens/p00089_01.png)
+7. Alternate Extension Handle - CONTINUE PUMPING UNTIL MAXIMUM RESISTANCE IS FELT, EVEN THOUGH THIS MAY DAMAGE THE DRIVE MECHANISM.
+8. Landing Gear Controls - DO NOT ACTIVATE (The Landing Gear Control and the Landing Gear Relay Circuit Breaker must not be activated. The landing gear should be considered UNSAFE until the system is cycled and checked with the airplane on jacks.)
 
 ## ENVIRONMENTAL SYSTEMS
 
-## DUCT OVERTEMPERATURE (DUCT OVERTEMP ANNUNCIATOR)
+*DUCT OVERTEMPERATURE (DUCT OVERTEMP ANNUNCIATOR)*
 
-1. Vent Blower HIGH
-2. 2 Cabin and Cockpit Air PUSH IN (to increase airflow to cabin)
+1. Vent Blower - HIGH
+2. Cabin and Cockpit Air - PUSH IN (to increase airflow to cabin)
 
-If Condition Persists:
+*If Condition Persists:*
 
-- Cabin Temp Mode MAN HEAT
-- 4 Manual Temp DECR (for 60 seconds)
+3. Cabin Temp Mode - MAN HEAT
+4. Manual Temp - DECR (for 60 seconds)
 
-If Condition Persists, the Right Bypass Valve Be Inoperative, Preventing Both Valves from Moving to the Colder Position: May
+*If Condition Persists, the Right Bypass Valve May Be Inoperative, Preventing Both Valves from Moving to the Colder Position:*
 
-5. Left Bleed Air Valve
+5. Left Bleed Air Valve - ENVIR OFF
 
-If the DUCT OVERTEMP Annunciator Does Not Extinguish After 2 Minutes:
+*If the DUCT OVERTEMP Annunciator Does Not Extinguish After 2 Minutes:*
 
-6. Oxygen AS REQUIRED
-2. 7 Right Bleed Air Valve ENVIR OFF
-8. Descend as required:
+6. Oxygen - AS REQUIRED
+7. Right Bleed Air Valve - ENVIR OFF
+8. Descend as required.
 
 ## ICE PROTECTION SYSTEMS
 
-## ELECTROTHERMAL PROPELLER DEICE (AUTO SYSTEM)
+*ELECTROTHERMAL PROPELLER DEICE (AUTO SYSTEM)*
 
-Abnormal Readings on Deice Ammeter: (Normal Operation: 14 to 18 amps)
+*Abnormal Readings on Deice Ammeter: (Normal Operation: 14 to 18 amps)*
 
 1. Zero Amps:
-2. a Prop Deice CHECK AUTO
-3. b If OFF, reposition to AUTO after 30 seconds:
-4. If in AUTO position with zero amps reading; system is inoperative: position the switch to OFF.
-- d. Use manual backup system: (No deice ammeter indication monitor loadmeter)
-6. 2 Below 14 amps:
-- a. Continue operation.
-8. b If propeller imbalance occurs, increase rpm briefly to aid in ice removal:
+   a. Prop Deice - CHECK AUTO
+   b. If OFF, reposition to AUTO after 30 seconds.
+   c. If in AUTO position with zero amps reading, system is inoperative: position the switch to OFF.
+   d. Use manual backup system. (No deice ammeter indication - monitor loadmeter)
+2. Below 14 amps:
+   a. Continue operation.
+   b. If propeller imbalance occurs, increase rpm briefly to aid in ice removal.
 3. Over 18 amps:
-10. If the Auto Prop Deice circuit breaker switch does not trip, continue operation.
-11. b\_ If propeller imbalance occurs, increase rpm briefly to aid in ice removal:
-12. If the Auto Prop Deice circuit breaker switch trips, use the manual system. Monitor loadmeter for excessive current drain:
-13. If the Prop Deice Control circuit breaker or the Left or Right Prop Deice circuit breaker trips, avoid icing conditions.
+   a. If the Auto Prop Deice circuit breaker switch does not trip, continue operation.
+   b. If propeller imbalance occurs, increase rpm briefly to aid in ice removal.
+   c. If the Auto Prop Deice circuit breaker switch trips, use the manual system. Monitor loadmeter for excessive current drain.
+   d. If the Prop Deice Control circuit breaker or the Left or Right Prop Deice circuit breaker trips, avoid icing conditions.
 
-## ELECTROTHERMAL PROPELLER DEICE (MANUAL SYSTEM)
+*ELECTROTHERMAL PROPELLER DEICE (MANUAL SYSTEM)*
 
-On Airplanes Prior to BB-829:
+*On Airplanes Prior to BB-829:*
 
-- 1\_ To use manual system; hold switch in OUTER position for approximately 30 seconds, then in INNER position for approximately 30 seconds
-2. Monitor manual system current requirement using the airplane's loadmeters when the switch is in OUTER or INNER. A small needle deflection (approximately 5%) indicating the system is functioning:
+1. To use manual system, hold switch in OUTER position for approximately 30 seconds, then in INNER position for approximately 30 seconds.
+2. Monitor manual system current requirement using the airplane's loadmeters when the switch is in OUTER or INNER. A small needle deflection (approximately 5%) indicating the system is functioning.
 
-Airplanes BB-829 and After; BL-37 and After:
+*Airplanes BB-829 and After, BL-37 and After:*
 
-- 3 To use manual system, hold manual propeller deice switch in MANUAL position for approximately 90 seconds, or until ice is dislodged from blades
-- 4 Monitor manual system current requirement with the airplane's loadmeters when the manual deice switch is in the MANUAL position: A small needle deflection (approximately 5%) indicates the system is functioning:
+3. To use manual system, hold manual propeller deice switch in MANUAL position for approximately 90 seconds, or until ice is dislodged from blades.
+4. Monitor manual system current requirement with the airplane's loadmeters when the manual deice switch is in the MANUAL position. A small needle deflection (approximately 5%) indicates the system is functioning.
 
-## Beech Super King Air B200 &amp; BZOOC Section IIIA Abnormal Procedures
+*ENGINE ICE VANE FAILURE (L or R ICE VANE Annunciator)*
 
-![Image](KA-200-B200-POH_imagens/p00090_01.png)
+1. Ice Vane Control Circuit Breaker - PULL
+2. Airspeed - 140 - 160 KIAS
+3. Manual Extension Handle - PULL OUT (ICE VANE EXT Annunciator Illuminated)
+4. Airspeed - RESUME
 
-ENGINE ICE VANE FAILURE (L or R ICE VANE Annunciator)
+*If ICE VANE EXT Annunciator Does Not Illuminate:*
 
-1. Ice Vane Control Circuit Breaker PULL
-2. 2 Airspeed 140 160 KIAS
-3. Manual Extension Handle PULL OUT (ICE VANE EXT Annunciator Illuminated)
-4. 4\_ Airspeed RESUME
+5. Exit icing conditions.
+6. Manual Extension Handle - PUSH IN (to retract vanes when required)
 
-If ICE VANE EXT Annunciator Does Not Illuminate:
+**CAUTION**
 
-- 5 Exit icing conditions.
-6. Manual Extension Handle PUSH IN (to retract vanes when required)
-
-![Image](KA-200-B200-POH_imagens/p00090_02.png)
-
-Do not activate ice vanes electrically once the manual system has been used until the override linkage has been reset after landing:
+Do not activate ice vanes electrically once the manual system has been used until the override linkage has been reset after landing.
 
 ## NOTE
 
-The ICE VANE fail annunciator will be illuminated any time the position of the ice vane does not match the corresponding switch position. The switch may be repositioned to match the vane position without damaging the linkage as long as the Ice Vane Control circuit breaker is out
+The ICE VANE fail annunciator will be illuminated any time the position of the ice vane does not match the corresponding switch position. The switch may be repositioned to match the vane position without damaging the linkage as long as the Ice Vane Control circuit breaker is out.
 
 ## STATIC AIR SYSTEM
 
-## PILOT'S ALTERNATE STATIC AIR SOURCE
+*PILOT'S ALTERNATE STATIC AIR SOURCE*
 
-THE PILOT'S ALTERNATE STATIC AIR SOURCE SHOULD BE USED FOR CONDITIONS WHERE THE NORMAL STATIC SOURCE HAS BEEN OBSTRUCTED. When the airplane has been exposed to moisture andlor icing conditions (especially on the ground) , the possibility of obstructed static ports should be considered. Partial obstructions will result in the rate of climb indication being sluggish during a climb or descent; Verification of suspected obstruction is possible by switching to the alternate system and noting a sudden sustained change in rate of climb. This may be accompanied by abnormal indicated airspeed and altitude changes beyond normal calibrated differences.
+THE PILOT'S ALTERNATE STATIC AIR SOURCE SHOULD BE USED FOR CONDITIONS WHERE THE NORMAL STATIC SOURCE HAS BEEN OBSTRUCTED. When the airplane has been exposed to moisture and/or icing conditions (especially on the ground), the possibility of obstructed static ports should be considered. Partial obstructions will result in the rate of climb indication being sluggish during a climb or descent. Verification of suspected obstruction is possible by switching to the alternate system and noting a sudden sustained change in rate of climb. This may be accompanied by abnormal indicated airspeed and altitude changes beyond normal calibrated differences.
 
-Whenever any obstruction exists in the Normal Static Air System, or when the Alternate Static Air System is desired for use:
+*Whenever any obstruction exists in the Normal Static Air System, or when the Alternate Static Air System is desired for use:*
 
-- Pilot's Static Air Source (right side panel) ALTERNATE
-- 2 For Airspeed Calibration and Altimeter Correction, refer to Section V, PERFORMANCE
+1. Pilot's Static Air Source (right side panel) - ALTERNATE
+2. For Airspeed Calibration and Altimeter Correction, refer to Section V, PERFORMANCE.
 
 ## NOTE
 
-Be certain the static air valve is in the NORMAL position when the alternate system is not needed:
-
-![Image](KA-200-B200-POH_imagens/p00091_01.png)
+Be certain the static air valve is in the NORMAL position when the alternate system is not needed.
 
 ## CRACKED OR SHATTERED WINDSHIELD
 
-The following procedure should be used when one or more cracks occur in the inner or outer ply of the windshield: The procedure is also applicable if the windshield shatters. This usually occurs in the inner ply and is characterized by a multitude of cracks which will likely obstruct the crew members vision and may produce small particles or flakes of glass that can break free of the windshield.
+The following procedure should be used when one or more cracks occur in the inner or outer ply of the windshield. The procedure is also applicable if the windshield shatters. This usually occurs in the inner ply and is characterized by a multitude of cracks which will likely obstruct the crew members vision and may produce small particles or flakes of glass that can break free of the windshield.
 
-1. Altitude MAINTAIN 25,000 FT OR LESS, IF POSSIBLE
-2. 2 Pressurization Controller RESET
-- a. Cruise and Descent MAINTAIN A CABIN DIFFERENTIAL PRESSURE OF 2.0 TO 4.6 PSI (A cabin differential pressure of 4.6 psi will produce approximately a 10,500-foot cabin altitude at an airplane altitude of 25,000 feet)
-4. b Before Landing DEPRESSURIZE CABIN PRIOR TO TOUCHDOWN
-5. 3 Other In-flight Considerations
-- a. Visibility through a shattered windshield may be sufficiently reduced to dictate flying the airplane from the opposite side of the cockpit.
-7. b Precautions should be taken to prevent particles or flakes of glass from a shattered inner ply of the windshield from interfering with the crew's vision:
-8. A cracked outer windshield ply may damage operating windshield wipers
-9. d Windshield heat may be inoperative in the area of the crack(s).
-10. The structural integrity of the windshield will be maintained.
-4. Postflight Considerations SEE SECTION Il, LIMITATIONS
+1. Altitude - MAINTAIN 25,000 FT OR LESS, IF POSSIBLE
+2. Pressurization Controller - RESET
+   a. Cruise and Descent - MAINTAIN A CABIN DIFFERENTIAL PRESSURE OF 2.0 TO 4.6 PSI (A cabin differential pressure of 4.6 psi will produce approximately a 10,500-foot cabin altitude at an airplane altitude of 25,000 feet)
+   b. Before Landing - DEPRESSURIZE CABIN PRIOR TO TOUCHDOWN
+3. Other In-flight Considerations
+   a. Visibility through a shattered windshield may be sufficiently reduced to dictate flying the airplane from the opposite side of the cockpit.
+   b. Precautions should be taken to prevent particles or flakes of glass from a shattered inner ply of the windshield from interfering with the crew's vision.
+   c. A cracked outer windshield ply may damage operating windshield wipers.
+   d. Windshield heat may be inoperative in the area of the crack(s).
+   e. The structural integrity of the windshield will be maintained.
+4. Postflight Considerations - SEE SECTION II, LIMITATIONS
 
 ## CRACK IN ANY SIDE WINDOW (COCKPIT OR CABIN)
 
-- 1 Altitude DESCEND IF REQUIRED
-- Descend to an altitude not requiring oxygen, if possible, or
-- b Descend to at least 25,000 feet if passengers are on board.
-- Crew and Passengers DON OXYGEN MASKS, IF REQUIRED
-- 3 Pressurization Controller RESET AS REQUIRED TO DEPRESSURIZE CABIN
-- Cabin Pressure Switch DUMP
-5. Postflight Considerations SEE SECTION II, LIMITATIONS
-
-![Image](KA-200-B200-POH_imagens/p00092_01.png)
+1. Altitude - DESCEND IF REQUIRED
+   a. Descend to an altitude not requiring oxygen, if possible, or
+   b. Descend to at least 25,000 feet if passengers are on board.
+2. Crew and Passengers - DON OXYGEN MASKS, IF REQUIRED
+3. Pressurization Controller - RESET AS REQUIRED TO DEPRESSURIZE CABIN
+4. Cabin Pressure Switch - DUMP
+5. Postflight Considerations - SEE SECTION II, LIMITATIONS
 
 ## SEVERE ICING CONDITIONS (Required By FAA AD 96-09-13)
 
 THE FOLLOWING WEATHER CONDITIONS MAY BE CONDUCIVE TO SEVERE IN-FLIGHT ICING:
 
-- Droplets that splash or splatter on impact at temperatures below 0*C ambient air temperature.
+- Visible rain at temperatures below 0°C ambient air temperature.
+- Droplets that splash or splatter on impact at temperatures below 0°C ambient air temperature.
 
-## PROCEDURES FOR EXITING THE SEVERE ICING ENVIRONMENT:
+PROCEDURES FOR EXITING THE SEVERE ICING ENVIRONMENT:
 
-These procedures are applicable to all flight phases from takeoff to landing: Monitor the ambient air temperature. While severe icing may form at temperatures as cold as -18PC , increased vigilance is warranted at temperatures around freezing with visible moisture present. If the visual cues specified in Section Il, LIMITATIONS for identifying severe icing conditions are observed, accomplish the following:
+These procedures are applicable to all flight phases from takeoff to landing. Monitor the ambient air temperature. While severe icing may form at temperatures as cold as -18°C, increased vigilance is warranted at temperatures around freezing with visible moisture present. If the visual cues specified in Section II, LIMITATIONS for identifying severe icing conditions are observed, accomplish the following:
 
-- 1 Immediately request priority handling from Air Traffic Control to facilitate a route or an altitude change to exit the severe icing conditions in order to avoid extended exposure to flight conditions more severe than those for which the airplane has been certificated.
-- Avoid abrupt and excessive maneuvering that may exacerbate control difficulties.
+1. Immediately request priority handling from Air Traffic Control to facilitate a route or an altitude change to exit the severe icing conditions in order to avoid extended exposure to flight conditions more severe than those for which the airplane has been certificated.
+2. Avoid abrupt and excessive maneuvering that may exacerbate control difficulties.
 3. Do not engage the autopilot.
-4. If the autopilot is engaged, hold the control wheel firmly and disengage the autopilot;
-5. If an unusual roll response or uncommanded roll control movement is observed, reduce the angle-ofattack
-- 6 Do not extend during extended operation in icing conditions. Operation with flaps extended can result in a reduced wing angle-of-attack with the possibility of ice forming on the upper surface further aft on the wing than normal, possibly aft of the protected area \_ flaps
-- 7 If the flaps are extended, do not retract them until the airframe is clear of ice
-8. Report these weather conditions to Air Traffic Control:
+4. If the autopilot is engaged, hold the control wheel firmly and disengage the autopilot.
+5. If an unusual roll response or uncommanded roll control movement is observed, reduce the angle-of-attack.
+6. Do not extend flaps during extended operation in icing conditions. Operation with flaps extended can result in a reduced wing angle-of-attack with the possibility of ice forming on the upper surface further aft on the wing than normal, possibly aft of the protected area.
+7. If the flaps are extended, do not retract them until the airframe is clear of ice.
+8. Report these weather conditions to Air Traffic Control.
 
-![Image](KA-200-B200-POH_imagens/p00093_01.png)
+## SECTION IV — NORMAL PROCEDURES TABLE OF CONTENTS
 
-## SECTION IV NORMAL PROCEDURES TABLE OF CONTENTS
+| SUBJECT | PAGE |
+|---|---|
+| **Airspeeds For Safe Operation (12,500 lbs)** | 4-3 |
+| **Procedures By Flight Phase** | 4-3 |
+| Preflight Inspection | 4-3 |
+| Cabin/Cockpit | 4-3 |
+| Left Wing and Nacelle | 4-4 |
+| Nose Section | 4-5 |
+| Right Wing and Nacelle | 4-5 |
+| Right Aft Fuselage | 4-6 |
+| Tail Section | 4-6 |
+| Left Aft Fuselage | 4-7 |
+| Before Engine Starting | 4-7 |
+| Engine Starting (Battery) | 4-9 |
+| Engine Starting (External Power) | 4-10 |
+| Engine Clearing | 4-11 |
+| Before Taxi | 4-11 |
+| Before Takeoff (Runup) | 4-12 |
+| Before Takeoff (Final Items) | 4-14 |
+| Takeoff | 4-14 |
+| Climb | 4-15 |
+| Cruise | 4-15 |
+| Descent | 4-15 |
+| Before Landing | 4-15 |
+| Normal Landing | 4-16 |
+| Maximum Reverse Thrust Landing | 4-16 |
+| Balked Landing | 4-17 |
+| After Landing | 4-17 |
+| Shutdown and Securing | 4-17 |
+| **Other Normal Procedures** | 4-18 |
+| Oxygen System | 4-18 |
+| Preflight Inspection | 4-18 |
+| Heating/Cooling System | 4-20 |
+| Radiant Heat (if installed) | 4-20 |
+| Defroster Air | 4-20 |
+| Blending Anti-icing Additive to Fuel | 4-21 |
+| Adding Biocide to Fuel | 4-21 |
+| Use of Jet B, JP-4, and Aviation Gasoline | 4-21 |
+| Nickel-Cadmium Battery Check (Ground Operation Only) | 4-21 |
+| Cold Weather Procedures (Snow, Slush, and Ice) | 4-22 |
+| Preflight Inspection | 4-22 |
+| Taxiing | 4-22 |
+| Before Takeoff | 4-22 |
+| Takeoff | 4-22A |
+| Landing | 4-22A |
+| Shutdown and Securing | 4-22A |
+| Icing Flight | 4-23 |
+| Before Takeoff (Runup) | 4-23 |
+| In Flight | 4-24 |
+| Before Landing | 4-26 |
+| Practice Demonstration of VMCA | 4-26 |
+| Practice Landing Gear Manual Extension (Mechanical System) | 4-27 |
 
-| SUBJECT                                              | PAGE   |
-|------------------------------------------------------|--------|
-| Airspeeds For Safe Operation (12,500 Ibs)            | 4-3    |
-| Procedures By Flight Phase                           | 4-3    |
-|                                                      |        |
-|                                                      |        |
-| Left Wing and Nacelle                                |        |
-|                                                      |        |
-|                                                      |        |
-|                                                      |        |
-| Tail Section                                         | 4-6    |
-| Left Aft Fuselage                                    |        |
-|                                                      |        |
-| Engine Starting (Battery)                            | 4-9    |
-|                                                      |        |
-|                                                      |        |
-| Before Taxi                                          | 4-11   |
-| Before Takeoff (Runup)                               | 4-12   |
-| Before Takeoff (Final Items)                         | 4-14   |
-| Takeoff                                              |        |
-| Climb                                                | 4-15   |
-|                                                      |        |
-|                                                      |        |
-|                                                      |        |
-|                                                      |        |
-| Maximum Reverse Thrust Landing                       | 4-16   |
-|                                                      |        |
-|                                                      |        |
-| Shutdown and Securing                                | 4-17   |
-|                                                      |        |
-|                                                      |        |
-|                                                      |        |
-|                                                      |        |
-| Defroster Air                                        | 4-20   |
-| Blending Anti-icing Additive to Fuel                 | 4-21   |
-| Adding Biocide to Fuel                               | 4-21   |
-| Use of Jet B, JP-4, and Aviation Gasoline            | 4-21   |
-| Nickel-Cadmium Battery Check (Ground Operation Only) | 4-21   |
-| Cold Weather Procedures (Snow, Slush, and Ice)       | 4-22   |
-| Preflight Inspection                                 | 4-22   |
-| Taxiing                                              | 4-22   |
-| Before Takeoff                                       | 4-22   |
-| Takeoff                                              | 4-22A  |
-| Landing                                              | 4-22A  |
-| Shutdown and Securing                                | 4-22A  |
-|                                                      |        |
-|                                                      |        |
-| In Flight                                            | 4-24   |
-| In Flight                                            | 4-26   |
-|                                                      |        |
-|                                                      | 4-27   |
+## SECTION IV — NORMAL PROCEDURES TABLE OF CONTENTS (CONT'D)
 
-SUBJECT
+| SUBJECT | PAGE |
+|---|---|
+| Landing Gear Retraction After Practice Manual Extension (Mechanical System) | 4-27 |
+| Practice Landing Gear Manual Extension (Hydraulic System) | 4-27 |
+| Landing Gear Retraction After Practice Manual Extension (Hydraulic System) | 4-27 |
+| Simulating One-Engine-Inoperative (Zero Thrust) | 4-28 |
+| Noise Characteristics | 4-28 |
+| Cabin Door Annunciator Circuitry Check (B200) | 4-28 |
+| Cabin/Cargo Door Annunciator Circuitry Check (B200C) | 4-28 |
 
-Practice Landing Gear Manual Extension (Mechanical System):
-
-PAGE
-
-4-27
-
-![Image](KA-200-B200-POH_imagens/p00094_01.png)
-
-## SECTION IV NORMAL PROCEDURES TABLE OF CONTENTS (CONT'D)
-
-| SUBJECT                                                                     | PAGE   |
-|-----------------------------------------------------------------------------|--------|
-| Landing Gear Retraction After Practice Manual Extension (Mechanical System) | 4-27   |
-| Practice Landing Gear Manual Extension (Hydraulic System)                   | 4-27   |
-| Landing Gear Retraction After Practice Manual Extension (Hydraulic System)  | 4-27   |
-| Simulating One-Engine-Inoperative (Zero Thrust)                             | 4-28   |
-| Noise Characteristics                                                       | 4-28   |
-| Cabin Door Annunciator Circuitry Check (8200)                               | 4-28   |
-| Cabin/Cargo Door Annunciator Circuitry Check (B200C)                        | 4-28   |
-
-![Image](KA-200-B200-POH_imagens/p00095_01.png)
-
-airspeeds quoted in this section are indicated airspeeds (IAS) and assume zero instrument error:
+*All airspeeds quoted in this section are indicated airspeeds (IAS) and assume zero instrument error.*
 
 ## AIRSPEEDS FOR SAFE OPERATION (12,500 LBS)
 
-| Maximum Demonstrated Crosswind Component. 25 Knots             |
-|----------------------------------------------------------------|
-| Takeoff (Flaps Up)                                             |
-| Rotation 95 Knots                                              |
-| 50-ft Speed 121 Knots                                          |
-| Takeoff (Flaps Approach)                                       |
-| Rotation 94 Knots                                              |
-| 50-ft Speed 106 Knots                                          |
-| Two-Engine Best Angle-of-Climb (Vx) ~ 100 Knots                |
-| Two-Engine Best Rate-of-Climb (Vy) 125 Knots                   |
-| Cruise Climb:                                                  |
-| Sea Level to 10,000 feet 160 Knots                             |
-| 10,000 to 20,000 feet 140 Knots                                |
-| 20,000 to 25,000 feet 130 Knots                                |
-| 25,000 to 35,000 feet 120 Knots                                |
-| Maximum Airspeed for Effective Windshield Anti-icing 226 Knots |
-| Maneuvering Speed (VA) 181 Knots.                              |
+- Maximum Demonstrated Crosswind Component ................ 25 Knots
+- Takeoff (Flaps Up)
+  - Rotation ................ 95 Knots
+  - 50-ft Speed ................ 121 Knots
+- Takeoff (Flaps Approach)
+  - Rotation ................ 94 Knots
+  - 50-ft Speed ................ 106 Knots
+- Two-Engine Best Angle-of-Climb (VX) ................ 100 Knots
+- Two-Engine Best Rate-of-Climb (VY) ................ 125 Knots
+- Cruise Climb:
+  - Sea Level to 10,000 feet ................ 160 Knots
+  - 10,000 to 20,000 feet ................ 140 Knots
+  - 20,000 to 25,000 feet ................ 130 Knots
+  - 25,000 to 35,000 feet ................ 120 Knots
+- Maximum Airspeed for Effective Windshield Anti-icing ................ 226 Knots
+- Maneuvering Speed (VA) ................ 181 Knots
+- Turbulent Air Penetration ................ 170 Knots
 
-![Image](KA-200-B200-POH_imagens/p00095_02.png)
+**CAUTION**
 
-For  turbulent air penetration, use an airspeed of 170 knots. Avoid over-action on power trim; Do not chase airspeed and altitude. Penetration should be at an altitude which provides adequate maneuvering margins when severe turbulence is encountered.
+For turbulent air penetration, use an airspeed of 170 knots. Avoid over-action on power levers. Turn off autopilot altitude hold. Keep wings level, maintain attitude and avoid use of trim. Do not chase airspeed and altitude. Penetration should be at an altitude which provides adequate maneuvering margins when severe turbulence is encountered.
 
-## Landing Approach:
-
-| Flaps Down 103 Knots                                      |
-|-----------------------------------------------------------|
-| Balked Landing Climb 100 Knots                            |
-| Intentional One-Engine-Inoperative Speed (VSSE) 104 Knots |
-| Air Minimum Control Speed (VMCA) 86 Knots                 |
+- Landing Approach:
+  - Flaps Down ................ 103 Knots
+- Balked Landing Climb ................ 100 Knots
+- Intentional One-Engine-Inoperative Speed (VSSE) ................ 104 Knots
+- Air Minimum Control Speed (VMCA) ................ 86 Knots
 
 ## PROCEDURES BY FLIGHT PHASE
 
@@ -2888,730 +2859,708 @@ Refer to all applicable Beech Supplements and STC Supplements for flight phase p
 
 ## PREFLIGHT INSPECTION
 
-After the first flight of each day, the Preflight Inspection may be omitted except for items marked with a Fuel tank caps and engine oil quantity and filler cap need not be checked unless system(s) were serviced: External inspections with flaps down may be conducted at intervals deemed appropriate by the pilot
+After the first flight of each day, the Preflight Inspection may be omitted except for items marked with a "+". Fuel tank caps and engine oil quantity and filler cap need not be checked unless system(s) were serviced. External inspections with flaps down may be conducted at intervals deemed appropriate by the pilot.
 
-## CABINCOCKPIT
+*CABIN/COCKPIT*
 
-- Monogram Electric Toilet (if installed) KNIFE VALVE OPEN
-- 2 Baggage SECURE
-3. Emergency Exit SECURE AND UNLOCKED
-- 4 Trim Tabs SET TO "0" UNITS
+1. Monogram Electric Toilet (if installed) - KNIFE VALVE OPEN
+2. + Baggage - SECURE
+3. Emergency Exit - SECURE AND UNLOCKED
+4. Trim Tabs - SET TO "0" UNITS
 
-![Image](KA-200-B200-POH_imagens/p00096_01.png)
+**CAUTION**
 
-The elevator trim system must not be forced past the limits which are indicated on the elevator trim indicator scale, either manually, electrically, or by action of the autopilot:
+The elevator trim system must not be forced past the limits which are indicated on the elevator trim indicator scale, either manually, electrically, or by action of the autopilot.
 
-5. Condition Levers FUEL CUT OFF
-6. Landing Gear Control DN
-3. 7 Control Locks REMOVE
-8. Parking Brake SET
-9. Ignition and Engine Start ENSURE OFF
-10. Battery ON, CHECK 23 VOLT MINIMUM
-11. Fuel Quantity CHECK
-8. 12 Flap Control (f desired) APPROACH; THEN DOWN (check indicator)
-13. Battery OFF
-14. Oxygen System Preflight Inspection COMPLETE (See OTHER NORMAL PROCEDURES:)
+5. Condition Levers - FUEL CUT OFF
+6. Landing Gear Control - DN
+7. Control Locks - REMOVE
+8. Parking Brake - SET
+9. Ignition and Engine Start - ENSURE OFF
+10. Battery - ON, CHECK 23 VOLT MINIMUM
+11. Fuel Quantity - CHECK
+12. Flap Control (if desired) - APPROACH, THEN DOWN (check indicator)
+13. Battery - OFF
+14. Oxygen System Preflight Inspection - COMPLETE (See OTHER NORMAL PROCEDURES.)
 
-## LEFT WING AND NACELLE
+*LEFT WING AND NACELLE*
 
-- 1 Door Seal CHECK
-- 2 Flaps CHECK
-3. Oil Breather Vent CLEAR
-4. Brake Lines, Brake Wear, Brake Deice Lines (if installed) CHECK
-5. Fire Extinguisher (if installed ) CHECK PRESSURE
-6. Inverter Cooling Louver CLEAR
-- 7 . Aileron and Tab CHECK
-8. Flush Outboard Wing Fuel Tank Sump DRAIN
-9. Static Wicks (4) CHECK
-10. Navigation, Recognition, &amp; Strobe Lights CHECK
-11. Main Fuel Tank Cap SECURE
-12. Stall Warning Vane CHECK
-13. Tiedown REMOVED
-14. Outboard Deice Boot and Stall Strip CHECK
-15. Ice Light CHECK
-16. Heated Fuel Vent CLEAR
-17. Ram Scoop Fuel Vent CLEAR
-- DRAIN
-19. Inverter Cooling Louvers CLEAR
-20. Wing Leading Edge Tank Sump DRAIN
-- 21 . Landing Gear (Doors, Wheel Well, Strut, Tires, Brakes) CHECK
-22. Chock REMOVE
-23. Standby Pump Drain DRAIN
-24. Fuel Filter Strainer Sump DRAIN
-25. Engine Oil CHECK QUANTITY, CAP SECURE
-26. Engine Compartment Door (Outbd) SECURE, BLEED VALVE EXHAUST CLEAR
-- 27 . Exhaust Stack (Outbd)
-28. Cowling Locks (Outbd) SECURE Top
-29. Nacelle Cooling Ram Air Inlets CLEAR
+1. Door Seal - CHECK
+2. Flaps - CHECK
+3. Oil Breather Vent - CLEAR
+4. + Brake Lines, Brake Wear, Brake Deice Lines (if installed) - CHECK
+5. Fire Extinguisher (if installed) - CHECK PRESSURE
+6. Inverter Cooling Louver - CLEAR
+7. Aileron and Tab - CHECK
+8. Flush Outboard Wing Fuel Tank Sump - DRAIN
+9. Static Wicks (4) - CHECK
+10. Navigation, Recognition, & Strobe Lights - CHECK
+11. + Main Fuel Tank Cap - SECURE
+12. Stall Warning Vane - CHECK
+13. + Tiedown - REMOVED
+14. Outboard Deice Boot and Stall Strip - CHECK
+15. Ice Light - CHECK
+16. Heated Fuel Vent - CLEAR
+17. Ram Scoop Fuel Vent - CLEAR
+18. Gravity Line Drain - DRAIN
+19. Inverter Cooling Louvers - CLEAR
+20. Wing Leading Edge Tank Sump - DRAIN
+21. + Landing Gear (Doors, Wheel Well, Strut, Tires, Brakes) - CHECK
+22. + Chock - REMOVE
+23. Standby Pump Drain - DRAIN
+24. Fuel Filter Strainer Sump - DRAIN
+25. + Engine Oil - CHECK QUANTITY, CAP SECURE
+26. Engine Compartment Door (Outbd) - SECURE, BLEED VALVE EXHAUST CLEAR
+27. Exhaust Stack (Outbd) - CHECK FOR CRACKS
+28. Top Cowling Locks (Outbd) - SECURE
+29. Nacelle Cooling Ram Air Inlets - CLEAR
+30. + Propeller - CHECK FOR NICKS, DEICE BOOT SECURE
+31. Engine Intake - CLEAR
+32. Top Cowling Locks (Inbd) - SECURE
+33. Exhaust Stack (Inbd) - CHECK FOR CRACKS
+34. Generator Cooling Inlet - CLEAR
+35. Engine Compartment Door (Inbd) - SECURE, BLEED VALVE EXHAUST CLEAR
+36. Heat Exchanger Inlet - CLEAR
+37. + Auxiliary Fuel Tank Cap - SECURE
+38. Hydraulic Landing Gear Service Door (if installed) - SECURE
+39. Inboard Deice Boot - CHECK
+40. Heat Exchanger Outlet - CLEAR
+41. Hydraulic Landing Gear Vent Lines (if installed) - CLEAR
+42. Auxiliary Fuel Tank Sump - DRAIN
+43. Lower Antennas and Beacon - CHECK
 
-![Image](KA-200-B200-POH_imagens/p00096_02.png)
+*NOSE SECTION*
 
-![Image](KA-200-B200-POH_imagens/p00097_01.png)
+1. OAT Probe (Lower Fuselage) - CHECK
+2. Avionics Panel - SECURE
+3. Condenser Blower Outlet - CLEAR
+4. + Nose Gear (Doors, Strut, Nose Gear Steering Stop Block, Tire, Wheel Well) - CHECK
+5. + Chock - REMOVE
+6. Landing and Taxi Lights - CHECK
+7. Pitot Masts - COVERS REMOVED, CLEAR
+8. Radome - CHECK
+9. Windshield Wipers - CHECK
+10. Ram Air Inlet - CLEAR
+11. Avionics Panel - SECURE
 
-30. Propeller CHECK FOR NICKS, DEICE BOOT SECURE
-2. 31 . Engine Intake CLEAR
-32. Cowling Locks (Inbd) SECURE Top
-33. Exhaust Stack (Inbd) CHECK FOR CRACKS
-34. Generator Cooling Inlet CLEAR
-35. Engine Compartment Door (Inbd) SECURE, BLEED VALVE EXHAUST CLEAR
-36. Heat Exchanger Inlet CLEAR
-8. 37 . Auxiliary Fuel Tank Cap SECURE
-38. Hydraulic Landing Gear Service Door (if installed) SECURE
-39. Inboard Deice Boot CHECK
-40. Heat Exchanger Outlet CLEAR
-41. Hydraulic Landing Gear Vent Lines (if installed) CLEAR
-42. Auxiliary Fuel Tank Sump DRAIN
-43. Lower Antennas and Beacon CHECK
+*RIGHT WING AND NACELLE*
 
-## NOSE SECTION
+1. Auxiliary Fuel Tank Sump - DRAIN
+2. Battery Drain - CLEAR
+3. Battery Air Inlet - CLEAR, VALVE FREE
+4. Heat Exchanger Outlet - CLEAR
+5. Inboard Deice Boot - CHECK
+6. Battery Exhaust - CLEAR
+7. + Auxiliary Fuel Tank Cap - SECURE
+8. Heat Exchanger Inlet - CLEAR
+9. + Engine Oil - CHECK QUANTITY, CAP SECURE
+10. Engine Compartment Door (Inbd) - SECURE, BLEED VALVE EXHAUST CLEAR
+11. Exhaust Stack (Inbd) - CHECK FOR CRACKS
+12. Top Cowling Locks (Inbd) - SECURE
+13. Nacelle Cooling Ram Air Inlets - CLEAR
+14. + Propeller - CHECK FOR NICKS, DEICE BOOT SECURE
+15. Engine Intake - CLEAR
+16. Top Cowling Locks (Outbd) - SECURE
+17. Exhaust Stack (Outbd) - CHECK FOR CRACKS
+18. Generator Cooling Inlet - CLEAR
+19. Engine Compartment Door (Outbd) - SECURE, BLEED VALVE EXHAUST CLEAR
+20. Fuel Filter Strainer Sump - DRAIN
+21. Standby Pump Drain - DRAIN
+22. + Landing Gear (Doors, Wheel Well, Strut, Tires, Brakes) - CHECK
+23. Fire Extinguisher (if installed) - CHECK PRESSURE
+24. + Chock - REMOVE
+25. Heated Fuel Vent - CLEAR
+26. Ram Scoop Fuel Vent - CLEAR
+27. Gravity Line Drain - DRAIN
+28. Inverter Cooling Louvers - CLEAR
+29. Wing Leading Edge Tank Sump - DRAIN
+30. + External Power Door - CLOSED
+31. Ice Light - CHECK
+32. Outboard Deice Boot and Stall Strip - CHECK
+33. + Tiedown - REMOVE
+34. Flush Outboard Wing Fuel Tank Sump - DRAIN
+35. + Main Fuel Tank Cap - SECURE
+36. Navigation, Recognition, and Strobe Lights - CHECK
+37. Static Wicks (4) - CHECK
+38. Aileron and Bendable Tab - CHECK
+39. Flaps - CHECK
+40. Inverter Cooling Louver - CLEAR
+41. + Brake Lines, Brake Wear, Brake Deice Lines (if installed) - CHECK
+42. Oil Breather Vent - CLEAR
 
-- 1 OAT Probe (Lower Fuselage) CHECK
-2. Avionics Panel SECURE
-3. Condenser Blower Outlet CLEAR
-4. Nose Gear (Doors, Strut, Nose Gear Steering Stop Block; Tire, Wheel Well) CHECK
-5. Chock REMOVE
-6. Landing and Taxi Lights CHECK
-- 7 . Pitot Masts COVERS REMOVED, CLEAR
-8. Radome CHECK
-- Windshield Wipers CHECK
-10. Ram Air Inlet CLEAR
-11. Avionics Panel SECURE
+*RIGHT AFT FUSELAGE*
 
-## RIGHT WING AND NACELLE
+1. Lower Antennas - CHECK
+2. Ventral Fin Drain Holes - CLEAR
+3. Lower Aft Cabin Access Door - SECURE
+4. + Tiedown - REMOVED
+5. Oxygen Service Access Door - SECURE
+6. Static Ports - CLEAR
+7. ELT - ARMED
+8. Cabin Air Exhaust - CLEAR
+9. Access Panel - SECURE
 
-- Auxiliary Fuel Tank DRAIN Sump
-2. Battery Drain CLEAR
-3. Battery Air Inlet CLEAR; VALVE FREE
-4. Heat Exchanger Outlet CLEAR
-5. Inboard Deice Boot CHECK
-6. Battery Exhaust CLEAR
-- 7 . Auxiliary Fuel Tank SECURE Cap
-8. Heat Exchanger Inlet CLEAR
-9. Engine Oil CHECK QUANTITY, CAP SECURE
-10. Engine Compartment Door (Inbd) SECURE, BLEED VALVE EXHAUST CLEAR
-11. Exhaust Stack (Inbd) CHECK FOR CRACKS
-12. Top Cowling Locks (Inbd) SECURE
-13. Nacelle Cooling Ram Air Inlets CLEAR
-14. Propeller CHECK FOR NICKS, DEICE BOOT SECURE
-15. Engine Intake CLEAR
-16. Cowling Locks (Outbd) SECURE Top
-17. Exhaust Stack (Outbd) CHECK FOR CRACKS
+*TAIL SECTION*
 
-18. Generator Cooling Inlet CLEAR
-19. Engine Compartment Door (Outbd) SECURE, BLEED VALVE EXHAUST CLEAR
-20. Fuel Filter Strainer Sump DRAIN
-21. Standby Pump Drain DRAIN
-22. Landing Gear (Doors, Wheel Well; Strut; Tires, Brakes) CHECK
-23. Fire Extinguisher (if installed) CHECK PRESSURE
-24. Chock REMOVE
-25. Heated Fuel Vent CLEAR
-26. Ram Scoop Fuel Vent CLEAR
-10. 27 . Gravity Line Drain DRAIN
-28. Inverter Cooling Louvers CLEAR
-29. Wing Leading Edge Tank Sump DRAIN
-30. External Power Door CLOSED
-14. 31 . Ice Light CHECK
-15. Outboard Deice Boot and Stall Strip CHECK
-33. Tiedown REMOVE
-34. Flush Outboard Wing Fuel Tank Sump DRAIN
-35. Main Fuel Tank Cap SECURE
-36. Navigation, Recognition, and Strobe Lights CHECK
-20. 37 . Static Wicks (4) CHECK
-38. Aileron and Bendable Tab CHECK
-39. Flaps CHECK
-40. Inverter Cooling Louver CLEAR
-41. Brake Lines, Brake Wear, Brake Deice Lines (if installed) CHECK
-25. 42 Oil Breather Vent CLEAR
-1. Lower Antennas CHECK
-27. 2 Ventral Fin Drain Holes CLEAR
-3. Lower Aft Cabin Access Door SECURE
-29. 4 Tiedown REMOVED
-5. Oxygen Service Access Door SECURE
-31. 6\_ Static Ports CLEAR
-32. 7 . ELT ARMED
-8. Cabin Air Exhaust CLEAR
-9. Access Panel SECURE
-
-## TAIL SECTION
-
-1. Ventral Fin and Static Wick (1) CHECK
-2. VOR antennas (Right and Left) CHECK
-3. Rudder; Rudder Tab, Stinger and Static Wicks (4) CHECK
-4. 4 Horizontal Stabilizer, Boots and Static Wick (Right and Left) CHECK
-5. Elevator; Tab, and Static Wicks (3 Each Side) CHECK Verify Tabs are in "0" (Neutral) Position:
+1. Ventral Fin and Static Wick (1) - CHECK
+2. VOR antennas (Right and Left) - CHECK
+3. Rudder, Rudder Tab, Stinger and Static Wicks (4) - CHECK
+4. Horizontal Stabilizer, Boots and Static Wick (Right and Left) - CHECK
+5. Elevator, Tab, and Static Wicks (3 Each Side) - CHECK. Verify Tabs are in "0" (Neutral) Position.
 
 ## NOTE
 
-The elevator trim tab "0 (neutral) position is determined by observing that the trailing edge of the elevator trim tab aligns with the trailing edge of the elevator when the elevator is resting against the down stops:
+The elevator trim tab "0" (neutral) position is determined by observing that the trailing edge of the elevator trim tab aligns with the trailing edge of the elevator when the elevator is resting against the down stops.
 
-- 6 Position Light, Tail Floodlights (Lett and Right Installed) CHECK
+6. Position Light, Tail Floodlights (Left and Right If installed) - CHECK
 
-## LEFT AFT FUSELAGE
+*LEFT AFT FUSELAGE*
 
-1. Access Panel SECURE
-2. Static Ports CLEAR
-3. Drains (Aft Compartment, Oxygen Discharge, Relief Tube) CLEAR
+1. Access Panel - SECURE
+2. Static Ports - CLEAR
+3. Drains (Aft Compartment, Oxygen Discharge, Relief Tube) - CLEAR
 
 ## BEFORE ENGINE STARTING
 
 ## NOTE
 
-Items marked with an may be omitted at pilot's discretion after the first flight of each day:
+Items marked with an "\*" may be omitted at pilot's discretion after the first flight of each day.
 
-1. Cabin Door (B2O0) or Cabin Door/Cargo Door (B2OOC) Circuitry Check COMPLETE (See OTHER NORMAL PROCEDURESL)
-2. LOCKED (See OTHER NORMAL PROCEDURES )
+1. \* Cabin Door (B200) or Cabin Door/Cargo Door (B200C) Circuitry Check - COMPLETE (See OTHER NORMAL PROCEDURES.)
+2. Cabin Door (B200) or Cabin Door/Cargo Door (B200C) - LOCKED (See OTHER NORMAL PROCEDURES.)
 
-![Image](KA-200-B200-POH_imagens/p00099_01.png)
+**WARNING**
 
-crew member must close and lock the door:
+A crew member must close and lock the door.
 
-3. Monogram Electric Toilet (f installed) CONFIRM KNIFE VALVE OPEN
-4. Load and Baggage CONFIRM SECURE
-5. Weight and C.G. CHECKED
-6. Seats POSITIONED (SEATBACKS UPRIGHT, LATERAL-TRACKING SEATS OUTBOARD POSITION)
-5. Emergency Exit CONFIRM SECURE AND UNLOCKED
-6. 8 Passenger Briefing COMPLETE
-9. Control Locks CONFIRM REMOVED
-10. Seats and Rudder Pedals ADJUSTED
-11. Seatbelts and Shoulder Haresses FASTENED
-12. Oxygen System Ready PULL ON
-13. Oxygen System Preflight Inspection CONFIRM COMPLETE (See OTHER NORMAL PROCEDURES )
-12. 14\_ Fuel Panel Circuit Breakers IN
-15. Pilot's Instrument Panel CHECK
-14. a\_ Compass Control SLAVED
-16. Pilot's Clock (Control Wheel) CHECK AND SET
-17. Pilot's Subpanel CHECK
-17. a Mic Selector Switch NORMAL
-18. b\_ Parking Brake CONFIRM SET
-19. C\_ Engine Ice Vane Switches EXTEND
-20. ON
+3. \* Monogram Electric Toilet (if installed) - CONFIRM KNIFE VALVE OPEN
+4. Load and Baggage - CONFIRM SECURE
+5. Weight and C.G. - CHECKED
+6. Seats - POSITIONED (SEATBACKS UPRIGHT, LATERAL-TRACKING SEATS - OUTBOARD POSITION)
+7. Emergency Exit - CONFIRM SECURE AND UNLOCKED
+8. Passenger Briefing - COMPLETE
+9. Control Locks - CONFIRM REMOVED
+10. Seats and Rudder Pedals - ADJUSTED
+11. Seatbelts and Shoulder Harnesses - FASTENED
+12. Oxygen System Ready - PULL ON
+13. \* Oxygen System Preflight Inspection - CONFIRM COMPLETE (See OTHER NORMAL PROCEDURES.)
+14. Fuel Panel Circuit Breakers - IN
+15. Pilot's Instrument Panel - CHECK
+    a. Compass Control - SLAVED
+    b. Prop Sync Switch (if installed) TYPE I - OFF; TYPE II - ON
+16. \* Pilot's Clock (Control Wheel) - CHECK AND SET
+17. Pilot's Subpanel - CHECK
+    a. Mic Selector Switch - NORMAL
+    b. Parking Brake - CONFIRM SET
+    c. Engine Ice Vane Switches - EXTEND
 
 ## NOTE
 
-The engine ice vanes should be extended for all ground operations t0 minimize ingestion of ground debris. Turn engine anti-ice off; when required, to maintain oil temperature within lim - its.
+The engine ice vanes should be extended for all ground operations to minimize ingestion of ground debris. Turn engine anti-ice off, when required, to maintain oil temperature within limits.
 
-- d. Pilot Air Control AS REQUIRED
-2. Defrost Air Control AS REQUIRED
-3. Landing Gear Control DN
-- g.  Landing Gear Circuit Breaker IN Relay
-5. h All Other Switches OFF
-18. Avionics Panel Switches AS REQUIRED
-7. Radar OFF OR STANDBY
-19. Power Console CHECK
-9. a Power Levers IDLE, FRICTION SET
-10. b Propeller Levers FULL FORWARD, FRICTION SET
-11. Condition Levers FUEL CUT OFF , FRICTION SET
-12. d: Elevator, Aileron, and Rudder Trim Controls SET
-- e. Landing Gear Alternate Extension Handle STOWED
-20. Pedestal CHECK
-15. a EFIS Power Switches (f installed) OFF
-16. EFIS Reversionary Switches (f installed) NORMAL
-- C. Cabin Pressure Switch PRESS
-- d. Rudder Boost Switch ON
-19. Elevator Trim Switch ON
-20. Pressurization Controller SET
-21. Copilots Instrument Panel CHECK
-22. Compass Control SLAVED
-22. Copilots Clock (Control Wheel) CHECK AND SET
-23. Copilots Subpanel CHECK
-25. Cabin Sign NO SMOKE FSB
-26. b Vent Blower Switch AUTO
-27. C Bleed Air Valve Switches OPEN OR ENVIR OFF
-28. d Cabin Temp Mode Control OFF
-29. Cabin/Cockpit Air Control AS REQUIRED
-30. f Copilot Air Control AS REQUIRED
-31. Mic Selector Switch NORMAL
-32. h Oxygen Pressure CONFIRM
-33. AIl Other Switches OFF
-24. Copilot's Circuit Breaker Panel CHECK
-25. Pilot's Static Air Source NORMAL
-26. Fire Extinguisher (Under Copilot's Chair) CHECK
-37. 27 . Fuel Panel CHECK
-38. a Battery ON (L &amp; R FUEL PRESS,; L &amp; R ICE VANE EXT annunciators ILLUMINATED)
-- b. Firewall Shutoff Valves CLOSE
-40. C Standby Pumps ON (Listen For Operation, L &amp; R FUEL PRESS annunciators ILLUMINATED)
-- d. Firewall Shutoff Valves OPEN (L &amp; R FUEL PRESS annunciators EXTINGUISHED)
-
-![Image](KA-200-B200-POH_imagens/p00100_01.png)
-
-![Image](KA-200-B200-POH_imagens/p00101_01.png)
-
-- e. Standby Pumps OFF (L &amp; R FUEL PRESS annunciators ILLUMINATED)
-2. Crossfeed ALTERNATELY LEFT AND RIGHT (FUEL CROSSFEED annunciator ILLUMINATED, L &amp; R FUEL PRESS annunciators EXTINGUISHED)
-3. g: Crossteed OFF
-- h. Auxiliary Tank Transfer AUTO
-5. No Transfer Lights PRESS TO TEST (if extinguished)
-6. Fuel Quantity (Main and Auxiliary) CHECK
-28. Landing Gear Handle Lights PRESS TO TEST
-29. Hydraulic Fluid Sensor (if installed) TEST (HYD FLUID LOW annunciator ILLUMINATED)
-9. 30\_ Beacon ON
-31. DC Volt/Loadmeters PRESS TO CHECK VOLTAGE (23 volt minimum)
-32. Annunciators TEST
-33. Stall Warning TEST
-34. Fire Detectors and Fire Extinguishers (if installed) TEST
+- d. Pilot Air Control - AS REQUIRED
+    e. Defrost Air Control - AS REQUIRED
+    f. Landing Gear Control - DN
+    g. Landing Gear Relay Circuit Breaker - IN
+    h. All Other Switches - OFF
+18. Avionics Panel Switches - AS REQUIRED
+    - Radar - OFF OR STANDBY
+19. Power Console - CHECK
+    a. Power Levers - IDLE, FRICTION SET
+    b. Propeller Levers - FULL FORWARD, FRICTION SET
+    c. Condition Levers - FUEL CUT OFF, FRICTION SET
+    d. Elevator, Aileron, and Rudder Trim Controls - SET
+    e. Landing Gear Alternate Extension Handle - STOWED
+20. Pedestal - CHECK
+    a. EFIS Power Switches (if installed) - OFF
+    b. EFIS Reversionary Switches (if installed) - NORMAL
+    c. Cabin Pressure Switch - PRESS
+    d. Rudder Boost Switch - ON
+    e. Elevator Trim Switch - ON
+    f. Pressurization Controller - SET
+21. Copilot's Instrument Panel - CHECK
+    - Compass Control - SLAVED
+22. \* Copilot's Clock (Control Wheel) - CHECK AND SET
+23. Copilot's Subpanel - CHECK
+    a. Cabin Sign - NO SMOKE & FSB
+    b. Vent Blower Switch - AUTO
+    c. Bleed Air Valve Switches - OPEN OR ENVIR OFF
+    d. Cabin Temp Mode Control - OFF
+    e. Cabin/Cockpit Air Control - AS REQUIRED
+    f. Copilot Air Control - AS REQUIRED
+    g. Mic Selector Switch - NORMAL
+    h. Oxygen Pressure - CONFIRM
+    i. All Other Switches - OFF
+24. Copilot's Circuit Breaker Panel - CHECK
+25. \* Pilot's Static Air Source - NORMAL
+26. \* Fire Extinguisher (Under Copilot's Chair) - CHECK
+27. Fuel Panel - CHECK
+    a. Battery - ON (L & R FUEL PRESS, L & R ICE VANE EXT annunciators - ILLUMINATED)
+    b. \* Firewall Shutoff Valves - CLOSE
+    c. \* Standby Pumps - ON (Listen For Operation, L & R FUEL PRESS annunciators - ILLUMINATED)
+    d. \* Firewall Shutoff Valves - OPEN (L & R FUEL PRESS annunciators - EXTINGUISHED)
+    e. \* Standby Pumps - OFF (L & R FUEL PRESS annunciators - ILLUMINATED)
+    f. \* Crossfeed - ALTERNATELY LEFT AND RIGHT (FUEL CROSSFEED annunciator - ILLUMINATED, L & R FUEL PRESS annunciators - EXTINGUISHED)
+    g. \* Crossfeed - OFF
+    h. \* Auxiliary Tank Transfer - AUTO
+    i. \* No Transfer Lights - PRESS TO TEST (if extinguished)
+    j. Fuel Quantity (Main and Auxiliary) - CHECK
+28. \* Landing Gear Handle Lights - PRESS TO TEST
+29. \* Hydraulic Fluid Sensor (if installed) - TEST (HYD FLUID LOW annunciator ILLUMINATED)
+30. Beacon - ON
+31. DC Volt/Loadmeters - PRESS TO CHECK VOLTAGE (23 volt minimum)
+32. \* Annunciators - TEST
+33. \* Stall Warning - TEST
+34. \* Fire Detectors and Fire Extinguishers (if installed) - TEST
 
 ## ENGINE STARTING (BATTERY)
 
-1. Right Ignition and Engine Start ON (R FUEL PRESS annunciator EXTINGUISHED)
-2. Right Condition Lever LOW IDLE (at 12% N1 or above)
-3. ITT and N1
+1. Right Ignition and Engine Start - ON (R FUEL PRESS annunciator - EXTINGUISHED)
+2. Right Condition Lever - LOW IDLE (at 12% N1 or above)
+3. ITT and N1 - MONITOR (1000°C maximum)
 
-![Image](KA-200-B200-POH_imagens/p00101_02.png)
+**CAUTION**
 
-If no ITT rise is observed within 10 seconds after moving the Condition Lever to LOW IDLE, move the Condition Lever to CUT OFF. Allow 60 seconds for fuel t0 drain and starter t0 cool, then follow ENGINE CLEARING procedures:
+If no ITT rise is observed within 10 seconds after moving the Condition Lever to LOW IDLE, move the Condition Lever to CUT OFF. Allow 60 seconds for fuel to drain and starter to cool, then follow ENGINE CLEARING procedures.
 
-- 4\_ Right Oil Pressure CHECK
-5. Right Condition Lever HIGH IDLE
-- 6 Right Ignition and Engine Start OFF (at 50% N, or above)
-- 7 Right Generator 1 sec) then ON (charge battery until loadmeter reads approximately 50% or less)
-
-## NOTE
-
-In order to turn the generator ON, the generator control switch must be held in the springloaded RESET position for a minimum of one second, then released to ON:
+4. Right Oil Pressure - CHECK
+5. Right Condition Lever - HIGH IDLE
+6. Right Ignition and Engine Start - OFF (at 50% N1 or above)
+7. Right Generator - RESET, (HOLD for 1 sec) then ON (charge battery until loadmeter reads approximately 50% or less)
 
 ## NOTE
 
-The BATTERY CHARGE annunciator will illuminate approximately 6 seconds after the erator is on the line\_ If the annunciator does not extinguish within 5 minutes, refer to NICKELCADMIUM BATTERY CHECK procedure (see OTHER NORMAL PROCEDURES): gen-
+In order to turn the generator ON, the generator control switch must be held in the spring-loaded RESET position for a minimum of one second, then released to ON.
 
-8. Right Generator OFF
-9. Left Ignition and Engine Start ON (L FUEL PRESS annunciator EXTINGUISHED)
+## NOTE
+
+The BATTERY CHARGE annunciator will illuminate approximately 6 seconds after the generator is on the line. If the annunciator does not extinguish within 5 minutes, refer to NICKEL-CADMIUM BATTERY CHECK procedure (see OTHER NORMAL PROCEDURES).
+
+8. Right Generator - OFF
+9. Left Ignition and Engine Start - ON (L FUEL PRESS annunciator - EXTINGUISHED)
 10. As Left N1 rpm accelerates thru 12%:
-4. a Left Condition Lever LOW IDLE
-5. b Right Generator ON
-11. ITT and N1 MONITOR (1000C maximum)
-12. Left Oil Pressure CHECK
-
-13. Left Ignition and Engine Start OFF (at 50% N1 or above)
-14. D.C. VoltLoadmeters PRESS TO CHECK VOLTAGE (27.5-29.0 volts)
-15. Left Generator RESET, (HOLD for 1 sec) THEN ON
-16. Right Condition Lever REDUCE TO LOW IDLE or as required for air conditioner
+    a. Left Condition Lever - LOW IDLE
+    b. Right Generator - ON
+11. ITT and N1 - MONITOR (1000°C maximum)
+12. Left Oil Pressure - CHECK
+13. Left Ignition and Engine Start - OFF (at 50% N1 or above)
+14. D.C. Volt/Loadmeters - PRESS TO CHECK VOLTAGE (27.5-29.0 volts)
+15. Left Generator - RESET, (HOLD for 1 sec) THEN ON
+16. Right Condition Lever - REDUCE TO LOW IDLE or as required for air conditioner.
 
 ## ENGINE STARTING (EXTERNAL POWER)
 
-![Image](KA-200-B200-POH_imagens/p00102_01.png)
+**CAUTION**
 
-NEVER CONNECT AN EXTERNAL POWER SOURCE TO THE AIRPLANE UNLESS A BATTERY INDICATING A CHARGE OF AT LEAST 20 VOLTS IS IN THE AIRPLANE. If the battery voltage is less than 20 volts, the battery must be recharged, or replaced with a battery indicating at least 20 volts, before connecting external power: Only use an external power source fitted with an
-
-## NOTE
-
-When an external power source is used, it must be set to 28.0 to 28.4 volts and be capable of producing 1000 amperes momentarily and 300 amps continuously: The battery should be On to absorb transients present in some auxiliary power units. An EXT PWR annunciator is provided to alert the crew when an external DC power plug is connected to the airplane.
-
-- Avionics Master Switch CONFIRM OFF
-2. Left and Right Generator Switches CONFIRM OFF
-- 3 Battery ON
-4. External Power Source TURN OFF , then CONNECT TO AIRPLANE
-5. External Power Source TURN ON
-6. Voltmeter 28.0 TO 28.4 VOLTS
+NEVER CONNECT AN EXTERNAL POWER SOURCE TO THE AIRPLANE UNLESS A BATTERY INDICATING A CHARGE OF AT LEAST 20 VOLTS IS IN THE AIRPLANE. If the battery voltage is less than 20 volts, the battery must be recharged, or replaced with a battery indicating at least 20 volts, before connecting external power. Only use an external power source fitted with an AN-type plug.
 
 ## NOTE
 
-approximately 6 seconds atter the external power is on the line If the annunciator does not extinguish within 5 minutes, refer to the NICKEL-CADMIUM BATTERY CHECK procedure (see OTHER NORMAL PROCEDURES):
+When an external power source is used, it must be set to 28.0 to 28.4 volts and be capable of producing 1000 amperes momentarily and 300 amps continuously. The battery should be On to absorb transients present in some auxiliary power units. An EXT PWR annunciator is provided to alert the crew when an external DC power plug is connected to the airplane.
 
-- 7 Propeller Levers FEATHER
-8. Right Ignition and Engine Start ON (R FUEL PRESS Annunciator EXTINGUISHED)
-- 9 LOW IDLE (at 12% Nz or above)
-10. ITT and Nt MONITOR (1000*C maximum)
+1. Avionics Master Switch - CONFIRM OFF
+2. Left and Right Generator Switches - CONFIRM OFF
+3. Battery - ON
+4. External Power Source - TURN OFF, then CONNECT TO AIRPLANE
+5. External Power Source - TURN ON
+6. Voltmeter - 28.0 TO 28.4 VOLTS
 
-![Image](KA-200-B200-POH_imagens/p00102_02.png)
+## NOTE
 
-If no ITT rise is observed within 10 seconds after moving the Condition Lever to LOW IDLE, move the Condition Lever to FUEL CUT OFF, Allow 60 seconds for fuel t0 drain and starter to cool, then follow ENGINE CLEARING procedures:
+If the battery is partially discharged, the BATTERY CHARGE annunciator will illuminate approximately 6 seconds after the external power is on the line. If the annunciator does not extinguish within 5 minutes, refer to the NICKEL-CADMIUM BATTERY CHECK procedure (see OTHER NORMAL PROCEDURES).
 
-11. Right Oil Pressure CHECK
-12. Right Ignition and Engine Start OFF (at 50% Nt or above)
-13. Left Ignition and Engine Start ON (L FUEL PRESS Annunciator EXTINGUISHED)
-14. Left Condition Lever LOW IDLE (at 12% N1 or above)
+7. Propeller Levers - FEATHER
+8. Right Ignition and Engine Start - ON (R FUEL PRESS Annunciator - EXTINGUISHED)
+9. Right Condition Lever - LOW IDLE (at 12% N1 or above)
+10. ITT and N1 - MONITOR (1000°C maximum)
 
-15. ITT and N1 MONITOR (1OOOPC maximum)
-16. Left Oil Pressure CHECK
-3. 17 . Left Ignition and Engine Start OFF (at 50% N1 or above)
-4. 18 External Power Source TURN OFF, DISCONNECT , SECURE DOOR
-19. Left and Right Generators RESET, (HOLD for 1 sec) THEN ON
-6. 20\_ Propeller Levers FULL FORWARD
+**CAUTION**
+
+If no ITT rise is observed within 10 seconds after moving the Condition Lever to LOW IDLE, move the Condition Lever to FUEL CUT OFF. Allow 60 seconds for fuel to drain and starter to cool, then follow ENGINE CLEARING procedures.
+
+11. Right Oil Pressure - CHECK
+12. Right Ignition and Engine Start - OFF (at 50% N1 or above)
+13. Left Ignition and Engine Start - ON (L FUEL PRESS Annunciator - EXTINGUISHED)
+14. Left Condition Lever - LOW IDLE (at 12% N1 or above)
+
+15. ITT and N1 - MONITOR (1000°C maximum)
+16. Left Oil Pressure - CHECK
+17. Left Ignition and Engine Start - OFF (at 50% N1 or above)
+18. External Power Source - TURN OFF, DISCONNECT, SECURE DOOR
+19. Left and Right Generators - RESET, (HOLD for 1 sec) THEN ON
+20. Propeller Levers - FULL FORWARD
 
 ## ENGINE CLEARING
 
-The following procedure is used to clear an engine at any it is deemed necessary to remove internally trapped fuel and vapor; or if there is evidence of a fire within the engine. Air passing through the engine serves to purge fuel, vapor; or fire from the combustion section, gas generator turbine, turbines and exhaust system power
+The following procedure is used to clear an engine at any time it is deemed necessary to remove internally trapped fuel and vapor, or if there is evidence of a fire within the engine. Air passing through the engine serves to purge fuel, vapor, or fire from the combustion section, gas generator turbine, power turbines and exhaust system.
 
-- 1 . Condition Lever FUEL CUT OFF
-- 2 Ignition and Engine Start STARTER ONLY (for a maximum of 40 seconds)
+1. Condition Lever - FUEL CUT OFF
+2. Ignition and Engine Start - STARTER ONLY (for a maximum of 40 seconds)
 
-![Image](KA-200-B200-POH_imagens/p00103_01.png)
+**CAUTION**
 
 Do not exceed the starter time limits; see Section II, LIMITATIONS.
 
-- 3 Ignition and Engine Start OFF
+3. Ignition and Engine Start - OFF
 
 ## BEFORE TAXI
 
 ## NOTE
 
-Items marked with an may be omitted at pilot's discretion after the first flight of the day:
+Items marked with an "\*" may be omitted at pilot's discretion after the first flight of the day.
 
 ## NOTE
 
-If excessive ITTs occur during any one of the following conditions, adjust the condition levers to a higher N1 speed.
+If excessive ITT's occur during any one of the following conditions, adjust the condition levers to a higher N1 speed.
 
+- When high generator loads are required.
 - During operations at high ambient air temperatures.
-- When high generator loads are required
-- During operations at high field elevations
+- During operations at high field elevations.
 
-If excessive ITTs are encountered, particularly if accompanied by a decreasing N+, the associated generator should be turned off prior to attempting to accelerate the engine. If the right ITT is high, also turn off the air conditioner by selecting the CABIN TEMP MODE switch to OFF.
+If excessive ITT's are encountered, particularly if accompanied by a decreasing N1, the associated generator should be turned off prior to attempting to accelerate the engine. If the right ITT is high, also turn off the air conditioner by selecting the CABIN TEMP MODE switch to OFF.
 
-- Inverters CHECK (Volts/Freq 105-120 V/380-420Hz)
-- a. Either Inverter SELECT (Check Volts, Freq; INVERTER annunciator EXTINGUISHED)
-- b Other Inverter SELECT (Check Volts, Freq, INVERTER annunciator EXTINGUISHED)
-2. Inverter SELECT NO. 1 OR NO. 2
-3. Loadmeters PARALLEL WITHIN 10%
-4. Avionics Master ON
-5. EFIS Power (f installed) ON
-6. External Lights AS REQUIRED
-- 7 . Cabin Lights AS REQUIRED
-- 8 Bleed Air Valves OPEN OR ENVIR OFF AS REQUIRED
-9. Cabin Temp Mode AUTO
+1. Inverters - CHECK (Volts/Freq = 105-120 V/380-420Hz)
+   a. Either Inverter - SELECT (Check Volts, Freq, INVERTER annunciator - EXTINGUISHED)
+   b. Other Inverter - SELECT (Check Volts, Freq, INVERTER annunciator - EXTINGUISHED)
+2. Inverter - SELECT NO. 1 OR NO. 2
+3. Loadmeters - PARALLEL WITHIN 10%
+4. Avionics Master - ON
+5. EFIS Power (if installed) - ON
+6. External Lights - AS REQUIRED
+7. Cabin Lights - AS REQUIRED
+8. Bleed Air Valves - OPEN OR ENVIR OFF - AS REQUIRED
+9. Cabin Temp Mode - AUTO
+10. Cabin Temperature - AS REQUIRED
+11. Instruments - CHECK (EFIS brightness at minimum required, if installed)
+12. \* Brake Deice (if installed) - CHECK
+    a. Bleed Air Valves - OPEN
+    b. Brake Deice - ON (BRAKE DEICE ON annunciator - ILLUMINATED)
+    c. Condition Levers - HIGH IDLE (if Brake Deice is required)
+    d. Brake Deice - OFF (BRAKE DEICE ON annunciator - EXTINGUISHED)
+    e. Condition Levers - LOW IDLE
 
-10. Cabin Temperature AS REQUIRED
-11. Instruments
-3. Brake Deice (if installed) CHECK
-4. Bleed Air Valves OPEN
-5. Brake Deice ON (BRAKE DEICE ON annunciator ILLUMINATED)
-6. C\_ Condition Levers HIGH IDLE (if Brake Deice is required)
-- d. Brake Deice OFF (BRAKE DEICE ON annunciator EXTINGUISHED)
-8. e Condition Levers LOW IDLE
+**CAUTION**
 
-![Image](KA-200-B200-POH_imagens/p00104_01.png)
-
-Do not leave brake deice on longer than required to check function of annunciators at ambient temperatures above 158C.
+Do not leave brake deice on longer than required to check function of annunciators at ambient temperatures above 15°C.
 
 ## NOTE
 
-Brake deice control valves may become inoperative if valves are not cycled periodically. One of the valves is required daily regardless of the weather conditions\_ cycle
+Brake deice control valves may become inoperative if valves are not cycled periodically. One cycle of the valves is required daily regardless of the weather conditions.
 
-13. Flight Controls CHECK PROPER DIRECTION AND FREEDOM OF MOVEMENT
-14. Flaps CHECK AND SET
-15. Brakes RELEASED AND CHECKED
+13. Flight Controls - CHECK PROPER DIRECTION AND FREEDOM OF MOVEMENT
+14. Flaps - CHECK AND SET
+15. Brakes - RELEASED AND CHECKED
 
-![Image](KA-200-B200-POH_imagens/p00104_02.png)
+**CAUTION**
 
-Never taxi with a flat tire or flat shock strut: During taxi operations, particular attention should be given to propeller tip clearance: Extreme caution is required when operating on unimproved or irregular surfaces or when high winds exist. If operations produce a propeller rpm over 1600, retard propeller levers to the detent to limit rpm to 1600 to help reduce the possibility of ingestion of ground debris.
+Never taxi with a flat tire or flat shock strut. During taxi operations, particular attention should be given to propeller tip clearance. Extreme caution is required when operating on unimproved or irregular surfaces or when high winds exist. If operations produce a propeller rpm over 1600, retard propeller levers to the detent to limit rpm to 1600 to help reduce the possibility of ingestion of ground debris.
 
 ## BEFORE TAKEOFF (Runup)
 
 ## NOTE
 
-Items marked with an may be omitted at pilot's discretion after the first flight of the day:
+Items marked with an "\*" may be omitted at pilot's discretion after the first flight of the day.
 
-1. Avionics and Radar CHECK
-2. 2 TEST
-3. Pressurization CHECK AND SET
-- a. Cabin Altitude Selector Knob ADJUST SO THAT "CABIN ALT" DIAL INDICATES AN ALTITUDE 1000 FEET BELOW FIELD PRESSURE ALTITUDE
-5. b Rate Control Selector Knob SET INDEX AT 12-OCLOCK POSITION
-- C. Cabin Pressurization Switch HOLD IN TEST
-- d. Cabin Climb Indicator CHECK FOR RATE OF DESCENT INDICATION
-8. e Cabin Pressurization Switch RELEASE TO PRESS WHEN PRESSURIZING IS CONFIRMED
-9. f Cabin Altitude Selector Knob ADJUST SO THAT INNER SCALE (ACFT ALT) INDICATES PLANNED CRUISE ALTITUDE PLUS 1000 FEET (If this setting does not result in an outer scale (CABIN ALT) indication of required )
+1. Avionics and Radar - CHECK
+2. EFIS (if installed) - TEST
+3. Pressurization - CHECK AND SET
+   a. \* Cabin Altitude Selector Knob - ADJUST SO THAT "CABIN ALT" DIAL INDICATES AN ALTITUDE 1000 FEET BELOW FIELD PRESSURE ALTITUDE
+   b. \* Rate Control Selector Knob - SET INDEX AT 12-O'CLOCK POSITION
+   c. \* Cabin Pressurization Switch - HOLD IN TEST
+   d. \* Cabin Climb Indicator - CHECK FOR RATE OF DESCENT INDICATION
+   e. \* Cabin Pressurization Switch - RELEASE TO PRESS WHEN PRESSURIZING IS CONFIRMED
+   f. Cabin Altitude Selector Knob - ADJUST SO THAT INNER SCALE (ACFT ALT) INDICATES PLANNED CRUISE ALTITUDE PLUS 1000 FEET (If this setting does not result in an outer scale (CABIN ALT) indication of at least 500 feet above take-off field pressure altitude, adjust as required.)
+4. \* Autopilot - CHECK
+5. \* Elevator Trim - CHECK
+   a. Elevator Trim - ON
+   b. Pilot's and Copilot's Switches - CHECK OPERATION
+   c. Trim Quick Disconnect - CHECK (ELEC TRIM OFF annunciator - ILLUMINATED)
+   d. Elevator Trim - OFF, THEN ON (ELEC TRIM OFF annunciator - EXTINGUISHED)
 
-![Image](KA-200-B200-POH_imagens/p00104_03.png)
+**WARNING**
 
-![Image](KA-200-B200-POH_imagens/p00105_01.png)
+Operation of the electric trim system should occur only by movements of pairs of switches. Any movement of the elevator trim wheel while depressing only one switch denotes a system malfunction. The elevator trim control switch must then be turned OFF and flight conducted only by manual operation of the trim wheel.
 
-4. Autopilot CHECK
-2. 5\_ Elevator Trim CHECK
-3. a Elevator Trim ON
-4. b\_ Pilot's and Copilot's Switches CHECK OPERATION
-- C. Trim Quick Disconnect CHECK (ELEC TRIM OFF annunciator ILLUMINATED)
-6. d: Elevator Trim OFF, THEN ON (ELEC TRIM OFF annunciator EXTINGUISHED)
-
-## WARNING
-
-Operation of the electric trim system should occur only by movements of pairs of switches movement of the elevator trim wheel while depressing only one switch denotes a system malfunction. The elevator trim control switch must then be turned OFF and flight conducted only by manual operation of the trim wheel. Any
-
-- 6 Trim Tabs CONFIRM SET
-- 7 . Primary Governors, Overspeed Governors and Rudder Boost TEST
-- Rudder Boost ON
-- Prop Governor Test Switch HOLD TO PROP GOV TEST
-- C Power Levers (Individually) INCREASE UNTIL PROP IS STABILIZED AT 1830 TO 1910 RPM
-- d Propeller Lever RETARD TO DETENT, THEN FULL FORWARD (t0 check primary governor)
-- e\_ Power Lever CONTINUE TO INCREASE UNTIL RUDDER MOVEMENT IS NOTED. (Observe ITT and Torque Limits)
-- Power Lever IDLE
-- g Repeat Steps c f
-- h Prop Govemor Test RELEASE
-8. Autofeather (if installed) CHECK
-- a. Power Levers APPROXIMATELY 500 FT-LBS TORQUE
-- Autofeather Switch HOLD TO TEST (L &amp; R AUTOFEATHER annunciators ILLUMINATED)
-- C. Power Levers RETARD INDIVIDUALLY:
-- 1) At Approximately 410 ft-lbs OPPOSITE ANNUNCIATOR EXTINGUISHED
-- 2) At Approximately 260 ft-Ibs BOTH ANNUNCIATORS EXTINGUISHED (Propeller Starts to Feather)
+6. Trim Tabs - CONFIRM SET
+7. \* Primary Governors, Overspeed Governors and Rudder Boost - TEST
+   a. Rudder Boost - ON
+   b. Prop Governor Test Switch - HOLD TO PROP GOV TEST
+   c. Power Levers (Individually) - INCREASE UNTIL PROP IS STABILIZED AT 1830 TO 1910 RPM.
+   d. Propeller Lever - RETARD TO DETENT, THEN FULL FORWARD (to check primary governor)
+   e. Power Lever - CONTINUE TO INCREASE UNTIL RUDDER MOVEMENT IS NOTED. (Observe ITT and Torque Limits)
+   f. Power Lever - IDLE
+   g. Repeat Steps c - f
+   h. Prop Governor Test - RELEASE
+8. \* Autofeather (if installed) - CHECK
+   a. Power Levers - APPROXIMATELY 500 FT-LBS TORQUE
+   b. Autofeather Switch - HOLD TO TEST (L & R AUTOFEATHER annunciators - ILLUMINATED)
+   c. Power Levers - RETARD INDIVIDUALLY:
+      1) At Approximately 410 ft-lbs - OPPOSITE ANNUNCIATOR EXTINGUISHED
+      2) At Approximately 260 ft-lbs - BOTH ANNUNCIATORS EXTINGUISHED (Propeller Starts to Feather)
 
 ## NOTE
 
-Autofeather annunciator will cycle on and off with each fluctuation of torque as the propeller feathers:
+Autofeather annunciator will cycle on and off with each fluctuation of torque as the propeller feathers.
 
-- d Power Levers BOTH RETARDED (L &amp; R AUTOFEATHER annunciators EXTINGUISHED, neither propeller feathers)
-- 9\_ Autofeather (if installed) ARM
-10. Propeller Feathering (Manual) CHECK
-11. Vacuum and Pneumatic Pressure CHECK
-- a. Left Bleed Air Valve INSTR &amp; ENVIR OFF
-- L BL AIR OFF annunciator ILLUMINATED
-- 2) Gyro Suction Gage and Pneumatic Pressure Gage in Green Arc
-- b Right Bleed Air Valve INSTR &amp; ENVIR OFF
-- 1) R BL AIR OFF, L &amp; R BLEED FAIL annunciators ILLUMINATED
-
-- 2) Gyro Suction Gage and Pneumatic Pressure Gage Zero
-- C. Left Bleed Air Valve OPEN
-- 1) EXTINGUISHED
-- 2) Gyro Suction Gage and Pneumatic Pressure Gage IN GREEN ARC
-5. Right Bleed Air Valve OPEN (R BL AIR OFF annunciator EXTINGUISHED)
-12. Engine Ice Vanes CHECK (see OTHER NORMAL PROCEDURES)
-13. Systems For Icing Flight CHECK, IF REQUIRED (see OTHER NORMAL PROCEDURES)
-14. Fuel Quantity, Flight nd Engine Instruments CHECK
+- d. Power Levers - BOTH RETARDED (L & R AUTOFEATHER annunciators - EXTINGUISHED, neither propeller feathers)
+9. Autofeather (if installed) - ARM
+10. Propeller Feathering (Manual) - CHECK
+11. \* Vacuum and Pneumatic Pressure - CHECK
+    a. Left Bleed Air Valve - INSTR & ENVIR OFF
+       1) L BL AIR OFF annunciator - ILLUMINATED
+       2) Gyro Suction Gage and Pneumatic Pressure Gage in Green Arc
+    b. Right Bleed Air Valve - INSTR & ENVIR OFF
+       1) R BL AIR OFF, L & R BLEED FAIL annunciators - ILLUMINATED
+       2) Gyro Suction Gage and Pneumatic Pressure Gage - Zero
+    c. Left Bleed Air Valve - OPEN
+       1) L BL AIR OFF, L & R BLEED FAIL annunciators - EXTINGUISHED
+       2) Gyro Suction Gage and Pneumatic Pressure Gage - IN GREEN ARC
+    d. Right Bleed Air Valve - OPEN (R BL AIR OFF annunciator - EXTINGUISHED)
+12. Engine Ice Vanes - CHECK (see OTHER NORMAL PROCEDURES)
+13. Systems For Icing Flight - CHECK, IF REQUIRED (see OTHER NORMAL PROCEDURES)
+14. Fuel Quantity, Flight and Engine Instruments - CHECK
 
 ## BEFORE TAKEOFF (Final Items)
 
-1. Propeller Levers CONFIRM FULL FORWARD
-2. 2 Flaps CONFIRM SET
-3. Trim CONFIRM SET
-4. Brake Deice (if installed) OFF
-5. Left and Right Bleed Air OPEN
-6. Aft Blower (if installed) AS REQUIRED
-7. Annunciators EXTINGUISHED OR CONSIDERED
-8. 8 Ice Protection ON, IF REQUIRED
-- a. Auto Ignition ON (L and R IGNITION ON annunciators ILLUMINATED)
-- b. Engine Ice Vanes CONFIRM EXTENDED (L &amp; R ENG ANTI-ICE annunciators ILLUMINATED)
-11. C Windshield Anti-ice NORMALHI
-- d. Prop Heat AUTO
-13. e Left &amp;nd Right Fuel Vent Heat ON
-- f. Stall Warning Heat ON
-15. Left and Right Pitot Heat ON
+1. Propeller Levers - CONFIRM FULL FORWARD
+2. Flaps - CONFIRM SET
+3. Trim - CONFIRM SET
+4. Brake Deice (if installed) - OFF
+5. Left and Right Bleed Air - OPEN
+6. Aft Blower (if installed) - AS REQUIRED
+7. Annunciators - EXTINGUISHED OR CONSIDERED
+8. Ice Protection - ON, IF REQUIRED
+   a. Auto Ignition - ON (L and R IGNITION ON annunciators - ILLUMINATED)
+   b. Engine Ice Vanes - CONFIRM EXTENDED (L & R ENG ANTI-ICE annunciators - ILLUMINATED)
+   c. Windshield Anti-ice - NORMAL/HI
+   d. Prop Heat - AUTO
+   e. Left and Right Fuel Vent Heat - ON
+   f. Stall Warning Heat - ON
+   g. Left and Right Pitot Heat - ON
 
-![Image](KA-200-B200-POH_imagens/p00106_01.png)
+**CAUTION**
 
-Prolonged use of stall waming and pitot heat o the ground will damage the heating ele-ments\_
+Prolonged use of stall warning and pitot heat on the ground will damage the heating elements.
 
-9. Generator Load CHECK
-10. Engine Ice Vanes (if not required) CONFIRM RETRACTED
-11. External Lights AS REQUIRED
-12. Transponder ON
-13. CONFIRM
+9. Generator Load - CHECK
+10. Engine Ice Vanes (if not required) - CONFIRM RETRACTED
+11. External Lights - AS REQUIRED
+12. Transponder - ON
+13. V1, VR, V2, and Minimum Takeoff Power - CONFIRM
 
 ## TAKEOFF
 
-1. Brakes HOLD
-2. 2 Power SET (ensure minimum takeoff power is available)
-3. Autofeather Annunciators (if installed) ILLUMINATED
-4. 4 Brakes RELEASED
+1. Brakes - HOLD
+2. Power - SET (ensure minimum takeoff power is available)
+3. Autofeather Annunciators (if installed) - ILLUMINATED
+4. Brakes - RELEASED
 
 ## NOTE
 
-Increasing airspeed will cause torque and ITT to increase
+Increasing airspeed will cause torque and ITT to increase.
 
-5. Landing Gear UP (when positive climb established)
+5. Landing Gear - UP (when positive climb established)
 
-![Image](KA-200-B200-POH_imagens/p00106_02.png)
-
-6. Flaps UP (at blue Iine, 121 knots minimum)
+6. Flaps - UP (at blue line, 121 knots minimum)
 
 ## CLIMB
 
-1. Yaw Damp ON
-2. 2 Ciimb Power SET
-3. Propellers 1900 RPM
-4. 4 Prop Sync (if insialled) ON
-5. 5, Autofeather (if installed) OFF
-6. Engine Instruments
-7. 7 Cabin Sign AS REQUIRED
-8. 8, Pressurization CHECK
-9. Aft Blower (f installed) AS REQUIRED
-10. Lights AS REQUIRED
+1. Yaw Damp - ON
+2. Climb Power - SET
+3. Propellers - 1900 RPM
+4. Prop Sync (if installed) - ON
+5. Autofeather (if installed) - OFF
+6. Engine Instruments - MONITOR
+7. Cabin Sign - AS REQUIRED
+8. Pressurization - CHECK
+9. Aft Blower (if installed) - AS REQUIRED
+10. Lights - AS REQUIRED
 
 ## CRUISE
 
-![Image](KA-200-B200-POH_imagens/p00107_01.png)
+**WARNING**
 
-Do not Ift power levers in flight:
+Do not lift power levers in flight.
 
-- 1, Cruise Power SET PER CRUISE POWER TABLES OR GRAPHS
-2. Engine Instruments MONITOR
-- 30 Auxil Fuel Gages MONITOR (Ensure fuel is being transferred trom the auxiliary tanks ) iliary
-- 4 Pressurizatlon MONITOR (Resel il crulse allltude changes by 1000 feet Or more)
+1. Cruise Power - SET PER CRUISE POWER TABLES OR GRAPHS
+2. Engine Instruments - MONITOR
+3. Auxiliary Fuel Gages - MONITOR (Ensure fuel is being transferred from the auxiliary tanks.)
+4. Pressurization - MONITOR (Reset if cruise altitude changes by 1000 feet or more)
 
 ## DESCENT
 
-- 1, Pressurization SET
-- a. Cabin Allitude Selector Knob SET PER PRESSURIZATION CONTROLLER SETTING FOR LANDING GRAPH; Or SO THAT "CABIN ALT" DIAL INDICATES LANDING FIELD PRESSURE
-- Rale Conlrol Selector Knob AS DESIRED
-- 2 Altirneler SET
-3. Cabin AS REQUIRED Sign
-4. Windshield Anti-Ice defogging )
-5. Autoteather (il installed) AAM
-6. Fuel Balance CHECK
-- 7 Power AS REQUIRED
+1. Pressurization - SET
+   a. Cabin Altitude Selector Knob - SET PER PRESSURIZATION CONTROLLER SETTING FOR LANDING GRAPH, OR SO THAT "CABIN ALT" DIAL INDICATES LANDING FIELD PRESSURE ALTITUDE PLUS 500 FEET.
+   b. Rate Control Selector Knob - AS DESIRED
+2. Altimeter - SET
+3. Cabin Sign - AS REQUIRED
+4. Windshield Anti-ice - AS REQUIRED (NORMAL or HI well before descent into warm, moist air, to aid in defogging.)
+5. Autofeather (if installed) - ARM
+6. Fuel Balance - CHECK
+7. Power - AS REQUIRED
+
+## NOTE
+
+Approximately 75% N1 is required to maintain the pressurization schedule during descent.
 
 ## BEFORE LANDING
 
+**CAUTION**
+
+Propeller operation in the range of 1750-1850 rpm should be avoided as it may cause ILS interference.
+
+1. Approach Speed - CONFIRM
+2. Pressurization - CHECK
+3. Cabin Sign - NO SMOKE & FSB
+4. Flaps - APPROACH
+5. Landing Gear - DN
+6. Lights - AS REQUIRED
+
 ## NOTE
 
-![Image](KA-200-B200-POH_imagens/p00107_02.png)
+Under low visibility conditions, landing and taxi lights should be left off due to light reflections.
 
-Propeller operation in Ihe range of 1750-1850 rpm shold be avoided as it may cause ILS interference.
+7. Prop Sync (TYPE I) - OFF
+8. Radar - AS REQUIRED
+9. Surface Deice - CYCLE (as required)
 
-## Normal Procedures
+## NOTE
 
-- 1 Approach Speed CONFIRM
-2. Pressurlzation CHECK
-3. Cabin NO SMOKE &amp; FSB Sign
-- 4 Flaps APPROACH
-6. Landing Gear DN
-- AS REQUIRED
-
-Under low visibility conditions, landing and taxi lights should be left off due to light rellections.
-
-- OFF
-8. Radar AS RFQUIRED
-9. Suriace Dcico CYCLE (as required)
-
-It crosswind landing is anticipaled, determine crosswind component from Section V, PERFORMANCE: Immediately prior to touchdown; lwor upwind and align the fuselage with the runway by use of rudder: During roll: roverse a8 desired: wing
+If crosswind landing is anticipated, determine crosswind component from Section V, PERFORMANCE. Immediately prior to touchdown, lower upwind wing and align the fuselage with the runway by use of rudder. During rollout, hold aileron control into the wind and maintain directional control with rudder and brakes. Use propeller reverse as desired.
 
 ## NORMAL LANDING
 
-1. Flaps DOWN
-2. Airspeed NORMAL LANDING APPROACH SPEED
-3. 3, Yaw Damp - OFF
-4. Power Levers IDLE
-5. Propeller ! evers FULL FORWAAD
+1. Flaps - DOWN
+2. Airspeed - NORMAL LANDING APPROACH SPEED
+3. Yaw Damp - OFF
+4. Power Levers - IDLE
+5. Propeller Levers - FULL FORWARD
 
-## After Touchdown:
+**CAUTION**
 
-- 6, Power Levers BETA RANGE OR REVERSE (AS REQUIRED)
-- 7 Brakos AS REQUIRED
+To ensure constant reversing characteristics, the propeller levers must be in the high rpm position.
 
-## MAXiMUM REVERSE THRUST LANDING
+*After Touchdown:*
 
-1. Flaps DOWN
-2. 2 Airspeed NORMAL LANDING APPAOACH SPEED
-3. 3 Yaw Damp OFF
-4. 4 Condition Levers HIGh IDLE
-5. Propeller Levers HIGH APM
+6. Power Levers - BETA RANGE OR REVERSE (AS REQUIRED)
+7. Brakes - AS REQUIRED
 
-After Touchdown:
+## MAXIMUM REVERSE THRUST LANDING
 
-- Power Levers LIFT AND REVERSE
+1. Flaps - DOWN
+2. Airspeed - NORMAL LANDING APPROACH SPEED
+3. Yaw Damp - OFF
+4. Condition Levers - HIGH IDLE
+5. Propeller Levers - HIGH RPM
 
-## Raythheon Aircraft Company
+*After Touchdown:*
 
-## NOTE
+6. Power Levers - LIFT AND REVERSE
+7. Brakes - AS REQUIRED
+8. Condition Levers - LOW IDLE
 
-## NOTE
+**CAUTION**
 
-![Image](KA-200-B200-POH_imagens/p00108_01.png)
-
-Super King Air B200/3200C
-
-- 7 Brakes AS REQUIRED
-8. Condition Levers LOW IDLE
-
-![Image](KA-200-B200-POH_imagens/p00109_01.png)
-
-If possible, propellers should be moved out of reverse at approximately 40 knots to minimize blade erosion  Care must be exercised when reversing on runways with loose sand, dust; or snow on the surface. Flying gravel will damage propeller blades, and dust or snow may impair the pilot's visibility-
+If possible, propellers should be moved out of reverse at approximately 40 knots to minimize blade erosion. Care must be exercised when reversing on runways with loose sand, dust, or snow on the surface. Flying gravel will damage propeller blades, and dust or snow may impair the pilot's visibility.
 
 ## BALKED LANDING
 
-1. Power MAXIMUM ALLOWABLE
-2. 2 Airspeed 100 KNOTS (when clear of obstacles, establish normal climb)
-3. UP Flaps
-4. Landing Gear UP
+1. Power - MAXIMUM ALLOWABLE
+2. Airspeed - 100 KNOTS (when clear of obstacles, establish normal climb)
+3. Flaps - UP
+4. Landing Gear - UP
 
 ## AFTER LANDING
 
-1. Auto Ignition OFF
-2. Engine Ice Vanes EXTEND
+1. Auto Ignition - OFF
+2. Engine Ice Vanes - EXTEND
 
-![Image](KA-200-B200-POH_imagens/p00109_02.png)
+**CAUTION**
 
-The engine ice vanes should be extended for all ground operations t0 minimize ingestion of its
+The engine ice vanes should be extended for all ground operations to minimize ingestion of ground debris. Turn engine anti-ice off, when required, to maintain oil temperature within limits.
 
-3. Lights AS REQUIRED
-4. Ice Protection OFF
-5.  Transponder STANDBY
-4. 6 Radar STANDBY or OFF
-7. Trim Tabs SET
-8. Flaps UP
+3. Lights - AS REQUIRED
+4. Ice Protection - OFF
+5. Transponder - STANDBY
+6. Radar - STANDBY or OFF
+7. Trim Tabs - SET
+8. Flaps - UP
 
 ## SHUTDOWN AND SECURING
 
-- Parking Brake SET
-2. Standby Boost Pumps and Crossteed OFF
-3. EFIS Power (if installed) OFF
-4. Avionics Master OFF
-5. Inverter OFF
-6. Autofeather (if installed) OFF
-- 7 Lights OFF
-- Vent Blower AUTO
-- 9 Cabin Temp Mode OFF
-10. Aft Blower (if installed) OFF
-11. Radiant Heat (if installed) OFF
-12. Battery CHARGED
-13. ITT STABILIZED AT MINIMUM TEMPERATURE FOR ONE MINUTE
+1. Parking Brake - SET
+2. Standby Boost Pumps and Crossfeed - OFF
+3. EFIS Power (if installed) - OFF
+4. Avionics Master - OFF
+5. Inverter - OFF
+6. Autofeather (if installed) - OFF
+7. Lights - OFF
+8. Vent Blower - AUTO
+9. Cabin Temp Mode - OFF
+10. Aft Blower (if installed) - OFF
+11. Radiant Heat (if installed) - OFF
+12. Battery - CHARGED
+13. ITT - STABILIZED AT MINIMUM TEMPERATURE FOR ONE MINUTE
+14. Condition Levers - FUEL CUT OFF
 
-## 14. Condition Levers FUEL CUT OFF
+**CAUTION**
 
-20. Control Locks INSTALL
-21. Emergency Exit LOCKED
-22. Electric Toilet (if installed) SERVICE AS REQUIRED
-23. Tiedowns and Chocks AS REQUIRED
-24. External Covers AS REQUIRED
-25. Propeller Locks AS REQUIRED
-26. Oil Quantity Check AS REQUIRED
+Monitor ITT during shutdown. If sustained combustion is observed, proceed immediately to the engine clearing procedure. During shutdown, ensure that the compressors decelerate freely. Do not close the firewall fuel valves for normal engine shutdown.
+
+15. Propeller Levers - FEATHER
+16. DC Volt/Loadmeters - CHECK VOLTAGE (No voltage indicates current limiter is out)
+17. Overhead Panel Switches - OFF
+18. Oxygen System Ready - PUSH OFF
+19. Battery and Generator Switches - OFF (below 15% N1)
+
+## NOTE
+
+N1 decreasing below 15% indicates the starter relay is not engaged.
+
+20. Control Locks - INSTALL
+21. Emergency Exit - LOCKED
+22. Electric Toilet (if installed) - SERVICE AS REQUIRED
+23. Tiedowns and Chocks - AS REQUIRED
+24. External Covers - AS REQUIRED
+25. Propeller Locks - AS REQUIRED
+26. Oil Quantity Check - AS REQUIRED
 
 ## OTHER NORMAL PROCEDURES
 
 ## OXYGEN SYSTEM
 
-## PREFLIGHT INSPECTION
+*PREFLIGHT INSPECTION*
 
-1. Passenger Manual Drop Out PUSH OFF
-2. Oxygen System Ready PULL ON
-3. Crew Diluter Demand Masks DON MASK, CHECK FIT AND OPERATION, AND STOW
+1. Passenger Manual Drop Out - PUSH OFF
+2. Oxygen System Ready - PULL ON
+3. Crew Diluter Demand Masks - DON MASK, CHECK FIT AND OPERATION, AND STOW
 
-![Image](KA-200-B200-POH_imagens/p00110_01.png)
+**WARNING**
 
-Beard and mustaches should be carefully trimmed so that will not interfere with the proper sealing of an oxygen mask The fit of the oxygen mask around the beard or mustache should be checked on the ground for proper sealing: Studies conducted by the military and the FAA conclude that oxygen masks do not seal over beards and mustaches: Hats and "earmuff" type headsets must be removed prior to donning crew oxygen masks: Headsets and eyeglasses worn by crew members may interfere with quick-donning capabilities they
+Beard and mustaches should be carefully trimmed so that they will not interfere with the proper sealing of an oxygen mask. The fit of the oxygen mask around the beard or mustache should be checked on the ground for proper sealing. Studies conducted by the military and the FAA conclude that oxygen masks do not seal over beards and mustaches. Hats and "earmuff" type headsets must be removed prior to donning crew oxygen masks. Headsets and eyeglasses worn by crew members may interfere with quick-donning capabilities.
 
-- 4 Oxygen Duration DETERMINE
-
-![Image](KA-200-B200-POH_imagens/p00110_02.png)
-
-Monitor ITT during shutdown If sustained combustion is observed, proceed immediately to the engine clearing procedure: During shutdown, ensure that the compressors decelerate freely. Do not close the firewall fuel valves normal engine shutdown: for
-
-- 15 Propeller Levers FEATHER
-16. DC Volt/Loadmeters CHECK VOLTAGE (No voltage indicates current limiter is out)
-- 17 . Overhead Panel Switches OFF
-18. Oxygen System Ready PUSH OFF
-19. Battery and Generator Switches OFF (below 15% Ni)
+4. Oxygen Duration - DETERMINE
 
 ## NOTE
 
-## NOTE
-
-A bottle of 1850 psi at 15*C is fully charged (100% capacity). Read duration directly from the tabie.
+A bottle of 1850 psi at 15°C is fully charged (100% capacity). Read duration directly from the table.
 
 - a. Read the oxygen pressure from the gage.
+   b. Read the IOAT.
+   c. Determine the percent of usable capacity from the following graph (eg., 1100 psi at 0°C = 57%).
 
-![Image](KA-200-B200-POH_imagens/p00110_03.png)
+*OXYGEN AVAILABLE WITH PARTIALLY FULL BOTTLE — graph: gage pressure (psig, 0–2500) versus percent of usable capacity (0–100), with curves for bottle temperature 60°C (140°F), 0°C (32°F) and -60°C (-76°F).*
 
-- Read the IOAT.
-- C. Determine the percent of usable capacity from the following graph (eg-, 1100 psi at 08C = 57%).
-- Compute the oxygen duration in minutes from the table by multiplying the full bottle duration by the percent of usable capacity: eg-,
-- 1) Pilot and copilot with masks set at 100% plus passengers = 10 people using oxygen.
-
-![Image](KA-200-B200-POH_imagens/p00111_01.png)
+- d. Compute the oxygen duration in minutes from the table by multiplying the full bottle duration by the percent of usable capacity. eg.,
+      1) Pilot and copilot with masks set at 100% plus 6 passengers = 10 people using oxygen.
 
 ## NOTE
 
 Pilot and copilot are each counted as 2 people with diluter demand masks set at the 100% or NORMAL mode.
 
-- 2) Cylinder volume 115 cubic feet.
-- 3) Duration with full bottle = 73 minutes
-3. Duration with 57% capacity = .57 x 73 = 41 minutes
+- 2) Cylinder volume = 115 cubic feet.
+      3) Duration with full bottle = 73 minutes
+      4) Duration with 57% capacity = .57 x 73 = 41 minutes.
 
 ![Image](KA-200-B200-POH_imagens/p00112_01.png)
 
