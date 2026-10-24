@@ -1,0 +1,15 @@
+{
+  "versao": 2,
+  "pdf_tamanho": 101565852,
+  "pdf_modificado": 1792582807,
+  "ocr": [
+    "en"
+  ],
+  "escala": 2.0,
+  "formulas": true,
+  "codigo": false,
+  "figuras": true,
+  "quebra_pagina": false,
+  "invisivel": 0.8,
+  "min_caracteres": 30
+}
