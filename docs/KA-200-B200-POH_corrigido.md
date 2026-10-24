@@ -4824,502 +4824,651 @@ EXAMPLE: OAT ................ 28°C; PRESSURE ALTITUDE ................ 5433 FT;
 ![Image](KA-200-B200-POH_imagens/p00161_01.png)
 ![Image](KA-200-B200-POH_imagens/p00161_02.png)
 
+## ACCELERATE - STOP - FLAPS APPROACH
+
+ASSOCIATED CONDITIONS:
+
+- POWER: 1. TAKE-OFF POWER SET BEFORE BRAKE RELEASE; 2. BOTH ENGINES IDLE AT V1 SPEED AND REVERSE OPERATING ENGINE
+- FLAPS ................ APPROACH
+- AUTOFEATHER ................ ARMED
+- BRAKING ................ MAXIMUM
+- RUNWAY ................ PAVED, LEVEL, DRY SURFACE
+
+| WEIGHT (POUNDS) | V1 (KNOTS) |
+|---|---|
+| 12,500 | 94 |
+| 12,000 | 94 |
+| 11,000 | 94 |
+| 10,000 | 94 |
+| 9000 | 94 |
+
+NOTE: FOR OPERATION WITH ICE VANES EXTENDED, PERFORMANCE IS NOT AFFECTED.
+
+EXAMPLE: OAT ................ 28°C; PRESSURE ALTITUDE ................ 5430 FT; WEIGHT ................ 12,300 LBS; HEADWIND COMPONENT ................ 9.5 KTS
+
+- FIELD LENGTH ................ 4370 FT
+- V1 ................ 94 KTS *(5-38)*
+
 ![Image](KA-200-B200-POH_imagens/p00162_01.png)
+
+## ACCELERATE - GO - FLAPS APPROACH
+
+ASSOCIATED CONDITIONS: POWER ................ TAKE-OFF POWER SET BEFORE BRAKE RELEASE; FLAPS ................ APPROACH; AUTOFEATHER ................ ARMED; LANDING GEAR ................ RETRACT AFTER LIFT-OFF; RUNWAY ................ PAVED, LEVEL, DRY SURFACE; OBSTACLE HEIGHT ................ 35 FEET
+
+| WEIGHT (POUNDS) | SPEED (KNOTS) VR | SPEED (KNOTS) V2 |
+|---|---|---|
+| 12,500 | 94 | 106 |
+| 12,000 | 94 | 105 |
+| 11,000 | 94 | 103 |
+| 10,000 | 94 | 101 |
+| 9000 | 94 | 99 |
+
+NOTE:
+
+1. AIR DISTANCE IS 50% OF TAKE-OFF FIELD LENGTH.
+2. V1 (ENGINE FAILURE SPEED) EQUALS VR (ROTATION SPEED).
+3. USABLE CLEARWAY CANNOT EXCEED 25% OF THE RUNWAY LENGTH.
+4. FOR OPERATION WITH ICE VANES EXTENDED, ADD 6°C TO THE ACTUAL OAT BEFORE ENTERING GRAPH.
+
+EXAMPLE: OAT ................ 28°C; PRESSURE ALTITUDE ................ 5430 FT; HEADWIND COMPONENT ................ 9.5 KTS
+
+| TAKE-OFF WEIGHT (POUNDS) | TAKE-OFF FIELD LENGTH (FEET) |
+|---|---|
+| 12,300 | 8080 |
+| 11,700 | 6786 |
+| 10,625 | 5150 |
+
+SPEEDS (10,625 POUNDS): VR ................ 94 KTS; V2 ................ 102 KTS *(5-39)*
 
 ![Image](KA-200-B200-POH_imagens/p00163_01.png)
 
+## NET GRADIENT OF CLIMB - FLAPS APPROACH
+
+ASSOCIATED CONDITIONS: POWER ................ TAKE-OFF; FLAPS ................ APPROACH; LANDING GEAR ................ UP; INOPERATIVE PROPELLER ................ FEATHERED
+
+| WEIGHT (POUNDS) | CLIMB SPEED (KNOTS) |
+|---|---|
+| 12,500 | 106 |
+| 12,000 | 105 |
+| 11,000 | 103 |
+| 10,000 | 101 |
+| 9000 | 99 |
+
+NOTE: FOR OPERATION WITH ICE VANES EXTENDED, ADD 10°C TO THE ACTUAL OAT BEFORE ENTERING GRAPH.
+
+EXAMPLE: OAT ................ 28°C; PRESSURE ALTITUDE ................ 5430 FT
+
+| WEIGHT (POUNDS) | NET GRADIENT OF CLIMB (%) |
+|---|---|
+| 11,700 | 2.1 |
+| 9250 | 5.2 |
+| 10,625 | 3.3 |
+
+CLIMB SPEED @ 10,625 LBS ................ 102 KTS *(5-40)*
+
 ![Image](KA-200-B200-POH_imagens/p00164_01.png)
+
+## CLIMB - TWO ENGINES - FLAPS UP
+
+ASSOCIATED CONDITIONS: POWER ................ MAX CONTINUOUS; FLAPS ................ UP; LANDING GEAR ................ UP
+
+| WEIGHT (POUNDS) | CLIMB SPEED (KNOTS) |
+|---|---|
+| 12,500 | 125 |
+| 12,000 | 124 |
+| 11,000 | 121 |
+| 10,000 | 118 |
+| 9000 | 115 |
+
+EXAMPLE: OAT ................ -6°C; PRESSURE ALTITUDE ................ 18,000 FT; WEIGHT ................ 12,405 LBS
+
+- RATE OF CLIMB ................ 1400 FT/MIN
+- CLIMB GRADIENT ................ 8%
+- CLIMB SPEED ................ 125 KTS
+
+NOTE: DURING OPERATION WITH ICE VANES EXTENDED, RATE OF CLIMB WILL BE REDUCED APPROXIMATELY 250 FEET PER MINUTE. *(5-41)*
 
 ![Image](KA-200-B200-POH_imagens/p00165_01.png)
 
+## CLIMB - TWO ENGINES - FLAPS APPROACH
+
+ASSOCIATED CONDITIONS: POWER ................ MAX CONTINUOUS; FLAPS ................ APPROACH; LANDING GEAR ................ UP
+
+| WEIGHT (POUNDS) | CLIMB SPEED (KNOTS) |
+|---|---|
+| 12,500 | 125 |
+| 12,000 | 124 |
+| 11,000 | 121 |
+| 10,000 | 118 |
+| 9000 | 115 |
+
+EXAMPLE: OAT ................ -6°C; PRESSURE ALTITUDE ................ 18,000 FT; WEIGHT ................ 12,405 LBS
+
+- RATE OF CLIMB ................ 1190 FT/MIN
+- CLIMB GRADIENT ................ 6.9%
+- CLIMB SPEED ................ 125 KTS
+
+NOTE: DURING OPERATION WITH ICE VANES EXTENDED, RATE OF CLIMB WILL BE REDUCED APPROXIMATELY 250 FEET PER MINUTE. *(5-42)*
+
 ![Image](KA-200-B200-POH_imagens/p00166_01.png)
+
+## CLIMB - ONE ENGINE INOPERATIVE
+
+ASSOCIATED CONDITIONS: POWER ................ MAX CONTINUOUS; FLAPS ................ UP; LANDING GEAR ................ UP; INOPERATIVE PROPELLER ................ FEATHERED
+
+| WEIGHT (POUNDS) | CLIMB SPEED (KNOTS) |
+|---|---|
+| 12,500 | 121 |
+| 12,000 | 119 |
+| 11,000 | 117 |
+| 10,000 | 114 |
+| 9000 | 111 |
+
+EXAMPLE: OAT ................ -6°C; PRESSURE ALTITUDE ................ 18,000 FT; WEIGHT ................ 12,405 LBS
+
+- RATE OF CLIMB ................ 120 FT/MIN
+- CLIMB GRADIENT ................ 0.8%
+- CLIMB SPEED ................ 121 KTS
+
+NOTE: DURING OPERATION WITH ICE VANE EXTENDED, RATE OF CLIMB WILL BE REDUCED APPROXIMATELY 100 FEET PER MINUTE. *(5-43)*
 
 ![Image](KA-200-B200-POH_imagens/p00167_01.png)
 
+## SERVICE CEILING - ONE ENGINE INOPERATIVE
+
+ASSOCIATED CONDITIONS: POWER ................ MAXIMUM CONTINUOUS; LANDING GEAR ................ UP; INOPERATIVE PROPELLER ................ FEATHERED; FLAPS ................ UP
+
+NOTE: SERVICE CEILING IS THE MAXIMUM PRESSURE ALTITUDE AT WHICH THE AIRPLANE IS CAPABLE OF CLIMBING 50 FT/MINUTE WITH ONE PROPELLER FEATHERED.
+
+EXAMPLE: OAT AT MEA ................ 0°C; WEIGHT ................ 12,393 LBS; ROUTE SEGMENT MEA ................ 18,000 FT
+
+- SERVICE CEILING ................ 18,730 FT
+
+NOTE: SERVICE CEILING IS ABOVE ENROUTE MEA.
+
+NOTE: DURING OPERATION WITH ICE VANE EXTENDED, SERVICE CEILING WILL BE LOWERED APPROXIMATELY 1500 FEET. *(5-44)*
+
 ![Image](KA-200-B200-POH_imagens/p00168_01.png)
-
-## SERVICE CEILING ONE ENGINE INOPERATIVE
-
-## ASSOCIATED CONDITIONS
-
-EXAMPLE:
-
-POWER
-
-INOPERATIVE pROPELLER
-
-LANDING GEAR
-
-FLAPS
-
-MAXIMUM CONTINUOUS
-
-FEATHERED
-
-UP
-
-UP
-
-NOTE: SERVICE CEILING IS TKE MAXIMUM PRESSURE ALTITUDE AT WhICH THE AIRPLANE IS CAPABLE OF CLIMBING 50 FTIMINUTE WITH ONE PROPELLER FEATHERED:
-
-WEIGHT
-
-12,393 LBS
-
-OAT AT MEA
-
-ROUTE SEGMENT MEA
-
-18,000 FT
-
-SERVICE CEILING
-
-18,730 FT
-
-NOTE: SERVICE CEILING IS ABOVE ENROUTE MEA
-
 ![Image](KA-200-B200-POH_imagens/p00168_02.png)
 
-3 4
+## TIME, FUEL, AND DISTANCE TO CLIMB
+
+ASSOCIATED CONDITIONS: PROPELLER SPEED ................ 1900 RPM; ITT ................ 770°C; OR TORQUE ................ 2230 FT-LBS
+
+| ALTITUDE (FEET) | CLIMB SPEED (KTS) |
+|---|---|
+| SL TO 10,000 | 160 |
+| 10,000 TO 20,000 | 140 |
+| 20,000 TO 25,000 | 130 |
+| 25,000 TO 35,000 | 120 |
+
+EXAMPLE: OAT AT TAKEOFF ................ 28°C; OAT AT CRUISE ................ -10°C; AIRPORT PRESSURE ALTITUDE ................ 5433 FT; CRUISE ALTITUDE ................ 26,000 FT; INITIAL CLIMB WEIGHT ................ 12,500 LBS
+
+- TIME TO CLIMB (21-3) ................ 18 MIN
+- FUEL TO CLIMB (250-47) ................ 203 LBS
+- DISTANCE TO CLIMB (62-8) ................ 54 NM
+
+NOTE:
+
+1. ADD 90 LBS FUEL FOR START, TAXI, AND TAKEOFF.
+2. FOR OPERATION WITH ICE VANES EXTENDED, ADD 20°C TO THE ACTUAL OAT BEFORE ENTERING THE GRAPH. *(5-45)*
 
 ![Image](KA-200-B200-POH_imagens/p00169_01.png)
 
-## NORMAL CRUISE POWER 1700 RPM
+## NORMAL CRUISE POWER — 1700 RPM
+
+**ISA -30°C**
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | -10 | -15 | 2230 | 463 | 926 | 243 | 231 | 244 | 232 | 245 | 233 |
+| 2000 | -14 | -19 | 2230 | 452 | 904 | 241 | 235 | 242 | 236 | 243 | 237 |
+| 4000 | -18 | -23 | 2230 | 439 | 878 | 239 | 240 | 240 | 241 | 240 | 242 |
+| 6000 | -21 | -27 | 2230 | 428 | 856 | 237 | 244 | 237 | 245 | 238 | 246 |
+| 8000 | -25 | -31 | 2230 | 417 | 834 | 234 | 249 | 235 | 250 | 236 | 251 |
+| 10,000 | -29 | -35 | 2230 | 406 | 812 | 232 | 254 | 233 | 255 | 234 | 256 |
+| 12,000 | -33 | -39 | 2230 | 396 | 792 | 230 | 259 | 231 | 260 | 231 | 261 |
+| 14,000 | -36 | -43 | 2230 | 389 | 778 | 227 | 264 | 228 | 265 | 229 | 266 |
+| 16,000 | -40 | -47 | 2230 | 384 | 768 | 225 | 269 | 226 | 270 | 227 | 271 |
+| 18,000 | -44 | -51 | 2230 | 379 | 758 | 223 | 274 | 224 | 276 | 225 | 277 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+*(5-46)*
 
 ![Image](KA-200-B200-POH_imagens/p00170_01.png)
-
-ISA 30PC
-
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS:
-
-| PRESSURE   |     |      |      | LBS/HR      |        | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   |   AIRSPEED -- KNOTS |
-|------------|-----|------|------|-------------|--------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-|            |     |      | 2230 | 463         | 926    |                     |                     |                     |                     |                     |                     |                     |
-|            |     |      | 2230 | 452         | 904    |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 2230 | - -"-.- 439 | .- 878 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 428  | 428         | 856    |                     |                     |                     |                     |                     |                     |                6000 |
-|            |     | 2230 |      | 417         | 834    |                     |                     |                     |                     |                     |                     |                8000 |
-|            |     | 2230 | 406  |             | 812    |                     |                     |                     |                     |                     |                     |              10,000 |
-|            |     | 2230 | 396  |             | .792   |                     |                     |                     |                     |                     |                     |              12,000 |
-|            |     | 2230 | 389  |             | 778    |                     |                     |                     |                     |                     |                     |              14,000 |
-|            |     | 2230 | 384  |             | 768    |                     |                     |                     |                     |                     |                     |              16,000 |
-|            |     | 2230 | 379  |             | 758    |                     |                     |                     |                     |                     |                     |              18,000 |
-| ---        | --- | ---  | ---  |             | ---    | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              20,000 |
-| ---        | --- | ---  | ---  | ---         |        | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              22,000 |
-| ---        | --- | ---  | ---  | ---         |        | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              24,000 |
-| ---        | --- | ---  | ---  | ---         |        | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              26,000 |
-| ---        | --- | ---  | ---  | ---         | ---    | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              28,000 |
-| ---        | --- | ---  | ---  | ---         | ---    | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              29,000 |
-| ---        | --- | ---  | ---  | ---         | ---    | ---                 | ---                 | ---                 | ---                 | --- .               | ---                 |              31,000 |
-| ---        | --- | ---  | ---  |             | ---    | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              33,000 |
-| ---        | --- | ---  | ---  |             | ---    | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              35,000 |
-
 ![Image](KA-200-B200-POH_imagens/p00170_02.png)
+
+## NORMAL CRUISE POWER — 1700 RPM
+
+**ISA -20°C**
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 0 | -5 | 2230 | 466 | 932 | 242 | 234 | 242 | 235 | 243 | 236 |
+| 2000 | -4 | -9 | 2230 | 453 | 906 | 239 | 238 | 240 | 239 | 241 | 240 |
+| 4000 | -7 | -13 | 2230 | 440 | 880 | 237 | 243 | 238 | 244 | 239 | 245 |
+| 6000 | -11 | -17 | 2230 | 428 | 856 | 235 | 248 | 236 | 248 | 237 | 249 |
+| 8000 | -15 | -21 | 2230 | 418 | 836 | 232 | 252 | 233 | 253 | 234 | 254 |
+| 10,000 | -19 | -25 | 2230 | 408 | 816 | 231 | 257 | 231 | 258 | 232 | 259 |
+| 12,000 | -22 | -29 | 2230 | 398 | 796 | 228 | 262 | 229 | 263 | 230 | 264 |
+| 14,000 | -26 | -33 | 2230 | 391 | 782 | 225 | 267 | 226 | 269 | 227 | 270 |
+| 16,000 | -30 | -37 | 2230 | 385 | 770 | 223 | 273 | 224 | 274 | 225 | 275 |
+| 18,000 | -33 | -41 | 2230 | 381 | 762 | 220 | 278 | 221 | 279 | 223 | 280 |
+| 20,000 | -37 | -45 | 2230 | 378 | 756 | 218 | 283 | 219 | 284 | 220 | 286 |
+| 22,000 | -41 | -49 | 2155 | 364 | 728 | 212 | 284 | 213 | 287 | 215 | 288 |
+| 24,000 | -44 | -53 | 2029 | 341 | 682 | 204 | 283 | 206 | 286 | 208 | 288 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+*(5-47)*
 
 ![Image](KA-200-B200-POH_imagens/p00171_01.png)
 
-## NORMAL CRUISE POWER
+## NORMAL CRUISE POWER — 1700 RPM
 
-## 1700 RPM
+**ISA -10°C**
 
-ISA 20C
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
 
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS:
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 10 | 5 | 2230 | 469 | 938 | 240 | 237 | 241 | 238 | 241 | 238 |
+| 2000 | 6 | 1 | 2230 | 456 | 912 | 238 | 241 | 239 | 242 | 239 | 243 |
+| 4000 | 3 | -3 | 2230 | 443 | 886 | 235 | 246 | 236 | 247 | 237 | 248 |
+| 6000 | -1 | -7 | 2230 | 431 | 862 | 233 | 250 | 234 | 251 | 235 | 252 |
+| 8000 | -5 | -11 | 2230 | 419 | 838 | 231 | 255 | 232 | 256 | 232 | 257 |
+| 10,000 | -9 | -15 | 2230 | 408 | 816 | 228 | 260 | 229 | 261 | 230 | 262 |
+| 12,000 | -12 | -19 | 2230 | 399 | 798 | 226 | 265 | 227 | 266 | 228 | 268 |
+| 14,000 | -16 | -23 | 2230 | 392 | 784 | 224 | 271 | 225 | 272 | 226 | 273 |
+| 16,000 | -20 | -27 | 2230 | 387 | 774 | 221 | 276 | 222 | 277 | 223 | 278 |
+| 18,000 | -23 | -31 | 2230 | 383 | 766 | 218 | 281 | 219 | 282 | 221 | 284 |
+| 20,000 | -27 | -35 | 2155 | 368 | 736 | 212 | 282 | 214 | 284 | 215 | 286 |
+| 22,000 | -31 | -39 | 2055 | 350 | 700 | 206 | 283 | 208 | 285 | 209 | 287 |
+| 24,000 | -35 | -43 | 1933 | 328 | 656 | 198 | 282 | 200 | 284 | 202 | 287 |
+| 26,000 | -39 | -47 | 1800 | 305 | 610 | 190 | 279 | 192 | 282 | 195 | 285 |
+| 28,000 | -43 | -51 | 1662 | 281 | 562 | 181 | 275 | 184 | 279 | 186 | 283 |
+| 29,000 | -45 | -52 | 1595 | 270 | 540 | 176 | 273 | 179 | 277 | 182 | 281 |
 
-| PRESSURE   |     |      |      |     |     | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   |
-|------------|-----|------|------|-----|-----|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|            | 0   | -5   | 2230 | 466 | 932 |                    |                    |                    |                    |                    |                    |                    |
-| -4         | -4  | -9   | 2230 | 453 | 906 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 440  | 440 | 880 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 428  |     | 856 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 418  |     | 836 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 408  |     | 816 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 398  |     | 796 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 391  |     | 782 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 385  |     | no  |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 381  | 762 | 762 |                    |                    |                    |                    |                    |                    | 18,000             |
-|            |     | 2230 | 378  | 756 | 756 |                    |                    |                    |                    |                    |                    | 20,000             |
-| -41        | -49 | 2155 | 364  | 728 | 728 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2029 | 341  | 682 |     |                    |                    |                    |                    |                    |                    | 24,000             |
-| ---        | --- | ---  | ---  | --- | --- | ---                | ---                | ---                | ---                | ---                | ---                | ---                |
-| ---        | --- | ---  | ---  |     | --- | ---                | ---                | ---                | ---                | ---                | ---                | 28,000             |
-| ---        | --- | ---  | ---  | --- | --- | ---                | ---                | ---                | ---                | ---                | ---                | 29,000             |
-| ---        | --- | ---  | ---  |     | --- | ---                | ---                | ---                | ---                | ---                | ---                | 31,000             |
-| ---        | --- | ---  | ---  |     | --- | ---                | ---                | ---                | ---                | ---                | ---                | 33,000             |
-| ---        | --- | ---  | ---  |     | --- | ---                | ---                | ---                | ---                | ---                | ---                | ---                |
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
 
-## NORMAL CRUISE POWER 1700 RPM
+*(5-48)*
 
-ISA 10PC
 
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS:
+## NORMAL CRUISE POWER — 1700 RPM
 
-| PRESSURE   |     |      |     |     |     | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   |
-|------------|-----|------|-----|-----|-----|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| SL         | 10  | 5    |     | 469 | 938 |                     |                     |                     |                     |                     |                     |
-| 6          | 6   |      | 456 | 456 | 912 |                     |                     |                     |                     |                     |                     |
-| 3          | -3  | 2230 | 443 | 886 |     |                     |                     |                     |                     |                     |                     |
-| -1         | -7  | 2230 | 431 | 862 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 419 | 838 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 408 | 816 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 399 | 798 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 392 | 784 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 |     |     |     |                     |                     |                     |                     |                     |                     |
-|            |     |      |     | 766 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2155 | 368 | 736 |     |                     |                     |                     |                     |                     | 20,000              |
-|            |     | 2055 | 350 | 700 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1933 | 328 | 656 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1800 | 305 | 610 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1662 | 281 | 562 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1595 | 270 | 540 |     |                     |                     |                     |                     |                     |                     |
-| ---        | --- | ---  | --- | --- |     | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |
-|            | --- | ---  |     | --- |     |                     | ---                 | ---                 | ---                 |                     | ---                 |
-| ---        | --- | ---  | --- |     |     | ---                 |                     | ---                 | ---                 | ---                 | ---                 |
+**ISA**
 
-## NORMAL CRUISE POWER 1700 RPM
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 20 | 15 | 2230 | 473 | 946 | 238 | 239 | 239 | 240 | 240 | 241 |
+| 2000 | 17 | 11 | 2230 | 459 | 918 | 236 | 244 | 237 | 245 | 238 | 246 |
+| 4000 | 13 | 7 | 2230 | 446 | 892 | 234 | 249 | 235 | 250 | 236 | 250 |
+| 6000 | 9 | 3 | 2230 | 433 | 866 | 231 | 253 | 232 | 254 | 233 | 255 |
+| 8000 | 5 | -1 | 2230 | 421 | 842 | 229 | 258 | 230 | 259 | 231 | 260 |
+| 10,000 | 2 | -5 | 2230 | 410 | 820 | 227 | 263 | 228 | 264 | 229 | 265 |
+| 12,000 | -2 | -9 | 2230 | 400 | 800 | 224 | 268 | 225 | 270 | 226 | 271 |
+| 14,000 | -6 | -13 | 2230 | 393 | 786 | 222 | 274 | 223 | 275 | 224 | 276 |
+| 16,000 | -9 | -17 | 2230 | 388 | 776 | 219 | 279 | 220 | 280 | 221 | 282 |
+| 18,000 | -13 | -21 | 2152 | 373 | 746 | 213 | 280 | 215 | 282 | 216 | 284 |
+| 20,000 | -17 | -25 | 2057 | 355 | 710 | 207 | 281 | 208 | 283 | 210 | 285 |
+| 22,000 | -21 | -29 | 1963 | 337 | 674 | 200 | 281 | 202 | 284 | 204 | 286 |
+| 24,000 | -25 | -33 | 1842 | 316 | 632 | 192 | 280 | 195 | 283 | 197 | 285 |
+| 26,000 | -29 | -37 | 1712 | 293 | 586 | 184 | 277 | 186 | 280 | 189 | 283 |
+| 28,000 | -33 | -41 | 1579 | 270 | 540 | 175 | 272 | 178 | 277 | 180 | 281 |
+| 29,000 | -36 | -42 | 1514 | 259 | 518 | 170 | 269 | 173 | 274 | 176 | 279 |
+| 31,000 | -40 | -46 | 1391 | 239 | 478 | 160 | 263 | 164 | 270 | 167 | 275 |
+| 33,000 | -44 | -50 | 1274 | 220 | 440 | 149 | 254 | 154 | 263 | 158 | 270 |
+| 35,000 | -49 | -54 | 1153 | 201 | 402 | 133 | 237 | 143 | 254 | 150 | 263 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+*(5-49)*
 
 ![Image](KA-200-B200-POH_imagens/p00173_01.png)
 
-ISA
+## NORMAL CRUISE POWER — 1700 RPM
+
+**ISA +10°C**
 
 NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
 
-|   PRESSURE - FEET |   ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS | ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   | ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   |   ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS - LBS/HR |   ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW I@ 12.000 LBS @ 11 000 LBS !@ 10000 LBS   |
-|-------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-|                20 |                                                                                          20 | 15                                                                                          | 2230                                                                                        |                                                                                                  473 |                                                                                         946 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                   |                                                                                             | 2230                                                                                        | 459                                                                                         |                                                                                                  459 |                                                                                         918 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                13 |                                                                                           7 | -·2230                                                                                      | 446                                                                                         |                                                                                                      |                                                                                         892 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                 9 |                                                                                           3 | 2230                                                                                        | 433                                                                                         |                                                                                                      |                                                                                         866 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                 5 |                                                                                          -1 | 2230                                                                                        | 421                                                                                         |                                                                                                  842 |                                                                                             |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 8000                                                                                                           |
-|                 2 |                                                                                          -5 | 2230                                                                                        | 410                                                                                         |                                                                                                 -820 |                                                                                             |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                -2 |                                                                                             |                                                                                             | 400 --                                                                                      |                                                                                                  800 |                                                                                         800 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                   |                                                                                             | 2230                                                                                        | 393                                                                                         |                                                                                                      |                                                                                         786 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                   |                                                                                             | -2230                                                                                       | 388                                                                                         |                                                                                                      |                                                                                         776 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 16,000                                                                                                         |
-|                   |                                                                                             | 2152                                                                                        | 373                                                                                         |                                                                                                      |                                                                                         746 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 18,000                                                                                                         |
-|                   |                                                                                             | 2057                                                                                        | 355                                                                                         |                                                                                                  710 |                                                                                         710 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 20,000                                                                                                         |
-|               -21 |                                                                                         -29 | 1-963                                                                                       | 337                                                                                         |                                                                                                  674 |                                                                                         674 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 1-963                                                                                                          |
-|                   |                                                                                             | 1842                                                                                        | 316                                                                                         |                                                                                                  632 |                                                                                         632 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 24,000                                                                                                         |
-|                   |                                                                                             | 1712                                                                                        | 293                                                                                         |                                                                                                      |                                                                                         586 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 26,000                                                                                                         |
-|                   |                                                                                             | 1579                                                                                        | 270                                                                                         |                                                                                                  540 |                                                                                         540 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                   |                                                                                             | 1514                                                                                        | 259                                                                                         |                                                                                                      |                                                                                         518 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                | 29,000                                                                                                         |
-|                   |                                                                                             | 1391                                                                                        | 239                                                                                         |                                                                                                  478 |                                                                                         478 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                   |                                                                                             | 1274                                                                                        | 220                                                                                         |                                                                                                  440 |                                                                                         440 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
-|                   |                                                                                             | 1153                                                                                        | 201                                                                                         |                                                                                                  201 |                                                                                         402 |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |                                                                                                                |
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 30 | 25 | 2230 | 475 | 950 | 237 | 242 | 238 | 243 | 239 | 244 |
+| 2000 | 27 | 21 | 2230 | 462 | 924 | 235 | 247 | 236 | 248 | 236 | 248 |
+| 4000 | 23 | 17 | 2230 | 449 | 898 | 232 | 251 | 233 | 252 | 234 | 253 |
+| 6000 | 19 | 13 | 2230 | 436 | 872 | 230 | 256 | 231 | 257 | 232 | 258 |
+| 8000 | 15 | 9 | 2230 | 424 | 848 | 227 | 261 | 228 | 262 | 229 | 263 |
+| 10,000 | 12 | 5 | 2230 | 412 | 824 | 225 | 266 | 226 | 267 | 227 | 269 |
+| 12,000 | 8 | 1 | 2230 | 402 | 804 | 223 | 271 | 224 | 273 | 225 | 274 |
+| 14,000 | 4 | -3 | 2230 | 394 | 788 | 220 | 277 | 221 | 278 | 222 | 279 |
+| 16,000 | 1 | -7 | 2172 | 379 | 758 | 215 | 279 | 216 | 281 | 217 | 282 |
+| 18,000 | -3 | -11 | 2064 | 358 | 716 | 208 | 279 | 210 | 281 | 211 | 283 |
+| 20,000 | -7 | -15 | 1975 | 341 | 682 | 202 | 280 | 204 | 282 | 205 | 284 |
+| 22,000 | -11 | -19 | 1873 | 325 | 650 | 195 | 279 | 197 | 282 | 199 | 284 |
+| 24,000 | -15 | -23 | 1756 | 304 | 608 | 187 | 277 | 189 | 281 | 191 | 284 |
+| 26,000 | -19 | -27 | 1630 | 281 | 562 | 178 | 274 | 181 | 278 | 183 | 281 |
+| 28,000 | -24 | -31 | 1500 | 259 | 518 | 169 | 269 | 172 | 274 | 175 | 278 |
+| 29,000 | -26 | -32 | 1438 | 248 | 496 | 164 | 264 | 167 | 271 | 270 | 276 |
+| 31,000 | -30 | -36 | 1319 | 229 | 458 | 153 | 258 | 158 | 266 | 262 | 272 |
+| 33,000 | -34 | -40 | 1205 | 210 | 420 | 141 | 247 | 148 | 258 | 253 | 267 |
+| 35,000 | -39 | -44 | 1087 | 192 | 384 | --- | --- | 135 | 246 | 242 | 259 |
 
-## NORMAL CRUISE POWER 1700 RPM
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
 
-ISA + 10PC
+Nota do transcritor: no original, as quatro últimas linhas da coluna "@ 10,000 LBS IAS" (270, 262, 253, 242) estão assim impressas, fora da tendência das demais colunas; os valores foram confirmados pelo usuário e mantidos como impressos.
 
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
-
-| PRESSURE   |     |      |      |     |     | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   |
-|------------|-----|------|------|-----|-----|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| SL         |     |      | 2230 | 475 | 950 |                    |                    |                    |                    |                    |                    |                    |
-| 2000       |     |      | 2230 | 462 | 924 |                    |                    |                    |                    |                    |                    |                    |
-| 23         |  23 |   17 | 2230 | 449 | 898 |                    |                    |                    |                    |                    |                    |                    |
-|            |     |      |      | 436 | 872 |                    |                    |                    |                    |                    |                    |                    |
-| 15         |   9 |      | 2230 | 424 | 848 |                    |                    |                    |                    |                    |                    |                    |
-| 12         |   5 | 2230 |  412 | 412 | 824 |                    |                    |                    |                    |                    |                    |                    |
-| 8          |   1 | 2230 |  402 | 402 | 804 |                    |                    |                    |                    |                    |                    |                    |
-| 4          |  -3 |      |      | 394 | 788 |                    |                    |                    |                    |                    |                    |                    |
-| 1          |  -7 |   -7 | 2172 | 379 | 758 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2064 |  358 | 358 | 716 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1975 |  341 | 341 | 682 |                    |                    |                    |                    |                    |                    |                    |
-| -11        | -19 | 1873 |  325 | 325 | 650 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1756 |  304 |     | 608 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1630 |  281 | 281 | 562 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1500 |  259 |     | 518 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1438 |  248 | 248 | 496 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1319 |  229 |     | 458 |                    |                    |                    |                    |                    |                    |                    |
-|            |     |      |  229 | 210 |     |                    |                    |                    |                    |                    |                    |                    |
-|            |     |      | 1087 | 192 | 384 | ---                | ---                |                    |                    |                    |                    |                    |
+*(5-50)*
 
 ![Image](KA-200-B200-POH_imagens/p00174_01.png)
 
-## NORMAL CRUISE POWER
+## NORMAL CRUISE POWER — 1700 RPM
+
+**ISA +20°C**
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 41 | 35 | 2230 | 478 | 956 | 235 | 244 | 236 | 245 | 237 | 246 |
+| 2000 | 37 | 31 | 2230 | 465 | 930 | 233 | 249 | 234 | 250 | 235 | 251 |
+| 4000 | 33 | 27 | 2230 | 451 | 902 | 231 | 254 | 232 | 255 | 232 | 256 |
+| 6000 | 29 | 23 | 2230 | 439 | 878 | 228 | 259 | 229 | 260 | 230 | 261 |
+| 8000 | 26 | 19 | 2230 | 427 | 854 | 226 | 264 | 227 | 265 | 228 | 266 |
+| 10,000 | 22 | 15 | 2230 | 415 | 830 | 223 | 269 | 224 | 270 | 226 | 272 |
+| 12,000 | 18 | 11 | 2229 | 404 | 808 | 221 | 274 | 222 | 276 | 223 | 277 |
+| 14,000 | 14 | 7 | 2135 | 382 | 764 | 214 | 275 | 216 | 277 | 217 | 278 |
+| 16,000 | 10 | 3 | 2041 | 362 | 724 | 208 | 276 | 210 | 278 | 212 | 279 |
+| 18,000 | 7 | -1 | 1947 | 342 | 682 | 202 | 276 | 203 | 278 | 205 | 280 |
+| 20,000 | 3 | -5 | 1882 | 328 | 656 | 196 | 277 | 198 | 280 | 200 | 282 |
+| 22,000 | -1 | -9 | 1802 | 313 | 616 | 190 | 278 | 192 | 281 | 194 | 284 |
+| 24,000 | -5 | -13 | 1690 | 293 | 586 | 182 | 276 | 185 | 279 | 187 | 283 |
+| 26,000 | -9 | -17 | 1560 | 271 | 542 | 173 | 271 | 176 | 276 | 178 | 280 |
+| 28,000 | -14 | -21 | 1425 | 249 | 498 | 163 | 265 | 166 | 271 | 170 | 276 |
+| 29,000 | -16 | -22 | 1364 | 238 | 476 | 157 | 261 | 162 | 268 | 165 | 273 |
+| 31,000 | -20 | -26 | 1249 | 219 | 438 | 146 | 252 | 152 | 261 | 156 | 268 |
+| 33,000 | -25 | -30 | 1139 | 202 | 404 | 131 | 234 | 141 | 253 | 147 | 262 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+Nota do transcritor: na linha de 22,000 ft o Total Fuel Flow está impresso como 616 (o dobro de 313 seria 626); mantido como impresso.
+
+*(5-51)*
 
 ![Image](KA-200-B200-POH_imagens/p00175_01.png)
 
-ISA +208C
+## NORMAL CRUISE POWER — 1700 RPM
 
-AND FUEL FLOW BASED ON 11,000 POUNDS:
+**ISA +30°C**
 
-| PRESSURE   |     |      |      |     |     | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   |
-|------------|-----|------|------|-----|-----|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| SL         |     |      | 2230 | 478 | 956 |                     |                     |                     |                     |                     |                     |                     |
-|            |     |      | 2230 | 465 | 930 |                     |                     |                     |                     |                     |                     |                     |
-|            |     |      | 2230 | 451 | 902 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 2230 | 439 | 878 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 |      | 427 | 854 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 |  415 | 415 | 830 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 2229 |  404 | 404 | 808 |                     |                     |                     |                     |                     |                     |                     |
-| 14         | 7   | 2135 |      | 382 | 764 |                     |                     |                     |                     |                     |                     |                     |
-| 10         | 3   | 2041 | 2041 | 362 | 724 |                     |                     |                     |                     |                     |                     |                     |
-| 7          | -1  | 1947 |  342 | 342 | 682 |                     |                     |                     |                     |                     |                     |                     |
-| 3          | -5  | 1882 |  328 | 328 | 656 |                     |                     |                     |                     |                     |                     | 20,000              |
-| -1         | -9  | 1802 |  313 | 313 | 616 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 1690 |  293 |     | 586 |                     |                     |                     |                     |                     |                     | 586                 |
-|            |     | 1560 |  271 | 271 | 542 |                     |                     |                     |                     |                     |                     | 26,000              |
-|            |     | 1425 |  249 | 249 | 498 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 1364 |  238 | 238 | 476 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 1249 | 1249 | 219 | 438 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 1139 |      | 202 | 404 |                     |                     |                     |                     |                     |                     |                     |
-| ---        | --- |      |      | --- | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
 
-## NORMAL CRUISE POWER
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 51 | 45 | 2230 | 481 | 962 | 234 | 247 | 235 | 248 | 236 | 249 |
+| 2000 | 47 | 41 | 2230 | 468 | 936 | 232 | 252 | 233 | 253 | 233 | 254 |
+| 4000 | 43 | 37 | 2230 | 454 | 908 | 229 | 256 | 230 | 257 | 231 | 258 |
+| 6000 | 39 | 33 | 2230 | 441 | 882 | 227 | 261 | 228 | 263 | 229 | 264 |
+| 8000 | 36 | 29 | 2230 | 428 | 856 | 224 | 267 | 225 | 268 | 226 | 269 |
+| 10,000 | 32 | 25 | 2187 | 410 | 820 | 220 | 270 | 221 | 271 | 222 | 273 |
+| 12,000 | 28 | 21 | 2076 | 384 | 768 | 213 | 270 | 215 | 272 | 216 | 273 |
+| 14,000 | 24 | 17 | 1989 | 363 | 726 | 207 | 271 | 209 | 273 | 210 | 274 |
+| 16,000 | 20 | 13 | 1906 | 344 | 688 | 201 | 271 | 203 | 274 | 204 | 276 |
+| 18,000 | 16 | 9 | 1828 | 326 | 652 | 195 | 272 | 197 | 275 | 199 | 277 |
+| 20,000 | 12 | 5 | 1777 | 314 | 628 | 190 | 274 | 192 | 277 | 194 | 279 |
+| 22,000 | 9 | 1 | 1719 | 302 | 604 | 185 | 275 | 187 | 279 | 189 | 282 |
+| 24,000 | 5 | -3 | 1608 | 281 | 562 | 176 | 273 | 179 | 277 | 182 | 280 |
+| 26,000 | 0 | -7 | 1489 | 260 | 520 | 167 | 268 | 171 | 273 | 174 | 278 |
+| 28,000 | -4 | -11 | 1369 | 239 | 478 | 157 | 262 | 162 | 268 | 165 | 274 |
+| 29,000 | -6 | -12 | 1310 | 229 | 458 | 152 | 257 | 157 | 265 | 161 | 271 |
+| 31,000 | -10 | -16 | 1195 | 211 | 422 | 139 | 245 | 147 | 258 | 151 | 266 |
+| 33,000 | -15 | -20 | 1078 | 193 | 286 | --- | --- | 134 | 245 | 141 | 258 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+Nota do transcritor: na linha de 33,000 ft o Total Fuel Flow está impresso como 286 (o dobro de 193 seria 386); mantido como impresso.
+
+*(5-52)*
 
 ![Image](KA-200-B200-POH_imagens/p00176_01.png)
-
-ISA
-
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS:
-
-| PRESSURE   |     |      |      |       |     | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   |
-|------------|-----|------|------|-------|-----|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|            |     |      | 2230 | . 481 | 962 |                    |                    |                    |                    |                    |                    |                    |
-|            |     |      | 2230 | 468   | 936 |                    |                    |                    |                    |                    |                    |                    |
-|            |     |      | 454  | 454   | 908 |                    |                    |                    |                    |                    |                    |                    |
-|            |     |      | 441  | 441   | 882 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 428  |       | 856 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2187 | 410  |       | 820 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2076 | 384  |       | 768 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1989 | 363  | 363   | 726 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1906 |      |       | 688 |                    |                    |                    |                    |                    |                    |                    |
-| 16         | 9   | 1828 | 326  | 326   | 652 |                    |                    |                    |                    |                    |                    |                    |
-| 12         | 5   | 1777 | 314  |       | 628 |                    |                    |                    |                    |                    |                    | 20,000             |
-| 9          | 1   | 1719 | 302  | 604   | 604 |                    |                    |                    |                    |                    |                    |                    |
-| 5          | -3  | 1608 | 281  | 562   |     |                    |                    |                    |                    |                    |                    |                    |
-| 0          | -7  | 1489 | 260  | 520   | 520 |                    |                    |                    |                    |                    |                    | 26,000             |
-|            |     | 1369 | 239  | 478   | 478 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1310 | 229  |       | 458 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1195 | 211  | 422   | 422 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 1078 | 193  | 193   | 286 | ---                | ---                |                    |                    |                    |                    |                    |
-| ---        | --- | ---  | ---  | ---   | --- | ---                | ---                | ---                | ---                | ---                | ---                | ---                |
-
 ![Image](KA-200-B200-POH_imagens/p00176_02.png)
 
-## NORMAL CRUISE POWER 1700 RPM
+## NORMAL CRUISE POWER — 1700 RPM
 
-ISA 37C
+**ISA +37°C**
 
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS:
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
 
-| PRESSURE   |     |      |      |     |     | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   |
-|------------|-----|------|------|-----|-----|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| SL         | 58  | 52   | 2230 | 483 | 966 |                     |                     |                     |                     |                     |                     |                     |
-| 54         | 54  | 48   | 2230 | 470 | 940 |                     |                     |                     |                     |                     |                     |                     |
-|            |     |      | 456  | 456 | 912 |                     |                     |                     |                     |                     |                     |                     |
-| 47         | 40  | 2230 | 442  | 442 | 884 |                     |                     |                     |                     |                     |                     |                     |
-| 43         | 36  | 2160 | 420  | 420 | 840 |                     |                     |                     |                     |                     |                     |                     |
-| 39         | 32  | 2080 | 397  |     | 794 |                     |                     |                     |                     |                     |                     |                     |
-| 35         | 28  | 1975 | 370  |     | 740 |                     |                     |                     |                     |                     |                     |                     |
-| 31         | 24  | 1893 | 351  |     | 702 |                     |                     |                     |                     |                     |                     | 14,000              |
-| 27         | 20  | 1815 | 333  |     | 666 |                     |                     |                     |                     |                     |                     |                     |
-| 23         | 16  | 1740 | 315  | 315 | 630 |                     |                     |                     |                     |                     |                     | 18,000              |
-| 19         | 12  | 1696 | 304  | 304 | 608 |                     |                     |                     |                     |                     |                     | 20,000              |
-| 15         | 8   | 1645 | 292  |     | 584 |                     |                     |                     |                     |                     |                     | 22,000              |
-| 11         | 4   | 1546 | 273  |     | 546 |                     |                     |                     |                     |                     |                     | 24,000              |
-| 7          | 0   | 1435 | 252  | 504 | 504 |                     |                     |                     |                     |                     |                     | 26,000              |
-| 3          | -4  | 1319 | 232  | 464 | 464 |                     |                     |                     |                     |                     |                     | 232                 |
-| 1          | -5  | 1261 | 223  |     | 446 |                     |                     |                     |                     |                     |                     | 29,000              |
-| -4         | -9  | 1151 | 205  | 410 | 410 |                     |                     |                     |                     |                     |                     | 31,000              |
-|            |     | 1039 | 187  | 187 | 374 | ---                 | ---                 |                     |                     |                     |                     | 33,000              |
-| ---        | --- | ---  | ---  | --- | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 58 | 52 | 2230 | 483 | 966 | 233 | 249 | 234 | 250 | 235 | 251 |
+| 2000 | 54 | 48 | 2230 | 470 | 940 | 231 | 253 | 232 | 254 | 232 | 255 |
+| 4000 | 50 | 44 | 2230 | 456 | 912 | 228 | 258 | 229 | 259 | 230 | 260 |
+| 6000 | 47 | 40 | 2230 | 442 | 884 | 226 | 263 | 227 | 264 | 228 | 265 |
+| 8000 | 43 | 36 | 2160 | 420 | 840 | 220 | 265 | 222 | 267 | 223 | 268 |
+| 10,000 | 39 | 32 | 2080 | 397 | 794 | 215 | 267 | 216 | 268 | 218 | 270 |
+| 12,000 | 35 | 28 | 1975 | 370 | 740 | 208 | 267 | 210 | 268 | 211 | 270 |
+| 14,000 | 31 | 24 | 1893 | 351 | 702 | 202 | 267 | 204 | 270 | 206 | 272 |
+| 16,000 | 27 | 20 | 1815 | 333 | 666 | 197 | 268 | 198 | 271 | 200 | 273 |
+| 18,000 | 23 | 16 | 1740 | 315 | 630 | 191 | 269 | 192 | 272 | 194 | 274 |
+| 20,000 | 19 | 12 | 1696 | 304 | 608 | 185 | 271 | 188 | 274 | 190 | 277 |
+| 22,000 | 15 | 8 | 1645 | 292 | 584 | 180 | 272 | 183 | 276 | 185 | 279 |
+| 24,000 | 11 | 4 | 1546 | 273 | 546 | 172 | 270 | 175 | 274 | 178 | 278 |
+| 26,000 | 7 | 0 | 1435 | 252 | 504 | 163 | 265 | 167 | 271 | 170 | 276 |
+| 28,000 | 3 | -4 | 1319 | 232 | 464 | 153 | 258 | 158 | 266 | 161 | 272 |
+| 29,000 | 1 | -5 | 1261 | 223 | 446 | 147 | 253 | 153 | 262 | 157 | 269 |
+| 31,000 | -4 | -9 | 1151 | 205 | 410 | 133 | 238 | 142 | 254 | 148 | 263 |
+| 33,000 | -9 | -13 | 1039 | 187 | 374 | --- | --- | 128 | 238 | 138 | 255 |
 
-## NORMAL CRUISE SPEEDS
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
 
-## 1700 RPM
+*(5-53)*
 
-## WEIGHT 11,000 LBS
 
-NOTE: DURING WITH ICE VANES EXTENDED, TrUE AIRSPEED WILL BE REDUCED APPROXIMATELY 30 KNOTS
+## NORMAL CRUISE SPEEDS — 1700 RPM
 
-ISA
+**WEIGHT 11,000 LBS**
+
+NOTE: DURING OPERATION WITH ICE VANES EXTENDED, TRUE AIRSPEED WILL BE REDUCED APPROXIMATELY 30 KNOTS.
+
+Pressure altitude (SL to 35,000 ft) versus true airspeed (230 to 290 knots), curves ISA -30°C, ISA and ISA +37°C. *(5-54)*
 
 ![Image](KA-200-B200-POH_imagens/p00178_01.png)
 
-## NORMAL CRUISE POWER
-
-1700 RPM
+## NORMAL CRUISE POWER — 1700 RPM
 
 NOTE: DURING OPERATION WITH ICE VANES EXTENDED, TORQUE WILL DECREASE APPROXIMATELY 20%.
 
+Torque setting (ft-lbs, 1000-2300; TORQUE LIMIT 2230 FT-LBS) versus indicated outside air temperature (-80 to 60°C), lines ISA -20°C to ISA +37°C and pressure altitude 8000 to 35,000 ft. *(5-55)*
+
 ![Image](KA-200-B200-POH_imagens/p00179_01.png)
 
-## FUEL FLOW AT NORMAL CRUISE POWER
+## FUEL FLOW AT NORMAL CRUISE POWER — 1700 RPM
 
-1700 RPM
+NOTE: DURING OPERATION WITH ICE VANES EXTENDED, FUEL FLOW WILL DECREASE APPROXIMATELY 10%.
 
-NOTE: DURING OPERATION WITHICE VANES  EXTENDED, FUEL FLOW WILL DECREASE APPROXIMATELY 10%.
+Fuel flow per engine (lbs/hr, 170-420) versus indicated outside air temperature (-80 to 60°C), lines ISA -30°C to ISA +37°C and pressure altitude 10,000 to 35,000 ft. *(5-56)*
 
 ![Image](KA-200-B200-POH_imagens/p00180_01.png)
-
 ![Image](KA-200-B200-POH_imagens/p00180_02.png)
 
-8 1
+## RANGE PROFILE - NORMAL CRUISE POWER — 1700 RPM
 
-8
+STANDARD DAY (ISA), ZERO WIND
+
+ASSOCIATED CONDITIONS: WEIGHT ................ 12,590 LBS BEFORE ENGINE START; FUEL ................ AVIATION KEROSENE; FUEL DENSITY ................ 6.7 LBS/GAL; ICE VANES ................ RETRACTED
+
+EXAMPLE: PRESSURE ALTITUDE ................ 26,000 FT; FUEL LOADING ................ 2586 LBS; RANGE ................ 1018 NM
+
+NOTE: RANGE INCLUDES START, TAXI, CLIMB, DESCENT, AND 45 MINUTES RESERVE FUEL AT MAXIMUM RANGE POWER.
+
+Curves: FULL MAIN AND AUX TANKS (544 GAL) 3645 LBS; FULL MAIN TANKS (386 GAL) 2586 LBS; AVAILABLE FUEL AT MAX ZERO FUEL WT (237 GAL) 1590 LBS; CRUISE CLIMB DISTANCE. Cruise true airspeed (knots) is annotated along each curve. Pressure altitude SL to 35,000 ft versus range 0 to 2000 nautical miles. *(5-57)*
 
 ![Image](KA-200-B200-POH_imagens/p00181_01.png)
 
-## MAXIMUM CRUISE POWER
+## MAXIMUM CRUISE POWER — 1700 RPM
+
+**ISA -30°C**
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | -10 | -15 | 2230 | 463 | 926 | 243 | 231 | 244 | 232 | 245 | 233 |
+| 2000 | -14 | -19 | 2230 | 452 | 904 | 241 | 235 | 242 | 236 | 243 | 237 |
+| 4000 | -18 | -23 | 2230 | 439 | 878 | 239 | 240 | 240 | 241 | 240 | 242 |
+| 6000 | -21 | -27 | 2230 | 428 | 856 | 237 | 244 | 237 | 245 | 238 | 246 |
+| 8000 | -25 | -31 | 2230 | 417 | 834 | 234 | 249 | 235 | 250 | 236 | 251 |
+| 10,000 | -29 | -35 | 2230 | 406 | 812 | 232 | 254 | 233 | 255 | 234 | 256 |
+| 12,000 | -33 | -39 | 2230 | 396 | 792 | 230 | 259 | 231 | 260 | 231 | 261 |
+| 14,000 | -36 | -43 | 2230 | 389 | 778 | 227 | 264 | 228 | 265 | 229 | 266 |
+| 16,000 | -40 | -47 | 2230 | 384 | 768 | 225 | 269 | 226 | 270 | 227 | 271 |
+| 18,000 | -44 | -51 | 2230 | 379 | 758 | 223 | 274 | 224 | 276 | 225 | 277 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+*(5-58)*
 
 ![Image](KA-200-B200-POH_imagens/p00182_01.png)
-
-ISA 30*C
-
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS:
-
-| PRESSURE   |     |      |      |     |     | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   |
-|------------|-----|------|------|-----|-----|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|            |     |      | 2230 | 463 | 926 |                    |                    |                    |                    |                    |                    |                    |
-|            |     |      | 2230 | 452 | 904 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 439  | 439 | 878 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 428  |     | 856 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 417  |     | 834 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 406  | 812 | 812 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 396  |     | 792 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 389  |     | n8  |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 384  |     | 768 |                    |                    |                    |                    |                    |                    |                    |
-|            |     | 2230 | 379  | 758 | 758 |                    |                    |                    |                    |                    |                    | 18,000             |
-| ---        | --- | ---  | ---  | --- | --- | ---                | ---                | ---                | ---                | ---                | ---                | 20,000             |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | ---                | 22,000             |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | ---                | 24,000             |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | ---                | 26,000             |
-| ---        | --- | ---  | ---  |     | --- | ---                | ---                | ---                | ---                | ---                | ---                | ---                |
-| ---        | --- | ---  | ---  |     | --- | ---                | ---                | ---                | ---                | ---                | ---                | 29,000             |
-| ---        | --- | ---  | ---  | --- | --- | ---                | ---                | ---                | ---                | ---                | ---                | 31,000             |
-| ---        | --- | ---  | ---  | --- | --- | ---                | ---                | ---                | ---                | ---                | ---                | 33,000             |
-| ---        | --- | ---  | ---  |     | --- | ---                | ---                | ---                | ---                | ---                | ---                | --- ---            |
-
 ![Image](KA-200-B200-POH_imagens/p00182_02.png)
 
-## MAXIMUM CRUISE POWER
+## MAXIMUM CRUISE POWER — 1700 RPM
+
+**ISA -20°C**
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 0 | -5 | 2230 | 466 | 932 | 242 | 234 | 242 | 235 | 243 | 236 |
+| 2000 | -4 | -9 | 2230 | 453 | 906 | 239 | 238 | 240 | 239 | 241 | 240 |
+| 4000 | -7 | -13 | 2230 | 440 | 880 | 237 | 243 | 238 | 244 | 239 | 245 |
+| 6000 | -11 | -17 | 2230 | 428 | 856 | 235 | 248 | 236 | 248 | 237 | 249 |
+| 8000 | -15 | -21 | 2230 | 418 | 836 | 232 | 252 | 233 | 253 | 234 | 254 |
+| 10,000 | -19 | -25 | 2230 | 408 | 816 | 230 | 257 | 231 | 258 | 232 | 259 |
+| 12,000 | -22 | -29 | 2230 | 398 | 796 | 228 | 262 | 229 | 263 | 230 | 264 |
+| 14,000 | -26 | -33 | 2230 | 391 | 782 | 225 | 267 | 226 | 268 | 227 | 270 |
+| 16,000 | -30 | -37 | 2230 | 385 | 770 | 223 | 273 | 224 | 274 | 225 | 275 |
+| 18,000 | -33 | -41 | 2230 | 381 | 762 | 220 | 278 | 221 | 279 | 223 | 280 |
+| 20,000 | -37 | -45 | 2230 | 378 | 756 | 218 | 283 | 219 | 284 | 220 | 286 |
+| 22,000 | -41 | -49 | 2230 | 375 | 750 | 215 | 288 | 216 | 290 | 217 | 292 |
+| 24,000 | -45 | -53 | 2107 | 353 | 706 | 207 | 288 | 209 | 290 | 211 | 292 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+*(5-59)*
 
 ![Image](KA-200-B200-POH_imagens/p00183_01.png)
 
-ISA 20PC
+## MAXIMUM CRUISE POWER — 1700 RPM
+
+**ISA -10°C**
 
 NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
 
-| PRESSURE   |     |      |        |        |     | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   |
-|------------|-----|------|--------|--------|-----|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| FEET       |     |      | LBS/HR | LBS/HR |     |                     |                     |                     |                     |                     |                     |                     |
-| SL         |     |      | 2230   | 466    | 932 |                     |                     |                     |                     |                     |                     |                     |
-| -4         | -9  | -9   | 2230   | 453    | 906 |                     |                     |                     |                     |                     |                     |                     |
-|            |     |      | 2230   | 440    | 880 |                     |                     |                     |                     |                     |                     |                     |
-| -11        | -17 | 2230 | 428    | 428    | 856 |                     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 | 418    |        | 836 |                     |                     |                     |                     |                     |                     | 8000                |
-|            |     | 2230 | 408    | 816    |     |                     |                     |                     |                     |                     |                     | 10,000              |
-|            |     | 2230 | 398    | 796    | 796 |                     |                     |                     |                     |                     |                     | 12,000              |
-|            |     | 2230 | 391    |        | 782 |                     |                     |                     |                     |                     |                     | 14,000              |
-|            |     | 2230 | 385    |        | 770 |                     |                     |                     |                     |                     |                     | 16,000              |
-|            |     | 2230 | 381    |        | 762 |                     |                     |                     |                     |                     |                     | 18,000              |
-|            |     | 2230 | 378    |        | 756 |                     |                     |                     |                     |                     |                     | 20,000              |
-| -41        | -49 | 2230 | 375    | 750    | 750 |                     |                     |                     |                     |                     |                     | 22,000              |
-|            |     | 2107 | 353    | 706    |     |                     |                     |                     |                     |                     |                     | 24,000              |
-| ---        | --- | ---  | ---    | ---    | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 | .26,000             |
-| ---        | --- | ---  | ---    | ---    | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 | 28,000              |
-| ---        | --- | ---  | ---    | ---    | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 | 29,000              |
-| ---        | --- | ---  | ---    | ---    |     | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 | 31,000              |
-| ---        | --- | ---  | ---    | ---    | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 | 33,000              |
-| ---        | --- | ---  | ---    | ---    | --- | ---                 | ---                 | -.-                 | ---                 | ---                 | ---                 | 35,000              |
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 10 | 5 | 2230 | 469 | 938 | 240 | 237 | 241 | 238 | 241 | 238 |
+| 2000 | 6 | 1 | 2230 | 456 | 912 | 238 | 241 | 239 | 242 | 239 | 243 |
+| 4000 | 3 | -3 | 2230 | 443 | 886 | 235 | 246 | 236 | 247 | 237 | 248 |
+| 6000 | -1 | -7 | 2230 | 431 | 862 | 233 | 250 | 234 | 251 | 235 | 252 |
+| 8000 | -5 | -11 | 2230 | 419 | 838 | 231 | 255 | 232 | 256 | 232 | 257 |
+| 10,000 | -9 | -15 | 2230 | 408 | 816 | 228 | 260 | 229 | 261 | 230 | 262 |
+| 12,000 | -12 | -19 | 2230 | 399 | 798 | 226 | 265 | 227 | 266 | 228 | 268 |
+| 14,000 | -16 | -23 | 2230 | 392 | 784 | 224 | 271 | 225 | 272 | 226 | 273 |
+| 16,000 | -20 | -27 | 2230 | 387 | 774 | 221 | 276 | 222 | 277 | 223 | 278 |
+| 18,000 | -23 | -31 | 2230 | 383 | 766 | 218 | 281 | 219 | 282 | 221 | 284 |
+| 20,000 | -27 | -35 | 2230 | 380 | 760 | 215 | 286 | 217 | 288 | 218 | 289 |
+| 22,000 | -31 | -39 | 2141 | 364 | 728 | 209 | 287 | 211 | 289 | 212 | 291 |
+| 24,000 | -35 | -43 | 2018 | 342 | 684 | 202 | 286 | 204 | 289 | 205 | 291 |
+| 26,000 | -39 | -47 | 1881 | 317 | 634 | 193 | 284 | 196 | 287 | 198 | 290 |
+| 28,000 | -43 | -51 | 1734 | 292 | 584 | 184 | 280 | 187 | 284 | 189 | 287 |
+| 29,000 | -45 | -52 | 1661 | 260 | 560 | 179 | 277 | 182 | 282 | 184 | 285 |
 
-## MAXIMUM CRUISE POWER
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+Nota do transcritor: na linha de 29,000 ft o Total Fuel Flow está impresso como 560 (o dobro de 260 seria 520); mantido como impresso.
+
+*(5-60)*
 
 ![Image](KA-200-B200-POH_imagens/p00184_01.png)
-
-ISA 10C
-
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS:
-
-| PRESSURE   |     |      |       |     |     | AIRSPEED - KNOTS ..   | AIRSPEED - KNOTS ..   | AIRSPEED - KNOTS ..   | AIRSPEED - KNOTS ..   | AIRSPEED - KNOTS ..   | AIRSPEED - KNOTS ..   | AIRSPEED - KNOTS ..   |
-|------------|-----|------|-------|-----|-----|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|
-| SL         | 10  | 5    | 2230  | 469 | 938 |                       |                       |                       |                       |                       |                       |                       |
-| 6          | 6   | 1    | 2230  | 456 | 912 |                       |                       |                       |                       |                       |                       |                       |
-| 3          | -3  | 2230 | 443   | 443 | 886 |                       |                       |                       |                       |                       |                       |                       |
-| -1         | -7  | 2230 | 431   |     | 862 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2230 | 419   |     | 838 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2230 | ~ 408 | 816 | 816 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2230 | 399   | 798 | 798 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2230 | 392   | 784 |     |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2230 | 387   | 774 | 774 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2230 | 383   | 766 | 766 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2230 | 380   | 760 | 760 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2141 | 364   | 728 | 728 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 2018 | 342   | 684 | 684 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 1881 | 317   | 634 | 634 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 1734 | 292   | 584 | 584 |                       |                       |                       |                       |                       |                       |                       |
-|            |     | 1661 | 260   | 560 | 560 |                       |                       |                       |                       |                       |                       |                       |
-| ---        | --- | ---  | ---   | --- | --- | ---                   | ---                   | ---                   | ---                   | ---                   | ---                   | ---                   |
-| ---        | --- | ---  | ---   |     | --- | ---                   | ---                   | ---                   | ---                   | ---                   | ---                   | ---                   |
-| ---        | --- | ---  | ---   |     | --- | ---                   | ---                   | ---                   | ---                   | ---                   | ---                   | ---                   |
-
 ![Image](KA-200-B200-POH_imagens/p00184_02.png)
 
-## MAXIMUM CRUISE POWER
+## MAXIMUM CRUISE POWER — 1700 RPM
+
+**ISA**
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 20 | 15 | 2230 | 473 | 946 | 238 | 239 | 239 | 240 | 240 | 241 |
+| 2000 | 17 | 11 | 2230 | 459 | 918 | 236 | 244 | 237 | 245 | 238 | 246 |
+| 4000 | 13 | 7 | 2230 | 446 | 892 | 234 | 249 | 235 | 250 | 236 | 250 |
+| 6000 | 9 | 3 | 2230 | 433 | 866 | 231 | 253 | 232 | 254 | 233 | 255 |
+| 8000 | 5 | -1 | 2230 | 421 | 842 | 229 | 258 | 230 | 259 | 231 | 260 |
+| 10,000 | 2 | -5 | 2230 | 410 | 820 | 227 | 263 | 228 | 264 | 229 | 265 |
+| 12,000 | -2 | -9 | 2230 | 400 | 800 | 224 | 268 | 225 | 270 | 226 | 271 |
+| 14,000 | -6 | -13 | 2230 | 393 | 786 | 222 | 274 | 223 | 275 | 224 | 276 |
+| 16,000 | -9 | -17 | 2230 | 388 | 776 | 219 | 279 | 220 | 280 | 221 | 282 |
+| 18,000 | -13 | -21 | 2230 | 385 | 770 | 216 | 284 | 217 | 286 | 219 | 287 |
+| 20,000 | -17 | -25 | 2143 | 368 | 736 | 210 | 285 | 212 | 287 | 213 | 289 |
+| 22,000 | -21 | -29 | 2043 | 350 | 700 | 203 | 285 | 205 | 288 | 207 | 290 |
+| 24,000 | -25 | -33 | 1920 | 328 | 656 | 196 | 284 | 198 | 287 | 200 | 290 |
+| 26,000 | -29 | -37 | 1789 | 305 | 610 | 187 | 281 | 190 | 285 | 192 | 288 |
+| 28,000 | -33 | -41 | 1654 | 281 | 562 | 178 | 277 | 181 | 282 | 184 | 285 |
+| 29,000 | -35 | -42 | 1588 | 270 | 540 | 173 | 275 | 177 | 280 | 179 | 284 |
+| 31,000 | -40 | -46 | 1460 | 249 | 498 | 164 | 270 | 167 | 275 | 171 | 280 |
+| 33,000 | -44 | -50 | 1334 | 229 | 458 | 153 | 261 | 158 | 269 | 162 | 275 |
+| 35,000 | -48 | -54 | 1204 | 209 | 418 | 139 | 246 | 146 | 260 | 152 | 268 |
+
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+*(5-61)*
 
 ![Image](KA-200-B200-POH_imagens/p00185_01.png)
 
-ISA
+## MAXIMUM CRUISE POWER — 1700 RPM
+
+**ISA +10°C**
 
 NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
 
-| PRESSURE   |     |      |      |     |     | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   |
-|------------|-----|------|------|-----|-----|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| 20         |  20 |   15 | 2230 | 473 | 946 |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 |  459 | 459 | 918 |                     |                     |                     |                     |                     |                     |
-| 13         |   7 | 2230 |  446 | 892 |     |                     |                     |                     |                     |                     |                     |
-| 9          |   3 | 2230 |  433 | 866 | 866 |                     |                     |                     |                     |                     |                     |
-| 5          |  -1 | 2230 |  421 | 842 |     |                     |                     |                     |                     |                     |                     |
-| 2          |  -5 | 2230 |  410 | 820 |     |                     |                     |                     |                     |                     |                     |
-| -2         |  -9 | 2230 |  400 | 800 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 |  393 | 786 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2230 |      | n6  |     |                     |                     |                     |                     |                     |                     |
-| ..;.13     | -21 | 2230 |  385 | no  |     |                     |                     |                     |                     |                     |                     |
-|            |     | 2143 |  368 | 736 |     |                     |                     |                     |                     |                     |                     |
-| -21        | -29 | 2043 |  350 | 700 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1920 |  328 | 656 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1654 |  305 | 610 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1654 |  281 | 562 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1588 |  270 | 540 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1460 |  249 | 498 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1334 |  229 | 458 |     |                     |                     |                     |                     |                     |                     |
-|            |     | 1204 |  229 | 458 |     |                     |                     |                     |                     |                     |                     |
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 30 | 25 | 2230 | 475 | 950 | 237 | 242 | 238 | 243 | 239 | 244 |
+| 2000 | 27 | 21 | 2230 | 462 | 924 | 235 | 247 | 235 | 248 | 236 | 248 |
+| 4000 | 23 | 17 | 2230 | 449 | 898 | 232 | 251 | 233 | 252 | 234 | 253 |
+| 6000 | 19 | 13 | 2230 | 436 | 872 | 230 | 256 | 231 | 257 | 232 | 258 |
+| 8000 | 16 | 9 | 2230 | 424 | 848 | 227 | 261 | 228 | 262 | 229 | 263 |
+| 10,000 | 12 | 5 | 2230 | 412 | 824 | 225 | 266 | 226 | 267 | 227 | 269 |
+| 12,000 | 8 | 1 | 2230 | 402 | 804 | 223 | 271 | 224 | 273 | 225 | 274 |
+| 14,000 | 4 | -3 | 2230 | 394 | 788 | 220 | 277 | 221 | 278 | 222 | 279 |
+| 16,000 | 1 | -7 | 2230 | 388 | 776 | 217 | 282 | 218 | 283 | 219 | 285 |
+| 18,000 | -3 | -11 | 2146 | 371 | 742 | 211 | 283 | 213 | 285 | 214 | 287 |
+| 20,000 | -7 | -15 | 2057 | 354 | 708 | 205 | 284 | 207 | 286 | 208 | 288 |
+| 22,000 | -11 | -19 | 1950 | 337 | 674 | 198 | 283 | 200 | 286 | 201 | 288 |
+| 24,000 | -15 | -23 | 1830 | 315 | 630 | 190 | 282 | 192 | 285 | 194 | 288 |
+| 26,000 | -19 | -27 | 1703 | 292 | 584 | 181 | 279 | 184 | 283 | 186 | 286 |
+| 28,000 | -23 | -31 | 1572 | 270 | 540 | 172 | 274 | 175 | 279 | 178 | 283 |
+| 29,000 | -25 | -32 | 1507 | 259 | 518 | 167 | 271 | 171 | 277 | 174 | 281 |
+| 31,000 | -30 | -36 | 1386 | 239 | 478 | 157 | 264 | 162 | 272 | 165 | 277 |
+| 33,000 | -34 | -40 | 1271 | 221 | 442 | 146 | 255 | 152 | 265 | 156 | 272 |
+| 35,000 | -39 | -44 | 1151 | 202 | 404 | 129 | 235 | 140 | 255 | 146 | 265 |
 
-## MAXIMUM CRUISE POWER
+Células "---" no original (altitudes sem dados) foram omitidas das linhas acima.
+
+*(5-62)*
 
 ![Image](KA-200-B200-POH_imagens/p00186_01.png)
-
-ISA 10PC
-
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
-
-|   PRESSURE |    |      |      |     |     | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   |   AIRSPEED - KNOTS |
-|------------|----|------|------|-----|-----|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|            |    |      | 2230 | 475 | 950 |                    |                    |                    |                    |                    |                    |
-|            |    | 2230 |  462 | 462 |     |                    |                    |                    |                    |                    |                    |
-|         23 | 17 | 2230 |  449 | 898 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 2230 |  436 | 872 |     |                    |                    |                    |                    |                    |                    |
-|         16 |  9 | 2230 |  424 | 848 |     |                    |                    |                    |                    |                    |                    |
-|         12 |  5 | 2230 |  412 | 824 |     |                    |                    |                    |                    |                    |                    |
-|          8 |  1 | 2230 |  402 | 804 |     |                    |                    |                    |                    |                    |                    |
-|          4 | -3 |      |      | 788 |     |                    |                    |                    |                    |                    |                    |
-|          1 | -7 | 2230 |  388 | 776 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 2146 |  371 | 742 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 2057 |  354 | 708 |     |                    |                    |                    |                    |                    |             20,000 |
-|            |    | 1950 |  337 | 674 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 1830 |  315 | 630 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 1703 |  292 | 584 |     |                    |                    |                    |                    |                    |             26,000 |
-|            |    | 1572 |  270 | 540 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 1507 |  259 | 518 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 1386 |  239 | 478 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 1271 |  221 | 442 |     |                    |                    |                    |                    |                    |                    |
-|            |    | 1151 |  202 | 404 |     |                    |                    |                    |                    |                    |                    |
-
 ![Image](KA-200-B200-POH_imagens/p00186_02.png)
-
-## MAXIMUM CRUISE POWER
 
 ![Image](KA-200-B200-POH_imagens/p00187_01.png)
 
