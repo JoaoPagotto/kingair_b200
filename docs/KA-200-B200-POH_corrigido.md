@@ -1689,278 +1689,326 @@ Or:
 
 > CLOTHING ONLY
 
-![Image](KA-200-B200-POH_imagens/p00062_01.png)
+*Inside Airstair Door Behind Handle (B200):*
 
-![Image](KA-200-B200-POH_imagens/p00062_02.png)
+> CAUTION — DO NOT OPEN DOOR WHEN CABIN IS PRESSURIZED. CAUTION — DO NOT ATTEMPT TO CHECK SECURITY OF CABIN DOOR BY MOVING DOOR HANDLE UNLESS CABIN IS DEPRESSURIZED AND AIRCRAFT IS ON THE GROUND. PUSH BUTTON & TURN HANDLE TO OPEN DOOR. (Handle positions marked: OPEN, LATCH, LOCK)
 
-On Upper Access Cover ot Cargo Dor: (B2OOC)
+*Inside Airstair Door Behind Handle (B200C):*
 
-![Image](KA-200-B200-POH_imagens/p00063_01.png)
+> CAUTION — DO NOT OPEN OR CHECK SECURITY BY MOVING DOOR HANDLE WHILE AIRCRAFT IS PRESSURIZED AND/OR IN FLIGHT. PUSH BUTTON & TURN HANDLE TO OPEN DOOR. (Handle positions marked: OPEN, LOCK)
 
-On Lower Access Cover of Cargo Dbor: (BZOOC)
+*Inside Airstair Door On Folding Step (B200 and B200C):*
 
-![Image](KA-200-B200-POH_imagens/p00063_02.png)
+> LIFT STEP TO INSPECT DOOR LOCK
 
-CARGO DOOR LOWER LATCH HANDLE ACCESS
+*Inside Airstair Door Between Folding Steps (B200 and B200C):*
 
-Inside Lower Access Cover ot Cargo Door: (B2O0C)
+> WHEN HANDLE IS IN LOCKED POSITION-ARM SHOULD BE AROUND PLUNGER AS SHOWN
 
-![Image](KA-200-B200-POH_imagens/p00063_03.png)
+*On Escutcheon Near Upper Access Cover of Cargo Door (B200C):*
 
-On Cargo Dor Upper Latch Handle (B2OOC):
+> LOAD CARGO PER PILOT'S OPERATING HANDBOOK
 
-Push To RELEASE
+*On Upper Access Cover of Cargo Door (B200C):*
 
-![Image](KA-200-B200-POH_imagens/p00063_04.png)
+> CAUTION — DO NOT OPEN OR CHECK SECURITY BY MOVING DOOR HANDLE WHILE AIRCRAFT IS PRESSURIZED AND/OR IN FLIGHT
+
+*On Upper Access Cover of Cargo Door: (B200C)*
+
+> CARGO DOOR LATCH HANDLE ACCESS
+
+*On Cargo Door Upper Latch Handle (B200C):*
+
+> PUSH TO RELEASE
+
+*On Lower Access Cover of Cargo Door: (B200C)*
+
+> CARGO DOOR LOWER LATCH HANDLE ACCESS
+
+*Inside Lower Access Cover of Cargo Door: (B200C)*
+
+> CAUTION — DO NOT OPEN OR CHECK SECURITY BY MOVING DOOR HANDLE WHILE AIRCRAFT IS PRESSURIZED AND/OR IN FLIGHT. OPEN ◄► CLOSED. LIFT HOOK TO RELEASE HANDLE
 
 ## KINDS OF OPERATIONS
 
-The BEECHCRAFT Super King Air B2OO and BZOOC are approved for the following types Of operations when the required equipment is installed and operational as defined within the KINDS OF OPERATIONS EQUIPMENT LIST.
+The BEECHCRAFT Super King Air B200 and B200C are approved for the following types of operations when the required equipment is installed and operational as defined within the KINDS OF OPERATIONS EQUIPMENT LIST.
 
 1. VFR Day
 2. VFR Night
-3. IfR Day
+3. IFR Day
 4. IFR Night
 5. Know Icing Conditions
 
 ## KINDS OF OPERATIONS EQUIPMENT LIST
 
-This airplane may be operated in Or night VFR, IFR, or icing conditions when the appropriate equipment is installed and operable\_ day
+This airplane may be operated in day or night VFR, IFR, or icing conditions when the appropriate equipment is installed and operable.
 
-The following equipment list identifies the systems and equipment upon which type certification for each kind of operation was predicated. The systems and items of equipment listed must be installed and operable unless-
+The following equipment list identifies the systems and equipment upon which type certification for each kind of operation was predicated. The systems and items of equipment listed must be installed and operable unless:
 
-1. The airplane is operated in accordance with a current Minimum Equipment List (MEL) issued by the FAA:
+1. The airplane is operated in accordance with a current Minimum Equipment List (MEL) issued by the FAA.
 
-Or
+   or;
 
-2. An alternate procedure is provided in the Pilot's Operating Handbook and FAA Approved Airplane Flight Manual for the inoperative state of the listed equipment:
+2. An alternate procedure is provided in the Pilot's Operating Handbook and FAA Approved Airplane Flight Manual for the inoperative state of the listed equipment.
 
-Numbers on the Kinds of Operations Equipment List refer to quantities required to be operative for a speci-
-
-## NOTE
-
-The following systems and equipment list does not include all equipment required by the FAR Parts 91 and 135 Operating Requirements. It also does not include components obviously required for the airplane t0 be airworthy; such as wings, empenage, engine, etc
-
-![Image](KA-200-B200-POH_imagens/p00064_01.png)
-
-![Image](KA-200-B200-POH_imagens/p00065_01.png)
-
-![Image](KA-200-B200-POH_imagens/p00066_01.png)
-
-| SYSTEM and/or COMPONENT - FUEL                                       |    | VFR NIGHT   | VFR NIGHT - IFR DAY   | VFR NIGHT - IFR DAY   | VFR NIGHT - IFR DAY - IFR NIGHT - ICING CONDITIONS   | VFR NIGHT - IFR DAY - IFR NIGHT - ICING CONDITIONS   |
-|----------------------------------------------------------------------|----|-------------|-----------------------|-----------------------|------------------------------------------------------|------------------------------------------------------|
-| 1. Engine Driven Boost Pump                                          |    |             |                       |                       |                                                      |                                                      |
-| 2. Fuel Crossfeed System Induding Annun- 1 1 1 1 1 ciator            |    |             |                       |                       |                                                      |                                                      |
-| 3. Standby Fuel Boost Pump                                           |    |             |                       |                       |                                                      |                                                      |
-| 4. FUEL PRESS Annunciator                                            |    |             |                       |                       |                                                      |                                                      |
-| 5. Fuel Quantity Indicating System Including 2 2 2 2 2 Annunciators  |    |             |                       |                       |                                                      |                                                      |
-| 6. Firewall Fuel Shutoff System Including 2 2 2 2 2 Annunciators     |    |             |                       |                       |                                                      |                                                      |
-| 7. Jet Transfer Pump                                                 |    |             |                       |                       |                                                      |                                                      |
-| 8. Motive Flow Valve                                                 |    |             |                       |                       |                                                      |                                                      |
-| 9. Fuel Flow Indicator                                               |    |             |                       |                       |                                                      |                                                      |
-| ICE AND RAIN PROTECTION                                              |    |             |                       |                       |                                                      |                                                      |
-| 1. Alternate Static Air Source                                       |    |             |                       |                       |                                                      |                                                      |
-| 2. Engine Auto Ignition and Annunciators                             |    |             |                       |                       |                                                      |                                                      |
-| 3. Engine Anti-Ice System and Annunciators 2 2 2 2 2                 |    |             |                       |                       |                                                      |                                                      |
-| 4. Heated Fuel Vent                                                  |    |             |                       |                       |                                                      |                                                      |
-| 5. Heated Windshield (Left)                                          |    |             |                       |                       |                                                      |                                                      |
-| 6. Pitot Heat                                                        |    |             |                       |                       |                                                      |                                                      |
-| 7. Pneumatic Pressure Indicator                                      |    |             |                       |                       |                                                      |                                                      |
-| 8. Propeller Deicer System                                           |    |             |                       |                       |                                                      |                                                      |
-| 9. Stall Warning Heat (Lift Transducer and 0 0 0 0 1 Mounting Plate) |    |             |                       |                       |                                                      |                                                      |
-| 10. Surface Deicer System                                            |    |             |                       |                       |                                                      |                                                      |
-| 11. Wing Ice Light (Left)                                            |    |             |                       |                       |                                                      |                                                      |
-| LANDING GEAR                                                         |    |             |                       |                       |                                                      |                                                      |
-| 1. Landing Gear Position Indicator Lights                            |    |             |                       |                       |                                                      |                                                      |
-| 2. Landing Gear Handle Light                                         |    |             |                       |                       |                                                      |                                                      |
-| 3. Landing Gear Aural Warning                                        |    |             |                       |                       |                                                      |                                                      |
-| 4. * Landing Gear Motor and Gearbox                                  |    |             |                       |                       |                                                      |                                                      |
-| 5. Alternate Landing Gear Extension System 1 1 1 1 1                 |    |             |                       |                       |                                                      |                                                      |
-| 6. ** Hydraulic Flui~ Low Annunciator                                |    |             |                       |                       |                                                      |                                                      |
-| 7. ** Landing Gear Hydraulic Power Pack                              |    |             |                       |                       |                                                      |                                                      |
-| LIGHTS                                                               |    |             |                       |                       |                                                      |                                                      |
-| 1. Cockpit and Instrument Lighting System 0 1 0 1 0                  |    |             |                       |                       |                                                      |                                                      |
-| 2. CABIN DOOR Annunciator                                            |    |             |                       |                       |                                                      |                                                      |
-| 3. Landing Lights                                                    |    |             |                       |                       |                                                      |                                                      |
-| 4. Position Lights                                                   |    |             |                       |                       |                                                      |                                                      |
-| 5. Anticollision Lights System                                       |    |             |                       |                       |                                                      |                                                      |
-
-![Image](KA-200-B200-POH_imagens/p00067_01.png)
-
-BT04759
-
-- On airplanes prior to BL-73 and BB-1193 (except BB-1158 and BB-1167) not incorporating Beech Kit PIN 101-8018-1
-
-On airplanes BB-1158, BB-1167, BB-1193 and after, BL-73 and after, and those prior airplanes incorporating Beech Kit PIN 101-8018-1
+Numbers on the Kinds of Operations Equipment List refer to quantities required to be operative for a specified condition.
 
 ## NOTE
 
-The above Kinds of Operations Equipment List does not include all specific flight instrument and communicationsInavigation equipment  required by FAR Parts 91 Requirements:
+The following systems and equipment list does not include all equipment required by the FAR Parts 91 and 135 Operating Requirements. It also does not include components obviously required for the airplane to be airworthy, such as wings, empenage, engine, etc.
 
-## THIS PAGE INTENTIONALLY LEFT BLANK
+Columns of the table below, in order: VFR DAY | VFR NIGHT | IFR DAY | IFR NIGHT | ICING CONDITIONS.
 
-![Image](KA-200-B200-POH_imagens/p00068_01.png)
+| SYSTEM and/or COMPONENT | VFR DAY | VFR NIGHT | IFR DAY | IFR NIGHT | ICING CONDITIONS |
+|---|---|---|---|---|---|
+| **ELECTRICAL POWER** | | | | | |
+| 1. AC Volts/Frequency Meter | 1 | 1 | 1 | 1 | 1 |
+| 2. Battery | 1 | 1 | 1 | 1 | 1 |
+| 3. Battery Charge Monitor System and Annunciator | 1 | 1 | 1 | 1 | 1 |
+| 4. DC Generator | 2 | 2 | 2 | 2 | 2 |
+| 5. DC GEN Annunciator | 2 | 2 | 2 | 2 | 2 |
+| 6. DC Load Meter | 2 | 2 | 2 | 2 | 2 |
+| 7. Inverter | 2 | 2 | 2 | 2 | 2 |
+| 8. INVERTER Annunciator | 1 | 1 | 1 | 1 | 1 |
+| **ENGINE INDICATIONS** | | | | | |
+| 1. ITT Indicator | 2 | 2 | 2 | 2 | 2 |
+| 2. Tachometer (Gas Generator) | 2 | 2 | 2 | 2 | 2 |
+| 3. Tachometer (Propeller) | 2 | 2 | 2 | 2 | 2 |
+| 4. Torque Indicator | 2 | 2 | 2 | 2 | 2 |
+| **ENGINE OIL** | | | | | |
+| 1. Chip Detector System Including Annunciators | 2 | 2 | 2 | 2 | 2 |
+| 2. Oil Pressure Indicator | 2 | 2 | 2 | 2 | 2 |
+| 3. Oil Temperature Indicator | 2 | 2 | 2 | 2 | 2 |
+| 4. OIL PRESS Annunciator | 2 | 2 | 2 | 2 | 2 |
+| **ENVIRONMENTAL** | | | | | |
+| 1. BL AIR FAIL Annunciators | 2 | 2 | 2 | 2 | 2 |
+| 2. ALT WARN Annunciator (Cabin) | 1 | 1 | 1 | 1 | 1 |
+| 3. Cabin Rate of Climb Indicator | 1 | 1 | 1 | 1 | 1 |
+| 4. Differential Pressure/Cabin Altitude Indicator | 1 | 1 | 1 | 1 | 1 |
+| 5. DUCT OVERTEMP Annunciator | 1 | 1 | 1 | 1 | 1 |
+| 6. Outflow Valve | 1 | 1 | 1 | 1 | 1 |
+| 7. Pressurization Controller | 1 | 1 | 1 | 1 | 1 |
+| 8. Safety Valve | 1 | 1 | 1 | 1 | 1 |
+| 9. Bleed Air Shutoff Valve | 2 | 2 | 2 | 2 | 2 |
+| **FIRE PROTECTION** | | | | | |
+| 1. Engine Fire Detector System And Annunciators | 2 | 2 | 2 | 2 | 2 |
+| **FLIGHT CONTROLS** | | | | | |
+| 1. Flap Position Indicator | 1 | 1 | 1 | 1 | 1 |
+| 2. Flap System | 1 | 1 | 1 | 1 | 1 |
+| 3. Stall Warning Horn | 1 | 1 | 1 | 1 | 1 |
+| 4. Trim Tab Position Indicator (Rudder, Aileron, Elevator) | 3 | 3 | 3 | 3 | 3 |
+| 5. Yaw Damp System | 1 | 1 | 1 | 1 | 1 |
+| **FUEL** | | | | | |
+| 1. Engine Driven Boost Pump | 2 | 2 | 2 | 2 | 2 |
+| 2. Fuel Crossfeed System Including Annunciator | 1 | 1 | 1 | 1 | 1 |
+| 3. Standby Fuel Boost Pump | 2 | 2 | 2 | 2 | 2 |
+| 4. FUEL PRESS Annunciator | 2 | 2 | 2 | 2 | 2 |
+| 5. Fuel Quantity Indicating System Including Annunciators | 2 | 2 | 2 | 2 | 2 |
+| 6. Firewall Fuel Shutoff System Including Annunciators | 2 | 2 | 2 | 2 | 2 |
+| 7. Jet Transfer Pump | 2 | 2 | 2 | 2 | 2 |
+| 8. Motive Flow Valve | 2 | 2 | 2 | 2 | 2 |
+| 9. Fuel Flow Indicator | 2 | 2 | 2 | 2 | 2 |
+| **ICE AND RAIN PROTECTION** | | | | | |
+| 1. Alternate Static Air Source | 0 | 0 | 1 | 1 | 1 |
+| 2. Engine Auto Ignition and Annunciators | 2 | 2 | 2 | 2 | 2 |
+| 3. Engine Anti-Ice System and Annunciators | 2 | 2 | 2 | 2 | 2 |
+| 4. Heated Fuel Vent | 0 | 0 | 2 | 2 | 2 |
+| 5. Heated Windshield (Left) | 0 | 0 | 0 | 0 | 1 |
+| 6. Pitot Heat | 0 | 0 | 2 | 2 | 2 |
+| 7. Pneumatic Pressure Indicator | 0 | 0 | 1 | 1 | 1 |
+| 8. Propeller Deicer System | 0 | 0 | 0 | 0 | 1 |
+| 9. Stall Warning Heat (Lift Transducer and Mounting Plate) | 0 | 0 | 0 | 0 | 1 |
+| 10. Surface Deicer System | 0 | 0 | 0 | 0 | 1 |
+| 11. Wing Ice Light (Left) | 0 | 0 | 0 | 0 | 1 |
+| **LANDING GEAR** | | | | | |
+| 1. Landing Gear Position Indicator Lights | 3 | 3 | 3 | 3 | 3 |
+| 2. Landing Gear Handle Light | 1 | 1 | 1 | 1 | 1 |
+| 3. Landing Gear Aural Warning | 1 | 1 | 1 | 1 | 1 |
+| 4. \* Landing Gear Motor and Gearbox | 1 | 1 | 1 | 1 | 1 |
+| 5. Alternate Landing Gear Extension System | 1 | 1 | 1 | 1 | 1 |
+| 6. \*\* Hydraulic Fluid Low Annunciator | 1 | 1 | 1 | 1 | 1 |
+| 7. \*\* Landing Gear Hydraulic Power Pack | 1 | 1 | 1 | 1 | 1 |
+| **LIGHTS** | | | | | |
+| 1. Cockpit and Instrument Lighting System | 0 | 1 | 0 | 1 | 0 |
+| 2. CABIN DOOR Annunciator | 1 | 1 | 1 | 1 | 1 |
+| 3. Landing Lights | 0 | 1 | 0 | 1 | 0 |
+| 4. Position Lights | 0 | 3 | 0 | 3 | 0 |
+| 5. Anticollision Lights System | 0 | 1 | 0 | 1 | 0 |
+| **NAVIGATION INSTRUMENTS** | | | | | |
+| 1. Airspeed Indicator (Left) | 1 | 1 | 1 | 1 | 1 |
+| 2. Altimeter (Left) | 1 | 1 | 1 | 1 | 1 |
+| 3. Magnetic Compass | 1 | 1 | 1 | 1 | 1 |
+| 4. Outside Air Temperature | 1 | 1 | 1 | 1 | 1 |
+| **OXYGEN** | | | | | |
+| 1. Oxygen System | 1 | 1 | 1 | 1 | 1 |
+| **PROPELLER** | | | | | |
+| 1. Prop Reversing System Including Annunciators | 2 | 2 | 2 | 2 | 2 |
+| 2. Prop Governor Test Switch | 1 | 1 | 1 | 1 | 1 |
+| 3. Prop Overspeed Governor | 2 | 2 | 2 | 2 | 2 |
+| 4. Propeller Primary Low-Pitch Stop | 2 | 2 | 2 | 2 | 2 |
+| **VACUUM SYSTEM** | | | | | |
+| 1. Instrument Air System | 0 | 1 | 1 | 1 | 1 |
+| 2. Gyro Suction Indicator | 1 | 1 | 1 | 1 | 1 |
 
-![Image](KA-200-B200-POH_imagens/p00069_01.png)
+\* On airplanes prior to BL-73 and BB-1193 (except BB-1158 and BB-1167) not incorporating Beech Kit P/N 101-8018-1
 
-SUBJECT
-
-PAGE
-
-| Emergency Airspeeds (12,500 Ibs) .                                                                                                                                      | 3-3   |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| En~~:r~~~~~eEngi·~e··sh~tdo;,;;n·:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: | 3-3   |
-|                                                                                                                                                                         | 3-3   |
-|                                                                                                                                                                         | 3-3   |
-|                                                                                                                                                                         | 3-3"  |
-| Engine Failure After Lift-Off (If Conditions Preclude an Immediate Landing)                                                                                             | 3-4   |
-| Engine Failure In Flight Below Air Minimum Control Speed (VMCA)                                                                                                         | 3-4   |
-| Engine Flameout (2nd Engine)                                                                                                                                            | 3-4   |
-| Fuel System .,                                                                                                                                                          | 3-5   |
-| Fuel Pressure Low (L or R FUEL PRESS Annunciator)                                                                                                                       | 3-5   |
-| Smoke And Fume Elimination                                                                                                                                              | 3-5   |
-| Electrical Smoke Or Fire                                                                                                                                                | 3-5'  |
-| Environmental System Smoke Or Fumes                                                                                                                                     | 3-5   |
-| Cabin or Cargo Unlocked (CABIN DOOR Annunciator)                                                                                                                        | 3-6   |
-| Emergency Descent                                                                                                                                                       | 3-6   |
-| Glide                                                                                                                                                                   | 3-7   |
-| Electrical                                                                                                                                                              | 3-7   |
-| Inverter Inoperative (INVERTER Annunciator)                                                                                                                             | 3-7   |
-| Flith~s~~:J~f~~ E·lectric·E·le~~to~·T~i~·:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::  | 3-7   |
-|                                                                                                                                                                         | 3-7   |
-| Unscheduled Rudder Boost Activation                                                                                                                                     | 3-7   |
-| Environmental Systems                                                                                                                                                   | 3-8   |
-| Use of Oxygen                                                                                                                                                           | 3-8   |
-| Pressurization Loss (ALT WARN Annunciator)                                                                                                                              | 3-8   |
-| Illuminated)                                                                                                                                                            | 3-9   |
-| High Differential Pressure (Cabin Differential Pressure Exceeds 6.6 PSI)                                                                                                | 3-9   |
-| Bleed Air Line Failure (L or R BL AIR FAIL Annunciator)                                                                                                                 | 3-9   |
-| Emergency Exit                                                                                                                                                          | 3-9   |
-| Spins                                                                                                                                                                   | 3-9   |
-
-## SECTION EMERGENCY PROCEDURES TABLE OF CONTENTS
-
-## THIS PAGE INTENTIONALLY LEFT BLANK
-
-![Image](KA-200-B200-POH_imagens/p00070_01.png)
-
-![Image](KA-200-B200-POH_imagens/p00071_01.png)
-
-All airspeeds quoted in this section are indicated airspeeds (IAS) and assume zero instrument Brror
+\*\* On airplanes BB-1158, BB-1167, BB-1193 and after, BL-73 and after, and those prior airplanes incorporating Beech Kit P/N 101-8018-1
 
 ## NOTE
 
-Immediate action procedures are delineated by bold type with the remaining procedures tollowing:
+The above Kinds of Operations Equipment List does not include all specific flight instrument and communications/navigation equipment required by FAR Parts 91 and 135 Operating Requirements.
+
+*(Pages 2-26 / blank page — THIS PAGE INTENTIONALLY LEFT BLANK)*
+
+## SECTION III — EMERGENCY PROCEDURES TABLE OF CONTENTS
+
+| SUBJECT | PAGE |
+|---|---|
+| **Emergency Airspeeds (12,500 lbs)** | 3-3 |
+| **Engine Failure** | 3-3 |
+| Emergency Engine Shutdown | 3-3 |
+| Engine Fire On Ground | 3-3 |
+| Engine Failure During Ground Roll | 3-3 |
+| Engine Failure After Lift-Off (If Conditions Preclude an Immediate Landing) | 3-4 |
+| Engine Failure In Flight Below Air Minimum Control Speed (VMCA) | 3-4 |
+| Engine Flameout (2nd Engine) | 3-4 |
+| Fuel System | 3-5 |
+| Fuel Pressure Low (*L or R FUEL PRESS Annunciator*) | 3-5 |
+| **Smoke And Fume Elimination** | 3-5 |
+| Electrical Smoke Or Fire | 3-5 |
+| Environmental System Smoke Or Fumes | 3-5 |
+| **Cabin or Cargo Unlocked (CABIN DOOR Annunciator)** | 3-6 |
+| **Emergency Descent** | 3-6 |
+| **Glide** | 3-7 |
+| **Electrical** | 3-7 |
+| Inverter Inoperative (INVERTER Annunciator) | 3-7 |
+| **Flight Controls** | 3-7 |
+| Unscheduled Electric Elevator Trim | 3-7 |
+| Unscheduled Rudder Boost Activation | 3-7 |
+| **Environmental Systems** | 3-8 |
+| Use of Oxygen | 3-8 |
+| Pressurization Loss (ALT WARN Annunciator) | 3-8 |
+| Auto-Deployment Oxygen System Failure (ALT WARN Annunciator Illuminated, PASS OXY ON Annunciator Not Illuminated) | 3-9 |
+| High Differential Pressure (Cabin Differential Pressure Exceeds 6.6 PSI) | 3-9 |
+| Bleed Air Line Failure (L or R BL AIR FAIL Annunciator) | 3-9 |
+| **Emergency Exit** | 3-9 |
+| **Spins** | 3-9 |
+
+*(Next page: THIS PAGE INTENTIONALLY LEFT BLANK)*
+
+*All airspeeds quoted in this section are indicated airspeeds (IAS) and assume zero instrument error.*
+
+## NOTE
+
+Immediate action procedures are delineated by bold type with the remaining procedures following.
 
 ## EMERGENCY AIRSPEEDS (12,500 LBS)
 
-| One-Engine-Inoperative Best                                                                                                                            |    |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-|                                                                                                                                                        |    |
-| Air Minimum Col1'trol Speed (YMcA> •••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••_••••••••••••••••••••••••••••••••••••••86 lets         |    |
-| One-Engine-Inoperative Enroute Climb •••••••••••••••••••••••••••••••••••••••_••••••••••••••_••••••••••••••••••••••••••••••••••••121 kts                |    |
-| Emergency Descent •••••••••••••••••••••••••••••••••••••.•••••.•••••••.••••••••••••••••••••••••••••••••••••••••••••••••••••••••••.••••••••••••••181 kts |    |
-|                                                                                                                                                        |    |
+- One-Engine-Inoperative Best Angle-of-Climb (VXSE) ................ 115 kts
+- One-Engine-Inoperative Best Rate-of-Climb (VYSE) ................ 121 kts
+- Air Minimum Control Speed (VMCA) ................ 86 kts
+- One-Engine-Inoperative Enroute Climb ................ 121 kts
+- Emergency Descent ................ 181 kts
+- Maximum Range Glide ................ 135 kts
 
 ## ENGINE FAILURE
 
 ## NOTE
 
-To obtain best pertomance with one engine inoperative; the airplane must be banked 30 to
+To obtain best performance with one engine inoperative, the airplane must be banked 3° to 5° into the operating engine while maintaining a constant heading.
 
 ## EMERGENCY ENGINE SHUTDOWN
 
-- ENGINE TORQUE INCREASE UNSCHEDULED (Ground or Flight) (Not Responsive to Power Lever Movement)
-- ENGINE FIRE IN FLIGHT
-- ENGINE FAILURE IN FUIGHT
+- *ENGINE TORQUE INCREASE - UNSCHEDULED (Ground or Flight) (Not Responsive to Power Lever Movement)*
+- *ENGINE FIRE IN FLIGHT*
+- *ENGINE FAILURE IN FLIGHT*
 
-## Affected Englne:
+*Affected Engine:*
 
-1. Condltlon Lever FuEL CUT OFF
-2. 2 Propeller Lever FEATKER
-3. 3 Firewall Shutoff Valve CLOSED
-4. ACTUATE (f required)
-5. Auto Ignition OFF
-6. 6\_ Generator OFF
-7. 7 . Prop Sync OFF
-8. Electrical Load MONITOR
+1. **Condition Lever - FUEL CUT OFF**
+2. **Propeller Lever - FEATHER**
+3. **Firewall Shutoff Valve - CLOSED**
+4. **Fire Extinguisher (if installed) - ACTUATE (if required)**
+5. Auto Ignition - OFF
+6. Generator - OFF
+7. Prop Sync - OFF
+8. Electrical Load - MONITOR
 
 ## ENGINE FIRE ON GROUND
 
-## Affected Engine:
+*Affected Engine:*
 
-1. Conditlon Lever
-2. 2 Flrewall Shutoff Valve CLOSED
-3. STARTER ONLY
-4. 4 Fire Extinguisher (t installed) ACTUATE ( required)
-5. Power Levers IDLE
-6. 2 Brakos AS REQUIRED
+1. **Condition Lever - FUEL CUT OFF**
+2. **Firewall Shutoff Valve - CLOSED**
+3. Ignition and Engine Start - STARTER ONLY
+4. Fire Extinguisher (if installed) - ACTUATE (if required)
 
-## 3. Operatlve Engine MAXIMUM REverSE
+## ENGINE FAILURE DURING GROUND ROLL
 
-WARNING
+1. **Power Levers - IDLE**
+2. **Brakes - AS REQUIRED**
+3. **Operative Engine - MAXIMUM REVERSE**
 
-Extreme care must be exercised when using  single-engine reversing on surtaces with Teduced traction:
+**WARNING**
 
-## #t Insufficient Runway Remains for Stopping:
+Extreme care must be exercised when using single-engine reversing on surfaces with reduced traction.
 
-4. Condition Levers FuEL CUT OFF
-5. Firewall Shutoff Valves CLOSED
-6. Master Switch OFF (Gang bar down)
+*If Insufficient Runway Remains for Stopping:*
+
+4. **Condition Levers - FUEL CUT OFF**
+5. **Firewall Shutoff Valves - CLOSED**
+6. **Master Switch - OFF (Gang bar down)**
 
 ## ENGINE FAILURE AFTER LIFT-OFF (If Conditions Preclude an Immediate Landing)
 
-1. Power MAXIMUM ALLOWABLE
-2. 2 Airspeed MAINTAIN (take-off speed or above)
-3. Landing Gear UP
+1. **Power - MAXIMUM ALLOWABLE**
+2. **Airspeed - MAINTAIN (take-off speed or above)**
+3. **Landing Gear - UP**
 
 ## NOTE
 
-If the autofeather system (if installed) is being used, do not retard the failed engine power lever until the autofeather system -has completely stopped propeller rotation. To do so will deactivate the autofeather circuit and prevent automatic feathering:
+If the autofeather system (if installed) is being used, do not retard the failed engine power lever until the autofeather system has completely stopped propeller rotation. To do so will deactivate the autofeather circuit and prevent automatic feathering.
 
-4. Propeller Lever (inoperative engine) FEATHER (or veritfy FEATHER if autoteather is installed)
-5. Airspeed VySE (atter obstacle clearance altitude is reached)
-6. Flaps UP
-- 7.0 Clean-Up (inoperative engine):
-5. a\_ Condition Lever FUEL CUT OFF
-- b. Propeller Lever FEATHER
-7. C\_ Firewall Shutoff Valve CLOSED
-8. Auto Ignition OFF
-9. Autoteather (f installed) OFF
-10. Generator OFF
-8. Electrical Load MONITOR
+4. **Propeller Lever (inoperative engine) - FEATHER (or verify FEATHER if autofeather is installed)**
+5. **Airspeed - VYSE (after obstacle clearance altitude is reached)**
+6. Flaps - UP
+7. Clean-up (inoperative engine):
+   a. Condition Lever - FUEL CUT OFF
+   b. Propeller Lever - FEATHER
+   c. Firewall Shutoff Valve - CLOSED
+   d. Auto Ignition - OFF
+   e. Autofeather (if installed) - OFF
+   f. Generator - OFF
+8. Electrical Load - MONITOR
 
 ## ENGINE FAILURE IN FLIGHT BELOW AIR MINIMUM CONTROL SPEED (VMCA)
 
-1. Power Reduce as required to maintain directional control.
-2. 2 Nose Lower to accelerate above VMCA:
-3. Power (operative engine) AS REQUIRED
-4. Failed Engine SECURE (See EMERGENCY ENGINE SHUTDOWN)
+1. **Power - Reduce as required to maintain directional control.**
+2. **Nose - Lower to accelerate above VMCA.**
+3. Power (operative engine) - AS REQUIRED
+4. Failed Engine - SECURE (See EMERGENCY ENGINE SHUTDOWN)
 
 ## ENGINE FLAMEOUT (2nd Engine)
 
-1. Power Lever IDLE
-2. Propeller Lever DO NOT FEATHER
-3. Condltion Lever FUEL CUT OFF
-4. 4 Conduct Alr Start Procedures:
-
-## Raytheon Aircraft
+1. **Power Lever - IDLE**
+2. **Propeller Lever - DO NOT FEATHER**
+3. **Condition Lever - FUEL CUT OFF**
+4. **Conduct Air Start Procedures.**
 
 ## NOTE
 
-The propeller will not unfeather without engine operating:
+The propeller will not unfeather without engine operating.
 
-## SUPER KING AIR B2OO/B2O0C
+## SUPER KING AIR B200/B200C — TEMPORARY PILOT'S OPERATING HANDBOOK AND FAA APPROVED AIRPLANE FLIGHT MANUAL CHANGE
 
-## TEMPORARY PILOT'S OPERATING HANDBOOK AND FAA APPROVED AIRPLANE FLIGHT MANUAL CHANGE
+## P/N 101-590010-147CTC1
 
-## Pin 101-590010-147CTC1
-
-|    |    |
-|----|----|
-|    |    |
-|    |    |
-|    |    |
+| | |
+|---|---|
+| PUBLICATION AFFECTED: | Super King Air B200/B200C Pilot's Operating Handbook and FAA Approved Airplane Flight Manual P/N 101-590010-147C, Reissued December, 1994 or Subsequent |
+| AIRPLANE SERIAL NUMBERS AFFECTED: | BB-734, BB-793, BB-829, BB-854 thru BB-870, BB-874 thru BB-891, BB-894, BB-896 thru BB-911, BB-913 thru BB-1438, BB-1440 thru BB-1443; and BL-37 thru BL-138 |
+| DESCRIPTION OF CHANGE: | Provides an Emergency Procedure for Windshield Electrical Fault |
+| FILING INSTRUCTIONS: | Insert this Temporary Change in the B200/B200C Pilot's Operating Handbook and FAA Approved Airplane Flight Manual following page 3-4 (EMERGENCY PROCEDURES Section), and retain until rescinded or replaced. |
 
 ## TEMPORARY EMERGENCY PROCEDURES
 
@@ -1968,541 +2016,514 @@ The propeller will not unfeather without engine operating:
 
 ## WINDSHIELD ELECTRICAL FAULT
 
-The smell of an electrical overheat, or observing smoke and/or fire at the lower inboard comer of either windshield, adjacent to the center post, may indicate an overheat condition in the electrical power terminal for the noral heat mode of the pilot's or copibt's windshield heat:
+The smell of an electrical overheat, or observing smoke and/or fire at the lower inboard corner of either windshield, adjacent to the center post, may indicate an overheat condition in the electrical power terminal for the normal heat mode of the pilot's or copilot's windshield heat.
 
-- 1\_ WSHLD ANTI-ICE Switches OFF
+1. WSHLD ANTI-ICE Switches - OFF
 
-If Smoke &amp;ndlor Does Not Cease: Fire
+*If Smoke and/or Fire Does Not Cease:*
 
-- 2 Conduct ELECTRICAL SMOKE OR FIRE procedure:
+2. Conduct ELECTRICAL SMOKE OR FIRE procedure.
 
-# Smoke and/or Fire Ceases:
+*If Smoke and/or Fire Ceases:*
 
-3. Continue flight with Windshield Anti-ice OFF if possible:
-2. 4 If the source of the smell, smoke, or fire can be isolated to the pilt's or copilt's windshield, the opposite windshield (without the overheat condition) may be operated in the NORMAL or HI windshield heat mode.
+3. Continue flight with Windshield Anti-ice OFF if possible.
 
-APPROVED BY:
+*If Windshield Anti-ice is Required:*
 
-![Image](KA-200-B200-POH_imagens/p00073_01.png)
+4. If the source of the smell, smoke, or fire can be isolated to the pilot's or copilot's windshield, the opposite windshield (without the overheat condition) may be operated in the NORMAL or HI windshield heat mode.
 
-This Page Intentionally Blank Raytheon Aircraft
+APPROVED BY: A. C. Jackson, Raytheon Aircraft Company, DOA CE-2 — April 8, 1997 (1 of 2)
 
-![Image](KA-200-B200-POH_imagens/p00075_01.png)
+*(2 of 2 — This Page Intentionally Blank)*
 
 ## FUEL SYSTEM
 
-## FUEL PRESSURE LOV (L or R FUEL PRESS Annunciator)
+*FUEL PRESSURE LOW (L or R FUEL PRESS Annunciator)*
 
-1. Standby Pump (failed side) ON
-2. 2 FUEL PRESS Annunciator EXTINGUISHED
+1. **Standby Pump (failed side) - ON**
+2. FUEL PRESS Annunciator - EXTINGUISHED
 
 ## SMOKE AND FUME ELIMINATION
 
-Attempt to identify the source of smoke or fumes Smoke associated with electrical failures is usually gray or tan in color, and irritating to the nose and eyes Smoke produced by environmental system failures is erally white in color, and much less irritating to the nose and eyes  If smoke is prevalent in the cabin, cabin oxygen masks should not be intentionally deployed. If masks are automatically deployed due to an increase in cabin attitude, passengers should be instructed not to use them unless the cabin altitude exceeds 15,000 teet. gen-
+Attempt to identify the source of smoke or fumes. Smoke associated with electrical failures is usually gray or tan in color, and irritating to the nose and eyes. Smoke produced by environmental system failures is generally white in color, and much less irritating to the nose and eyes. If smoke is prevalent in the cabin, cabin oxygen masks should not be intentionally deployed. If masks are automatically deployed due to an increase in cabin altitude, passengers should be instructed not to use them unless the cabin altitude exceeds 15,000 feet.
 
 ## ELECTRICAL SMOKE OR FIRE
 
-- 1 Oxygen
-- a Oxygen System Ready PULL ON (Verify)
-- b. Crew (Diluter Demand Masks) DON MASKS (100% position)
-- C. Mic Selector OXYGEN MASK
-- d. Audio Speaker ON
-- 2 Cabin Temp Mode OFF
-3. Vent Blower AUTO
-4. Aft Blower (if installed) OFF
-5. Avionics Master OFF
-6. Nonessential Electrical Equipment OFF
+1. **Oxygen**
+   a. **Oxygen System Ready - PULL ON (Verify)**
+   b. **Crew (Diluter Demand Masks) - DON MASKS (100% position)**
+   c. **Mic Selector - OXYGEN MASK**
+   d. **Audio Speaker - ON**
+2. Cabin Temp Mode - OFF
+3. Vent Blower - AUTO
+4. Aft Blower (if installed) - OFF
+5. Avionics Master - OFF
+6. Nonessential Electrical Equipment - OFF
 
-## If Fire or Smoke Ceases:
+*If Fire or Smoke Ceases:*
 
-- Individually restore avionics and equipment previously turned off.
-- 8 Isolate detective equipment
+7. Individually restore avionics and equipment previously turned off.
+8. Isolate defective equipment.
 
-![Image](KA-200-B200-POH_imagens/p00075_02.png)
+**WARNING**
 
-Dissipation of smoke is not sufficient evidence that a fire has been extinguished If it cannot be visually confirmed that no fire exists, land at the nearest suitable airport
+Dissipation of smoke is not sufficient evidence that a fire has been extinguished. If it cannot be visually confirmed that no fire exists, land at the nearest suitable airport.
 
-# Smoke Persists or if Extinguishing of Fire is Not Confirmed:
+*If Smoke Persists or if Extinguishing of Fire is Not Confirmed:*
 
-- 9 Cabin Pressure DUMP
-10. Land at the nearest suitable airport
+9. Cabin Pressure - DUMP
+10. Land at the nearest suitable airport.
 
 ## NOTE
 
-Opening a storm window (atter depressurizing) will tacilitate smoke and fume removal
+Opening a storm window (after depressurizing) will facilitate smoke and fume removal.
 
 ## ENVIRONMENTAL SYSTEM SMOKE OR FUMES
 
-- 1 Oxygen
-- a. Oxygen System Ready PULL ON (Verify)
-- b. Crew (Diluter Demand Masks) DON MASKS (100% position)
-- Mic Selector OXYGEN MASK
-- d. Audio Speaker
+1. **Oxygen**
+   a. **Oxygen System Ready - PULL ON (Verify)**
+   b. **Crew (Diluter Demand Masks) - DON MASKS (100% position)**
+   c. **Mic Selector - OXYGEN MASK**
+   d. **Audio Speaker - ON**
+2. Cabin Temp Mode - OFF
+3. Vent Blower - HI
+4. Left Bleed Air Valve - ENVIR OFF
 
-- 2 Cabin Temp Mode OFF
-3. Vent Blower
-4. Left Bleed Air Valve ENVIR OFF
+*If Smoke Decreases:*
 
-## If Smoke Decreases:
+5. Continue operation with left bleed air off.
 
-5. Continue operation with left bleed air of.
+*If Smoke Does Not Decrease:*
 
-## If Smoke Does Not Decrease:
-
-6. Left Bleed Air Valve OPEN
-2. 7 Right Bleed Air Valve ENVIR OFF
-3. 8 If smoke decreases, continue operation with right bleed air off.
+6. Left Bleed Air Valve - OPEN
+7. Right Bleed Air Valve - ENVIR OFF
+8. If smoke decreases, continue operation with right bleed air off.
 
 ## NOTE
 
-Each bleed air valve must remain closed long enough to allow time for smoke purging to positively identify the smoke source\_
+Each bleed air valve must remain closed long enough to allow time for smoke purging to positively identify the smoke source.
 
 ## CABIN OR CARGO UNLOCKED (CABIN DOOR Annunciator)
 
-WARNING
+**WARNING**
 
-Do not attempt to check the security of the airstair Or cargo door in flight  Remain as tar trom the door 3s possible with seatbelts securely tastened.
+Do not attempt to check the security of the airstair or cargo door in flight. Remain as far from the door as possible with seatbelts securely fastened.
 
-the CABIN DOOR Annunciator Illuminates, or If an Unlatched Airstair/Cargo Door is Suspected:
+***If the CABIN DOOR Annunciator Illuminates, or If an Unlatched Airstair/Cargo Door is Suspected:***
 
-1. All Occupants SEATED WITH SEAT BELTS SECURELY FASTENED
-2. Cabin Sign NO SMOKE &amp; FSB
-3. Cabin Differential Pressure REDUCE TO LOWEST VALUE PRACTICAL (zero preferred) by descending andlor selecting higher cabin altitude setting:
-4. 4\_ Oxygen AS REQUIRED
-5. Land at nearest suitable airport:
+1. **All Occupants - SEATED WITH SEAT BELTS SECURELY FASTENED**
+2. Cabin Sign - NO SMOKE & FSB
+3. Cabin Differential Pressure - REDUCE TO LOWEST VALUE PRACTICAL (zero preferred) by descending and/or selecting higher cabin altitude setting.
+4. Oxygen - AS REQUIRED
+5. Land at nearest suitable airport.
 
 ## EMERGENCY DESCENT
 
-1. Oxygen CREW REQUIRED (passengers as required)
-2. Oxygen System Ready PULL ON (verity)
-- b. Crew (Diluter Demand Masks) DON MASKS
-4. C\_ Mic Selector OXYGEN MASK
-- d. Audio Speaker ON
-6. Passenger Manual Drop Out PULL ON
-7. f Passengers PULL LANYARD PIN, DON MASK
-8. 2 Power Levers IDLE
-3. Propeller Levers FULL FORWARD
-4. Flaps APPROACH
-5. Landing Gear DN
-6. Airspeed 181 KNOTS MAXIMUM
-
-## Raytheon Aircraft
-
-![Image](KA-200-B200-POH_imagens/p00077_01.png)
+1. **Oxygen - CREW REQUIRED (passengers as required)**
+   a. **Oxygen System Ready - PULL ON (verify)**
+   b. **Crew (Diluter Demand Masks) - DON MASKS**
+   c. **Mic Selector - OXYGEN MASK**
+   d. **Audio Speaker - ON**
+   e. **Passenger Manual Drop Out - PULL ON**
+   f. Passengers - PULL LANYARD PIN, DON MASK
+2. **Power Levers - IDLE**
+3. **Propeller Levers - FULL FORWARD**
+4. **Flaps - APPROACH**
+5. **Landing Gear - DN**
+6. **Airspeed - 181 KNOTS MAXIMUM**
 
 ## GLIDE
 
-1. Landing Gear UP
-2. 2 Flaps UP
+1. **Landing Gear - UP**
+2. **Flaps - UP**
 
-![Image](KA-200-B200-POH_imagens/p00077_02.png)
+**WARNING**
 
 Determine that procedures for re-starting first and second failed engines are ineffective before feathering second engine propeller.
 
-3. Propellers
-4. Airspeed
-3. 5 Glide Ratio 2.0 nm for each 1000 feet of altitude. Decrease by 0.2 nm for each 10 knots of headwind:
+3. **Propellers - FEATHERED**
+4. **Airspeed - 135 KNOTS**
+5. Glide Ratio - 2.0 nm for each 1000 feet of altitude. Decrease by 0.2 nm for each 10 knots of headwind.
 
 ## ELECTRICAL
 
 ## INVERTER INOPERATIVE (INVERTER Annunciator)
 
-- Select the other inverter:
+- **Select the other inverter.**
 
 ## FLIGHT CONTROLS
 
 ## UNSCHEDULED ELECTRIC ELEVATOR TRIM
 
-- 1\_ Airplane Attitude MAINTAIN (using elevator control)
-- 2 Control Wheel Disconnect Switch DEPRESS FULLY (2nd level, ELEC TRIM OFF annunciator ILLUMINATED)
+1. **Airplane Attitude - MAINTAIN (using elevator control)**
+2. **Control Wheel Disconnect Switch - DEPRESS FULLY (2nd level, ELEC TRIM OFF annunciator - ILLUMINATED)**
 
 ## NOTE
 
-Autopilot will disengage when the disconnect switch is depressed
+Autopilot will disengage when the disconnect switch is depressed.
 
-- 3 Manually retrim airplane:
-- 4 Elevator Trim OFF
+3. Manually retrim airplane.
+4. Elevator Trim - OFF
 
-![Image](KA-200-B200-POH_imagens/p00077_03.png)
+**CAUTION**
 
-DO NOT reactivate electric trim system until cause of malfunction has been determined
+DO NOT reactivate electric trim system until cause of malfunction has been determined.
 
 ## UNSCHEDULED RUDDER BOOST ACTIVATION
 
-Rudder boost operation without &amp; large variation of power between the engines indicates &amp; failure of the sys-
+Rudder boost operation without a large variation of power between the engines indicates a failure of the system.
 
-- 1 Directional Control MAINTAIN USING RUDDER PEDALS
-- 2 Rudder Boost OFF
+1. **Directional Control - MAINTAIN USING RUDDER PEDALS**
+2. **Rudder Boost - OFF**
 
-If Condition Persists:
+*If Condition Persists:*
 
-- 3 Rudder Boost Circuit Breaker PULL
-- 4\_ Either Bleed Air Valve INSTR &amp; ENVIR OFF
-- Rudder Trim AS REQUIRED
-6. Perform normal landing:
+3. Rudder Boost Circuit Breaker - PULL
+4. Either Bleed Air Valve - INSTR & ENVIR OFF
+5. Rudder Trim - AS REQUIRED
+6. Perform normal landing.
 
-## ENVIRONMENTAL SYSTEMS USE OF OXYGEN
+## ENVIRONMENTAL SYSTEMS
 
-WARNING
+## USE OF OXYGEN
 
-The following table sets forth the average time of usetul consciousness (TUC) (time from onset of hypoxia until loss of effective performance) at various altitudes:
+**WARNING**
 
-| Cabin Pressure Altitude   | TUC                |
-|---------------------------|--------------------|
-| 35,000 feet               | 1/2 - 1 minute     |
-| 30,000 feet               | 1 - 2 minutes      |
-| 25,000 feet.              | 3 to 5 minutes     |
-| 22,000 feet.              | 5 to 10 minutes    |
-| 12 - 18,000 fee1.         | 30 minutes or more |
+The following table sets forth the average time of useful consciousness (TUC) (time from onset of hypoxia until loss of effective performance) at various altitudes.
 
-1. Oxygen System Ready PULL ON (verify)
-2. 2 Crew (Diluter Demand Masks) DON MASKS
-3. Mic Selector OXYGEN MASK
-4. Audio Speaker ON
-5. Passenger Manual Drop Out PULL ON
-6. 6\_ Passengers PULL LANYARD PIN, DON MASK
-7. Oxygen Duration CONFIRM (See OXYGEN SYSTEM in Section IV , NORMAL PROCEDURES for duration tables)
-8. First Aid Oxygen AS REQUIRED
-9. a Oxygen Compartment PULL OPEN
-10. b ONOFF Valve ON
-- C. Mask DON
+| Cabin Pressure Altitude | TUC |
+|---|---|
+| 35,000 feet | 1/2 - 1 minute |
+| 30,000 feet | 1 - 2 minutes |
+| 25,000 feet | 3 to 5 minutes |
+| 22,000 feet | 5 to 10 minutes |
+| 12 - 18,000 feet | 30 minutes or more |
+
+1. **Oxygen System Ready - PULL ON (verify)**
+2. **Crew (Diluter Demand Masks) - DON MASKS**
+3. **Mic Selector - OXYGEN MASK**
+4. **Audio Speaker - ON**
+5. **Passenger Manual Drop Out - PULL ON**
+6. Passengers - PULL LANYARD PIN, DON MASK
+7. Oxygen Duration - CONFIRM (See OXYGEN SYSTEM in Section IV, NORMAL PROCEDURES for duration tables)
+8. First Aid Oxygen - AS REQUIRED
+   a. Oxygen Compartment - PULL OPEN
+   b. ON/OFF Valve - ON
+   c. Mask - DON
 
 ## PRESSURIZATION LOSS (ALT WARN Annunciator)
 
-1. Oxygen
-- a. Oxygen System Ready PULL ON (verify)
-3. b Crew DON MASK
-4. C\_ Mic Selector OXYGEN MASK
-- d. Audio Speaker ON
-- e. Passenger Manual Drop Out PULL ON
-7. f Passengers PULL LANYARD PIN, DON MASK
-8. 2\_ Descend as required:
+1. **Oxygen**
+   a. **Oxygen System Ready - PULL ON (verify)**
+   b. **Crew - DON MASK**
+   c. **Mic Selector - OXYGEN MASK**
+   d. **Audio Speaker - ON**
+   e. **Passenger Manual Drop Out - PULL ON**
+   f. Passengers - PULL LANYARD PIN, DON MASK
+2. **Descend as required.**
 
-![Image](KA-200-B200-POH_imagens/p00078_01.png)
+**WARNING**
 
-Adequate oxygen pressure is not provided to the passengers tor sustained flight at cabin altitudes above 34,000 feet. The highest recommended cabin altitude for sustained flight is 25,000 feet:
+Adequate oxygen pressure is not provided to the passengers for sustained flight at cabin altitudes above 34,000 feet. The highest recommended cabin altitude for sustained flight is 25,000 feet.
 
-![Image](KA-200-B200-POH_imagens/p00078_02.png)
+3. Range - DETERMINE FOR FINAL CRUISE ALTITUDE
+4. Oxygen Duration - CONFIRM (See OXYGEN SYSTEM in Section IV, NORMAL PROCEDURES for duration tables)
 
-3. Range DETERMINE FOR FINAL CRUISE ALTITUDE
-4. Oxygen Duration CONFIRM (See OXYGEN SYSTEM in Section IV, NORMAL PROCEDURES for duration tables)
+## AUTO-DEPLOYMENT OXYGEN SYSTEM FAILURE (ALT WARN Annunciator Illuminated, PASS OXY ON Annunciator Not Illuminated)
 
-## AUTO-DEPLOYMENT OXYGEN SYSTEM FAILURE (ALT WARN Annunciator Illuminated; PASS OXY ON Annunciator Not Illuminated)
+1. **Passenger Manual Drop Out - PULL ON**
+2. First Aid Mask (if required) - DEPLOY MANUALLY
 
-1. Passenger Manual Drop Out PULL ON
-2. 2 First Aid Mask (if required) DEPLOY MANUALLY
+*To Isolate Oxygen Supply to the Crew and First Aid Mask:*
 
-To Isolate Oxygen Supply to the Crew and First Aid Mask:
-
-3. Oxygen Control Circuit Breaker PULL
-2. 4 Passenger Manual Drop Out PUSH OFF
+3. Oxygen Control Circuit Breaker - PULL
+4. Passenger Manual Drop Out - PUSH OFF
 
 ## HIGH DIFFERENTIAL PRESSURE (Cabin Differential Pressure Exceeds 6.6 PSI)
 
-1. ENVIR OFF
-2. Oxygen (Crew and Passengers) AS REQUIRED
-3. 3 Descend As REQUIRED
+1. **Bleed Air Valves - ENVIR OFF**
+2. **Oxygen (Crew and Passengers) - AS REQUIRED**
+3. **Descend - AS REQUIRED**
 
-## BLEED Air LINE FAILURE (L or R BL AIR FAIL Annunciator)
+## BLEED AIR LINE FAILURE (L or R BL AIR FAIL Annunciator)
 
-Warning annunciators should be monitored during engine start procedure. Either engine will extinguish both annunciators upon starting:
+Warning annunciators should be monitored during engine start procedure. Either engine will extinguish both annunciators upon starting.
 
-Illumination of a warning annunciator in flight indicates a possible rupture of a bleed air line aft of the eng ine firewall
+Illumination of a warning annunciator in flight indicates a possible rupture of a bleed air line aft of the engine firewall.
 
-1. Bleed Air Valve (affected engine) INSTR &amp; ENVIR OFF position
-2. 2 Engine Instruments MONITOR
-
-## B200:
+1. **Bleed Air Valve (affected engine) - INSTR & ENVIR OFF position**
+2. Engine Instruments - MONITOR
 
 ## NOTE
 
-The bleed air waring annunciator will not extinguish after closing the Bleed Air Vaive.
+The bleed air warning annunciator will not extinguish after closing the Bleed Air Valve.
 
 ## EMERGENCY EXIT
 
-- Emergency Exit Handle PULL (This is a plug-type door and opens into the cabin)
+- Emergency Exit Handle - PULL (This is a plug-type door and opens into the cabin)
 
-![Image](KA-200-B200-POH_imagens/p00079_01.png)
+**CAUTION**
 
-The outside handle may be locked from the inside with the EXIT LOCK lever: The inside EXIT-PULL handle will unlatch the door regardless of the position of the EXIT LOCK lever: Before flight, make certain the lock lever is in the unlocked position.
+**B200:** The outside handle may be locked from the inside with the EXIT LOCK lever. The inside EXIT-PULL handle will unlatch the door regardless of the position of the EXIT LOCK lever. Before flight, make certain the lock lever is in the unlocked position.
 
-The outside handle may be locked from the inside with &amp; key- The inside handle will unlatch the door, regardless of the position of the lock, by overriding the locking mechanism. Before flight, make certain the door is unlocked: key
+**B200C:** The outside handle may be locked from the inside with a key. The inside handle will unlatch the door, regardless of the position of the key lock, by overriding the locking mechanism. Before flight, make certain the door is unlocked.
 
 ## SPINS
 
-It a Spin is Entered Inadvertently:
+***If a Spin is Entered Inadvertently:***
 
-1. Control Column FULL FORWARD
-2. Full Rudder OPPOSITE DIRECTION OF SPIN
-3. 3 Power Levers IDLE
-
-4. Controls NEUTRALIZE WHEN ROTATION STOPS
-5. Execute a smooth pull out:
+1. **Control Column - FULL FORWARD**
+2. **Full Rudder - OPPOSITE DIRECTION OF SPIN**
+3. **Power Levers - IDLE**
+4. **Controls - NEUTRALIZE WHEN ROTATION STOPS**
+5. **Execute a smooth pull out.**
 
 ## NOTE
 
-Federal Aviation Administration Regulations do not require spin demonstration of airplanes of this weight; therefore no spin tests have been conducted. The recovery technique is based on the best available information:
+Federal Aviation Administration Regulations do not require spin demonstration of airplanes of this weight; therefore no spin tests have been conducted. The recovery technique is based on the best available information.
 
-![Image](KA-200-B200-POH_imagens/p00081_01.png)
+## SECTION IIIA — ABNORMAL PROCEDURES TABLE OF CONTENTS
 
-## SECTION IIIA
+| SUBJECT | PAGE |
+|---|---|
+| **Air Start** | 3A-3 |
+| Starter Assist | 3A-3 |
+| No Starter Assist (Windmilling Engine and Propeller) | 3A-4 |
+| **Landing** | 3A-4 |
+| Flaps Up Landing | 3A-4 |
+| One-Engine-Inoperative Approach and Landing | 3A-5 |
+| One-Engine-Inoperative Go-around | 3A-5 |
+| **Systems** | 3A-5 |
+| Engine Oil System | 3A-5 |
+| Low Oil Pressure Indication | 3A-5 |
+| Chip Detect (L or R CHIP DETECT Annunciator) | 3A-6 |
+| Fuel System | 3A-6 |
+| Crossfeed (One-Engine-Inoperative Operation) | 3A-6 |
+| To Discontinue Crossfeed | 3A-6 |
+| Auxiliary Fuel Transfer Failure (NO TRANSFER Light) | 3A-6 |
+| Electrical System | 3A-6 |
+| Generator Inoperative (L or R DC GEN Annunciator) | 3A-6 |
+| Battery Charge Rate (BATTERY CHARGE Annunciator) | 3A-6 |
+| Excessive Loadmeter Indication (Over 100%) | 3A-7 |
+| Circuit Breaker Tripped | 3A-7 |
+| Bus Feeder Circuit Breaker Tripped | 3A-7 |
+| Avionics Master Power Switch Failure | 3A-7 |
+| Landing Gear System | 3A-7 |
+| Hydraulic Fluid Low (HYD FLUID LOW Annunciator) | 3A-7 |
+| Landing Gear Manual Extension (Hydraulic System) | 3A-7 |
+| Landing Gear Manual Extension (Mechanical System) | 3A-8 |
+| Environmental Systems | 3A-9 |
+| Duct Overtemperature (DUCT OVERTEMP Annunciator) | 3A-9 |
+| Ice Protection Systems | 3A-9 |
+| Electrothermal Propeller Deice (Auto System) | 3A-9 |
+| Electrothermal Propeller Deice (Manual System) | 3A-9 |
+| Engine Ice Vane Failure (L or R ICE VANE Annunciator) | 3A-10 |
+| Static Air System | 3A-10 |
+| Pilot's Alternate Static Air Source | 3A-10 |
+| **Cracked or Shattered Windshield** | 3A-11 |
+| **Crack In Any Side Window (Cockpit or Cabin)** | 3A-11 |
+| **Severe Icing Conditions (Required By FAA AD 96-09-13)** | 3A-12 |
 
-## ABNORMAL PROCEDURES TABLE OF CONTENTS
+*(3A-2: THIS PAGE INTENTIONALLY LEFT BLANK)*
 
-| SUBJECT                                               | PAGE   |
-|-------------------------------------------------------|--------|
-| Air Start                                             | 3A-3   |
-| Starter Assist                                        | 3A-3   |
-| No Starter Assist (Windmilling Engine and Propeller)  | 3A-4   |
-| Landing                                               | 3A-4   |
-| Flaps Up Landing                                      | 3A-4   |
-| One-Engine-Inoperative Approach and Landing           | 3A-5   |
-| One-Engine-Inoperative Go-around                      | 3A-5   |
-| System!;)                                             | 3A-5   |
-| Engine Oil System                                     | 3A-5   |
-| Low Oil Pressure Indication                           | 3A-5   |
-| Chip Detect (L or R CHIP DETECT Annunciator)          | 3A-6   |
-| Fuel System                                           | 3A-6   |
-| Crossfeed (One-Engine-Inoperative Operation)          | 3A-6   |
-| To Discontinue Crossfeed                              | 3A-6   |
-| Auxiliary Fuel Transfer Failure (NO TRANSFER Light)   | 3A-6   |
-| Electrical System                                     | 3A-6   |
-| Generator Inoperative (L or R DC GEN Annunciator)     | 3A-6   |
-| Battery Charge Rate (BATTERY CHARGE Annunciator)      | 3A-6   |
-| Excessive Loadmeter Indication (Over 1000/0)          | 3A-7   |
-| Circuit Breaker Tripped                               | 3A-7   |
-| Bus Feeder Circuit Breaker Tripped                    | 3A-7   |
-| Avionics Master Power Switch Failure                  | 3A-7   |
-| Landing Gear System                                   | 3A-7   |
-| Hydraulic Fluid Low (HYD FLUID LOW Annunciator)       | 3A-7   |
-| Landing Gear Manual Extension (Hydraulic System)      | 3A-7   |
-| Landing Gear Manual Extension (Mechanical System)     | 3A-8   |
-| Environmental Systems                                 | 3A-9   |
-| Duct Overtemperature (DUCT OVERTEMP Annunciator)      | 3A-9   |
-| Ice Protection Systems                                | 3A-9   |
-| Electrothermal Propeller Deice (Auto System)          | 3A-9   |
-| Electrothermal Propeller Deice (Manual System)        | 3A-9   |
-| Engine Ice Vane Failure (L or R ICE VANE Annunciator) | 3A-10  |
-| Static Air System                                     | 3A-10  |
-| Pilot's Alternate Static Air Source                   | 3A-10  |
-| Cracked or Shattered Windshield                       | 3A-11  |
-| Crack In Any Side Window (Cockpit or Cabin)           | 3A-11  |
-| Severe Icing Conditions (Required By FAA AD 96-09-13) | 3A-12  |
-
-![Image](KA-200-B200-POH_imagens/p00082_01.png)
-
-Raytheon Aircraft
-
-THIS PAGE INTENTIONALLY LEFT BLANK
-
-![Image](KA-200-B200-POH_imagens/p00083_01.png)
-
-All airspeeds quoted in this section are indicated airspeeds (IAS) and assume zero instrument error.
+*All airspeeds quoted in this section are indicated airspeeds (IAS) and assume zero instrument error.*
 
 ## AIR START
 
-![Image](KA-200-B200-POH_imagens/p00083_02.png)
+**WARNING**
 
-Airstart using the STARTER ASSIST procedures may momentarily cause the loss of attitude display on Electronic Flight Instrument System (EFIS) equipped airplanes, and lead to premature failures: IF FLIGHT CONDITIONS DO NOT PERMIT THE TEMPORARY LOSS OF ATTITUDE REFERENCE, CONDUCT AIRSTART USING THE NO STARTER ASSIST PROCEDURES. system
+Airstart using the STARTER ASSIST procedures may momentarily cause the loss of attitude display on Electronic Flight Instrument System (EFIS) equipped airplanes, and lead to premature system failures. IF FLIGHT CONDITIONS DO NOT PERMIT THE TEMPORARY LOSS OF ATTITUDE REFERENCE, CONDUCT AIRSTART USING THE NO STARTER ASSIST PROCEDURES.
 
-![Image](KA-200-B200-POH_imagens/p00083_03.png)
+**CAUTION**
 
-The pilot should determine the reason for engine failure before attempting an air start: Do not attempt an air start if Nt indicates zero.
+The pilot should determine the reason for engine failure before attempting an air start. Do not attempt an air start if N1 indicates zero.
 
 Above 20,000 feet, starts tend to be hotter. During engine acceleration to idle speed, it may become necessary to move the condition lever periodically into CUT-OFF in order to avoid an overtemperature condition.
 
 ## STARTER ASSIST
 
-1. Cabin Temp Mode OFF
-2. 2 Vent Blower AUTO
-3. Aft Blower (if installed) OFF
-4. Radar STANDBY or OFF
-5. Windshield Heat OFF
-6. Power Lever IDLE
-7. Propeller Lever (inoperative engine) LOW RPM
-8. Condition Lever FUEL CUT OFF
-9. 9\_ Firewall Shutoff Valve OPEN
-10. Generator (inoperative engine) OFF
+1. Cabin Temp Mode - OFF
+2. Vent Blower - AUTO
+3. Aft Blower (if installed) - OFF
+4. Radar - STANDBY or OFF
+5. Windshield Heat - OFF
+6. Power Lever - IDLE
+7. Propeller Lever (inoperative engine) - LOW RPM
+8. Condition Lever - FUEL CUT OFF
+9. Firewall Shutoff Valve - OPEN
+10. Generator (inoperative engine) - OFF
 
 ## NOTE
 
-exceeding ITT limit. Reduce electrical load t0 minimum consistent with flight conditions:
+If conditions permit, retard operative engine ITT to 700°C or less to reduce the possibility of exceeding ITT limit. Reduce electrical load to minimum consistent with flight conditions.
 
-11. Ignition and Engine Start ON, IGNITION ON annunciator ILLUMINATED)
-12. Condition Lever LOW IDLE
-13. ITT and N1 MONITOR (1000*C MAXIMUM)
-14. Ignition and Engine Start OFF (N1 above 50%)
-15. Propeller Lever AS REQUIRED
-16. Power Lever AS REQUIRED
-7. 17 . Generator ON
-18. Auto Ignition ARM
-19. Sync ON Prop
-20. Cabin Temp Mode AUTO
-
-- 21 . Aft Blower (if installed) AS REQUIRED
-22. Radar AS REQUIRED
-23. Windshield Heat AS REQUIRED
+11. Ignition and Engine Start - ON, IGNITION ON annunciator - ILLUMINATED)
+12. Condition Lever - LOW IDLE
+13. ITT and N1 - MONITOR (1000°C MAXIMUM)
+14. Ignition and Engine Start - OFF (N1 above 50%)
+15. Propeller Lever - AS REQUIRED
+16. Power Lever - AS REQUIRED
+17. Generator - ON
+18. Auto Ignition - ARM
+19. Prop Sync - ON
+20. Cabin Temp Mode - AUTO
+21. Aft Blower (if installed) - AS REQUIRED
+22. Radar - AS REQUIRED
+23. Windshield Heat - AS REQUIRED
 
 ## NO STARTER ASSIST (Windmilling Engine and Propeller)
 
-1. Power Lever IDLE
-2. Propeller Lever FULL FORWARD
-3. Condition Lever FUEL CUT OFF
-4. 4 Engine Ice Vane (inoperative engine) RETRACTED
-5. Firewall Shutoff Valve OPEN
-6. Generator (inoperative engine) OFF
-7. Airspeed 140 KNOTS MINIMUM
-8. 8 Altitude BELOW 20,000 FEET
-9. 9 Auto Ignition ARM (IGNITION ON annunciator ILLUMINATED)
-10. Condition Lever
-11. ITT and N1 MONITOR (1O00PC MAXIMUM)
-12. Power AS REQUIRED (after ITT has peaked)
-13. Generator ON
-14. Prop Sync ON
+1. Power Lever - IDLE
+2. Propeller Lever - FULL FORWARD
+3. Condition Lever - FUEL CUT OFF
+4. Engine Ice Vane (inoperative engine) - RETRACTED
+5. Firewall Shutoff Valve - OPEN
+6. Generator (inoperative engine) - OFF
+7. Airspeed - 140 KNOTS MINIMUM
+8. Altitude - BELOW 20,000 FEET
+9. Auto Ignition - ARM (IGNITION ON annunciator - ILLUMINATED)
+10. Condition Lever - LOW IDLE
+11. ITT and N1 - MONITOR (1000°C MAXIMUM)
+12. Power - AS REQUIRED (after ITT has peaked)
+13. Generator - ON
+14. Prop Sync - ON
 
 ## LANDING
 
 ## FLAPS UP LANDING
 
-Reter to Section V, PERFORMANCE, for Flaps Up Landing Distance and Approach Speed.
+Refer to Section V, PERFORMANCE, for Flaps Up Landing Distance and Approach Speed.
 
-- Approach Speed CONFIRM
-- 2 Autofeather (if installed) ARM
-- 3.0 Pressurization CHECK
-4. Cabin Sign NO SMOKE &amp; FSB
-5. Flaps UP
+1. Approach Speed - CONFIRM
+2. Autofeather (if installed) - ARM
+3. Pressurization - CHECK
+4. Cabin Sign - NO SMOKE & FSB
+5. Flaps - UP
 
-![Image](KA-200-B200-POH_imagens/p00084_01.png)
+**CAUTION**
 
-Do not silence the landing gear warning horn, since the flap actuated portion of the landing gear warning system will not be actuated during a ilaps up landing:
+Do not silence the landing gear warning horn, since the flap actuated portion of the landing gear warning system will not be actuated during a flaps up landing.
 
-- 6\_ Landing Gear DN
-- Lights AS REQUIRED
-
-## NOTE
-
-Under low visibility conditions, landing and taxi lights should be left off due to light reflections:
-
-8. Radar AS REQUIRED
-2. Surface Deice CYCLE (as required)
+6. Landing Gear - DN
+7. Lights - AS REQUIRED
 
 ## NOTE
 
-If crosswind landing is anticipated, determine Crosswind Component from Section V\_ PERFORMANCE: Immediately prior to touchdown, lower upwind wing and align the fuselage with the runway: During rollout, hold aileron control into the wind and maintain directional control with rudder and brakes: Use propeller reverse as desired:
+Under low visibility conditions, landing and taxi lights should be left off due to light reflections.
 
-![Image](KA-200-B200-POH_imagens/p00084_02.png)
+8. Radar - AS REQUIRED
+9. Surface Deice - CYCLE (as required)
 
-## Raytheon Aircraft Company
+## NOTE
 
-Super Air B200 &amp; B2OOC King
+If crosswind landing is anticipated, determine Crosswind Component from Section V, PERFORMANCE. Immediately prior to touchdown, lower upwind wing and align the fuselage with the runway. During rollout, hold aileron control into the wind and maintain directional control with rudder and brakes. Use propeller reverse as desired.
 
-10. Approach Speed ESTABLISHED
+10. Approach Speed - ESTABLISHED
 11. Yaw Damp - OFF
-12. Propeller Levers FULL FORWARD
-4. 13 Power Levers IDLE
+12. Propeller Levers - FULL FORWARD
+13. Power Levers - IDLE
 
-After Touchdown:
+*After Touchdown:*
 
-14. Power Levets
-15. Brakes AS AEQUIRED
+14. Power Levers - LIFT AND SELECT REVERSE
+15. Brakes - AS REQUIRED
 
 ## ONE-ENGINE-INOPERATIVE APPROACH AND LANDING
 
-1. Approach Spead CONFIAM
-2. 2 Fuel Balance CHECK
-3. Pressurizatlon CHECK
-4. 4 Cabin Sign NO SMOKE &amp; FSB
-5. Flaps APPROACH
-6. Landing Gear DN
-7. Propellcr Levcr FULL FORWARD
-8. Airspeed 10 KNOTS ABOVE NORMAL LANDING APPROACH SPEED
-9. Interior and Exterior Lights AS AEQUIRED
-10. Radar AS REQUIRED
-11. Surtace Deicc CYCLE (as required)
+1. Approach Speed - CONFIRM
+2. Fuel Balance - CHECK
+3. Pressurization - CHECK
+4. Cabin Sign - NO SMOKE & FSB
 
-When It is Certain There is No Possibility of a Go-Around:
+*When It is Certain that the Field Can Be Reached:*
 
-- 12, Flaps DN
-13. Airspeed NORMAL LANDING APPROACH SPEED
-14. Perlorm normal landing:
+5. Flaps - APPROACH
+6. Landing Gear - DN
+7. Propeller Lever - FULL FORWARD
+8. Airspeed - 10 KNOTS ABOVE NORMAL LANDING APPROACH SPEED
+9. Interior and Exterior Lights - AS REQUIRED
+10. Radar - AS REQUIRED
+11. Surface Deice - CYCLE (as required)
+
+*When It is Certain There is No Possibility of a Go-Around:*
+
+12. Flaps - DN
+13. Airspeed - NORMAL LANDING APPROACH SPEED
+14. Perform normal landing.
 
 ## NOTE
 
-Single-engine reverse thrust may be used with caution after touchdown on smooth; dry, paved surfaces:
+Single-engine reverse thrust may be used with caution after touchdown on smooth, dry, paved surfaces.
 
 ## ONE-ENGINE-INOPERATIVE GO-AROUND
 
-1. Power MAXIMUM ALLOWABLE
-2. 2 Landing Gear UP
-3. UP
-4. Airspeed INCREASE TO BLUE LINE, 121 KNOTS
+1. Power - MAXIMUM ALLOWABLE
+2. Landing Gear - UP
+3. Flaps - UP
+4. Airspeed - INCREASE TO BLUE LINE, 121 KNOTS
 
 ## SYSTEMS
 
 ## ENGINE OIL SYSTEM
 
-## LOw OIL PRESSURE INDICATION
+*LOW OIL PRESSURE INDICATION*
 
-Oil pressure values belween 60 and 85 are undesirable; should be tolerated only for the completion of the flight and then only ata reduced power setting not excecding 1100 foot-pounds torque. Oil pressure values below 60 are unsale; require that either the engina be shut down or that a landing bc made at the nearest suitable airport; using the minimum power required to sustain tlight, Psi they they
+Oil pressure values between 60 and 85 psi are undesirable; they should be tolerated only for the completion of the flight, and then only at a reduced power setting not exceeding 1100 foot-pounds torque. Oil pressure values below 60 psi are unsafe; they require that either the engine be shut down or that a landing be made at the nearest suitable airport, using the minimum power required to sustain flight.
 
-Section 3A Abnormal Procedures
+*CHIP DETECT (L or R CHIP DETECT Annunciator)*
 
-## CHIP DETECT (L or R CHIP DETECT Annunciator)
-
-Illumination of a CHIP DETECT annunciator indicales possible metal contamination in Ihe engine oil supplyparameters should be monitored for abnormal indications. It parameters are abnormal, &amp; precautionary shutmaliunction should be determined and corrected prior 10 tne next {light
+Illumination of a CHIP DETECT annunciator indicates possible metal contamination in the engine oil supply. Illumination of a CHIP DETECT annunciator is not in itself cause for an engine to be shut down. Engine parameters should be monitored for abnormal indications. If parameters are abnormal, a precautionary shut-down may be made at the pilot's discretion. After illumination of a CHIP DETECT annunciator, cause of the malfunction should be determined and corrected prior to the next flight.
 
 ## FUEL SYSTEM
 
-CROSSFEED (One-Engine-Inoperative Operation)
+*CROSSFEED (One-Engine-Inoperative Operation)*
 
-1. Crossfeed LEFT OR RIGHT, AS REQUIRED (FUEL CROSSFEED annunciator ILLUMINATED)
-2. 2 Standby Pumps OFF
-3. Auxiliary Tank Transfer AUTO
-4. 4 Fuel Balance MONITOR
+1. Crossfeed - LEFT OR RIGHT, AS REQUIRED (FUEL CROSSFEED annunciator - ILLUMINATED)
+2. Standby Pumps - OFF
+3. Auxiliary Tank Transfer - AUTO
+4. Fuel Balance - MONITOR
 
-If Fuel is Required from tne Inoperative Engine $ Auxiliary Fuel Tank and the Reason tor Shutdown was Not an Engine Fire or Fuel Leak:
+*If Fuel is Required from the Inoperative Engine's Auxiliary Fuel Tank and the Reason for Shutdown was Not an Engine Fire or Fuel Leak:*
 
-5. Firewall Shutotj Valve (inoperative engine) OPEN (FUEL PRESS annunciator EXTINGUISHED)
-6. No Transler Light (inoperative engine) EXTINGUISHED IN 30 TO 50 SECONDS:
+5. Firewall Shutoff Valve (inoperative engine) - OPEN (FUEL PRESS annunciator - EXTINGUISHED)
+6. No Transfer Light (inoperative engine) - EXTINGUISHED IN 30 TO 50 SECONDS.
 
-## TO DISCONTINUE CROSSFEED
+*TO DISCONTINUE CROSSFEED*
 
-- Crossfeed Flow Switch OFF (centered)
+- Crossfeed Flow Switch - OFF (centered)
 
-## AUXILIARY FUEL TRANSFER FAILURE (NO TRANSFER Light)
+*AUXILIARY FUEL TRANSFER FAILURE (NO TRANSFER Light)*
 
-1. Auxiliary Tank Transter OVERRIDE
-2. 2 No Transfer Light EXTINGUISHED (If light does not extingulsh, auxiliary fuel may not available) be
-3. Auxiliary Fuel Quanlity MONITOR
-4. 4 Auxiliary Tank Transfer AUTO (when auxiliary fuel tank is empty)
+1. Auxiliary Tank Transfer - OVERRIDE
+2. No Transfer Light - EXTINGUISHED (If light does not extinguish, auxiliary fuel may not be available)
+3. Auxiliary Fuel Quantity - MONITOR
+4. Auxiliary Tank Transfer - AUTO (when auxiliary fuel tank is empty)
 
 ## ELECTRICAL SYSTEM
 
-## GENERATOR INOPERATIVE (L or R DC GEN Annunciator)
+*GENERATOR INOPERATIVE (L or R DC GEN Annunciator)*
 
-- VERIFY GENERATOR IS OFF (0% LOAD)
-- 2 Generator RESET , THEN ON
+1. Loadmeter - VERIFY GENERATOR IS OFF (0% LOAD)
+2. Generator - RESET, THEN ON
 
-If generator will not reset:
+*If generator will not reset:*
 
-3. Generator OFF
-2. 4 Loadmeter
+3. Generator - OFF
+4. Loadmeter - DO NOT EXCEED 100% (88% Above 31,000 feet)
 
-BATTERY CHARGE RATE (BATTERY CHARGE Annunciator)
+*BATTERY CHARGE RATE (BATTERY CHARGE Annunciator)*
 
-## Ground Operations:
+*Ground Operations:*
 
-tor iliuminated unless a decreasing battery charge current is contirmed. See Nickel-Cadmium Battery Check in Section IV, NORMAL PROCEDURES:
+The BATTERY CHARGE annunciator will illuminate after an engine start. Do not take off with the annunciator illuminated unless a decreasing battery charge current is confirmed. See Nickel-Cadmium Battery Check in Section IV, NORMAL PROCEDURES.
 
-In Flight:
+*In Flight:*
 
-In-flight illumination of the BATTERY CHARGE annurciator indicates a possible battery malfunction:
+In-flight illumination of the BATTERY CHARGE annunciator indicates a possible battery malfunction.
 
-- 1 Battery Switch OFF
-- 2 BATTERY CHARCE Annunciator ExtinguishedCONTINUE TO DESTINATION
-- 3 BATTERY CHARGE Annunciator Still Illuminated LAND AT NEAREST SUITABLE AIRPORT
-
-![Image](KA-200-B200-POH_imagens/p00086_01.png)
+1. Battery Switch - OFF
+2. BATTERY CHARGE Annunciator Extinguished - CONTINUE TO DESTINATION
+3. BATTERY CHARGE Annunciator Still Illuminated - LAND AT NEAREST SUITABLE AIRPORT
 
 ![Image](KA-200-B200-POH_imagens/p00087_01.png)
 
