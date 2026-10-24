@@ -6683,422 +6683,624 @@ Células "---" no original (altitudes ou pesos sem dados) foram omitidas das lin
 ![Image](KA-200-B200-POH_imagens/p00236_01.png)
 ![Image](KA-200-B200-POH_imagens/p00236_02.png)
 
-![Image](KA-200-B200-POH_imagens/p00237_01.png)
+## ONE ENGINE INOPERATIVE MAXIMUM CRUISE POWER — 1900 RPM
 
-ISA 20PC
+**ISA +20°C**
 
-- NOTE: DURING OPERATION WITH ICE VANE EXTENDED, TORQUE WILL DECREASE. IF ORIGINAL POWER IS NOT Or CANNOT BE RESET , TRUE AIRSPEED WILL DECREASE APPAOXIMATELY 20 KNOTS AND FUEL FLOW WILLDECREASE APPROXIMATELY 7%- IF ORIGINAL POWER IS RESET , Taue AIRSPEED WILL BE UNCHANGED AND FUEL FLOW WILL INCREASE APPROXIMATELY 30 LBSIHRVENG
-
-NOTE: IOAT, AND FUEL FLOW BASED ON 11,000 POUNDS.
-
-| PRESSURE   | ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   | AIRSPEED - KNOTS - ALTITUDE IOAT OAT PER ENGINE PER ENGINE FUEL FLOW 1(0) 12000 LBS (ii) 11 000 LBS (ii) 10.000 LBS'   |
-|------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| FEET       |                                                                                                     |                                                                                                     |                                                                                                     | LBS/HR                                                                                              |                                                                                                     |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |
-| SL         | 38                                                                                                  | 35                                                                                                  | 2230                                                                                                | 530                                                                                                 | 530                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |
-| 35         | 31                                                                                                  |                                                                                                     | 515                                                                                                 | 515                                                                                                 | 515                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |
-| 31         | 27                                                                                                  | 2230                                                                                                | 500                                                                                                 |                                                                                                     | 500                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 4000                                                                                                                   |
-| 27         | 23                                                                                                  | 2160                                                                                                | 475                                                                                                 |                                                                                                     | 475                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 6000                                                                                                                   |
-| 23         | 19                                                                                                  | 2064                                                                                                | 447                                                                                                 | 447                                                                                                 | 447                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 8000                                                                                                                   |
-| 19         | 15                                                                                                  | 1968                                                                                                | 419                                                                                                 | 419                                                                                                 | 419                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 10,000                                                                                                                 |
-| 15         | 11                                                                                                  | 1883                                                                                                | 395                                                                                                 | 395                                                                                                 |                                                                                                     |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 12,000                                                                                                                 |
-| 11         | 7                                                                                                   | 1825                                                                                                | 3n                                                                                                  | 377                                                                                                 | 377                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 14,000                                                                                                                 |
-| 1          | 3                                                                                                   | 1766                                                                                                | 360                                                                                                 | 360                                                                                                 | 360                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 16,000                                                                                                                 |
-| 3          | -1                                                                                                  | 1706                                                                                                | 344                                                                                                 | 344                                                                                                 | 344                                                                                                 |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 202                                                                                                                    | 18,000                                                                                                                 |
-| -1         | -5                                                                                                  | 1632                                                                                                | 327                                                                                                 | 327                                                                                                 |                                                                                                     |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 20,000                                                                                                                 |
-| -6         | -9                                                                                                  | 1538                                                                                                | 307                                                                                                 | 307                                                                                                 |                                                                                                     | ---                                                                                                                    | ---                                                                                                                    |                                                                                                                        |                                                                                                                        |                                                                                                                        |                                                                                                                        | 22,000                                                                                                                 |
-| ---        | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 |                                                                                                     | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | 24,000                                                                                                                 |
-| ---        | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | 26,000                                                                                                                 |
-| ---        | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | 28,000                                                                                                                 |
-| ---        | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | 29,000                                                                                                                 |
-| ---        | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | 31,000                                                                                                                 |
-| ---        | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | 33,00Q                                                                                                                 |
-| ---        | ---                                                                                                 | ---                                                                                                 | ---                                                                                                 |                                                                                                     | ---                                                                                                 | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | ---                                                                                                                    | 35,000                                                                                                                 |
-
-![Image](KA-200-B200-POH_imagens/p00238_01.png)
-
-## ONE ENGINE INOPERATIVE MAXIMUM CRUISE POWER
-
-![Image](KA-200-B200-POH_imagens/p00238_02.png)
-
-ISA + 30PC
-
-- NOTE: DURING OPERATION WITH ICE VANE EXTENDED\_ TORQUE WILL DECREASE. IF ORIGINAL POWER IS NOT 03 CANNOT BE RESET , TRUE AIRSPEED WILL DECREASE APPROXIMATELY 20 KNOTS AND FUEL FLOW WILL DECREASE APPROXIMATELY 7%. IF ORIGINAL POWER IS RESET , WILL BE UNCHANGED AND FUEL FLOw WILL INCREASE APPROXIMATELY 30 LBSIHRIENG.
+NOTE: DURING OPERATION WITH ICE VANE EXTENDED, TORQUE WILL DECREASE. IF ORIGINAL POWER IS NOT OR CANNOT BE RESET, TRUE AIRSPEED WILL DECREASE APPROXIMATELY 20 KNOTS AND FUEL FLOW WILL DECREASE APPROXIMATELY 7%. IF ORIGINAL POWER IS RESET, TRUE AIRSPEED WILL BE UNCHANGED AND FUEL FLOW WILL INCREASE APPROXIMATELY 30 LBS/HR/ENG.
 
 NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
 
-| PRESSURE   |     |      |      |     |     | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   | AIRSPEED -- KNOTS   |   AIRSPEED -- KNOTS |
-|------------|-----|------|------|-----|-----|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-| SL         | 48  | 45   | 2158 | 521 | 521 |                     |                     |                     |                     |                     |                     |                     |
-| 44         | 44  | 41   | 2107 | 499 | 499 |                     |                     |                     |                     |                     |                     |                     |
-| 41         | 37  |      | 478  | 478 | 478 |                     |                     |                     |                     |                     |                     |                     |
-| 37         | 33  | 2001 | 454  | 454 | 454 |                     |                     |                     |                     |                     |                     |                     |
-| 33         | 29  | 1914 | 426  |     | 426 |                     |                     |                     |                     |                     |                     |                8000 |
-| 29         | 25  | 1826 | 398  | 398 | 398 |                     |                     |                     |                     |                     |                     |              10,000 |
-| 25         | 21  | 1752 | 376  |     | 376 |                     |                     |                     |                     |                     |                     |              12,000 |
-| 21         | 17  | 1695 | 359  | 359 | 359 |                     |                     |                     |                     |                     |                     |              14,000 |
-| 17         | 13  | 1645 | 343  |     | 343 |                     |                     |                     |                     |                     |                     |              16,000 |
-| 13         | 9   | 1602 | 329  | 329 | 329 |                     |                     |                     |                     |                     |                     |              18,000 |
-| 9          | 5   | 1554 | 316  | 316 | 316 | ---                 | ---                 |                     |                     |                     |                     |              20,000 |
-| ---        | --- | ---  | ---  | --- |     | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              22,000 |
-| --- ...    | --- | ---  | ---  | --- |     | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              24,000 |
-| ---        | --- | ---  | ---  | --- |     | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              26,000 |
-| ---        | --- | ---  | ---  | --- | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              28,000 |
-| ---        | --- | ---  | ---  | --- | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              29,000 |
-| ---        | --- | ---  | ---  | --- |     | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              31,000 |
-| ---        | --- | ---  | ---  | --- | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |                     |
-| ---        | --- | ---  | ---  | --- | --- | ---                 | ---                 | ---                 | ---                 | ---                 | ---                 |              35,000 |
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 38 | 35 | 2230 | 530 | 530 | 183 | 190 | 185 | 193 | 187 | 194 |
+| 2000 | 35 | 31 | 2230 | 515 | 515 | 181 | 193 | 183 | 196 | 185 | 198 |
+| 4000 | 31 | 27 | 2230 | 500 | 500 | 178 | 197 | 180 | 199 | 183 | 201 |
+| 6000 | 27 | 23 | 2160 | 475 | 475 | 173 | 197 | 176 | 200 | 178 | 203 |
+| 8000 | 23 | 19 | 2064 | 447 | 447 | 167 | 196 | 170 | 199 | 173 | 202 |
+| 10,000 | 19 | 15 | 1968 | 419 | 419 | 160 | 194 | 164 | 198 | 167 | 202 |
+| 12,000 | 15 | 11 | 1883 | 395 | 395 | 154 | 192 | 158 | 197 | 161 | 201 |
+| 14,000 | 11 | 7 | 1825 | 377 | 377 | 148 | 191 | 153 | 197 | 157 | 202 |
+| 16,000 | 7 | 3 | 1766 | 360 | 360 | 141 | 188 | 147 | 196 | 152 | 202 |
+| 18,000 | 3 | -1 | 1706 | 344 | 344 | 134 | 184 | 141 | 194 | 146 | 202 |
+| 20,000 | -1 | -5 | 1632 | 327 | 327 | 121 | 173 | 134 | 190 | 140 | 200 |
+| 22,000 | -6 | -9 | 1538 | 307 | 307 | --- | --- | 123 | 181 | 133 | 196 |
 
-## ONE ENGINE INOPERATIVE MAXIMUM CRUISE POWER
+Células "---" no original (altitudes ou pesos sem dados) foram omitidas das linhas acima.
+
+*(5-113)*
+
+![Image](KA-200-B200-POH_imagens/p00237_01.png)
+
+## ONE ENGINE INOPERATIVE MAXIMUM CRUISE POWER — 1900 RPM
+
+**ISA +30°C**
+
+NOTE: DURING OPERATION WITH ICE VANE EXTENDED, TORQUE WILL DECREASE. IF ORIGINAL POWER IS NOT OR CANNOT BE RESET, TRUE AIRSPEED WILL DECREASE APPROXIMATELY 20 KNOTS AND FUEL FLOW WILL DECREASE APPROXIMATELY 7%. IF ORIGINAL POWER IS RESET, TRUE AIRSPEED WILL BE UNCHANGED AND FUEL FLOW WILL INCREASE APPROXIMATELY 30 LBS/HR/ENG.
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 48 | 45 | 2158 | 521 | 521 | 179 | 189 | 181 | 192 | 184 | 193 |
+| 2000 | 44 | 41 | 2107 | 499 | 499 | 175 | 190 | 177 | 193 | 180 | 195 |
+| 4000 | 41 | 37 | 2065 | 478 | 478 | 171 | 192 | 174 | 195 | 176 | 197 |
+| 6000 | 37 | 33 | 2001 | 454 | 454 | 166 | 192 | 169 | 195 | 171 | 198 |
+| 8000 | 33 | 29 | 1914 | 426 | 426 | 159 | 190 | 163 | 194 | 166 | 198 |
+| 10,000 | 29 | 25 | 1826 | 398 | 398 | 153 | 188 | 157 | 193 | 160 | 197 |
+| 12,000 | 25 | 21 | 1752 | 376 | 376 | 146 | 186 | 151 | 192 | 155 | 197 |
+| 14,000 | 21 | 17 | 1695 | 359 | 359 | 139 | 183 | 145 | 191 | 150 | 197 |
+| 16,000 | 17 | 13 | 1645 | 343 | 343 | 132 | 179 | 140 | 190 | 145 | 197 |
+| 18,000 | 13 | 9 | 1602 | 329 | 329 | 122 | 172 | 134 | 188 | 140 | 197 |
+| 20,000 | 9 | 5 | 1554 | 316 | 316 | --- | --- | 126 | 184 | 135 | 196 |
+
+Células "---" no original (altitudes ou pesos sem dados) foram omitidas das linhas acima.
+
+*(5-114)*
+
+![Image](KA-200-B200-POH_imagens/p00238_01.png)
+![Image](KA-200-B200-POH_imagens/p00238_02.png)
+
+## ONE ENGINE INOPERATIVE MAXIMUM CRUISE POWER — 1900 RPM
+
+**IAS + 37°C (as printed)**
+
+NOTE: DURING OPERATION WITH ICE VANE EXTENDED, TORQUE WILL DECREASE. IF ORIGINAL POWER IS NOT OR CANNOT BE RESET, TRUE AIRSPEED WILL DECREASE APPROXIMATELY 20 KNOTS AND FUEL FLOW WILL DECREASE APPROXIMATELY 7%. IF ORIGINAL POWER IS RESET, TRUE AIRSPEED WILL BE UNCHANGED AND FUEL FLOW WILL INCREASE APPROXIMATELY 30 LBS/HR/ENG.
+
+NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
+
+| PRESSURE ALTITUDE (FEET) | IOAT °C | OAT °C | TORQUE PER ENGINE (FT-LBS) | FUEL FLOW PER ENGINE (LBS/HR) | TOTAL FUEL FLOW (LBS/HR) | @12,000 LBS IAS | @12,000 LBS TAS | @11,000 LBS IAS | @11,000 LBS TAS | @10,000 LBS IAS | @10,000 LBS TAS |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| SL | 55 | 52 | 2019 | 503 | 503 | 173 | 185 | 176 | 188 | 178 | 190 |
+| 2000 | 51 | 48 | 1975 | 481 | 481 | 169 | 186 | 172 | 189 | 174 | 192 |
+| 4000 | 47 | 44 | 1942 | 461 | 461 | 165 | 187 | 168 | 191 | 171 | 194 |
+| 6000 | 44 | 40 | 1886 | 438 | 438 | 160 | 187 | 163 | 191 | 166 | 195 |
+| 8000 | 40 | 36 | 1807 | 412 | 412 | 154 | 185 | 158 | 190 | 161 | 194 |
+| 10,000 | 36 | 32 | 1728 | 385 | 385 | 147 | 183 | 152 | 189 | 156 | 194 |
+| 12,000 | 32 | 28 | 1663 | 364 | 364 | 140 | 180 | 146 | 188 | 150 | 193 |
+| 14,000 | 28 | 24 | 1612 | 347 | 347 | 133 | 177 | 140 | 187 | 145 | 193 |
+| 16,000 | 23 | 20 | 1565 | 332 | 332 | 124 | 170 | 134 | 185 | 140 | 193 |
+| 18,000 | 19 | 16 | 1523 | 318 | 318 | --- | --- | 127 | 181 | 135 | 192 |
+
+Células "---" no original (altitudes ou pesos sem dados) foram omitidas das linhas acima.
+
+Nota do transcritor: o subtítulo desta tabela está impresso como "IAS + 37°C" no original (provável erro de impressão para "ISA + 37°C"); mantido como impresso.
+
+*(5-115)*
 
 ![Image](KA-200-B200-POH_imagens/p00239_01.png)
 
-IAS 37C
-
-- NOTE: DURING OPERATION WITH ICE VANE EXTENDED, TORQUE WILL DECREASE. IF ORIGINAL POWER IS NOT Or CANNOT BE RESET, TRUE AIRSPEED WILL DECREASE APPROXIMATELY 20 KNOTS AND FUEL FLOW WILL DECREASE APPROXIMATELY7%\_ IF ORIGINAL POWER IS RESET , True AIRSPEED WILL BE UN-
-
-NOTE: IOAT, TORQUE, AND FUEL FLOW BASED ON 11,000 POUNDS.
-
-| PRESSURE   |     |      |      |     |     | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   | AIRSPEED - KNOTS   |
-|------------|-----|------|------|-----|-----|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-|            |     |      | 2019 | 503 | 503 |                    |                    |                    |                    |                    |                    |
-|            |     |      | 481  | 481 | 481 |                    |                    |                    |                    |                    |                    |
-|            |     | 1942 | 461  | 461 |     |                    |                    |                    |                    |                    |                    |
-|            |     | 1886 | 438  | 438 |     |                    |                    |                    |                    |                    |                    |
-| 40         | 36  | 1807 | 412  | 412 |     |                    |                    |                    |                    |                    |                    |
-|            |     | 1728 |      | 385 |     |                    |                    |                    |                    |                    |                    |
-|            |     | 1663 | 364  | 364 |     |                    |                    |                    |                    |                    |                    |
-|            |     | 1612 | 347  | 347 |     |                    |                    |                    |                    |                    | 14,000             |
-|            |     | 1565 | 332  | 332 |     |                    |                    |                    |                    |                    |                    |
-|            |     | 1523 | 318  |     |     | ---                |                    |                    |                    |                    | 18,000             |
-|            |     | 1523 | 318  | 318 |     | ---                |                    |                    |                    |                    | 18,000             |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | 22,000             |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | 24,000             |
-| ---        | --- | ---  | ---  | --- | --- | ---                | ---                | ---                | ---                | ---                | 26,000             |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | ---                |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | ---                |
-| ---        |     |      | ---  |     |     |                    |                    | ---                | ---                | ---                | 31,000             |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                | ---                |
-| ---        | --- | ---  | ---  | --- |     | ---                | ---                | ---                | ---                | ---                |                    |
-
 ## PRESSURIZATION CONTROLLER SETTING FOR LANDING
 
-| EXAMPLE                                       |         |    |
-|-----------------------------------------------|---------|----|
-| .ALTIMETER SETTING . LANDING FIELD ELEVATION. | 2000 FT |    |
-| CABIN ALTITUDE SETTING .. .. 2885 FT          |         |    |
+EXAMPLE:
+
+- ALTIMETER SETTING ................ 29.52 IN. HG
+- LANDING FIELD ELEVATION ................ 2000 FT
+- CABIN ALTITUDE SETTING ................ 2885 FT
+
+Cabin altitude setting (feet, -2000 to 11,000) versus altimeter setting (28.50 to 31.00 in. Hg), lines of field elevation from -1000 to 10,000 feet; STD marks 29.92. *(5-116)*
 
 ![Image](KA-200-B200-POH_imagens/p00240_01.png)
+
+## HOLDING TIME
+
+POWER SETTING 800 FT-LBS AT 1700 RPM — APPLICABLE FOR ALL TEMPERATURES
+
+NOTE: FOR OPERATION WITH ICE VANES EXTENDED, HOLDING TIME WILL BE REDUCED APPROXIMATELY 15%.
+
+Holding time (hours, 0 to 5.0) versus fuel required (pounds, 0 to 1600), curves for pressure altitude SL, 5000, 10,000, 15,000 and 20,000 feet. *(5-117)*
 
 ![Image](KA-200-B200-POH_imagens/p00241_01.png)
 
 ## TIME, FUEL AND DISTANCE TO DESCEND
 
+ASSOCIATED CONDITIONS: POWER ................ AS REQUIRED TO DESCEND AT 1500 FT/MIN; GEAR ................ UP; FLAPS ................ UP
+
+EXAMPLE: INITIAL ALTITUDE ................ 26,000 FT; FINAL ALTITUDE ................ 4732 FT
+
+- TIME TO DESCENT (17-3) ................ 14 MIN
+- FUEL TO DESCEND (164-36) ................ 128 LBS
+- DISTANCE TO DESCEND (82-13) ................ 69 NM
+
+DESCENT SPEED: MMO OR 250 KNOTS, WHICHEVER IS LESS.
+
+Pressure altitude (SL to 35,000 ft) versus time to descend (0 to 30 min), fuel to descend (0 to 200 lb) and distance to descend (0 to 120 NM). *(5-118)*
+
 ![Image](KA-200-B200-POH_imagens/p00242_01.png)
+
+## CLIMB - BALKED LANDING
+
+CLIMB SPEED 100 KNOTS (ALL WEIGHTS)
+
+NOTE: FOR OPERATION WITH ICE VANES EXTENDED, ADD 10°C TO ACTUAL OAT BEFORE ENTERING GRAPH.
+
+ASSOCIATED CONDITIONS: POWER ................ TAKE-OFF; FLAPS ................ DOWN; LANDING GEAR ................ DOWN
+
+EXAMPLE: OAT ................ 32°C; PRESSURE ALTITUDE ................ 4732 FT; WEIGHT ................ 10,937 LBS
+
+- RATE-OF-CLIMB ................ 1450 FT/MIN
+- CLIMB GRADIENT ................ 12.8%
+
+Rate of climb (-500 to 2500 ft/min) and climb gradient (-2 to 24%) versus weight (9000 to 12,000 lb), outside air temperature (-60 to 60°C) and pressure altitude SL to 18,000 feet. *(5-119)*
 
 ![Image](KA-200-B200-POH_imagens/p00243_01.png)
 
+## NORMAL LANDING DISTANCE WITHOUT PROPELLER REVERSING - FLAPS DOWN
+
+ASSOCIATED CONDITIONS: POWER ................ RETARDED TO MAINTAIN 800 FT/MIN ON FINAL APPROACH; FLAPS ................ DOWN; RUNWAY ................ PAVED, LEVEL, DRY SURFACE; APPROACH SPEED ................ IAS AS TABULATED; BRAKING ................ MAXIMUM
+
+| WEIGHT (POUNDS) | APPROACH SPEED (KNOTS) |
+|---|---|
+| 12,500 | 103 |
+| 12,000 | 102 |
+| 11,000 | 99 |
+| 10,000 | 96 |
+| 9000 | 93 |
+
+EXAMPLE: OAT ................ 32°C; PRESSURE ALTITUDE ................ 4732 FT; LANDING WEIGHT ................ 10,937 LBS; HEADWIND COMPONENT ................ 4.7 KTS
+
+- GROUND ROLL ................ 1850 FT
+- TOTAL OVER 50 FT OBSTACLE ................ 3000 FT
+- APPROACH SPEED ................ 99 KNOTS
+
+Distance (0 to 7000 ft) versus obstacle height, wind component (tailwind/headwind, knots), weight (9000 to 12,000 lb) and outside air temperature (-40 to 60°C) with pressure altitude lines SL to 10,000 ft. *(5-120)*
+
 ![Image](KA-200-B200-POH_imagens/p00244_01.png)
 
-## LANDING DISTANCE WITHOUT PROPELLER REVERSING FLAPS UP
+## LANDING DISTANCE WITHOUT PROPELLER REVERSING - FLAPS UP
 
-LANDING DISTANCE WITHOUT PROPELLER REVERSING FLAPS UP
+ASSOCIATED CONDITIONS: POWER ................ RETARDED TO MAINTAIN 900 FT/MIN ON FINAL APPROACH; PROPELLER CONTROLS ................ FULL FORWARD; FLAPS ................ UP; RUNWAY ................ PAVED, LEVEL, DRY SURFACE; APPROACH SPEED ................ IAS AS TABULATED; BRAKING ................ MAXIMUM
+
+| WEIGHT (POUNDS) | APPROACH SPEED (KNOTS) |
+|---|---|
+| 12,500 | 132 |
+| 12,000 | 130 |
+| 11,000 | 126 |
+| 10,000 | 122 |
+| 9000 | 117 |
+
+EXAMPLE: FLAPS DOWN LANDING DISTANCE OVER 50 FT OBSTACLE ................ 3000 FT; LANDING WEIGHT ................ 10,937 LBS; FLAPS UP LANDING DISTANCE OVER 50 FT OBSTACLE ................ 4100 FT; APPROACH SPEED ................ 126 KNOTS
+
+NOTES:
+
+1. LANDING WITH FLAPS FULL DOWN IS NORMAL PROCEDURE. USE THIS GRAPH WHEN IT IS NECESSARY TO LAND WITH FLAPS UP.
+2. TO DETERMINE FLAPS-UP LANDING DISTANCE, READ FROM THE LANDING DISTANCE WITHOUT PROPELLER REVERSING - FLAPS DOWN GRAPH THE LANDING DISTANCE APPROPRIATE TO OAT, ALTITUDE, WEIGHT, WIND, AND 50-FT OBSTACLE. THEN ENTER THIS GRAPH WITH THE DERIVED VALUE AND READ THE FLAPS-UP LANDING DISTANCE.
+
+Flaps-up landing distance over 50 ft obstacle (2000 to 8000 ft) versus flaps-down landing distance over 50 ft obstacle (0 to 7000 ft). *(5-121)*
 
 ![Image](KA-200-B200-POH_imagens/p00245_01.png)
 
-## g 1
+## LANDING DISTANCE WITH PROPELLER REVERSING - FLAPS DOWN
 
-8 88
+ASSOCIATED CONDITIONS: POWER ................ RETARD TO MAINTAIN 1000 FT/MIN ON FINAL APPROACH; FLAPS ................ DOWN; RUNWAY ................ PAVED, LEVEL, DRY SURFACE; APPROACH SPEED ................ IAS AS TABULATED; BRAKING ................ MAXIMUM; CONDITION LEVERS ................ HIGH IDLE; PROPELLER CONTROLS ................ FULL FORWARD; POWER LEVERS ................ MAXIMUM REVERSE AFTER TOUCHDOWN UNTIL FULLY STOPPED
 
-8
+| WEIGHT (POUNDS) | APPROACH SPEED (KNOTS) |
+|---|---|
+| 12,500 | 103 |
+| 12,000 | 102 |
+| 11,000 | 99 |
+| 10,000 | 96 |
+| 9000 | 93 |
 
-8
+EXAMPLE: OAT ................ 32°C; PRESSURE ALTITUDE ................ 4732 FT; LANDING WEIGHT ................ 10,937 POUNDS; HEADWIND COMPONENT ................ 4.7 KNOTS
 
-3
+- GROUND ROLL ................ 1240 FEET
+- TOTAL OVER 50 FOOT OBSTACLE ................ 2260 FEET
+- APPROACH SPEED ................ 99 KNOTS *(5-122)*
 
 ![Image](KA-200-B200-POH_imagens/p00246_01.png)
-
-8
-
-0
-
 ![Image](KA-200-B200-POH_imagens/p00246_02.png)
 
-667030088865
+## LANDING DISTANCE WITH PROPELLER REVERSING - FLAPS UP
+
+ASSOCIATED CONDITIONS: POWER ................ RETARD TO MAINTAIN 1000 FT/MIN ON FINAL APPROACH; FLAPS ................ UP; RUNWAY ................ PAVED, LEVEL, DRY SURFACE; APPROACH SPEED ................ IAS AS TABULATED; BRAKING ................ MAXIMUM; CONDITION LEVERS ................ HIGH IDLE; PROPELLER CONTROLS ................ FULL FORWARD; POWER LEVERS ................ MAXIMUM REVERSE AFTER TOUCHDOWN
+
+| WEIGHT (POUNDS) | APPROACH SPEED (KNOTS) |
+|---|---|
+| 12,500 | 132 |
+| 12,000 | 130 |
+| 11,000 | 126 |
+| 10,000 | 122 |
+| 9000 | 117 |
+
+EXAMPLE: FLAPS DOWN LANDING DISTANCE OVER 50 FOOT OBSTACLE ................ 2260 FEET; LANDING WEIGHT ................ 10,937 POUNDS; FLAPS UP LANDING DISTANCE OVER 50 FOOT OBSTACLE ................ 2820 FEET; APPROACH SPEED ................ 126 KNOTS
+
+NOTES:
+
+1. LANDING WITH FLAPS FULL DOWN IS NORMAL PROCEDURE. USE THIS GRAPH WHEN IT IS NECESSARY TO LAND WITH FLAPS UP.
+2. TO DETERMINE FLAPS-UP LANDING DISTANCE, READ FROM THE LANDING DISTANCE WITH PROPELLER REVERSING - FLAPS DOWN GRAPH THE LANDING DISTANCE APPROPRIATE TO OAT, ALTITUDE, WEIGHT, WIND, AND 50-FT OBSTACLE. THEN ENTER THIS GRAPH WITH THE DERIVED VALUE AND READ THE FLAPS-UP LANDING DISTANCE. *(5-123)*
 
 ![Image](KA-200-B200-POH_imagens/p00247_01.png)
-
-## LANDING DISTANCE WITH PROPELLER' REVERSING FLAPS UP
-
-| ASSOCIATED CONDITIONS: - POWER•••••••••••••• RETARD TO MAINTAIN 1000 FT/MIN ON FINAL                                                                                                |   POUNDS | SPEED   | 'V KNOTS FLAPS DOWN LANDING DISTANCE OVER 50                 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|---------|--------------------------------------------------------------|
-| APPROACH                                                                                                                                                                            |   12,500 | 132     | FOOT OBSTACLE••••• 2260 FEET                                 |
-| FLAPS· • • • • • • •••• • • .uP RUNWAY • • • • • • .. • • • • PAVED, LEVEL, DRY SURFACE APPROACHSPEED. • ••• IAS ASTABULATED BRAKING • • • • MAXIMUM CONDITION LEVERS ••• HIGH IDLE |   12,000 | 126 122 | LANDINGWEIGHT••••• .;10,937POUNDS                            |
-| APPROACHSPEED. • ••• IAS ASTABULATED BRAKING • • • • MAXIMUM CONDITION LEVERS ••• HIGH IDLE PROPELLER CONTROLS .FULL FORWARD                                                        |   10,000 | 122     | FLAPS UP LANDING                                             |
-| BRAKING • • • • MAXIMUM CONDITION LEVERS ••• HIGH IDLE PROPELLER CONTROLS .FULL FORWARD POWER LEVERS· • • • •• ·MAXIMUM REVERSE AFTER TOUCHDOWN                                     |          |         | FOOTOBSTACLE· ••• • 2820 FEET APPROACHSPEED •••••• 126 KNOTS |
-
-- NOTES: LANDING With FLAPS FULL DOWN IS NORMAL PROCEDURE USE This GRAPH WHEN IT IS NECESSARY TO LAND WITH FLAPS UP
-- 2 To DETERMINE FLAPSUP LANDING DISTANCE READ FROM The LANDING DISTANCE Wit PROPELLER REVERSING FLAPS DWNv GRAPH THE WIND , AND 50-FT OBSTACLE THEN ENTER DERIVED VALUE AND READ THE
-
 ![Image](KA-200-B200-POH_imagens/p00247_02.png)
 
-Section V Performance This Page Intentionally Blank Super King Air B200/B200C
+*(5-124: This Page Intentionally Blank)*
 
 ![Image](KA-200-B200-POH_imagens/p00248_01.png)
 
+## SECTION VI — WEIGHT & BALANCE/EQUIP LIST TABLE OF CONTENTS — B200
+
+| SUBJECT | PAGE |
+|---|---|
+| **Weighing Instructions** | 6-3 |
+| **Basic Empty Weight and Balance Form** | 6-4 |
+| **Dimensional and Loading Data** | 6-5 |
+| Standard Seating | 6-5 |
+| Cargo Configuration | 6-6 |
+| **Cabin Arrangement Diagram** | 6-7 |
+| **Useful Load Weights and Moments** | 6-8 |
+| Occupants | 6-8 |
+| Baggage | 6-9 |
+| Cabinet Contents | 6-9 |
+| Usable Fuel | 6-10 |
+| **Density Variation of Aviation Fuel** | 6-12 |
+| **Loading Instructions** | 6-13 |
+| **Cargo Loading** | 6-13 |
+| **Computing Procedure** | 6-13 |
+| **Weight and Balance Loading Form** | 6-14 |
+| **Weight and Balance Diagram** | 6-15 |
+| **Moment Limits Versus Weight Graph** | 6-16 |
+| **Moment Limits Versus Weight Table** | 6-17 |
+| Center of Gravity Limits (Landing Gear Down) | 6-17 |
+| **Equipment Item Number Location Diagram** | 6-18 |
+| **Weight and Balance (B200C)** | 6-19 |
+| **Equipment List** | Prepared on an Individual Airplane Basis |
+
+*Nota do transcritor: as páginas 6-10 e 6-11 aparecem trocadas no índice do original ("Usable Fuel 6-10"); no corpo, a tabela de Usable Fuel está na página 6-11 e a de Cargo na 6-10.*
+
 ![Image](KA-200-B200-POH_imagens/p00249_01.png)
 
-## SECTION VI WEIGHT &amp; BALANCEIEQUIP LIST TABLE OF CONTENTS B200
-
-| SLIBJECT                                                                                                                                                                   | PAGE        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Weighing Instructions                                                                                                                                                      | 6-3         |
-| Basic Empty Weight and Balance Form                                                                                                                                        | 6-4         |
-| Dimensional and Loading Data Standard Seating Cargo Configuration                                                                                                          | 6-5 6-5 6-6 |
-| Cabin Arrangement Diagram                                                                                                                                                  | 6-7         |
-| Useful Load Weights and Moments                                                                                                                                            | 6-8         |
-| g:~?n~econienis··::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: | 6-9 6-9     |
-| Density Variation of Aviation Fuel                                                                                                                                         | 6-12        |
-| Loading Instructions                                                                                                                                                       | 6-13        |
-| Cargo Loading                                                                                                                                                              | 6-13        |
-| Cargo Loading                                                                                                                                                              | 6-13        |
-| Computing Procedure                                                                                                                                                        | 6-13        |
-| Weight and Balance Loading Form                                                                                                                                            | 6-14        |
-| Moment Limits Versus Weight Graph                                                                                                                                          | 6-15        |
-| Moment Limits Versus Weight Table                                                                                                                                          | 6-17        |
-| Equipment Item Number Location Diagram                                                                                                                                     | 6-18        |
-| Weight and Balance (B200C)                                                                                                                                                 | 6-19        |
-| Equipment List Prepared on an Individual Airplane Basis                                                                                                                    |             |
-| Equipment List Prepared on an Individual Airplane Basis                                                                                                                    |             |
-
-6-2
-
-## THIS PAGE INTENTIONALLY LEFT BLANK
+*(6-2: THIS PAGE INTENTIONALLY LEFT BLANK)*
 
 ![Image](KA-200-B200-POH_imagens/p00250_01.png)
 
 ## WEIGHING INSTRUCTIONS
 
-Periodic weighing of the airplane may be required to keep the Basic Empty Weight current: Frequency of weighing is to be determined by the operator. All changes to the airplane affecting Weight andlor balance are the responsibility of the airplane operator:
+Periodic weighing of the airplane may be required to keep the Basic Empty Weight current. Frequency of weighing is to be determined by the operator. All changes to the airplane affecting weight and/or balance are the responsibility of the airplane operator.
 
-- 1\_ Airplane may be weighed on wheels or jacks points. Three jack points are provided: one on the nose section of the fuselage at station 83.5, and one on each wing center section rear spar at station 225.5. Wheel reaction locations should be measured as described in paragraph 6 below.
-- 2 Fuel should be drained preparatory to weighing: Tanks are drained from the regular drain ports with the airplane in static ground attitude. When tanks are drained, 10.5 pounds of unusable fuel remains in the airplane at an arm of 188.0 inches: The remainder of the unusable fuel to be added to a drained system is 33.5 pounds at Station 164.0.
-- pounds at an arm of 131.0 inches:
-- To determine airplane configuration at time of weighing, installed equipment is checked against the plane equipment list or superseding forms: All equipment must be in its proper place during weighing air-
-5. The airplane is placed on the scales in a level attitude. Leveling screws are located on the fuselage entrance door frame: Leveling is accomplished with a plumb bob. Jack pad leveling may require the nose gear shock to be secured in the static position to prevent its extension. Wheel weighings can be leveled by varying the amount of air in the shocks and tires:
-- 6 Measurement of the reaction arms for a wheel weighing is made using the nose jacking point tor a reference: Using a steel measuring tape, measurements are taken with the airplane level on the scales from a reference (a plumb bob hung from the center of the nose jacking point) to the axle center line of the nose gear and then trom the nose gear axle center line to the main wheel axle center line. The main wheel axles center line is best located by stretching a string across from one main wheel to the other: All measurements are to be taken with the tape level with the hangar floor and parallel to the fuselage center line: The locations of the wheel reactions will be approximately at an arm of 209 inches for main wheels and 30 inches for the nose wheel,
-- The Basic Empty Weight and Moment are determined from the scale readings Items weighed which are not part of the empty airplane are subtracted; usable fuel. Unusable fuel and engine oil are added if not already in the airplane.
-- 8 Weighing should always be made in a enclosed area which is tree from air currents The scales used should be properly calibrated and certified in accordance with the Bureau of Standards
+1. Airplane may be weighed on wheels or jacks points. Three jack points are provided: one on the nose section of the fuselage at station 83.5, and one on each wing center section rear spar at station 225.5. Wheel reaction locations should be measured as described in paragraph 6 below.
+2. Fuel should be drained preparatory to weighing. Tanks are drained from the regular drain ports with the airplane in static ground attitude. When tanks are drained, 10.5 pounds of unusable fuel remains in the airplane at an arm of 188.0 inches. The remainder of the unusable fuel to be added to a drained system is 33.5 pounds at station 164.0.
+3. Engine oil must be at the full level in each tank. Total engine oil aboard when both tanks are full is 62 pounds at an arm of 131.0 inches.
+4. To determine airplane configuration at time of weighing, installed equipment is checked against the airplane equipment list or superseding forms. All equipment must be in its proper place during weighing.
+5. The airplane is placed on the scales in a level attitude. Leveling screws are located on the fuselage entrance door frame. Leveling is accomplished with a plumb bob. Jack pad leveling may require the nose gear shock to be secured in the static position to prevent its extension. Wheel weighings can be leveled by varying the amount of air in the shocks and tires.
+6. Measurement of the reaction arms for a wheel weighing is made using the nose jacking point for a reference. Using a steel measuring tape, measurements are taken with the airplane level on the scales from a reference (a plumb bob hung from the center of the nose jacking point) to the axle center line of the nose gear and then from the nose gear axle center line to the main wheel axle center line. The main wheel axles center line is best located by stretching a string across from one main wheel to the other. All measurements are to be taken with the tape level with the hangar floor and parallel to the fuselage center line. The locations of the wheel reactions will be approximately at an arm of 209 inches for main wheels and 30 inches for the nose wheel.
+7. The Basic Empty Weight and Moment are determined from the scale readings. Items weighed which are not part of the empty airplane are subtracted, i.e., usable fuel. Unusable fuel and engine oil are added if not already in the airplane.
+8. Weighing should always be made in a enclosed area which is free from air currents. The scales used should be properly calibrated and certified in accordance with the Bureau of Standards.
 
 ## NOTE
 
-The certificated maximum weight (this is 12,590 Ibs ramp weight for &amp; normal category airplane) may not be exceeded with:
+The certificated maximum weight (this is 12,590 lbs ramp weight for a normal category airplane) may not be exceeded with:
 
-- a Full fuel and minimum crew (one pilot; 170 Ibs:) andlor
+a. Full fuel and minimum crew (one pilot, 170 lbs.) and/or
 
-b\_ Each seat occupied &amp;nd enough tuel for one-half hour operation at maximum continuous power.
+b. Each seat occupied and enough fuel for one-half hour operation at maximum continuous power. *(6-3)*
+
+
+## BASIC EMPTY WEIGHT AND BALANCE
+
+DATE: ____ SERIAL NO: ____ REGISTRATION NO: ____ PREPARED BY: ____
+
+| STRUT POSITION | NOSE | MAIN |
+|---|---|---|
+| EXTENDED | 29.4 | 208.5 |
+| COMPRESSED | 30.8 | 210.5 |
+
+JACK POINT LOCATION: FORWARD 83.5; AFT 225.5
+
+| REACTION WHEEL - JACK POINTS | SCALE READING | TARE | NET WEIGHT | STATION OR ARM | MOMENT |
+|---|---|---|---|---|---|
+| LEFT MAIN | | | | (shaded) | (shaded) |
+| RIGHT MAIN | | | | (shaded) | (shaded) |
+| SUB TOTAL | | | | | |
+| NOSE | | | | | |
+| TOTAL (AS WEIGHED) | | | | (shaded) | |
+
+SPACE BELOW PROVIDED FOR ADDITIONS AND SUBTRACTIONS TO AS WEIGHED CONDITION
+
+| ITEM | WEIGHT | STATION OR ARM | MOMENT |
+|---|---|---|---|
+| EMPTY WEIGHT | | | |
+| ENGINE OIL | 62 | 131 | 8122 |
+| UNUSABLE FUEL | 44 | 170 | 7480 |
+| BASIC EMPTY WEIGHT | | | |
+
+*(6-4)*
 
 ![Image](KA-200-B200-POH_imagens/p00252_01.png)
 
-NOTE: FOYER IS NOT EQUIPPED FOR LOOSE BAGGAGE ; CLOTHING ON HANGERS MAY BE HUNG FROM THE ROD PROVIDED \_
+## DIMENSIONAL AND LOADING DATA
+
+REFERENCE DATUM F.S. 0.0; overall length 525.0"; LEMAC 171.23"; MAC 70.41"; MOLD LINE MAIN SPAR F.S. 190.0; LEVELING POINTS F.S. 309.25; FRONT JACK POINT F.S. 83.5; REAR JACK POINTS (MOLD LINE REAR SPAR) F.S. 225.5; distance between main and nose gear 179.5"; height 179.5".
+
+**SEATING**
+
+Cockpit, Cabin, Foyer and Aft Cabin; reference stations F.S. 30, F.S. 84, F.S. 152, F.S. 279, F.S. 305, F.S. 348.
+
+| OCCUPANT | CENTROID |
+|---|---|
+| CREW | F.S. 129 |
+| ROW I | F.S. 176 |
+| ROW II | F.S. 215 |
+| ROW III | F.S. 259 |
+| LI | F.S. 293 |
+
+| CONFIGURATION | BAGGAGE COMPARTMENT | BAGGAGE CAPACITY | CENTROID |
+|---|---|---|---|
+| SIDE PASSENGER SEAT AND TOILET | \* FOYER | 150 | F.S. 293 |
+| SIDE PASSENGER SEAT AND TOILET | AFT CABIN | \*\* | F.S. 325 |
+
+NOTE: FOYER IS NOT EQUIPPED FOR LOOSE BAGGAGE; CLOTHING ON HANGERS MAY BE HUNG FROM THE ROD PROVIDED.
+
+\* LOADING DATA FOR STANDARD CONFIGURATIONS ONLY.
+
+\*\* 410 LBS FOR SERIALS PRIOR TO BB-1091, EXCEPT BB-1052 NOT EQUIPPED WITH BEECH KIT P/N 101-5068; 550 LBS FOR SERIALS BB-1052, BB-1091 AND AFTER, AND PRIOR AIRPLANES EQUIPPED WITH BEECH KIT P/N 101-5068. *(6-5)*
 
 ![Image](KA-200-B200-POH_imagens/p00253_01.png)
 
-- LOADING DATA FOR STANDARD CONFIGURATIONS ONL Y \_
-- *#4i0 LbS FOR SERIALS PRIOR EXCEPT BB- /052 NOT EOUIPPED WITH BEECH KIT 101-5068 ; 550 LBS FOR SERIALS BB- | 052 BB- 109 | AND AFTER, AND PRIOR AIRPLANES EQUIPPED WITH BEECH KIT PIN 10[~5068
+## LOADING DATA — CARGO CONFIGURATION
 
-## Raytheon Aircraft
+NOTES:
+
+1. ALL CARGO IN SECTIONS A, B, C & D MUST BE SUPPORTED ON AND SECURED TO THE SEAT TRACKS BY AN FAA APPROVED SYSTEM.
+2. CONCENTRATED CARGO LOADS IN SECTIONS A, B, C & D MUST NOT EXCEED 200 LBS. PER SQUARE FOOT & MUST BE SUPPORTED ON THE SEAT RAILS.
+3. CARGO IN SECTION E IS TO BE SECURED BY BEECH FURNISHED BAGGAGE NET, WEBBING, OR STRAPS.
+4. FOOTMAN LOOPS IN SECTION E ARE TO BE USED TO SECURE CARGO BAGGAGE IN THAT AREA ONLY.
+5. CONCENTRATED FLOOR LOADINGS OF CARGO OR BAGGAGE IN SECTION E MUST NOT EXCEED 100 LBS. PER SQUARE FOOT.
+6. ANY EXCEPTIONS TO THE ABOVE PROCEDURES WILL REQUIRE APPROVAL BY A LOCAL FAA OFFICE.
+7. 410 LBS FOR SERIALS PRIOR TO BB-1091, EXCEPT BB-1052, NOT EQUIPPED WITH BEECH KIT P/N 101-5068; 550 LBS FOR SERIALS BB-1052, BB-1091 AND AFTER AND PRIOR AIRPLANES EQUIPPED WITH BEECH KIT P/N 101-5068.
+
+CARGO TIEDOWN PROVISIONS ARE NOT PROVIDED.
+
+Fuselage stations: F.S. 30.0 and F.S. 84.0 (equipment compartment), F.S. 129.0, F.S. 152.0, SECTION A (to F.S. 190.0, mold line main spar), SECTION B (to F.S. 230.0), SECTION C (to F.S. 270.0), SECTION D (to F.S. 305.0), SECTION E (to F.S. 348.0).
+
+| SECTION | MAXIMUM | CENTROID ARM |
+|---|---|---|
+| A | 880 LB. | F.S. 171 |
+| B | 860 LB. | F.S. 210 |
+| C | 830 LB. | F.S. 250 |
+| D | 550 LB. | F.S. 288 |
+| E | SEE NOTE 7 | F.S. 325 | *(6-6)*
 
 ![Image](KA-200-B200-POH_imagens/p00254_01.png)
 
-LOADING DATA (CARGO CONFIGURATION)
-
 ## CABIN ARRANGEMENT DIAGRAM
+
+Seating arrangements (passenger locations are averages): standard chairs at F.S. 176, 215, 259 on both sides; two-place couch forward at F.S. 163 and F.S. 183 with chairs at F.S. 215 and 259; chair at F.S. 171 with four-place couch aft at F.S. 208, 228, 247 and 266. Aft options: side-facing toilet (pass. F.S. 293), side-facing toilet with vanity (pass. F.S. 293), aft fold-up seats (pass. F.S. 330 and F.S. 330), front-facing toilet (pass. F.S. 335).
+
+NOTES: (space for entries)
+
+The cabin seating may be arranged in different combinations. The diagrams marked ☒ above represent the seating arrangement established for this airplane prior to delivery. The passenger locations shown on the designated diagram are averages. Additional data for modified arrangements are noted. No diagrams are included for Hi-density versions. *(6-7)*
 
 ![Image](KA-200-B200-POH_imagens/p00255_01.png)
 
-## USEFUL LOAD WEIGHTS AND MOMENTS OCCUPANTS
+## USEFUL LOAD WEIGHTS AND MOMENTS
 
-|   USE COLUMNS MARKED - COLUMNS MARKED Xt - WEIGHT | CREW - F.S.129 - MOMENT/100   | CABIN CHAIRS - F.S. 171 - MOMENT/100   |   CABIN CHAIRS - F.S.176 - MOMENT/100 |   CABIN CHAIRS - F.S.215 - MOMENT/100 |   CABIN CHAIRS - F.S.259 - MOMENT/100 |   LAVATORY SEAT - F.S.293 - MOMENT/100 |   LAVATORY SEAT - F.S.335 - MOMENT/100 |
-|---------------------------------------------------|-------------------------------|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------|----------------------------------------|
-|                                                80 | 103                           | 137                                    |                                   141 |                                   172 |                                   207 |                                    234 |                                    268 |
-|                                                90 | 116                           | 154                                    |                                   158 |                                   194 |                                   233 |                                    264 |                                    302 |
-|                                               100 | 129                           | 171                                    |                                   176 |                                   215 |                                   259 |                                    293 |                                    335 |
-|                                               110 | 142                           | 188                                    |                                   194 |                                   237 |                                   285 |                                    322 |                                    369 |
-|                                               120 | 155                           | 205                                    |                                   211 |                                   258 |                                   311 |                                    352 |                                    402 |
-|                                               130 | 168                           | 222 - --                               |                                   229 |                                   280 |                                   337 |                                    381 |                                    436 |
-|                                               140 | 181                           | 239                                    |                                   246 |                                   301 |                                   363 |                                    410 |                                    469 |
-|                                               150 | 194                           | 257                                    |                                   264 |                                   323 |                                   389 |                                    440 |                                    503 |
-|                                               160 | _206.                         | 274                                    |                                   282 |                                   344 |                                   414 |                                    469 |                                    536 |
-|                                               170 | 219                           | 291                                    |                                   299 |                                   366 |                                   440 |                                    498 |                                    570 |
-|                                               180 | 232                           | 308                                    |                                   317 |                                   387 |                                   466 |                                    527 |                                    603 |
-|                                               190 | 245                           | 325                                    |                                   334 |                                   409 |                                   492 |                                    557 |                                    637 |
-|                                               200 | 258                           | 342                                    |                                   352 |                                   430 |                                   518 |                                    586 |                                    670 |
-|                                               210 | 271                           | 359                                    |                                   370 |                                   452 |                                   544 |                                    615 |                                    704 |
-|                                               220 | 284                           | 376                                    |                                   387 |                                   473 |                                   570 |                                    645 |                                    737 |
-|                                               230 | 297                           | 393                                    |                                   405 |                                   495 |                                   596 |                                    674 |                                    771 |
-|                                               240 | 310                           | 410                                    |                                   422 |                                   516 |                                   622 |                                    703 |                                    804 |
+**OCCUPANTS** — MOMENT/100
 
-## OCCUPANTS
+| WEIGHT | CREW F.S. 129 | CABIN CHAIRS F.S. 171 | CABIN CHAIRS F.S. 176 | CABIN CHAIRS F.S. 215 | CABIN CHAIRS F.S. 259 | LAVATORY SEAT F.S. 293 | LAVATORY SEAT F.S. 335 |
+|---|---|---|---|---|---|---|---|
+| 80 | 103 | 137 | 141 | 172 | 207 | 234 | 268 |
+| 90 | 116 | 154 | 158 | 194 | 233 | 264 | 302 |
+| 100 | 129 | 171 | 176 | 215 | 259 | 293 | 335 |
+| 110 | 142 | 188 | 194 | 237 | 285 | 322 | 369 |
+| 120 | 155 | 205 | 211 | 258 | 311 | 352 | 402 |
+| 130 | 168 | 222 | 229 | 280 | 337 | 381 | 436 |
+| 140 | 181 | 239 | 246 | 301 | 363 | 410 | 469 |
+| 150 | 194 | 257 | 264 | 323 | 389 | 440 | 503 |
+| 160 | 206 | 274 | 282 | 344 | 414 | 469 | 536 |
+| 170 | 219 | 291 | 299 | 366 | 440 | 498 | 570 |
+| 180 | 232 | 308 | 317 | 387 | 466 | 527 | 603 |
+| 190 | 245 | 325 | 334 | 409 | 492 | 557 | 637 |
+| 200 | 258 | 342 | 352 | 430 | 518 | 586 | 670 |
+| 210 | 271 | 359 | 370 | 452 | 544 | 615 | 704 |
+| 220 | 284 | 376 | 387 | 473 | 570 | 645 | 737 |
+| 230 | 297 | 393 | 405 | 495 | 596 | 674 | 771 |
+| 240 | 310 | 410 | 422 | 516 | 622 | 703 | 804 |
 
-|   USE COLUMNS MARKED - Xt |   TWO PLACE COUCH FORWARD POSITION - F.S.163 - MOMENT/100 | TWO PLACE COUCH FORWARD POSITION - F.S.183 - MOMENT/100   | FOUR PLACE COUCH AFT POSITION - F.S. 208 - MOMENT/100   | FOUR PLACE COUCH AFT POSITION - F.S.228 - MOMENT/100   | FOUR PLACE COUCH AFT POSITION - F.S.247 - MOMENT/100   | FOUR PLACE COUCH AFT POSITION - F.S.266 - MOMENT/100   | AFT FOLD UP SEATS - F.S.330 - MOMENT/100   |
-|---------------------------|-----------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------|
-|                        80 |                                                       130 | 146 165                                                   | 166 187                                                 | 182 205 228                                            | 222 247 272                                            | 239 266 293 319 346                                    | 264 297 330                                |
-|                        90 |                                                       147 | 165                                                       | 187                                                     | 205                                                    | 222                                                    | 239                                                    | 297                                        |
-|                       100 |                                                       163 | 183                                                       | 208                                                     | 228                                                    | 247                                                    | 266                                                    | 330                                        |
-|                       110 |                                                       179 | 201                                                       | 229                                                     | 251                                                    | 272                                                    | 293                                                    | 363                                        |
-|                       120 |                                                       196 | 220                                                       | 250                                                     | 274                                                    | 296                                                    | 319                                                    | 396                                        |
-|                       130 |                                                       212 | 238                                                       | 270                                                     | 296                                                    | 321                                                    | 346                                                    | 429                                        |
-|                       140 |                                                       228 | 256                                                       | 291                                                     | 319                                                    | 346                                                    | 372                                                    | 462                                        |
-|                       150 |                                                       245 | 275                                                       | 312                                                     | 342                                                    | 371                                                    | 399                                                    | 495                                        |
-|                       160 |                                                       261 | 293                                                       | 333                                                     | 365                                                    | 395                                                    | 426                                                    | 528                                        |
-|                       170 |                                                       277 | 311                                                       | 354                                                     | 388                                                    | 420                                                    | 452                                                    | 561                                        |
-|                       180 |                                                       293 | 329                                                       | 374                                                     | 410                                                    | 445                                                    | 479                                                    | 594                                        |
-|                       190 |                                                       310 | 348                                                       | 395                                                     | 433                                                    | 469                                                    | 505                                                    | 627                                        |
-|                       200 |                                                       326 | 366                                                       | 416                                                     | 456                                                    | 494                                                    | 532                                                    | 660                                        |
-|                       210 |                                                       342 | 384                                                       | 437                                                     | 479                                                    | 519                                                    | 559                                                    | 693                                        |
-|                       220 |                                                       359 | 403                                                       | 458                                                     | 502                                                    | 543                                                    | 585                                                    | 726                                        |
-|                       230 |                                                       375 | 421                                                       | 478                                                     | 524                                                    | 568                                                    | 612                                                    | 759                                        |
-|                       240 |                                                       391 | 439                                                       | 499                                                     | 547                                                    | 593                                                    | 638                                                    | 792                                        |
-|                       250 |                                                       408 | 458                                                       | 520                                                     | 570                                                    | 618                                                    | 665                                                    | 825                                        |
+**OCCUPANTS** — MOMENT/100
 
-USEFUL LOAD WEIGHTS AND MOMENTS
+| WEIGHT | TWO PLACE COUCH FORWARD POSITION F.S. 163 | TWO PLACE COUCH FORWARD POSITION F.S. 183 | FOUR PLACE COUCH AFT POSITION F.S. 208 | FOUR PLACE COUCH AFT POSITION F.S. 228 | FOUR PLACE COUCH AFT POSITION F.S. 247 | FOUR PLACE COUCH AFT POSITION F.S. 266 | AFT FOLD UP SEATS F.S. 330 |
+|---|---|---|---|---|---|---|---|
+| 80 | 130 | 146 | 166 | 182 | 198 | 213 | 264 |
+| 90 | 147 | 165 | 187 | 205 | 222 | 239 | 297 |
+| 100 | 163 | 183 | 208 | 228 | 247 | 266 | 330 |
+| 110 | 179 | 201 | 229 | 251 | 272 | 293 | 363 |
+| 120 | 196 | 220 | 250 | 274 | 296 | 319 | 396 |
+| 130 | 212 | 238 | 270 | 296 | 321 | 346 | 429 |
+| 140 | 228 | 256 | 291 | 319 | 346 | 372 | 462 |
+| 150 | 245 | 275 | 312 | 342 | 371 | 399 | 495 |
+| 160 | 261 | 293 | 333 | 365 | 395 | 426 | 528 |
+| 170 | 277 | 311 | 354 | 388 | 420 | 452 | 561 |
+| 180 | 293 | 329 | 374 | 410 | 445 | 479 | 594 |
+| 190 | 310 | 348 | 395 | 433 | 469 | 505 | 627 |
+| 200 | 326 | 366 | 416 | 456 | 494 | 532 | 660 |
+| 210 | 342 | 384 | 437 | 479 | 519 | 559 | 693 |
+| 220 | 359 | 403 | 458 | 502 | 543 | 585 | 726 |
+| 230 | 375 | 421 | 478 | 524 | 568 | 612 | 759 |
+| 240 | 391 | 439 | 499 | 547 | 593 | 638 | 792 |
+| 250 | 408 | 458 | 520 | 570 | 618 | 665 | 825 | 
 
-## BAGGAGE
+*(6-8)*
 
-| WEIGHT   | (Clothing on Hangers) FOYER F.S.292 - MOMENT/100   | AFT CABIN F.S.325 - MOMENT/100                                   |
-|----------|----------------------------------------------------|------------------------------------------------------------------|
-|          | 29 58 88 117 146 175 204 234 263 292               | 33 65 98 130 163 195 228 260 293 325 650 975 1203 1300 1625 1658 |
-
-'SEE CABIN ARRANGEMENT DIAGRAM
-
-## CABINET CONTENTS
-
-| USE X. - WEI~HT                | MOMENT/100     | MOMENT/100                        | MOMENT/100   | AFT - MOMENT/100   | COUCH - MOMENT/100   | MOMENT/100   | MOMENT/100   |
-|--------------------------------|----------------|-----------------------------------|--------------|--------------------|----------------------|--------------|--------------|
-| 10 20 30 40 50 60 70 80 90 100 | 15 30 44 59 74 | 16 32 47 63 79 95 111 126 142 158 | 20 39 59 78  | 27 54 82 109       | 17 35 52             |              |              |
-
-NOTE: Weight and Moment/1OO of Cabinet Contents must be included in all loading computations:
 
 ## USEFUL LOAD WEIGHTS AND MOMENTS
 
-CARGO
+**BAGGAGE** — MOMENT/100
 
-|   WEIGHT |   A - CENTROID - F.S. 171 - MOMENT/100 |   B - CENTROID - FS.210 - MOMENT/100 |   C FS.230-270 - CENTROID - F.S.250 - MOMENT/100 |   0 F.S. 270-305 - CENTROID - F.S.288 - MOMENT/100 | E FS.305-348 - CENTROID - F.S.325 - MOMENT/100     |
-|----------|----------------------------------------|--------------------------------------|--------------------------------------------------|----------------------------------------------------|----------------------------------------------------|
-|       10 |                                     17 |                                   21 |                                               25 |                                                 29 | 33                                                 |
-|       20 |                                     34 |                                   42 |                                               50 |                                                 58 | ·,65                                               |
-|       30 |                                     51 |                                   63 |                                               75 |                                                 86 | 98                                                 |
-|       40 |                                     68 |                                   84 |                                              100 |                                                115 | 130                                                |
-|       50 |                                     86 |                                  105 |                                              125 |                                                144 | 163                                                |
-|       60 |                                    103 |                                  126 |                                              150 |                                                173 | 195                                                |
-|       70 |                                    120 |                                  147 |                                              175 |                                                202 | 228                                                |
-|       80 |                                    137 |                                  168 |                                              200 |                                                230 | 260                                                |
-|       90 |                                    154 |                                  189 |                                              225 |                                                259 | 293                                                |
-|      100 |                                    171 |                                  210 |                                              250 |                                                288 | 325                                                |
-|      200 |                                    342 |                                  420 |                                              500 |                                                576 | 650                                                |
-|      300 |                                    513 |                                  630 |                                              750 |                                                864 | 975                                                |
-|      400 |                                    684 |                                  840 |                                             1000 |                                               1152 | 1300                                               |
-|      500 |                                    855 |                                 1050 |                                             1250 |                                               1440 | 1625                                               |
-|      510 |                                    872 |                                 1071 |                                             1276 |                                               1469 | 1658                                               |
-|      550 |                                    940 |                                 1155 |                                             1375 |                                               1584 | 1788                                               |
-|      600 |                                   1026 |                                 1260 |                                             1500 |                                                    |                                                    |
-|      700 |                                   1197 |                                 1470 |                                             1750 |                                                    |                                                    |
-|      800 |                                   1368 |                                 1680 |                                             2000 |                                                    | NOTE: All cargo must be                            |
-|      830 |                                   1419 |                                 1743 |                                             2075 |                                                    | supported by the seat tracks                       |
-|      860 |                                   1471 |                                 1806 |                                                  |                                                    | in a uniform distribution and                      |
-|      880 |                                   1505 |                                      |                                                  |                                                    | tied down to the tracks by an FAA approved method. |
+| WEIGHT | FOYER F.S. 292 (clothing on hangers) MOMENT/100 | AFT CABIN F.S. 325 MOMENT/100 |
+|---|---|---|
+| 10 | 29 | 33 |
+| 20 | 58 | 65 |
+| 30 | 88 | 98 |
+| 40 | 117 | 130 |
+| 50 | 146 | 163 |
+| 60 | 175 | 195 |
+| 70 | 204 | 228 |
+| 80 | 234 | 260 |
+| 90 | 263 | 293 |
+| 100 | 292 | 325 |
+| 200 |  | 650 |
+| 300 |  | 975 |
+| 370 |  | 1203 |
+| 400 |  | 1300 |
+| 500 |  | 1625 |
+| 510 |  | 1658 |
+| 550 |  | 1788 |
 
-'Refer to LOADING DATA CARGO CONFIGURATION.
+\*SEE CABIN ARRANGEMENT DIAGRAM
+
+**CABINET CONTENTS** — MOMENT/100
+
+| WEIGHT | CHART CASES F.S. 148 | FORWARD CABINET F.S. 158 | MIDDLE CABINET F.S. 196 | AFT CABINET F.S. 272 | COUCH DRAWERS F.S. 173 |
+|---|---|---|---|---|---|
+| 10 | 15 | 16 | 20 | 27 | 17 |
+| 20 | 30 | 32 | 39 | 54 | 35 |
+| 30 | 44 | 47 | 59 | 82 | 52 |
+| 40 | 59 | 63 | 78 | 109 |  |
+| 50 | 74 | 79 |  |  |  |
+| 60 |  | 95 |  |  |  |
+| 70 |  | 111 |  |  |  |
+| 80 |  | 126 |  |  |  |
+| 90 |  | 142 |  |  |  |
+| 100 |  | 158 |  |  |  |
+
+NOTE: Weight and Moment/100 of Cabinet Contents must be included in all loading computations. *(6-9)*
+
+
+## USEFUL LOAD WEIGHTS AND MOMENTS
+
+**CARGO** — COMPARTMENT \* — MOMENT/100
+
+| WEIGHT | A F.S. 152-190 (centroid F.S. 171) | B F.S. 190-230 (centroid F.S. 210) | C F.S. 230-270 (centroid F.S. 250) | D F.S. 270-305 (centroid F.S. 288) | E F.S. 305-348 (centroid F.S. 325) |
+|---|---|---|---|---|---|
+| 10 | 17 | 21 | 25 | 29 | 33 |
+| 20 | 34 | 42 | 50 | 58 | 65 |
+| 30 | 51 | 63 | 75 | 86 | 98 |
+| 40 | 68 | 84 | 100 | 115 | 130 |
+| 50 | 86 | 105 | 125 | 144 | 163 |
+| 60 | 103 | 126 | 150 | 173 | 195 |
+| 70 | 120 | 147 | 175 | 202 | 228 |
+| 80 | 137 | 168 | 200 | 230 | 260 |
+| 90 | 154 | 189 | 225 | 259 | 293 |
+| 100 | 171 | 210 | 250 | 288 | 325 |
+| 200 | 342 | 420 | 500 | 576 | 650 |
+| 300 | 513 | 630 | 750 | 864 | 975 |
+| 400 | 684 | 840 | 1000 | 1152 | 1300 |
+| 500 | 855 | 1050 | 1250 | 1440 | 1625 |
+| 510 | 872 | 1071 | 1276 | 1469 | 1658 |
+| 550 | 940 | 1155 | 1375 | 1584 | 1788 |
+| 600 | 1026 | 1260 | 1500 |  |  |
+| 700 | 1197 | 1470 | 1750 |  |  |
+| 800 | 1368 | 1680 | 2000 |  |  |
+| 830 | 1419 | 1743 | 2075 |  |  |
+| 860 | 1471 | 1806 |  |  |  |
+| 880 | 1505 |  |  |  |  |
+
+NOTE: All cargo must be supported by the seat tracks in a uniform distribution and tied down to the tracks by an FAA approved method.
+
+\*Refer to LOADING DATA CARGO CONFIGURATION. *(6-10)*
 
 ![Image](KA-200-B200-POH_imagens/p00258_01.png)
 
 ## USEFUL LOAD WEIGHTS AND MOMENTS
 
-## USABLE FUEL
+**USABLE FUEL**
 
-|         | 6.4 LB/GAL   | 6.4 LB/GAL - 100   | 6.5 LB/GAL   |   6.5 LB/GAL |      | 100       |           | 100       |
-|---------|--------------|--------------------|--------------|--------------|------|-----------|-----------|-----------|
-| 10      | 64           | 99                 | 65           |          100 | 66   | 102       | 67        | 103       |
-| 20      | 128          | 197                | 130          |          200 | 132  | 203       | 134       | 206       |
-| 30      | 192          | 305                | 195          |          310 | 198  | 314       | 201       | 319       |
-| 40      | 256          | 423                | 260          |          430 | 264  | 436       | 268       | 443       |
-| 50      | 320          | 542                | 325          |          550 | 330  | 559       | 335       | 567       |
-| 60      | 384          | 662                | 390          |          672 | 396  | 683       | 402       | 693       |
-| 70      | 448          | 782                | 455          |          794 | 462  | 807       | 469       | 819       |
-| 80      | 512          | 904                | 520          |          918 | 528  | 932       | 536       | 946       |
-| 90      | 576          | 1023               | 585          |         1039 | 594  | 1055      | 603       | 1071      |
-| 100     | 640          | 1142               | 650          |         1160 | 660  | 1178      | 670       | 1196      |
-| 110     | 704          | 1260               | 715          |         1280 | 726  | 1300      | 737       | 1319      |
-| 120     | 768          | 1379               | 780          |         1400 | 792  | 1422      | 804       | 1443      |
-| 130     | 832          | 1496               | 845          |         1519 | 858  | 1543      | 871       | 1566      |
-| 140     | 896          | 1615 .             | 910          |         1640 | 924  | 1665      | 938       | 1690      |
-| 150     | 960          | 1734               | 975          |         1761 | 990  | 1788      | 1005      | 1815      |
-| 160     | 1024         | 1852               | 1040         |         1881 | 1056 | 1910      | 1072      | 1939      |
-| 170     | 1088         | 1971               | 1105         |         2002 | 1122 | 2033      | 1139      | 2064      |
-| 180     | 1152         | 2090               | 1170         |         2122 | 1188 | 2155      | 1206      | 2188      |
-| 190     | 1216         | 2209               | 1235         |         2244 | 1254 | 2279      | 1273      | 2313      |
-| 200     | 1280         | 2328               | 1300         |         2365 | 1320 | 2401      | 1340      | 2437      |
-| 210     | 1344         | 2447               | 1365         |         2486 | 1386 | 2524      | 1407      | 2562      |
-| 220     | 1408         | 2567               | 1430         |         2607 | 1452 | 2647      | 1474      | 2687      |
-| 230     | 1472         | 2686               | 1495         |         2728 | 1518 | 2770      | 1541      | 2812      |
-| 240     | 1536         | 2806               | 1560         |         2850 | 1584 | 2894      | 1608      | 2938      |
-| 250     | 1600         | 2926               | 1625         |         2971 | 1650 | 3017      | 1675      | 3063      |
-| 260     | 1664         | 3045               | 1690         |         3093 | 1716 | 3140      | 1742      | 3188      |
-| 270     | 1728         | 3164               | 1755         |         3213 | 1782 | 3263      | 1809      | 3312      |
-| 280     | 1792         | 3283               | 1820         |         3334 | 1848 | 3386      | 1876      | 3437      |
-| 290     | 1856         | 3402               | 1885         |         3455 | 1914 | 3508      | 1943      | 3562      |
-| 290     |              | 3521               | 1950         |              | 1980 | 3631      | 2010      |           |
-| 310     | 1984         | 3641               | 2015         |         3698 | 2046 | 3754      | 2077      | 3811      |
-| 320     | 2048         | 3760               | 2080         |         3819 | 2112 | 3878      | 2144      | 3936      |
-| 330     | 2112         | 3880               | 2145         |         3940 | 2178 | 4001      | 2211      | 4062      |
-| 340     | 2176         | 3999               | 2210         |         4062 | 2244 | 4124      | 2278      | 4062      |
-| 350     | 2240         | 4119               | 2275         |         4184 | 2310 | 4248      | 2345      | 4312      |
-| 360     | 2304         | 4244               | 2340         |         4184 | 2376 | 4377      | 2412      | 4443      |
-| 370     | 2368         | 4365               | 2405         |         4434 | 2442 | 4502      | 2479      | 4570      |
-| 380     | 2368         | 4365               | 2405         |         4434 | 2442 | 4502      | 2479      | 4570      |
-| 380     | 2432         | 4489               | 2470         |         4560 | 2508 | 4630      | 2546      | 4700      |
-| 386     | 2470         | 4562               | 2509         |         4634 | 2548 | 4706      | 2586      | 4776      |
-| 410     | 2624         | 4869               | 2665         |         4945 | 2706 | 5021      | 2747      | 4963 5097 |
-| 410     | 2624         | 4869               | 2665         |         4945 | 2706 | 5021      | 2747      | 5097      |
-| 430     | 2752         | 4997               | 2730         |         5075 | 2n2  | 5153      | 2814      | 5231      |
-| 430     | 2752         | 5126               | 2795         |         5206 | 2838 | 5286      | 2881      | 5366      |
-| 440     | 2816         | 5255               | 2860         |         5337 | 2904 | 5419      | 2948      | 5501      |
-| 450     | 2880         | 5386               | 2925         |         5470 | 2970 | 5554      | 3015      | 5638      |
-| 470     | 3008         | 5514 5645          | 2990 3055    |         5600 | 3036 | 5686      | 3082      | 5773      |
-| 470     | 3008         | 5645               | 3055         |         5733 | 3102 | 5821      | 3149      | 5909      |
-| 490     | 3072 3136    | 5775 5907          | 3120         |         5866 | 3168 | 5956      | 3216 3283 | 6046 6184 |
-| 490     | 3136         | 5907               | 3185         |         5999 | 3234 | 6091      | 3283      | 6184      |
-| 500     | 3200         | 5907               | 3250         |         6134 | 3300 | 6229      | 3350      | 6323      |
-| 510     | 3264         | 6172               | 3315         |         6269 | 3366 | 6365      | 3417      | 6462 6602 |
-| 520 530 | 3328 3392    | 6307               | 3380 3445    |         6405 | 3432 | 6504      | 3484      | 6602 6743 |
-| 530 540 | 3392 3456    | 6441 6573          | 3510         |         6676 | 3564 | 6779      | 3618      | 6881      |
-| 540     | 3456 3482    | 6573               | 3510         |         6729 | 3590 | 6779 6832 | 3618      | 6936      |
-| 544     | 3482         | 6626               | 3536         |         6729 | 3590 | 6832      | 3645      | 6936      |
+| GALLONS | 6.4 LB/GAL WEIGHT | 6.4 MOMENT/100 | 6.5 LB/GAL WEIGHT | 6.5 MOMENT/100 | 6.6 LB/GAL WEIGHT | 6.6 MOMENT/100 | 6.7 LB/GAL WEIGHT | 6.7 MOMENT/100 |
+|---|---|---|---|---|---|---|---|---|
+| 10 | 64 | 99 | 65 | 100 | 66 | 102 | 67 | 103 |
+| 20 | 128 | 197 | 130 | 200 | 132 | 203 | 134 | 206 |
+| 30 | 192 | 305 | 195 | 310 | 198 | 314 | 201 | 319 |
+| 40 | 256 | 423 | 260 | 430 | 264 | 436 | 268 | 443 |
+| 50 | 320 | 542 | 325 | 550 | 330 | 559 | 335 | 567 |
+| 60 | 384 | 662 | 390 | 672 | 396 | 683 | 402 | 693 |
+| 70 | 448 | 782 | 455 | 794 | 462 | 807 | 469 | 819 |
+| 80 | 512 | 904 | 520 | 918 | 528 | 932 | 536 | 946 |
+| 90 | 576 | 1023 | 585 | 1039 | 594 | 1055 | 603 | 1071 |
+| 100 | 640 | 1142 | 650 | 1160 | 660 | 1178 | 670 | 1196 |
+| 110 | 704 | 1260 | 715 | 1280 | 726 | 1300 | 737 | 1319 |
+| 120 | 768 | 1379 | 780 | 1400 | 792 | 1422 | 804 | 1443 |
+| 130 | 832 | 1496 | 845 | 1519 | 858 | 1543 | 871 | 1566 |
+| 140 | 896 | 1615 | 910 | 1640 | 924 | 1665 | 938 | 1690 |
+| 150 | 960 | 1734 | 975 | 1761 | 990 | 1788 | 1005 | 1815 |
+| 160 | 1024 | 1852 | 1040 | 1881 | 1056 | 1910 | 1072 | 1939 |
+| 170 | 1088 | 1971 | 1105 | 2002 | 1122 | 2033 | 1139 | 2064 |
+| 180 | 1152 | 2090 | 1170 | 2122 | 1188 | 2155 | 1206 | 2188 |
+| 190 | 1216 | 2209 | 1235 | 2244 | 1254 | 2279 | 1273 | 2313 |
+| 200 | 1280 | 2328 | 1300 | 2365 | 1320 | 2401 | 1340 | 2437 |
+| 210 | 1344 | 2447 | 1365 | 2486 | 1386 | 2524 | 1407 | 2562 |
+| 220 | 1408 | 2567 | 1430 | 2607 | 1452 | 2647 | 1474 | 2687 |
+| 230 | 1472 | 2686 | 1495 | 2728 | 1518 | 2770 | 1541 | 2812 |
+| 240 | 1536 | 2806 | 1560 | 2850 | 1584 | 2894 | 1608 | 2938 |
+| 250 | 1600 | 2926 | 1625 | 2971 | 1650 | 3017 | 1675 | 3063 |
+| 260 | 1664 | 3045 | 1690 | 3093 | 1716 | 3140 | 1742 | 3188 |
+| 270 | 1728 | 3164 | 1755 | 3213 | 1782 | 3263 | 1809 | 3312 |
+| 280 | 1792 | 3283 | 1820 | 3334 | 1848 | 3386 | 1876 | 3437 |
+| 290 | 1856 | 3402 | 1885 | 3455 | 1914 | 3508 | 1943 | 3562 |
+| 300 | 1920 | 3521 | 1950 | 3576 | 1980 | 3631 | 2010 | 3686 |
+| 310 | 1984 | 3641 | 2015 | 3698 | 2046 | 3754 | 2077 | 3811 |
+| 320 | 2048 | 3760 | 2080 | 3819 | 2112 | 3878 | 2144 | 3936 |
+| 330 | 2112 | 3880 | 2145 | 3940 | 2178 | 4001 | 2211 | 4062 |
+| 340 | 2176 | 3999 | 2210 | 4062 | 2244 | 4124 | 2278 | 4187 |
+| 350 | 2240 | 4119 | 2275 | 4184 | 2310 | 4248 | 2345 | 4312 |
+| 360 | 2304 | 4244 | 2340 | 4310 | 2376 | 4377 | 2412 | 4443 |
+| 370 | 2368 | 4365 | 2405 | 4434 | 2442 | 4502 | 2479 | 4570 |
+| 380 | 2432 | 4489 | 2470 | 4560 | 2508 | 4630 | 2546 | 4700 |
+| 386 | 2470 | 4562 | 2509 | 4634 | 2548 | 4706 | 2586 | 4776 |
+| 400 | 2560 | 4741 | 2600 | 4815 | 2640 | 4889 | 2680 | 4963 |
+| 410 | 2624 | 4869 | 2665 | 4945 | 2706 | 5021 | 2747 | 5097 |
+| 420 | 2688 | 4997 | 2730 | 5075 | 2772 | 5153 | 2814 | 5231 |
+| 430 | 2752 | 5126 | 2795 | 5206 | 2838 | 5286 | 2881 | 5366 |
+| 440 | 2816 | 5255 | 2860 | 5337 | 2904 | 5419 | 2948 | 5501 |
+| 450 | 2880 | 5386 | 2925 | 5470 | 2970 | 5554 | 3015 | 5638 |
+| 460 | 2944 | 5514 | 2990 | 5600 | 3036 | 5686 | 3082 | 5773 |
+| 470 | 3008 | 5645 | 3055 | 5733 | 3102 | 5821 | 3149 | 5909 |
+| 480 | 3072 | 5775 | 3120 | 5866 | 3168 | 5956 | 3216 | 6046 |
+| 490 | 3136 | 5907 | 3185 | 5999 | 3234 | 6091 | 3283 | 6184 |
+| 500 | 3200 | 6040 | 3250 | 6134 | 3300 | 6229 | 3350 | 6323 |
+| 510 | 3264 | 6172 | 3315 | 6269 | 3366 | 6365 | 3417 | 6462 |
+| 520 | 3328 | 6307 | 3380 | 6405 | 3432 | 6504 | 3484 | 6602 |
+| 530 | 3392 | 6441 | 3445 | 6542 | 3498 | 6643 | 3551 | 6743 |
+| 540 | 3456 | 6573 | 3510 | 6676 | 3564 | 6779 | 3618 | 6881 |
+| 544 | 3482 | 6626 | 3536 | 6729 | 3590 | 6832 | 3645 | 6936 |
 
-H 3 1 1
+*(6-11)*
+
+
+## DENSITY VARIATION OF AVIATION FUEL
+
+BASED ON AVERAGE SPECIFIC GRAVITY
+
+| FUEL | AVERAGE SPECIFIC GRAVITY |
+|---|---|
+| JET A (JP-5) (JP-8) AND JET A1 | 0.819 AT 15°C |
+| JET B (JP-4) | 0.764 AT 15°C |
+| AV GAS GRADE 100/130 | 0.706 AT 15°C |
+
+Specific weight (lbs/US gal, 5.0 to 7.5) versus temperature (-50 to 60°C), lines for aviation kerosene Jet A (JP-5) (JP-8) and Jet A1, aviation kerosene Jet B (JP-4), and aviation gasoline grade 100/130. *(6-12)*
 
 ![Image](KA-200-B200-POH_imagens/p00260_01.png)
 
 ## LOADING INSTRUCTIONS
 
-It is the responsibility of the airplane operator to ensure that the airplane is properly loaded. At the time of delivery; Beech Aircraft Corporation provides the necessary weight and balance data to compute individual loadings. All subsequent changes in airplane weight and balance are the responsibility of the airplane owner andlor operator
+It is the responsibility of the airplane operator to ensure that the airplane is properly loaded. At the time of delivery, Beech Aircraft Corporation provides the necessary weight and balance data to compute individual loadings. All subsequent changes in airplane weight and balance are the responsibility of the airplane owner and/or operator.
 
-The basic empty weight and moment of the airplane at the time of delivery are shown on the Basic Empty Weight and Balance form. Useful load items which may be loaded into the airplane are shown on the Useful Load Weight and Moment tables: The minimum and maximum moments approved by the FAA are shown on the Moment Limits Vs. Weight graph or table. These moments correspond to the forward and aft center of gravity flight limits (landing gear down)} for a particular weight. All moments are divided by 100 to simplify computations
+The basic empty weight and moment of the airplane at the time of delivery are shown on the Basic Empty Weight and Balance form. Useful load items which may be loaded into the airplane are shown on the Useful Load Weight and Moment tables. The minimum and maximum moments approved by the FAA are shown on the Moment Limits vs. Weight graph or table. These moments correspond to the forward and aft center of gravity flight limits (landing gear down) for a particular weight. All moments are divided by 100 to simplify computations.
 
 ## CARGO LOADING
 
-The method of loading cargo; its placement in the airplane and the method of restraint should each be determined before starting the actual loading:
+The method of loading cargo, its placement in the airplane and the method of restraint should each be determined before starting the actual loading.
 
-Compartment should be used. For any load that cannot be located at the centroid of a section or that extends over more than one section, it will be necessary to determine its own CG and its location in the airplane: Determine the CG arm (Fuselage Station) by measuring in inches, from a known location in the cabin to the CG of the load. Determine the moment" for the load by multiplying the weight by the CG arm (Fuselage Station): This resuitant should be divided by 100 to be compatible with other loading data
+For loads that are evenly distributed in a given section, the useful Load Table under the heading of Cargo Compartment should be used. For any load that cannot be located at the centroid of a section or that extends over more than one section, it will be necessary to determine its own CG and its location in the airplane. Determine the CG arm (Fuselage Station) by measuring in inches, from a known location in the cabin to the CG of the load. Determine the "moment" for the load by multiplying the weight by the CG arm (Fuselage Station). This resultant should be divided by 100 to be compatible with other loading data.
 
 ## COMPUTING PROCEDURE
 
-- 1 Record the basic empty weight and moment from the Basic Empty Weight &amp;d Balance form (or from the latest superseding forms): The moment must be divided by 100 to correspond to Useful Load Moments.
-- 2 Record the weight and corresponding moment of each item to be carried  These values are tound on the Useful Load Weight and Moment tables.
-- 3\_ Total the weight column and moment column: The total weight without usable fuel must not exceed the Maximum Zero Fuel Weight limitation of 11,000 pounds. All weight in excess of this limitation must be weight must not exceed the maximum allowable take-off weight and the total moment must be within the minimum and maximum moments shown on the Moment Limits Vs: Weight table or graph:
-- 4 Using the page titled Useful Load Weights and Moments Usable Fuel, determine the weight and corresponding moment of fuel to be used by subtracting the amount on board on landing from the amount on board at takeoff.
-5. For landing configuration weight and balance, subtract the weight and moment of fuel to be used from the take-off weight and moment   The landing moment must be within the minimum and maximum moments shown on Weight and Moment Limits table for that weight  If the total moment is less than the total moment is greater than the maximum moment allowed, useful load items must be shitted forward, or att load items reduced. If the quantity or location of load items is changed, the calculations must be revised and tha moments rechecked
-- 6 Loadings may be made on the Weight and Balance Loading Form;
+1. Record the basic empty weight and moment from the Basic Empty Weight and Balance form (or from the latest superseding forms). The moment must be divided by 100 to correspond to Useful Load Moments.
+2. Record the weight and corresponding moment of each item to be carried. These values are found on the Useful Load Weight and Moment tables.
+3. Total the weight column and moment column. The total weight without usable fuel must not exceed the Maximum Zero Fuel Weight limitation of 11,000 pounds. All weight in excess of this limitation must be fuel. The auxiliary tanks may be used only when the main tanks are completely filled. The total take-off weight must not exceed the maximum allowable take-off weight and the total moment must be within the minimum and maximum moments shown on the Moment Limits Vs. Weight table or graph.
+4. Using the page titled Useful Load Weights and Moments - Usable Fuel, determine the weight and corresponding moment of fuel to be used by subtracting the amount on board on landing from the amount on board at takeoff.
+5. For landing configuration weight and balance, subtract the weight and moment of fuel to be used from the take-off weight and moment. The landing moment must be within the minimum and maximum moments shown on Weight and Moment Limits table for that weight. If the total moment is less than the minimum moment allowed, useful load items must be shifted aft, or forward load items reduced. If the total moment is greater than the maximum moment allowed, useful load items must be shifted forward, or aft load items reduced. If the quantity or location of load items is changed, the calculations must be revised and the moments rechecked.
+6. Loadings may be made on the Weight and Balance Loading Form. *(6-13)*
+
 
 ![Image](KA-200-B200-POH_imagens/p00262_01.png)
 
