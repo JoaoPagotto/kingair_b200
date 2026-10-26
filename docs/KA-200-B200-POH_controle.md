@@ -31,7 +31,7 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 13 | 322–331 | 7-36 a 7-45 | 7 (iluminação, ambiental, pressurização, flow control units, ventilação, aquecimento, ar-condicionado) | feito | `82f7d79` |
 | 14 | 332–341 | 7-46 a 7-55 | 7 (controles ambientais, oxigênio, pitot/estático, sangria de ar, warning de sangria, yaw damp, stall warning, proteção contra gelo, deice de hélice, deice de superfície) | feito | `effb1d3` |
 | 15 | 342–351 | 7-56 a 8-7 | 7 (fim: esquema pneumático, stall warning vane heat, fuel heat, conforto, alívio, extintores, limpadores, retenção de carga), 8 Manutenção e Serviço (índice e início) | feito | `bb695fe` |
-| 16 | 352–361 | 8-8 a 9-1 | 8 (óleo, combustível, oxigênio, ar-condicionado, degelo/anti-icing, limpeza, lâmpadas), 9 Suplementos (abertura) | feito | `d5906dc` |
+| 16 | 352–361 | 8-8 a 9-1 | 8 (óleo, combustível, oxigênio, ar-condicionado, degelo/anti-icing, limpeza, lâmpadas), 9 Suplementos (abertura) | feito | `3203830` |
 | 17 em diante | 362–1309 | 9-2 ao fim | 9 Suplementos (restante), 10 Segurança | **pendente** (lotes de 10 págs.: 362–371, 372–381, …) | — |
 
 **Resumo:** págs. 37–361 do PDF feitas (325 de 1309, ≈25%); págs. 362–1309 e 1–36 pendentes. A Seção 7 está transcrita até o fim (p. 7-58); a Seção 8 está transcrita até a p. 8-16 (fim da seção); a Seção 9 começa na p. 9-1.
