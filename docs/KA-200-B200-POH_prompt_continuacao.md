@@ -18,10 +18,9 @@ Arquivos em `docs/`:
 
 ## Tarefa
 
-Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 25 páginas do PDF**, parando ao fim de cada lote para eu confirmar. Estado atual (ver `_controle.md` para o detalhe):
-- **Feito:** págs. 37–286 do PDF (Seções 2 a 6).
-- **Recomeçar o lote 11 do zero:** págs. **287–311** (Seção 7, Descrição dos Sistemas). Existe trabalho parcial de uma sessão anterior que **não foi salvo** no repositório; ignore-o e refaça.
-- **Depois:** 312 em diante, até 1309 (resto da Seção 7, Seção 8 Manutenção, Seção 9 Suplementos, Seção 10 Segurança).
+Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 páginas do PDF**, parando ao fim de cada lote para eu confirmar. (Os lotes 1 a 10 e o lote 11 foram feitos com 25 páginas por lote, quando o volume ainda era suportável; a partir daqui o lote é de 10 páginas.) Estado atual (ver `_controle.md` para o detalhe):
+- **Feito:** págs. 37–311 do PDF (Seções 2 a 7; Seção 7 até a pág. 7-25, no meio da subseção PROPELLER SYNCHROPHASER).
+- **Próximo:** lote 12 = págs. **312–321** (continuação da Seção 7: TYPE II do synchrophaser, ENGINE LUBRICATION SYSTEM em diante), em lotes de 10 páginas até 1309 (resto da Seção 7, Seção 8 Manutenção, Seção 9 Suplementos, Seção 10 Segurança).
 - **Por último:** págs. 1–36 (capa, listas de páginas, logs de revisão, introdução, Seção 1). Uma tentativa anterior foi descartada; nada gravado.
 
 ## Método (siga igual aos lotes anteriores)
@@ -46,4 +45,4 @@ Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 25 
 
 ## Primeira ação
 
-Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 11 (págs. 287–311).
+Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 12 (págs. 312–321).
