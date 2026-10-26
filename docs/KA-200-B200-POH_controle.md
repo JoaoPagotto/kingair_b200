@@ -29,7 +29,7 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 11 | 287–311 | 7-1 a 7-25 | 7 Descrição dos Sistemas (início) | feito | `871d969` |
 | 12 | 312–321 | 7-26 a 7-35 | 7 (synchrophaser TYPE II, lubrificação, partida/ignição, indução, proteção contra gelo, combustível, detecção e extinção de fogo, hélice, sistema elétrico) | feito | `511ba93` |
 | 13 | 322–331 | 7-36 a 7-45 | 7 (iluminação, ambiental, pressurização, flow control units, ventilação, aquecimento, ar-condicionado) | feito | `82f7d79` |
-| 14 | 332–341 | 7-46 a 7-55 | 7 (controles ambientais, oxigênio, pitot/estático, sangria de ar, warning de sangria, yaw damp, stall warning, proteção contra gelo, deice de hélice, deice de superfície) | feito | `a preencher` |
+| 14 | 332–341 | 7-46 a 7-55 | 7 (controles ambientais, oxigênio, pitot/estático, sangria de ar, warning de sangria, yaw damp, stall warning, proteção contra gelo, deice de hélice, deice de superfície) | feito | `effb1d3` |
 | 15 em diante | 342–1309 | 7-56 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 342–351, 352–361, …) | — |
 
 **Resumo:** págs. 37–341 do PDF feitas (305 de 1309, ≈23%); págs. 342–1309 e 1–36 pendentes. A Seção 7 está transcrita até a pág. 7-55 (SURFACE DEICE SYSTEM).
