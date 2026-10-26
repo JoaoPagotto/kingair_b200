@@ -28,9 +28,10 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 10 | 262–286 | 6-14 a 6-38 | 6 Peso e Balanceamento (B200 e B200C) | feito | `92ce9f4` |
 | 11 | 287–296 | 7-1 a 7-10 | 7 Descrição dos Sistemas (índice, estrutura, comandos de voo, painel e anunciadores) | feito | (ver commit do lote 11) |
 | 12 | 297–306 | 7-11 a 7-20 | 7 Descrição dos Sistemas (solo, flaps, trem de pouso, freios, assentos, portas) | feito | (ver commit do lote 12) |
-| 13 em diante | 307–1309 (10 em 10) | 7-21 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** | — |
+| 13 | 307–316 | 7-21 a 7-30 | 7 Descrição dos Sistemas (portas, motores, ignição, proteção contra gelo, combustível, detecção e extinção de incêndio) | **pulado a pedido do usuário** (pendente; voltar depois; o `.md` mantém o texto OCR original nessas páginas) | — |
+| 14 em diante | 317–1309 (10 em 10) | 7-31 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** | — |
 
-**Resumo:** págs. 37–286 do PDF feitas (250 de 1309, ≈19%); págs. 37–306 feitas (270 de 1309, ≈21%); págs. 1–36 e 307–1309 pendentes.
+**Resumo:** págs. 37–286 do PDF feitas (250 de 1309, ≈19%); págs. 37–306 feitas (270 de 1309, ≈21%); págs. 1–36 e 307–1309 pendentes (307–316 puladas por ora).
 
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
@@ -109,6 +110,6 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 
 ## 5. Próximos passos
 
-1. Lotes seguintes de 10 páginas em ordem: 307–316, 317–326, … até a pág. 1309, atualizando a seção 1 a cada lote.
+1. Lote 13 (págs. 307–316) foi pulado; retomar depois. Lotes seguintes de 10 páginas em ordem: 317–326, 327–336, … até a pág. 1309, atualizando a seção 1 a cada lote.
 3. Por último, retranscrever as págs. 1–36 (abertura e Seção 1).
 4. Conferência final: comparar a contagem de páginas cobertas com 1309 e revisar as seções 2 e 3 deste arquivo.
