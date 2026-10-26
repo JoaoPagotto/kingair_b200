@@ -9334,198 +9334,240 @@ The receiver-dryer and sight gage are located high in the condensor compartment.
 
 *(7-45)*
 
-An optional aft evaporator and blower may be installed in the fuselage center aisle equipment behind the rear spar, Refrigerant will flow through the aft evaporator anytime it flows through the forward evaporator: However, it will provide additional cooling only when the aft blower is operating, recirculating cabin air through the aft evaporator and delivering it to the aft floor and ceiling outlets\_ See the VENT BLOWER CONTROL description for  details  concerning operating of the aft blower. bay
+*(7-46)*
+
+An optional aft evaporator and blower may be installed in the fuselage center aisle equipment bay behind the rear spar. Refrigerant will flow through the aft evaporator anytime it flows through the forward evaporator. However, it will provide additional cooling only when the aft blower is operating, recirculating cabin air through the aft evaporator and delivering it to the aft floor and ceiling outlets. See the VENT BLOWER CONTROL description for details concerning operating of the aft blower.
 
 ## ENVIRONMENTAL CONTROLS
 
-The ENVIRONMENTAL control section on the copilot's subpanel provides for automatic or manual control of the system This section contains all the major controls of the environmental function: bleed air valve switches; a torward vent blower control switch; an aft evaporator blower on/off switch; a radiant heat onloff switch; a manual temperature switch for control of the cabin temperature control valves in the air-toair heat exchangers; a cabin-temperature-level control; and the cabin temp mode selector switch, for selecting automatic heating or cooling; manual heating or cooling, or off. Four additional manual controls on the main instrument subpanels may be utilized for partial regulation of cockpit comfort when the cockpit partition door is closed and the cabin com fort level is satistactory: They are: pilots air, defroster air, cabin air, and copilot's air control knobs. The fully out position of all these controls will provide the maximum airflow to the cockpit, and the fully in position will provide minimum airflow to the cockpit
+The ENVIRONMENTAL control section on the copilot's subpanel provides for automatic or manual control of the system. This section contains all the major controls of the environmental function: bleed air valve switches; a forward vent blower control switch; an aft evaporator blower on/off switch; a radiant heat on/off switch; a manual temperature switch for control of the cabin temperature control valves in the air-to-air heat exchangers; a cabin-temperature-level control; and the cabin temp mode selector switch, for selecting automatic heating or cooling, manual heating or cooling, or off. Four additional manual controls on the main instrument subpanels may be utilized for partial regulation of cockpit comfort when the cockpit partition door is closed and the cabin comfort level is satisfactory. They are: pilot's air, defroster air, cabin air, and copilot's air control knobs. The fully out position of all these controls will provide the maximum airflow to the cockpit, and the fully in position will provide minimum airflow to the cockpit.
 
-For warm flights, such as short; low-altitude flights in sum - mer , all the cabin ceiling outlets should be fully open for flights, night flights, and flights in cold weather, the ceiling outlets should all be closed for maximum heating in the cabin:
+For warm flights, such as short, low-altitude flights in summer, all the cabin ceiling outlets should be fully open for maximum cooling. For cold flights, such as high-altitude flights, night flights, and flights in cold weather, the ceiling outlets should all be closed for maximum heating in the cabin.
 
 If the cabin temperature is comfortable but the cockpit temperature is not, the following procedures are suggested:
 
 ## HEATING MODE
 
-## If The Cockpit is Too Cold:
+*If The Cockpit is Too Cold:*
 
-- PILOT AIR, COPILOT AIR, and DEFROST AIR knobs PULLED FULLY OUT, or as required.
-2. CABIN AIR knob PULLED OUT IN SMALL INCREMENTS (Allow 3 to 5 minutes after each adjustment for system to stabilize )
+1. **PILOT AIR, COPILOT AIR, and DEFROST AIR knobs - PULLED FULLY OUT, or as required.**
+2. **CABIN AIR knob - PULLED OUT IN SMALL INCREMENTS (Allow 3 to 5 minutes after each adjustment for system to stabilize.)**
 
-## If The Cockpit is Too Hot:
+*If The Cockpit is Too Hot:*
 
-3. PILOT AIR, COPILOT AIR, DEFROST AIR, and CABIN AIR knobs PUSHED FULLY IN, or as required.
+3. **PILOT AIR, COPILOT AIR, DEFROST AIR, and CABIN AIR knobs - PUSHED FULLY IN, or as required.**
 
 ## COOLING MODE
 
-## If The Cockpit is Too Cold:
+*If The Cockpit is Too Cold:*
 
-- PILOT AIR, COPILOT AIR, and DEFROST AIR knobs PUSHED FULLY IN, or as required
-2. Cockpit overhead eyeball  outlets CLOSED, Or as required.
+1. **PILOT AIR, COPILOT AIR, and DEFROST AIR knobs - PUSHED FULLY IN, or as required.**
+2. **Cockpit overhead eyeball outlets - CLOSED, or as required.**
 
-## If The Cockpit is Too Hot:
+*If The Cockpit is Too Hot:*
 
-3. PILOT AIR and COPILOT AIR knobs PULLED FULLY OUT, or as required
-2. 4 CABIN AIR knob PUSHED IN IN SMALL INCREMENTS (Allow 3 to 5 minutes after each adjustment for system to stabilize:)
+3. **PILOT AIR and COPILOT AIR knobs - PULLED FULLY OUT, or as required.**
+4. **CABIN AIR knob - PUSHED IN IN SMALL INCREMENTS (Allow 3 to 5 minutes after each adjustment for system to stabilize.)**
 
 ## NOTE
 
-If the CABIN AIR knob is fully in before obtaining satisfactory cockpit temperature, it may be necessary to place the aft vent blower switch in the ON position, so that cabin air will recirculate through the aft evaporator to provide additional cooling:
+If the CABIN AIR knob is fully in before obtaining satisfactory cockpit temperature, it may be necessary to place the aft vent blower switch in the ON position, so that cabin air will recirculate through the aft evaporator to provide additional cooling.
 
 ## AUTOMATIC MODE CONTROL
 
-When the CABIN TEMP MODE selector switch on the copilot's left subpanel is in the AUTO position, the heating and air conditioning systems operate automatically. The systems are connected to a control box by means of a balanced reached the selected setting, the automatic temperature control modulates the bypass valves to allow heated air to bypass the air-to-air heat exchangers in the center sBCtions. The warm bleed air is mixed with recirculated cabin air (which may Or may not be air-conditioned) in the forward mixing plenum. wing
+When the CABIN TEMP MODE selector switch on the copilot's left subpanel is in the AUTO position, the heating and air conditioning systems operate automatically. The systems are connected to a control box by means of a balanced bridge circuit. When the temperature in the cabin has reached the selected setting, the automatic temperature control modulates the bypass valves to allow heated air to bypass the air-to-air heat exchangers in the wing center sections. The warm bleed air is mixed with recirculated cabin air (which may or may not be air-conditioned) in the forward mixing plenum.
 
-When the automatic control drives the environmental system from a heating mode to a cooling mode, the cabin-heat control valves close. When the left valve reaches the tully closed position, the refrigeration system will begin cooling; bypass valve is opened to approximately the 308 position, the refrigeration system will turn off.
+When the automatic control drives the environmental system from a heating mode to a cooling mode, the cabin-heat control valves close. When the left valve reaches the fully closed position, the refrigeration system will begin cooling, provided the right engine speed is above 60% N1. When the bypass valve is opened to approximately the 30° position, the refrigeration system will turn off.
 
-The CABIN TEMP INCR control provides regulation of the temperature level in the automatic mode. A temperaturesensing unit in the cabin, in conjunction with the control setting, initiates a heat or cool command to the temperature controller, requesting the desired pressure-vessel environment: A duct anticipator temperature probe (duct stat) allows the system to anticipate changes in temperature of inlet air, thereby providing more even temperature control.
+The CABIN TEMP - INCR control provides regulation of the temperature level in the automatic mode. A temperature-sensing unit in the cabin, in conjunction with the control setting, initiates a heat or cool command to the temperature controller, requesting the desired pressure-vessel environment. A duct anticipator temperature probe (duct stat) allows the system to anticipate changes in temperature of inlet air, thereby providing more even temperature control.
 
 ## MANUAL MODE CONTROL
 
-When the CABIN TEMP MODE selector is in the MAN HEAT or MAN COOL position, regulation of the cabin temperature is accomplished manually by momentarily holding the MANUAL TEMP switch t0 either the INCR Or DECR position as desired. When released, this switch will return to the center (no change) position: Moving this switch to the INCR or DECR position results in modulation of the cabinheat control valves in the bleed air lines: Allow approximately 30 seconds per valve (1 minute total time) for the valves to move to the fully open or fully closed position. Only one valve at a time moves: Movement of these valves varies the amount of bleed air routed through the air-to-air heat exchanger. Consequently; the temperature of the incoming bleed air will vary: This bleed air mixes with recirculated cabin air (wich wll ba air-conditioned if the refrigeration system is operating) in the mixing plenum; ad is ten ducted to the floor registers: As a result; tha cabin temperature will vary according to the position of the cabin-heat control valves, whether or not the air conditioner is operating:
+When the CABIN TEMP MODE selector is in the MAN HEAT or MAN COOL position, regulation of the cabin temperature is accomplished manually by momentarily holding the MANUAL TEMP switch to either the INCR or DECR position as desired. When released, this switch will return to the center (no change) position. Moving this switch to the INCR or DECR position results in modulation of the cabin-heat control valves in the bleed air lines. Allow approximately 30 seconds per valve (1 minute total time) for the valves to move to the fully open or fully closed position. Only
 
-The aft blower is intended tor use only when maximum cabin cooling (air conditionirg) is desired: If the blower should be tured on dura heating mode of operation, the door between the aftThis will stop the fow of heated air t0 the att floor registers, and deliver recirculated cabin air (which is not cooled, since refrigerant is not flowing through the aft evaporator) to te aft foor registers and celling outlets: ing
+*(7-47)*
 
-When the CABIN TEMP MODE selector is in the MAN COOL position, the air conditioner System will oparate, pro- Both blower circuit breakers are located in the DC power distribution panel in the lower forward equipment bay:
+one valve at a time moves. Movement of these valves varies the amount of bleed air routed through the air-to-air heat exchanger. Consequently, the temperature of the incoming bleed air will vary. This bleed air mixes with recirculated cabin air (which will be air-conditioned if the refrigeration system is operating) in the mixing plenum, and is then ducted to the floor registers. As a result, the cabin temperature will vary according to the position of the cabin-heat control valves, whether or not the air conditioner is operating.
+
+When the CABIN TEMP MODE selector is in the MAN COOL position, the air conditioner system will operate, provided the speed of the right engine is above 60% N1.
 
 ## NOTE
 
-Tha air conditioner compressor will not operate unless the cabin-heat control valves are closed To ensure that the valves are closed, hold tha MANUAL TEMPerature switch in tha DECRease position for one minute.
+The air conditioner compressor will not operate unless the cabin-heat control valves are closed. To ensure that the valves are closed, hold the MANUAL TEMPerature switch in the DECRease position for one minute.
 
 ## BLEED AIR CONTROL
 
-Bleed air entering the cabin is controlled by the switches placarded BLEED AIR VALVE LEFT OPEN RIGHT EMR OFF INSTR &amp; ENIR OFF. When the switch is in the OPEN position, the environmental fow control unit &amp;nd the pneumatic instrument air valve are open: When the switch is in the ENVIR OFF position; the environmental fow control unit is closed and the pneumatic instument air vaive closed. For maximum cooling on the ground, tum the bleed air valve switches t0 the ENVIR OFF position:
+Bleed air entering the cabin is controlled by the switches placarded BLEED AIR VALVE - LEFT - OPEN - RIGHT - ENVIR OFF - INSTR & ENVIR OFF. When the switch is in the OPEN position, the environmental flow control unit and the pneumatic instrument air valve are open. When the switch is in the ENVIR OFF position, the environmental flow control unit is closed and the pneumatic instrument air valve is open; in the INSTR & ENVIR OFF position, both are closed. For maximum cooling on the ground, turn the bleed air valve switches to the ENVIR OFF position.
 
 ## VENT BLOWER CONTROL
 
-The forward vent blower is controlled by a switch in the ENVIRONMENTAL group placarded VENT BLOWER Hi LO AUTO. When this switch is in the AUTO position, the forward vent blower will operate at low speed if the CABIN TEMP MODE selector switch is in any position other than
+The forward vent blower is controlled by a switch in the ENVIRONMENTAL group placarded VENT BLOWER - HI - LO - AUTO. When this switch is in the AUTO position, the forward vent blower will operate at low speed if the CABIN TEMP MODE selector switch is in any position other than OFF (i.e., MANUAL COOL, MANUAL HEAT, or AUTOMATIC).
 
-When the VENT BLOWER switch is in the AUTO position and the CABIN TEMP MODE selector switch is in the OFF not  operate: Anytime the VENT BLOWER switch is in the LO position; the fonward vent MODE selector switch is OFF. Anytime the VENT BLOWER switch is in the Hl position; the fonward vent blower will oper ate at high speed, regardless of the pasition of the CABIN TEMP MODE selector switch (i.0., MAN COOL MAN HEAT, OFF, or AUTO):
+When the VENT BLOWER switch is in the AUTO position and the CABIN TEMP MODE selector switch is in the OFF position, the blower will not operate. Anytime the VENT BLOWER switch is in the LO position, the forward vent blower will operate at low speed, even if the CABIN TEMP MODE selector switch is OFF. Anytime the VENT BLOWER switch is in the HI position, the forward vent blower will operate at high speed, regardless of the position of the CABIN TEMP MODE selector switch (i.e., MAN COOL, MAN HEAT, OFF, or AUTO).
 
-If the optional aft evaporator unit is installed in the air conditioning System, an aft blower is also installed under the foor.
+If the optional aft evaporator unit is installed in the air conditioning system, an aft blower is also installed under the floor.
 
-The aft blower draws in cabin air, blows it across the aft evaporator, and to the aft floor and ceiling outlets: This blower operates at high speed only: It is controlled by a switch placarded AFT BLOWER RONMENTAL group on the copilots subpanel, The blower
+The aft blower draws in cabin air, blows it across the aft evaporator, and to the aft floor and ceiling outlets. This blower operates at high speed only. It is controlled by a switch placarded AFT BLOWER - OFF, located in the ENVIRONMENTAL group on the copilot's subpanel. The blower is independent of any other control. The aft blower is intended for use only when maximum cabin cooling (air conditioning) is desired. If the blower should be turned on during a heating mode of operation, the door between the aft blower duct and the warm-air (floor-outlet) duct will open. This will stop the flow of heated air to the aft floor registers, and deliver recirculated cabin air (which is not cooled, since refrigerant is not flowing through the aft evaporator) to the aft floor registers and ceiling outlets.
+
+Both blower circuit breakers are located in the DC power distribution panel in the lower forward equipment bay.
 
 ## OXYGEN SYSTEM
 
-an adequate oxygen flOw for a pressure altitude of 35,000 feet  The masks and Oxygen Duration Chart, Secton IV, NORMAL PROCEDURES, are based 0n a fOw rata of 3.9 Liters Per Minute (LPM-NTPD}  The only exception is the diluter-demand crew mask For oxygen duration computation, &amp;ach diluter-demand mask used is counted as two masks at 3.9 LPM-NTPD: At cabin altitudes above 20,000 feet, SELECT 100% MODE: being
+The Super King Air B200/B200C oxygen system is based on an adequate oxygen flow for a pressure altitude of 35,000 feet. The masks and Oxygen Duration Chart, Section IV, NORMAL PROCEDURES, are based on a flow rate of 3.9 Liters Per Minute (LPM-NTPD). The only exception is the diluter-demand crew mask. For oxygen duration computation, each diluter-demand mask being used is counted as two masks at 3.9 LPM-NTPD. At cabin altitudes above 20,000 feet, SELECT 100% MODE.
 
-pushlpull handle (PULL ON SYStem READY), located with the automatically deployed passenger oxygen System. unpressurized area Of the fuselage: When this handle is pushed in, no oxygen supply is available anywhere in the airplane: #t should be pulled out prior to engine starting t0 ensure that oxygen will be immediately available anytime it gen supply line is charged with oxygen, provided the oxygen supply bottle is not empty (Check the oxygen supply presoxygen is available for the flight): The primary oxygen SUpply line delivers oxygen to the two crew oxygen outlets in the cockpit; to the first aid oxygen outlet in tha toilet area, &amp;nd to the passenger oxygen system shutoff valve:
+A push/pull handle (PULL ON - SYStem READY), located aft of the overhead light control panel, is used in conjunction with the automatically deployed passenger oxygen system. This handle operates a cable which opens and closes the shut-off valve located at the oxygen supply bottle in the aft, unpressurized area of the fuselage. When this handle is pushed in, no oxygen supply is available anywhere in the airplane. It should be pulled out prior to engine starting to ensure that oxygen will be immediately available anytime it is needed. When this handle is pulled out, the primary oxygen supply line is charged with oxygen, provided the oxygen supply bottle is not empty (Check the oxygen supply pressure gage on the right subpanel and verify that sufficient oxygen is available for the flight). The primary oxygen supply line delivers oxygen to the two crew oxygen outlets in the cockpit, to the first aid oxygen outlet in the toilet area, and to the passenger oxygen system shutoff valve.
 
-The crew is provided with diluter-demand, quick-donning oxygen masks: These masks hang on the att cockpit partition behind and outboard of the pilot &amp;nd copilot seats: are held in the amed position by spring-tension clips; and can be donned immediately with one hand: Tha diluterdemand crew masks deliver oxygen to the user only upon inhalation Consequently, there is no loss of oxygen when the masks are plugged in and the PULL ON SYStem READY handle is pulled out, even though oxygen is immediately available upon demand They
+The crew is provided with diluter-demand, quick-donning oxygen masks. These masks hang on the aft cockpit partition behind and outboard of the pilot and copilot seats. They are held in the armed position by spring-tension clips, and can be donned immediately with one hand. The diluter-demand crew masks deliver oxygen to the user only upon inhalation. Consequently, there is no loss of oxygen when the masks are plugged in and the PULL - ON - SYStem READY handle is pulled out, even though oxygen is immediately available upon demand.
 
-small lever on each diluter-demand oxygen mask perits the selection of two modes of operation: NORMAL ad 100% \_ In the NORMAL position, air from the cockpit is reduces the rate of depletion of the oxygen supply, and it is more comtortable t0 use than 10O% avators breathing oxygen: However, in the event %f smoke or fumes in the cockpit; the 100% pasition should be used to prevent the breathing of contaminated air: For this reason, the selector lever should be left in the 100% position when the masks are not Anytime the primary oxygen supply line is charged, oxygen can be obtained from the first aid oxygen mask located in the toilet area by manually opening the overhead access door (placarded FIRST AID OXYGEN PULL) and opening the ON-OFF valve inside the box A placard (NOTE: CREW SYStem MUST BE ON) reminds the user that the PULL ON SYStem READY handle in the cockpit must be pulled out before oxygen will flow trom the first aid oxygen mask;
+A small lever on each diluter-demand oxygen mask permits the selection of two modes of operation: NORMAL and 100%. In the NORMAL position, air from the cockpit is mixed with the oxygen supplied through the mask. This reduces the rate of depletion of the oxygen supply, and it is
 
-The passenger oxygen system is of the constant fOw type. Anytime the cabin pressure altitude exceeds approxmately 12,500 feet; a barometric-pressure switch automatically energizes a solenoid which opens the passenger oxygen anytime by pulling out the PASSENGER MANUAL OverRIDE handle; located att of the overtead light control panel Once the passenger oxygen system shut-Off valve has been opened (either automatically or manually); oxygen will flow into the passenger oxygen supply line, if the primary xygen if the oxygen supply bottle contains oxygen and the PULL ON SYStem READY handle in the cockpit is pulled out): When oxygen flows into the passenger oxygen system  supply a pressuresensitive switch in the line closes a circuit to illuminate the green PASS OXYGEN ON annunciator on the cautionaryl advisory annunciator panel. This switch will also cause the cabin lights (all fluorescent lights, the foyer light and the center baggage compartment light) to illuminate in the full switch placarded CABIN UGHTS START BrIGHT DIM OFF located on the copilots left subpanel line, The pressure of the oxygen in the passenger oxygen system supply line then automatically extends a plunger against each of the passenger oxygen mask dispenser doors, torcmasks then drop down about inches below the dispensers: The lanyard valve pin at the top of the oxygen mask hose must be pulled out in order for oxygen to ilow from the mask The pin is connected to the oxygen mask via a fexible cord; when tha oxygen mask is pulled down for Use, the cord pulls the pin out Of the lanyard vatve. The lanyard valve pin must be manually reinserted into the valve in Order t0 stop the flow of oxygen when the mask is no longer needed  The passenger oxygen can be shut off and the remaining oxygen isolated t0 the crew &amp;nd first aid outlets by pulling the OXYGEN CONTROL circuit breaker in the ENIRONMENTAL group on te right side panel, providing te PASSENGER MANUAL ORIDE handle is pushed in to the OFF position:
+*(7-48)*
+
+more comfortable to use than 100% aviators breathing oxygen. However, in the event of smoke or fumes in the cockpit, the 100% position should be used to prevent the breathing of contaminated air. For this reason, the selector lever should be left in the 100% position when the masks are not in use.
+
+Anytime the primary oxygen supply line is charged, oxygen can be obtained from the first aid oxygen mask located in the toilet area, by manually opening the overhead access door (placarded FIRST AID OXYGEN - PULL) and opening the ON-OFF valve inside the box. A placard (NOTE: CREW SYStem MUST BE ON) reminds the user that the PULL ON - SYStem READY handle in the cockpit must be pulled out before oxygen will flow from the first aid oxygen mask.
+
+The passenger oxygen system is of the constant flow type. Anytime the cabin pressure altitude exceeds approximately 12,500 feet, a barometric-pressure switch automatically energizes a solenoid which opens the passenger oxygen system shut-off valve. The pilot can open the valve manually anytime by pulling out the PASSENGER MANUAL OverRIDE handle, located aft of the overhead light control panel. Once the passenger oxygen system shut-off valve has been opened (either automatically or manually), oxygen will flow into the passenger oxygen supply line, if the primary oxygen system line has been charged (i.e., if the oxygen supply bottle contains oxygen and the PULL ON - SYStem READY handle in the cockpit is pulled out). When oxygen flows into the passenger oxygen system supply line, a pressure-sensitive switch in the line closes a circuit to illuminate the green PASS OXYGEN ON annunciator on the cautionary/advisory annunciator panel. This switch will also cause the cabin lights (all fluorescent lights, the foyer light and the center baggage compartment light) to illuminate in the full right mode, regardless of the position of the interior lights switch placarded CABIN LIGHTS - START BRIGHT - DIM - OFF located on the copilot's left subpanel.
+
+The pressure of the oxygen in the passenger oxygen system supply line then automatically extends a plunger against each of the passenger oxygen mask dispenser doors, forcing the doors open. The oxygen masks then drop down about 9 inches below the dispensers. The lanyard valve pin at the top of the oxygen mask hose must be pulled out in order for oxygen to flow from the mask. The pin is connected to the oxygen mask via a flexible cord; when the oxygen mask is pulled down for use, the cord pulls the pin out of the lanyard valve. The lanyard valve pin must be manually reinserted into the valve in order to stop the flow of oxygen when the mask is no longer needed. The passenger oxygen can be shut off and the remaining oxygen isolated to the crew and first aid outlets by pulling the OXYGEN CONTROL circuit breaker in the ENVIRONMENTAL group on the right side panel, providing the PASSENGER MANUAL O'RIDE handle is pushed in to the OFF position.
+
+*(7-49)*
 
 ![Image](KA-200-B200-POH_imagens/p00335_01.png)
 
-200-341.19
+*Figura: B200 OXYGEN SYSTEM SCHEMATIC (200-341-19) — esquema do sistema de oxigênio do B200, com o annunciator "ALT WARN", o annunciator "PASS OXY ON", o gage de oxigênio do cockpit, o interruptor de pressão barométrica ligado eletricamente ao annunciator "ALT WARN" e ao disjuntor do barramento de energia, as máscaras da tripulação, o PASSENGER MANUAL OVERRIDE, a alça PULL ON - SYSTEM READY, as tomadas de oxigênio para as máscaras diluter-demand do piloto e do copiloto, as máscaras de oxigênio (2) e recipientes com acionamento automático (típico 5 lugares), a máscara de primeiros socorros acondicionada em caixa de operação manual, o alívio externo de alta pressão, a válvula de enchimento, o cilindro de oxigênio, o regulador de pressão e a válvula de corte, e os detalhes VIEW A e VIEW B. Apenas ilustração; não transcrita.*
 
-B200 OXYGEN SYSTEM SCHEMATIC
+*(7-50)*
 
 ![Image](KA-200-B200-POH_imagens/p00336_01.png)
 
+*Figura: B200C OXYGEN SYSTEM SCHEMATIC (200-341-18) — esquema do sistema de oxigênio do B200C, com o annunciator "ALT WARN", a luz annunciadora "PASS OXY ON", o gage de oxigênio do cockpit, o interruptor de pressão barométrica ligado eletricamente ao annunciator "ALT WARN" e ao disjuntor do barramento de energia, as máscaras da tripulação, o PASSENGER MANUAL OVERRIDE, a alça PULL ON - SYSTEM READY, as máscaras de oxigênio (3) e recipientes com acionamento automático (típico 3 lugares), o cabo de controle, a máscara de primeiros socorros acondicionada em caixa de operação manual, o painel traseiro pressurizado, o alívio externo de alta pressão, o cilindro de oxigênio, o regulador de pressão e a válvula de corte, a linha de alta pressão, a linha de baixa pressão, o cabo, e os detalhes VIEW A e VIEW B. Apenas ilustração; não transcrita.*
+
+*(7-51)*
+
 ## PITOT AND STATIC SYSTEM
 
-The pitot and static system provides a source of impact air and static air for Operation of the flight instruments. A heated pitot mast is located t0 each side of the lower portion of the nose: Tubing from the left pitot mast is connected to the pilot's airspeed indicator, &amp;nd tubing the right pitot mast is connected t0 the copilots airspeed indicator. trom
+The pitot and static system provides a source of impact air and static air for operation of the flight instruments. A heated pitot mast is located to each side of the lower portion of the nose. Tubing from the left pitot mast is connected to the pilot's airspeed indicator, and tubing from the right pitot mast is connected to the copilot's airspeed indicator.
 
-The normal static system provides two separate sources of static air one for the pilots fight instruments, &amp;nd one for the copilots. Each of the normal static air lines opens to the atosphere through two static air ports one on each side Of the fuselage.
+The normal static system provides two separate sources of static air - one for the pilot's flight instruments, and one for the copilot's. Each of the normal static air lines opens to the atmosphere through two static air ports - one on each side of the fuselage.
 
-An attemate static air Iine is also provided for the pilots iight Static air source (e.g, if ice accumulations should obstruct the static air ports) , the alterate source should be selected by lifting the spring-clip retainer off the PILOT'S STATIC AIR SOURCE valve handle, located on tha right side panel, and moving the handle aft t0 the ALTERNATE position: This will connect the alternate static air line t0 the pilots fight instruments. The altemate line obtains static air just alt of the rear pressure bulkhead, from inside the unpressurized area of the fuselage.
+An alternate static air line is also provided for the pilot's flight instruments. In the event of a failure of the pilot's normal static air source (e.g., if ice accumulations should obstruct the static air ports), the alternate source should be selected by lifting the spring-clip retainer off the PILOT'S STATIC AIR SOURCE valve handle, located on the right side panel, and moving the handle aft to the ALTERNATE position. This will connect the alternate static air line to the pilot's flight instruments. The alternate line obtains static air just aft of the rear pressure bulkhead, from inside the unpressurized area of the fuselage.
 
-The pilots aitimeter, vertical speed indicator, and airspeed indicator are connected to tho pilots Static air source. When the system is switched to the pilots altemate air source, the pilots altimeter &amp;nd vertical speed indicator are affected as well as tha pilots airspeed indicator. The copilot's airspeed indicator, altimeter, &amp;nd vertical speed indicator are all on the copilots static air source and cannot be swtched to altemate source\_ See SCHEMATIC DIAGRAM of PITOT AND STATIC SYSTEM
+The pilot's altimeter, vertical speed indicator, and airspeed indicator are connected to the pilot's static air source. When the system is switched to the pilot's alternate air source, the pilot's altimeter and vertical speed indicator are affected as well as the pilot's airspeed indicator. The copilot's airspeed indicator, altimeter, and vertical speed indicator are all on the copilot's static air source and cannot be switched to alternate source. See SCHEMATIC DIAGRAM of PITOT AND STATIC SYSTEM.
+
+**WARNING**
+
+The pilot's airspeed and altimeter indications change when the alternate static air source is in use. Refer to the Airspeed Calibration - Alternate System, and the Altimeter Correction - Alternate System graph in Section V, PERFORMANCE for operation when the alternate static air source is in use.
 
 ![Image](KA-200-B200-POH_imagens/p00337_01.png)
 
-The pilot's airspeed and altimeter indications change when the alternate static air source is Refer to the Airspeed Calibration Atternate System, &amp;nd the Altimeter Cortection Atemate System graph in Section V, PERFORMANCE tor operation when the alterate static air source is in USB.
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
 
-When the altemate static air source is not needed, ensure that the PILOTS STATIC AR SOURCE valve handle is held in the forward (NORMAL) position by the spring-clip retainer:
+When the alternate static air source is not needed, ensure that the PILOT'S STATIC AIR SOURCE valve handle is held in the forward (NORMAL) position by the spring-clip retainer.
 
-Three petcocks are provided to facilitate draining moisture from the static air lines: They are located behind an access cover below the circuit breakers on the right side panel: The drain vatves should be opened to release any trapped moismust be closed atter draining:
+Three petcocks are provided to facilitate draining moisture from the static air lines. They are located behind an access cover below the circuit breakers on the right side panel. The drain valves should be opened to release any trapped moisture at each 150-hour inspection, and after exposure to visible moisture on the ground. They must be closed after draining.
+
+*(7-52)*
 
 ![Image](KA-200-B200-POH_imagens/p00338_01.png)
 
-## ENGINE BLEED AiR PNEUMATIC SYSTEM
+*Figura: PITOT AND STATIC SYSTEM SCHEMATIC (B200T-394-18) — esquema com o pitot do piloto, as linhas para os instrumentos do piloto e do copiloto, o ar estático alternativo do piloto, o ar estático do piloto e o ar estático do copiloto, as três válvulas de drenagem, e o DETAIL A com a válvula de controle da fonte de ar estático do piloto (NORMAL/ALTERNATE) e a observação "SEE FLIGHT MANUAL PERFORMANCE SECTION FOR INSTR CAL ERROR", com a nota "NOTE: ALTIMETERS AND VERTICAL INDICATORS OMITTED FROM THIS VIEW FOR CLARITY". Apenas ilustração; não transcrita.*
 
-High-pressure bleed air trom each engine compressor, routed through the firewall shutoff valves and regulated at 18 psi, supplies pressure for surface deice system and vacuum source. Vacuum for the flight instruments is derived from a bleed air ejector: One engine can supply sufficient bleed air for all these systems:
+*(7-53)*
 
-During single-engine operation, a check valve in the bleed air line from each engine prevents flow back through the line on the side of the inoperative engine. A suction gage calibrated in inches of mercury, located on the copilots panel, indicates instrument vacuum. To the right of the suCtion gage is a pneumatic pressure gage, calibrated in pounds per square inch, wich indicates air pressure available to the deice distributor valve sub-
+## ENGINE BLEED AIR PNEUMATIC SYSTEM
 
-Refer to the Pneumatic Bleed Air and Surtace Deice System Schematic:
+High-pressure bleed air from each engine compressor, routed through the firewall shutoff valves and regulated at 18 psi, supplies pressure for surface deice system and vacuum source. Vacuum for the flight instruments is derived from a bleed air ejector. One engine can supply sufficient bleed air for all these systems.
+
+During single-engine operation, a check valve in the bleed air line from each engine prevents flow back through the line on the side of the inoperative engine. A suction gage calibrated in inches of mercury, located on the copilot's subpanel, indicates instrument vacuum. To the right of the suction gage is a pneumatic pressure gage, calibrated in pounds per square inch, which indicates air pressure available to the deice distributor valve.
+
+Refer to the Pneumatic Bleed Air and Surface Deice System Schematic.
 
 ## BLEED AIR WARNING SYSTEM
 
-The bleed air lines from the engines to the cabin are shielded with insulation to protect other components trom heat: Heat is also dissipated in the air-to-air heat exchanger in the center wing section. The bleed air lines are accompanied in close proximity by plastic tubing from the engines to ply the line with pressure Excessive heat on the plastic tubing caused by a ruptured bleed air line will cause the open switch in the located under the copilot's floor in the fuselage, will close, causing a circuit to be completed to the respective BL AIR FAIL light in the warning annunciator panel. When the indication of bleed air line failure becomes evident, the bleed air for that side should be turned off by placing the respective lever-lock BLEED AIR VALVE switch on the copilot's subpanel in the INSTR &amp; ENVIR - OFF position: tubing line,
+The bleed air lines from the engines to the cabin are shielded with insulation to protect other components from heat. Heat is also dissipated in the air-to-air heat exchanger in the center wing section. The bleed air lines are accompanied in close proximity by plastic tubing from the engines to the cabin. One end of the tubing is plugged off; the other end is connected to a bleed air source in the cabin, to supply the line with pressure. Excessive heat on the plastic tubing caused by a ruptured bleed air line will cause the tubing to fail. Upon release of pressure in the tubing, a normally open switch in the line, located under the copilot's floor in the fuselage, will close, causing a circuit to be completed to the respective BL AIR FAIL light in the warning annunciator panel. When the indication of bleed air line failure becomes evident, the bleed air for that side should be turned off by placing the respective lever-lock BLEED AIR VALVE switch on the copilot's subpanel in the INSTR & ENVIR - OFF position.
 
 ## AUTOMATIC DEVICES IN THE CONTROL SYSTEM
 
-## YAW DAMP
+### YAW DAMP
 
-yaw damp is provided to aid the pilot in maintaining directional control, and to increase ride comfort: The System may be used at any altitude, and is required for flight landing: system
+A yaw damp system is provided to aid the pilot in maintaining directional control, and to increase ride comfort. The system may be used at any altitude, and is required for flight above 17,000 feet. It should be deactivated for takeoff and landing.
 
-If the system is equipped with an autopilot, the yaw damp system will be a part of the autopilot. Operating instructions for this system will be contained in the appropriate Airplane Flight Manual Supplement
+If the system is equipped with an autopilot, the yaw damp system will be a part of the autopilot. Operating instructions for this system will be contained in the appropriate Airplane Flight Manual Supplement.
 
-If an autopilot is not installed in the airplane, yaw damping is provided by an independent yaw damp system. The components include a yaw sensor, amplifier , and control valve\_ Regulated air pressure from the control valve is directed to the same pneumatic servos used for the rudder boost system; The system (on airplanes without an autopilot) is controlled by a YAW DAMP switch adjacent to the RUDDER BOOST switch on the pedestal. In the event the YAW ing,  the circuit for the yaw damping system will be interrupted by the left landing gear safety switch while the airplane is on the ground, rendering it inoperative.
+If an autopilot is not installed in the airplane, yaw damping is provided by an independent yaw damp system. The components include a yaw sensor, amplifier, and control valve. Regulated air pressure from the control valve is directed to the same pneumatic servos used for the rudder boost system. The system (on airplanes without an autopilot) is controlled by a YAW DAMP switch adjacent to the RUDDER BOOST switch on the pedestal. In the event the YAW DAMP switch is inadvertently left ON during takeoff or landing, the circuit for the yaw damping system will be interrupted by the left landing gear safety switch while the airplane is on the ground, rendering it inoperative.
 
 ## STALL WARNING SYSTEM
 
-The stall warning system consists of a transducer; a lift computer, a warning horn, and a test switch. Angle of attack is sensed by aerodynamic pressure on the lift transducer vane located on the left wing leading edge When a stall is imminent;, the output of the transducer activates a stall warning horn:
+The stall warning system consists of a transducer, a lift computer, a warning horn, and a test switch. Angle of attack is sensed by aerodynamic pressure on the lift transducer vane located on the left wing leading edge. When a stall is imminent, the output of the transducer activates a stall warning horn.
 
-The system has preflight capability through the the use of a switch placarded STALL WARN TEST OFF on the copiHolding this switch in the TEST position activates the warning horn:
+The system has preflight capability through the use of a switch placarded STALL WARN - TEST - OFF on the copilot's left subpanel. Holding this switch in the TEST position activates the warning horn.
 
 ## ICE PROTECTION SYSTEMS
 
-## WINDSHIELD HEAT
+### WINDSHIELD HEAT
 
-Windshield heat switches are located on the pilot's subpanel (inboard) and are placarded ICE WSHLD ANTI-ICE - NORMAL OFF PILOT COPILOT.
+Windshield heat switches are located on the pilot's subpanel (inboard) and are placarded ICE - WSHLD ANTI-ICE - NORMAL - OFF - HI - PILOT - COPILOT.
 
-Two levels of heat are provided. When the switches are in the NORMAL (up) position  heat is supplied to the major portion of the windshields When are in the HI (down) position, a higher level of heat is supplied to a smaller area of the windshields Each switch must be lifted over a detent when moving the switches from NORMAL to the OFF (center) position: they
+Two levels of heat are provided. When the switches are in the NORMAL (up) position, heat is supplied to the major portion of the windshields. When they are in the HI (down) position, a higher level of heat is supplied to a smaller area of the windshields. Each switch must be lifted over a detent before it can be moved into the HI position. This lever-lock feature prevents inadvertent selection of the HI position when moving the switches from NORMAL to the OFF (center) position.
 
-Controllers with temperature-sensing units   provide for proper heat at the windshield surtaces: Five-ampere circuit breakers, located on a panel on the forward pressure bulk - head, protect the control circuits: The power circuit of each system is protected by &amp; 50-ampere circuit breaker located in the power distribution panel under the floor forward of the main spar.
+Controllers with temperature-sensing units provide for proper heat at the windshield surfaces. Five-ampere circuit breakers, located on a panel on the forward pressure bulkhead, protect the control circuits. The power circuit of each system is protected by a 50-ampere circuit breaker located in the power distribution panel under the floor forward of the main spar.
 
 ## NOTE
 
-Erratic operation of the magnetic compass may occur while windshield heat is used: being
+Erratic operation of the magnetic compass may occur while windshield heat is being used.
 
 ## PROPELLER ELECTRIC DEICE SYSTEM
 
 ## PRIOR TO BB-829, AND PRIOR TO BL-37:
 
-The propeller electric deice system includes: an electrically heated boot with two elements, (inner and outer) for each propeller blade, brush assemblies; slip rings; an ammeter\_ a timer for automatic operation, and a circuit tor manual control for backup:
+The propeller electric deice system includes: an electrically heated boot with two elements, (inner and outer) for each
 
-A 20-ampere circuit breaker switch on the pilots subpanel, placarded PROP AUTO OFF, is provided to activate the automatic system: A deice ammeter on the right subpanel registers the amount of current (14 to 18 amperes) passing through the system being used. During AUTO operation, power to the timer will be cut Off it the current rises above the circuit breaker switch rating: Current flows from the timer to the brush assembly and then to the slip rings installed on the spinner backing plate. The slip rings carry the current to tha deice boots on the propeller blades  Heat from the boots reduces the grip of the ice, which is then thrown off by centrifugal torce aided by the air blast over the propeller surfaces Power to the two heating elements on each blade; the inner and outer element; is cycled by the timer in the following sequence: right propeller outer elements, right propeller inner elements; left propeller outer elements, and leit propeldoes not mean that the entire system will be inoperative.
+*(7-54)*
 
-Proper operation can be checked by noting the correct level of current usage on the ammeter. An intermittent flicker of the needle  approximately every 30 seconds indicates switching to the next group of heating elements by the timer,
+propeller blade, brush assemblies, slip rings, an ammeter, a timer for automatic operation, and a circuit for manual control for backup.
 
-The manual prop deice is provided as a backup to the automatic system: A control switch located on the left subpanel, placarded PROP INNER OUTER, controls the manual override relays. When the switch is in the OUTER position, the automatic timer is overridden and power is sUpplied to the outer elements of both  propellers   simultaneouslyThe switch is of the momentary type and must be held in position until the ice has been dislodged from the propeller surface: After deicing with the outer elements, the switch must be held in the INNER position to perform the same function for the inner elements of both propellers: The loadmeters will indicate approximately a .05 increase of load deice ammeter will not indicate any load in the manual mode of operation. system
+A 20-ampere circuit breaker switch on the pilot's subpanel, placarded PROP - AUTO - OFF, is provided to activate the automatic system. A deice ammeter on the right subpanel registers the amount of current (14 to 18 amperes) passing through the system being used. During AUTO operation, power to the timer will be cut off if the current rises above the circuit breaker switch rating. Current flows from the timer to the brush assembly and then to the slip rings installed on the spinner backing plate. The slip rings carry the current to the deice boots on the propeller blades. Heat from the boots reduces the grip of the ice, which is then thrown off by centrifugal force aided by the air blast over the propeller surfaces. Power to the two heating elements on each blade, the inner and outer element, is cycled by the timer in the following sequence: right propeller outer elements, right propeller inner elements, left propeller outer elements, and left propeller inner elements. Loss of one heating element on one side does not mean that the entire system will be inoperative.
+
+Proper operation can be checked by noting the correct level of current usage on the ammeter. An intermittent flicker of the needle approximately every 30 seconds indicates switching to the next group of heating elements by the timer.
+
+The manual prop deice system is provided as a backup to the automatic system. A control switch located on the left subpanel, placarded PROP - INNER - OUTER, controls the manual override relays. When the switch is in the OUTER position, the automatic timer is overridden and power is supplied to the outer elements of both propellers simultaneously. The switch is of the momentary type and must be held in position until the ice has been dislodged from the propeller surface. After deicing with the outer elements, the switch must be held in the INNER position to perform the same function for the inner elements of both propellers. The loadmeters will indicate approximately a .05 increase of load per meter when manual prop deice is operating. The prop deice ammeter will not indicate any load in the manual mode of operation.
 
 ## BB-829 AND AFTER, BL-37 AND AFTER:
 
-The propeller electric deice system includes: electrically heated deice boots, slip rings and brush block assemblies, a timer for automatic operation, an ammeter, three circuit breakers located on the fuel control panel for left and right propeller and control  circuit  protection, and two switches located on the pilot's subpanel for automatic or manual control of the system.
+The propeller electric deice system includes: electrically heated deice boots, slip rings and brush block assemblies, a timer for automatic operation, an ammeter, three circuit breakers located on the fuel control panel for left and right propeller and control circuit protection, and two switches located on the pilot's subpanel for automatic or manual control of the system.
 
-A circuit breaker switch located on the pilot's subpanel, placarded PROP AUTO OFF, is provided to activate the autothe timer diverts power through the brush block and slip ring to all heating elements on one propeller. Subsequently, the timer then diverts power to all heating elements on tne other propeller for the same length of time: This cycle will continue as long as the switch is in the AUTO position  The system utilizes &amp; metal foil type single element energized by DC voltage. The timer switches every 90 seconds, resulting in a complete cycle in approximately 3 minutes: heating
+A circuit breaker switch located on the pilot's subpanel, placarded PROP - AUTO - OFF, is provided to activate the automatic system. Upon placing the switch to the AUTO position, the timer diverts power through the brush block and slip ring to all heating elements on one propeller. Subsequently, the timer then diverts power to all heating elements on the other propeller for the same length of time. This cycle will continue as long as the switch is in the AUTO position. The system utilizes a metal foil type single heating element energized by 28 VDC voltage. The timer switches every 90 seconds, resulting in a complete cycle in approximately 3 minutes.
 
-manual prop deice system is provided as a backup to the automatic system. A control switch located on the left subpanel, placarded PROP MANUAL OFF , controls the manual override relay: Upon placing the switch is in the MANUAL position; the automatic timer is overridden and power is then  supplied to the heating elements of both propellers simultaneously:  This switch is of the momentary type &amp;nd must be held in position for aproximately 90 seconds to dislodge from the propeller surtace: Repeat this procedure as required to avoid significant buildup of ice which will result in loss of performance, vibration, and impingement upon the tuselage. The prop deice ammeter will not indicate a load while the propeller deice system is utilized in the manual mode: However, the loadmeters will indicate an approximate .05 increase of load per meter while the manual prop deice system is operating: being
+The manual prop deice system is provided as a backup to the automatic system. A control switch located on the left subpanel, placarded PROP - MANUAL - OFF, controls the manual override relay. Upon placing the switch is in the MANUAL position, the automatic timer is overridden and power is supplied to the heating elements of both propellers simultaneously. This switch is of the momentary type and must be held in position for aproximately 90 seconds to dislodge from the propeller surface. Repeat this procedure as required to avoid significant buildup of ice which will result in loss of performance, vibration, and impingement upon the fuselage. The prop deice ammeter will not indicate a load while the propeller deice system is being utilized in the manual mode. However, the loadmeters will indicate an approximate .05 increase of load per meter while the manual prop deice system is operating.
+
+Nota do transcritor: o original imprime "aproximately 90 seconds" (com "pr" omitido); transcrito como impresso.
+
+*(7-55)*
 
 ![Image](KA-200-B200-POH_imagens/p00341_01.png)
 
-## PROPELLER ELECTRIC DEICE SYSTEM SCHEMATIC
+*Figura: PROPELLER ELECTRIC DEICE SYSTEM SCHEMATIC (200-251-1) — esquema do sistema de deice com os boots de deice, o interruptor de controle manual/automático, o subpainel, o bloco de escovas, os anéis deslizantes, o amperímetro e shunt da hélice, os disjuntores do circuito de deice da hélice, o temporizador do deice da hélice, os relés e diodos de override manual do deice esquerdo e direito, o painel de controle de combustível e o longarron principal. Apenas ilustração; não transcrita.*
 
 ## PITOT MAST HEAT
 
-Heating elements are installed in the pitot masts located on the nose: Each heating element is controlled by an individual circuit  breaker  switch placarded PITOT LEFT RIGHT , located on the pilot's subpanel. It is not advisable to operate the pitot heat system on the ground except for testing or for short intervals of time to remove ice or snow from the mast
+Heating elements are installed in the pitot masts located on the nose. Each heating element is controlled by an individual circuit breaker switch placarded PITOT - LEFT - RIGHT, located on the pilot's subpanel. It is not advisable to operate the pitot heat system on the ground except for testing or for short intervals of time to remove ice or snow from the mast.
 
 ## SURFACE DEICE SYSTEM
 
-The surace deice system removes ice accumulations from the leading edges of the wings and horizontal stabilizers. Ice removal is accomplished by alternately inflating and defiatthe deice boots. Pressure-regulated bleed air from the engines supplies pressure to inflate the boots: A venturi ejector, operated by bleed air, creates vacuum to deflate the boots and hold them down while not in To assure operation of the system in the event of failure Of one engine, a check valve is incorporated in the bleed air line from each engine to prevent loss of pressure through the compressor of the inoperative engine. Inflation and deflation phases are controlled by a distributor valve: ing
+The surface deice system removes ice accumulations from the leading edges of the wings and horizontal stabilizers. Ice removal is accomplished by alternately inflating and deflating the deice boots. Pressure-regulated bleed air from the engines supplies pressure to inflate the boots. A venturi ejector, operated by bleed air, creates vacuum to deflate the boots and hold them down while not in use. To assure operation of the system in the event of failure of one engine, a check valve is incorporated in the bleed air line from each engine to prevent loss of pressure through the compressor of the inoperative engine. Inflation and deflation phases are controlled by a distributor valve.
+
+**CAUTION**
+
+Operation of the surface deice system in ambient temperatures below -40°C can cause permanent damage to the deice boots.
 
 ![Image](KA-200-B200-POH_imagens/p00341_02.png)
 
-Operation of the surface deice system in ambient  temperatures below -40PC can cause permanent damage t0 the deice boots:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-three-position switch in the ICE group on the pilot's subpanel identified: DEICE CYCLE SINGLE OFF MANUAL, controls the deicing operation  The switch is spring-loaded to retum to the OFF position from SINGLE or MANUAL. When the SINGLE position is selected, the distributor valve opens to inflate the wing boots: After an inflation period of approximately 6 seconds, an electronic timer switches the distributor to deflate the boots, and a 4-second inflation begins in the horizontal stabilizer boots: When these boots have intlated and deflated, the is complete: wing cycle
+A three-position switch in the ICE group on the pilot's subpanel identified: DEICE CYCLE - SINGLE - OFF - MANUAL, controls the deicing operation. The switch is spring-loaded to return to the OFF position from SINGLE or MANUAL. When the SINGLE position is selected, the distributor valve opens to inflate the wing boots. After an inflation period of approximately 6 seconds, an electronic timer switches the distributor to deflate the wing boots, and a 4-second inflation begins in the horizontal stabilizer boots. When these boots have inflated and deflated, the cycle is complete.
 
-When the switch is held in the MANUAL position, all the boots will inflate simultaneously and remain inflated until the switch is released\_ The switch will retum to the OFF position when released. After the cycle, the bots will remain in the vacuum hold-down condition until again actuated by the switch
+When the switch is held in the MANUAL position, all the boots will inflate simultaneously and remain inflated until the switch is released. The switch will return to the OFF position when released. After the cycle, the boots will remain in the vacuum hold-down condition until again actuated by the switch.
 
 ![Image](KA-200-B200-POH_imagens/p00342_01.png)
 

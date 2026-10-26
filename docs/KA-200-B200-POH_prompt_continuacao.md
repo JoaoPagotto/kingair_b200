@@ -6,7 +6,7 @@ Cole o texto abaixo (a partir de "Contexto") como primeira mensagem da nova sess
 
 ## Contexto
 
-Estou revisando a conversão automática (OCR/Docling) de um manual de voo escaneado para Markdown. Repositório `JoaoPagotto/kingair_b200`, branch `claude/relaxed-thompson-9yr78s`, PR https://github.com/JoaoPagotto/kingair_b200/pull/1 (não crie outro PR; novos commits na branch atualizam este).
+Estou revisando a conversão automática (OCR/Docling) de um manual de voo escaneado para Markdown. Repositório `JoaoPagotto/kingair_b200`, branch atual `arena/995a83f5-kingair-b200` (em sessões anteriores foi usada a branch `claude/relaxed-thompson-9yr78s`, PR https://github.com/JoaoPagotto/kingair_b200/pull/1; não crie outro PR nem mude de branch — apenas commit e push na branch atual).
 
 Arquivos em `docs/`:
 - `KA-200-B200-POH.pdf` — manual original (1309 páginas), **escaneado**: o texto embutido é só uma camada de OCR e **não** serve de referência.
@@ -19,8 +19,8 @@ Arquivos em `docs/`:
 ## Tarefa
 
 Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 páginas do PDF**, parando ao fim de cada lote para eu confirmar. (Os lotes 1 a 10 e o lote 11 foram feitos com 25 páginas por lote, quando o volume ainda era suportável; a partir daqui o lote é de 10 páginas.) Estado atual (ver `_controle.md` para o detalhe):
-- **Feito:** págs. 37–331 do PDF (Seções 2 a 7; Seção 7 até a pág. 7-45, ENVIRONMENTAL SYSTEM SCHEMATIC).
-- **Próximo:** lote 14 = págs. **332–341** (continuação da Seção 7: ENVIRONMENTAL CONTROLS, HEATING/COOLING MODE, OXYGEN SYSTEM), sempre em lotes de 10 páginas até 1309 (resto da Seção 7, Seção 8 Manutenção, Seção 9 Suplementos, Seção 10 Segurança).
+- **Feito:** págs. 37–341 do PDF (Seções 2 a 7; Seção 7 até a pág. 7-55, SURFACE DEICE SYSTEM).
+- **Próximo:** lote 15 = págs. **342–351** (continuação da Seção 7: fim do texto do deice de hélice, PNEUMATIC BLEED AIR SYSTEM AND SURFACE DEICE SYSTEM SCHEMATIC, stall warning vane heat etc.), sempre em lotes de 10 páginas até 1309 (resto da Seção 7, Seção 8 Manutenção, Seção 9 Suplementos, Seção 10 Segurança).
 - **Por último:** págs. 1–36 (capa, listas de páginas, logs de revisão, introdução, Seção 1). Uma tentativa anterior foi descartada; nada gravado.
 
 ## Método (siga igual aos lotes anteriores)
@@ -33,7 +33,7 @@ Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 
 6. **Nunca corrija, estime ou interpole um número.** Se um valor impresso parece erro do próprio manual (fora da tendência, total ≠ 2 × por motor, título errado), transcreva exatamente como impresso, escreva "Nota do transcritor" abaixo da tabela e registre em `_controle.md`. Se estiver em dúvida entre dois dígitos, releia em resolução maior e, persistindo, **pare e pergunte**.
 7. Valide cada tabela numérica com script (nº de colunas por linha, totais, tendências) antes de gravar.
 8. Para substituir um trecho do `_corrigido.md`, localize pelo nome da imagem: no `.md` original, o texto de uma página aparece **depois** das tags de imagem dessa página, e páginas só de texto não têm imagem (o texto vem depois da última imagem da página anterior). Confira os limites (primeira e última linha substituída) antes de gravar.
-9. Ao fim de cada lote: atualize `_controle.md` (tabela de cobertura, divergências, itens de conferência), faça `git add` dos dois arquivos, commit com mensagem `POH: batch N (Section X ...; PDF pp. A-B) ...` e `git push -u origin claude/relaxed-thompson-9yr78s`. Depois responda com: o que entrou, divergências impressas, o que eu devo conferir e o que falta.
+9. Ao fim de cada lote: atualize `_controle.md` (tabela de cobertura, divergências, itens de conferência), faça `git add` dos dois arquivos, commit com mensagem `POH: batch N (Section X ...; PDF pp. A-B) ...` e `git push origin arena/995a83f5-kingair-b200`. Depois responda com: o que entrou, divergências impressas, o que eu devo conferir e o que falta.
 
 ## Regras
 
@@ -45,4 +45,4 @@ Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 
 
 ## Primeira ação
 
-Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 14 (págs. 332–341).
+Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 15 (págs. 342–351).

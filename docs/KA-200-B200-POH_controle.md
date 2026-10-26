@@ -5,7 +5,7 @@ Arquivo de acompanhamento da retranscrição do `KA-200-B200-POH_completo.md` (c
 - **Fonte de verdade:** as imagens das páginas de `KA-200-B200-POH.pdf` (1309 páginas). O PDF é escaneado; o texto embutido é uma camada de OCR e **não** serve de referência.
 - **Método:** cada página é renderizada (100–200 dpi) e retranscrita para Markdown, com confirmação do usuário a cada lote. **A partir do lote 12 o lote tem 10 páginas** (os lotes 1 a 11 usaram 25 páginas por lote). Tabelas numéricas são lidas a 200 dpi.
 - **Numeração:** "pág. PDF" é a página do arquivo PDF; "pág. manual" é a numeração impressa (ex.: 5-50).
-- **Pull request:** [JoaoPagotto/kingair_b200#1](https://github.com/JoaoPagotto/kingair_b200/pull/1), branch `claude/relaxed-thompson-9yr78s`.
+- **Branch atual:** `arena/995a83f5-kingair-b200` (commits e push nesta branch; nenhum PR novo). Pull request antigo (sessões anteriores): [JoaoPagotto/kingair_b200#1](https://github.com/JoaoPagotto/kingair_b200/pull/1), branch `claude/relaxed-thompson-9yr78s`.
 
 > Ao concluir cada lote, atualizar a tabela da seção 1, a seção 2 (divergências) e a seção 3 (conferências pendentes).
 
@@ -29,9 +29,10 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 11 | 287–311 | 7-1 a 7-25 | 7 Descrição dos Sistemas (início) | feito | `871d969` |
 | 12 | 312–321 | 7-26 a 7-35 | 7 (synchrophaser TYPE II, lubrificação, partida/ignição, indução, proteção contra gelo, combustível, detecção e extinção de fogo, hélice, sistema elétrico) | feito | `511ba93` |
 | 13 | 322–331 | 7-36 a 7-45 | 7 (iluminação, ambiental, pressurização, flow control units, ventilação, aquecimento, ar-condicionado) | feito | `82f7d79` |
-| 14 em diante | 332–1309 | 7-46 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 332–341, 342–351, …) | — |
+| 14 | 332–341 | 7-46 a 7-55 | 7 (controles ambientais, oxigênio, pitot/estático, sangria de ar, warning de sangria, yaw damp, stall warning, proteção contra gelo, deice de hélice, deice de superfície) | feito | `a preencher` |
+| 15 em diante | 342–1309 | 7-56 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 342–351, 352–361, …) | — |
 
-**Resumo:** págs. 37–331 do PDF feitas (295 de 1309, ≈23%); págs. 332–1309 e 1–36 pendentes. A Seção 7 está transcrita até a pág. 7-45 (ENVIRONMENTAL SYSTEM SCHEMATIC).
+**Resumo:** págs. 37–341 do PDF feitas (305 de 1309, ≈23%); págs. 342–1309 e 1–36 pendentes. A Seção 7 está transcrita até a pág. 7-55 (SURFACE DEICE SYSTEM).
 
 ### Observações sobre o lote 11 (págs. 287–311)
 - Páginas 296 e 297 têm `/Rotate 270` no PDF: renderizadas e giradas antes da leitura.
@@ -52,6 +53,15 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 - Não há páginas giradas neste lote.
 - As colunas foram lidas na ordem esquerda → direita; em 7-40 e 7-41 a figura está no alto da coluna direita, e a imagem foi mantida entre o texto da coluna esquerda e o da direita.
 - A p. 7-36 (schemático elétrico) estava sem legenda no `.md` antigo; foi acrescentada a frase descritiva e o marcador `*(7-36)*`.
+
+### Observações sobre o lote 14 (págs. 332–341)
+- Não há páginas giradas neste lote; as dez páginas foram renderizadas a 250–500 dpi para conferência dos números.
+- Páginas 335, 336, 338 e 341 são só ilustração (B200 e B200C OXYGEN SYSTEM SCHEMATIC, PITOT AND STATIC SYSTEM SCHEMATIC, PROPELLER ELECTRIC DEICE SYSTEM SCHEMATIC); mantidas as imagens com frase descritiva e legenda.
+- Págs. 337 e 341 trazem molduras de WARNING e CAUTION (p00337_01.png, p00341_02.png): texto transcrito e imagens mantidas abaixo do texto.
+- A numeração das listas de HEATING MODE / COOLING MODE (7-46) continua pela quebra de coluna: COOLING MODE começa com o item 1 no fim da coluna esquerda e os itens 2, 3 e 4 estão no alto da coluna direita.
+- A legenda do esquema da p. 7-55 é "PROPELLER ELECTRIC DEICE SYSTEM SCHEMATIC" (200-251-1); o `.md` antigo trazia apenas "PROPELLER ELECTRIC DEICE SYSTEM SCHEMATIC" sem o número do desenho — número acrescentado a partir da imagem.
+- A p. 7-54 tem dois blocos (PRIOR TO BB-829… e BB-829 AND AFTER…); o segundo bloco termina em "This switch is of the momentary type and", continuando na p. 7-56 (lote 15).
+- Suspeita anterior de frase incompleta em 7-53 (BLEED AIR WARNING SYSTEM) foi afastada: a 500 dpi o texto está completo ("…Excessive heat on the plastic tubing caused by a ruptured bleed air line will cause the tubing to fail…").
 
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
@@ -88,6 +98,7 @@ Valores que parecem erro de impressão no próprio manual. Foram **transcritos c
 | 7-41 | FLOW CONTROL UNIT (BB-1180…) | texto | "Three-position toggles switches on the RH subpanel f the flow control valves" | falta uma palavra (provável "control") | transcrito como impresso + Nota do transcritor |
 | 7-44 | RADIANT HEATING (B200C) | texto | "additonal" | "additional" | transcrito como impresso + Nota do transcritor |
 | 7-40/7-42/7-44 | texto | "fireseal", "condensor", "airconditioning" | "fire seal", "condenser", "air conditioning" | transcritos como impressos (grafia do original) |
+| 7-54 | PROP - MANUAL - OFF (BB-829 e posteriores) | texto | "aproximately 90 seconds" | "approximately" | transcrito como impresso + Nota do transcritor |
 
 Checagens automáticas aplicadas às tabelas de cruzeiro e alcance: 12 ou 15 valores por linha e fluxo total = 2 × fluxo por motor (nas tabelas de um motor, igual ao por motor). Na tabela de limites de momento (6-17 e 6-36): momento máximo = peso × 196,4 / 100 e momento mínimo conforme os limites de C.G., sem divergências.
 
@@ -127,6 +138,13 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 | 7-40 | 18 a 20 psi; -30°F; "6 seconds" (coluna esquerda) | flow control unit Thru BB-1179 |
 | 7-41 | "approximately seven seconds" (coluna direita) e "approximately 6 seconds" (7-40) | dois atrasos diferentes no mesmo assunto; conferir |
 | 7-44 | 62% N₁; 33°F; 3 a 5 minutos (7-46) | ar-condicionado |
+| 7-46 | 60% N₁; 30°; 30 segundos por válvula / 1 minuto; 3 a 5 minutos | modo automático e manual da temperatura da cabine |
+| 7-47 | 8 a 16 lb/min; 60% N₁; "MANUAL TEMPerature/DECRease" (grafia do original) | controle ambiental e modo manual |
+| 7-47/7-48 | 35.000 pés; 3.9 LPM-NTPD; 20.000 pés; 12.500 pés; 9 polegadas; "SYStem" (grafia do original) | sistema de oxigênio |
+| 7-51 | Três petcocks; inspeção de 150 horas; drenagem das linhas de ar estático | pitot e estático |
+| 7-53 | 18 psi; 17.000 pés (yaw damp); 50-ampere e five-ampere (windshield heat) | sangria de ar, yaw damp, proteção contra gelo |
+| 7-54 | 14 a 18 amperes; 20-ampere; 30 segundos; 90 segundos; 3 minutos; ".05" de carga | deice elétrico de hélice (dois blocos de série) |
+| 7-55 | 6 segundos; 4 segundos; -40°C (CAUTION) | pitot heat e surface deice |
 
 ## 4. Convenções da transcrição
 
@@ -141,6 +159,6 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 ## 5. Próximos passos
 
 1. ~~Concluir o lote 11 (págs. 287–311)~~ feito.
-2. Lotes seguintes em ordem, de 10 páginas: 332–341, 342–351, … até a pág. 1309, atualizando a seção 1 a cada lote.
+2. Lotes seguintes em ordem, de 10 páginas: 342–351, 352–361, … até a pág. 1309, atualizando a seção 1 a cada lote.
 3. Por último, retranscrever as págs. 1–36 (abertura e Seção 1).
 4. Conferência final: comparar a contagem de páginas cobertas com 1309 e revisar as seções 2 e 3 deste arquivo.
