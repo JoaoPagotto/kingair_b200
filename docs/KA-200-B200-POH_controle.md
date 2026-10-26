@@ -26,10 +26,10 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 8 | 212–236 | 5-88 a 5-112 | 5 Desempenho (alcance, 1 motor) | feito | `495f2d6` |
 | 9 | 237–261 | 5-113 a 6-13 | 5 (fim), 6 Peso e Balanceamento (início) | feito | `56c7a6a` |
 | 10 | 262–286 | 6-14 a 6-38 | 6 Peso e Balanceamento (B200 e B200C) | feito | `92ce9f4` |
-| 11 | 287–296 | 7-1 a 7-10 | 7 Descrição dos Sistemas | **pendente** (lotes passam a ser de 10 páginas; nada gravado) | — |
+| 11 | 287–296 | 7-1 a 7-10 | 7 Descrição dos Sistemas (índice, estrutura, comandos de voo, painel e anunciadores) | feito | (ver commit do lote 11) |
 | 12 em diante | 297–1309 (10 em 10) | 7-11 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** | — |
 
-**Resumo:** págs. 37–286 do PDF feitas (250 de 1309, ≈19%); págs. 1–36 e 287–1309 pendentes.
+**Resumo:** págs. 37–286 do PDF feitas (250 de 1309, ≈19%); págs. 37–296 feitas (260 de 1309, ≈20%); págs. 1–36 e 297–1309 pendentes.
 
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
@@ -60,6 +60,8 @@ Valores que parecem erro de impressão no próprio manual. Foram **transcritos c
 | 6-25 | Dados de carga (B200C) | nota 5 | "SQUARE FOOR" | "SQUARE FOOT" | mantido |
 | 6-19 | Índice do B200C | título | "Baisc Empty Weight" | "Basic" | mantido |
 | 6-1 | Índice da Seção 6 (B200) | "Usable Fuel 6-10" | 6-10 | 6-11 (no corpo, o combustível está na 6-11 e a carga na 6-10) | nota no texto |
+| 7-6 | Sistema de anunciadores | "wil be selected" (wil) | mantido como impresso |
+| 7-5 | Compensador elétrico | "annnciator" | mantido como impresso |
 
 Checagens automáticas aplicadas às tabelas de cruzeiro e alcance: 12 ou 15 valores por linha e fluxo total = 2 × fluxo por motor (nas tabelas de um motor, igual ao por motor). Na tabela de limites de momento (6-17 e 6-36): momento máximo = peso × 196,4 / 100 e momento mínimo conforme os limites de C.G., sem divergências.
 
@@ -81,6 +83,12 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 | 5-84 | Cruzeiro máximo 1800 RPM, ISA -10°C | OAT -1 a 2.000 ft (outras tabelas mostram 1) |
 | 6-11 | Combustível utilizável (4 densidades, 55 linhas) | momentos lidos coluna a coluna |
 | 6-14 a 6-18, 6-26, 6-37 | Formulários e diagramas | só descritos em texto; desenhos não transcritos |
+| 7-1 a 7-3 | Índice da Seção 7 | números de página de cada tópico (84 linhas) | conferir contra o corpo nos lotes seguintes; nenhum numeral foi alterado |
+| 7-8 | Painel de cautela/aviso (ilustração) | posições 6×6 e marcas †, ††, \* | marcas lidas a 200 dpi |
+| 7-10 | Painel de instrumentos | figura girada, só descrita | desenho não transcrito |
+
+### Divergência a confirmar (lido, ainda não gravado — pág. 7-25, lote 12)
+- 7-23: "Maximum continuous speed of the engine is 38,100 rpm, which equals 101.5% N1" (37.500 rpm = 100%) × 7-25: "Maximum continuous gas generator speed is limited to 38,100 rpm or 104.5% N1". 38.100/37.500 ≈ 101,6%. Será transcrito como impresso, com nota do transcritor.
 
 ## 4. Convenções da transcrição
 
@@ -90,6 +98,7 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 - **Páginas "intencionalmente em branco":** aparecem como uma linha em itálico, para preservar a numeração.
 - **Itens de ação imediata (negrito) e itens com "+" ou "\*"** foram preservados como no original.
 - **Travessões:** o original traz "—" e "-"; foram usados os dois conforme legibilidade; o hífen em "5-50" é de numeração de página.
+- **Imagens pequenas do `.md` original** (logos "Beechcraft Super King Air" e ícones CAUTION/WARNING) foram omitidas a partir do lote 11; mantidas só figuras reais.
 - Nenhum valor foi corrigido, estimado ou interpolado sem confirmação do usuário.
 
 ## 5. Próximos passos
