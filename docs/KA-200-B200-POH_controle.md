@@ -28,9 +28,10 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 10 | 262–286 | 6-14 a 6-38 | 6 Peso e Balanceamento (B200 e B200C) | feito | `92ce9f4` |
 | 11 | 287–311 | 7-1 a 7-25 | 7 Descrição dos Sistemas (início) | feito | `871d969` |
 | 12 | 312–321 | 7-26 a 7-35 | 7 (synchrophaser TYPE II, lubrificação, partida/ignição, indução, proteção contra gelo, combustível, detecção e extinção de fogo, hélice, sistema elétrico) | feito | `511ba93` |
-| 13 em diante | 322–1309 | 7-36 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 322–331, 332–341, …) | — |
+| 13 | 322–331 | 7-36 a 7-45 | 7 (iluminação, ambiental, pressurização, flow control units, ventilação, aquecimento, ar-condicionado) | feito | `82f7d79` |
+| 14 em diante | 332–1309 | 7-46 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 332–341, 342–351, …) | — |
 
-**Resumo:** págs. 37–321 do PDF feitas (285 de 1309, ≈22%); págs. 322–1309 e 1–36 pendentes. A Seção 7 está transcrita até a pág. 7-35 (sistema elétrico, EXTERNAL POWER).
+**Resumo:** págs. 37–331 do PDF feitas (295 de 1309, ≈23%); págs. 332–1309 e 1–36 pendentes. A Seção 7 está transcrita até a pág. 7-45 (ENVIRONMENTAL SYSTEM SCHEMATIC).
 
 ### Observações sobre o lote 11 (págs. 287–311)
 - Páginas 296 e 297 têm `/Rotate 270` no PDF: renderizadas e giradas antes da leitura.
@@ -45,6 +46,12 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 - As imagens p00314_01, p00318_01 (molduras de CAUTION) e p00320_01 (cabeçalho Beechcraft) são recortes do conversor; mantidas nas posições de fim de página, como nos lotes anteriores.
 - As colunas de texto foram lidas na ordem coluna esquerda → coluna direita; várias frases passam de uma coluna para a outra (ex.: 7-26, 7-28, 7-32) e foram reunidas.
 - A introdução do ELECTRICAL SYSTEM está no fim da coluna direita da p. 7-34 (não na 7-35).
+
+### Observações sobre o lote 13 (págs. 322–331)
+- Páginas 322, 324, 329 e 331 são só ilustração (ELECTRICAL SYSTEM SCHEMATIC, B200 e B200C ENVIRONMENTAL SYSTEM SCHEMATIC, ENVIRONMENTAL SYSTEM SCHEMATIC com evaporador traseiro opcional); mantidas as imagens com frase descritiva e legenda dos tipos de ar.
+- Não há páginas giradas neste lote.
+- As colunas foram lidas na ordem esquerda → direita; em 7-40 e 7-41 a figura está no alto da coluna direita, e a imagem foi mantida entre o texto da coluna esquerda e o da direita.
+- A p. 7-36 (schemático elétrico) estava sem legenda no `.md` antigo; foi acrescentada a frase descritiva e o marcador `*(7-36)*`.
 
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
@@ -77,6 +84,10 @@ Valores que parecem erro de impressão no próprio manual. Foram **transcritos c
 | 6-1 | Índice da Seção 6 (B200) | "Usable Fuel 6-10" | 6-10 | 6-11 (no corpo, o combustível está na 6-11 e a carga na 6-10) | nota no texto |
 | 7-23 vs 7-25 | Limite de N₁ (38.100 rpm) | texto | "101.5% N₁" (7-23) e "104.5% N₁" (7-25) | 38.100/37.500 = 101,6%, logo 101.5% | transcrito como impresso em cada página + "Nota do transcritor" na 7-25 |
 | 7-35 | BATTERY CHARGE / carga da bateria | texto | "greater than .025" | .25 (provável) | transcrito como impresso; conferido a 600 dpi (impressão legível, sem ambiguidade de dígito) |
+| 7-41 | FLOW CONTROL UNIT (BB-1180…) | texto | "avariable orifice" | "a variable orifice" | transcrito como impresso + Nota do transcritor |
+| 7-41 | FLOW CONTROL UNIT (BB-1180…) | texto | "Three-position toggles switches on the RH subpanel f the flow control valves" | falta uma palavra (provável "control") | transcrito como impresso + Nota do transcritor |
+| 7-44 | RADIANT HEATING (B200C) | texto | "additonal" | "additional" | transcrito como impresso + Nota do transcritor |
+| 7-40/7-42/7-44 | texto | "fireseal", "condensor", "airconditioning" | "fire seal", "condenser", "air conditioning" | transcritos como impressos (grafia do original) |
 
 Checagens automáticas aplicadas às tabelas de cruzeiro e alcance: 12 ou 15 valores por linha e fluxo total = 2 × fluxo por motor (nas tabelas de um motor, igual ao por motor). Na tabela de limites de momento (6-17 e 6-36): momento máximo = peso × 196,4 / 100 e momento mínimo conforme os limites de C.G., sem divergências.
 
@@ -111,6 +122,11 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 | 7-32 | SERIALS BB-734… e SERIALS BB-1096… (bombas standby) | dois textos distintos por faixa de série; conferir a frase repetida "located on the fuel control panel" |
 | 7-34 | Tabela FUEL DRAINS (6 linhas) | localização dos drenos |
 | 7-35 | 1100 A, 300 A, 20% N₁, 325 A, 60/70/50 A, 400 Hz/115 V/26 VAC, 7 A, 1000/300 A | sistema elétrico |
+| 7-37 | 6.5 ± .1 psi; 2800 ft @ 20.000, 8600 ft @ 31.000, 10.400 ft @ 35.000 | pressurização |
+| 7-39 | 8 a 16 lb/min; 0,1 psi; 12.500 ft; -1000 a +15.000 MSL; 50-300 a 2000 ±500 pés/min; 1000 ft e 500 ft | controlador de pressurização |
+| 7-40 | 18 a 20 psi; -30°F; "6 seconds" (coluna esquerda) | flow control unit Thru BB-1179 |
+| 7-41 | "approximately seven seconds" (coluna direita) e "approximately 6 seconds" (7-40) | dois atrasos diferentes no mesmo assunto; conferir |
+| 7-44 | 62% N₁; 33°F; 3 a 5 minutos (7-46) | ar-condicionado |
 
 ## 4. Convenções da transcrição
 
@@ -125,6 +141,6 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 ## 5. Próximos passos
 
 1. ~~Concluir o lote 11 (págs. 287–311)~~ feito.
-2. Lotes seguintes em ordem, de 10 páginas: 322–331, 332–341, … até a pág. 1309, atualizando a seção 1 a cada lote.
+2. Lotes seguintes em ordem, de 10 páginas: 332–341, 342–351, … até a pág. 1309, atualizando a seção 1 a cada lote.
 3. Por último, retranscrever as págs. 1–36 (abertura e Seção 1).
 4. Conferência final: comparar a contagem de páginas cobertas com 1309 e revisar as seções 2 e 3 deste arquivo.
