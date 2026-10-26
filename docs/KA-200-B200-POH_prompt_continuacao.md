@@ -6,7 +6,7 @@ Cole o texto abaixo (a partir de "Contexto") como primeira mensagem da nova sess
 
 ## Contexto
 
-Estou revisando a conversão automática (OCR/Docling) de um manual de voo escaneado para Markdown. Repositório `JoaoPagotto/kingair_b200`, branch `claude/relaxed-thompson-9yr78s`, PR https://github.com/JoaoPagotto/kingair_b200/pull/1 (não crie outro PR; novos commits na branch atualizam este).
+Estou revisando a conversão automática (OCR/Docling) de um manual de voo escaneado para Markdown. Repositório `JoaoPagotto/kingair_b200`, branch de trabalho `claude/festive-pascal-0x6h5q` (a PR #1/#2 da branch anterior `claude/relaxed-thompson-9yr78s` já foi mergeada; não crie PR, só commits e push nesta branch).
 
 Arquivos em `docs/`:
 - `KA-200-B200-POH.pdf` — manual original (1309 páginas), **escaneado**: o texto embutido é só uma camada de OCR e **não** serve de referência.
@@ -18,10 +18,10 @@ Arquivos em `docs/`:
 
 ## Tarefa
 
-Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 25 páginas do PDF**, parando ao fim de cada lote para eu confirmar. Estado atual (ver `_controle.md` para o detalhe):
-- **Feito:** págs. 37–286 do PDF (Seções 2 a 6).
-- **Recomeçar o lote 11 do zero:** págs. **287–311** (Seção 7, Descrição dos Sistemas). Existe trabalho parcial de uma sessão anterior que **não foi salvo** no repositório; ignore-o e refaça.
-- **Depois:** 312 em diante, até 1309 (resto da Seção 7, Seção 8 Manutenção, Seção 9 Suplementos, Seção 10 Segurança).
+Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 páginas do PDF** (lotes menores para não sobrecarregar a sessão), parando ao fim de cada lote para eu confirmar. Estado atual (ver `_controle.md` para o detalhe):
+- **Feito:** págs. 37–286 do PDF (Seções 2 a 6), em 10 lotes de 25 páginas (lotes 1–10).
+- **Daqui em diante, lotes de 10 páginas**, numerados a partir do 11: lote 11 = págs. **287–296**, lote 12 = 297–306, lote 13 = 307–316, e assim por diante (Seção 7, Descrição dos Sistemas, começa na 287). Existe trabalho parcial de sessões anteriores que **não foi salvo** no repositório; ignore-o e refaça do zero.
+- **Depois:** continuar de 10 em 10 até a pág. 1309, até 1309 (resto da Seção 7, Seção 8 Manutenção, Seção 9 Suplementos, Seção 10 Segurança).
 - **Por último:** págs. 1–36 (capa, listas de páginas, logs de revisão, introdução, Seção 1). Uma tentativa anterior foi descartada; nada gravado.
 
 ## Método (siga igual aos lotes anteriores)
@@ -34,7 +34,7 @@ Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 25 
 6. **Nunca corrija, estime ou interpole um número.** Se um valor impresso parece erro do próprio manual (fora da tendência, total ≠ 2 × por motor, título errado), transcreva exatamente como impresso, escreva "Nota do transcritor" abaixo da tabela e registre em `_controle.md`. Se estiver em dúvida entre dois dígitos, releia em resolução maior e, persistindo, **pare e pergunte**.
 7. Valide cada tabela numérica com script (nº de colunas por linha, totais, tendências) antes de gravar.
 8. Para substituir um trecho do `_corrigido.md`, localize pelo nome da imagem: no `.md` original, o texto de uma página aparece **depois** das tags de imagem dessa página, e páginas só de texto não têm imagem (o texto vem depois da última imagem da página anterior). Confira os limites (primeira e última linha substituída) antes de gravar.
-9. Ao fim de cada lote: atualize `_controle.md` (tabela de cobertura, divergências, itens de conferência), faça `git add` dos dois arquivos, commit com mensagem `POH: batch N (Section X ...; PDF pp. A-B) ...` e `git push -u origin claude/relaxed-thompson-9yr78s`. Depois responda com: o que entrou, divergências impressas, o que eu devo conferir e o que falta.
+9. Ao fim de cada lote: atualize `_controle.md` (tabela de cobertura, divergências, itens de conferência), faça `git add` dos dois arquivos, commit com mensagem `POH: batch N (Section X ...; PDF pp. A-B) ...` e `git push -u origin claude/festive-pascal-0x6h5q`. Depois responda com: o que entrou, divergências impressas, o que eu devo conferir e o que falta.
 
 ## Regras
 
@@ -42,8 +42,9 @@ Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 25 
 - Salve o trabalho no repositório a cada lote; arquivos temporários do scratchpad se perdem se a sessão acabar.
 - Não use `rm` com variável de shell (`rm $S/...`); o sistema bloqueia. Use caminho literal ou nem apague.
 - Responda em português.
-- Não crie PR nem mude de branch.
+- Não crie PR nem mude de branch (use `claude/festive-pascal-0x6h5q`).
+- Imagens pequenas do `.md` original (logos de cabeçalho "Beechcraft Super King Air" e ícones CAUTION/WARNING, ~140×50 px) não são figuras: o texto delas já é transcrito, então podem ser omitidas; mantenha só figuras reais.
 
 ## Primeira ação
 
-Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 11 (págs. 287–311).
+Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 11 (págs. 287–296).

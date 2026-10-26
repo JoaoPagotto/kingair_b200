@@ -3,9 +3,9 @@
 Arquivo de acompanhamento da retranscrição do `KA-200-B200-POH_completo.md` (conversão automática do PDF escaneado, com OCR) para o `KA-200-B200-POH_corrigido.md`.
 
 - **Fonte de verdade:** as imagens das páginas de `KA-200-B200-POH.pdf` (1309 páginas). O PDF é escaneado; o texto embutido é uma camada de OCR e **não** serve de referência.
-- **Método:** cada página é renderizada (100–200 dpi) e retranscrita para Markdown, em lotes de ~25 páginas, com confirmação do usuário a cada lote. Tabelas numéricas são lidas a 200 dpi.
+- **Método:** cada página é renderizada (100–200 dpi) e retranscrita para Markdown, em lotes de 25 páginas (lotes 1–10) e, a partir do lote 11, de 10 páginas, com confirmação do usuário a cada lote. Tabelas numéricas são lidas a 200 dpi.
 - **Numeração:** "pág. PDF" é a página do arquivo PDF; "pág. manual" é a numeração impressa (ex.: 5-50).
-- **Pull request:** [JoaoPagotto/kingair_b200#1](https://github.com/JoaoPagotto/kingair_b200/pull/1), branch `claude/relaxed-thompson-9yr78s`.
+- **Pull request:** [JoaoPagotto/kingair_b200#1](https://github.com/JoaoPagotto/kingair_b200/pull/1), branch de trabalho atual `claude/festive-pascal-0x6h5q` (a anterior, `claude/relaxed-thompson-9yr78s`, já mergeada).
 
 > Ao concluir cada lote, atualizar a tabela da seção 1, a seção 2 (divergências) e a seção 3 (conferências pendentes).
 
@@ -26,10 +26,10 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 8 | 212–236 | 5-88 a 5-112 | 5 Desempenho (alcance, 1 motor) | feito | `495f2d6` |
 | 9 | 237–261 | 5-113 a 6-13 | 5 (fim), 6 Peso e Balanceamento (início) | feito | `56c7a6a` |
 | 10 | 262–286 | 6-14 a 6-38 | 6 Peso e Balanceamento (B200 e B200C) | feito | `92ce9f4` |
-| 11 | 287–311 | 7-1 a 7-25 | 7 Descrição dos Sistemas | **em andamento**: págs. 287–305 transcritas em arquivos de trabalho, não gravadas no `.md` nem enviadas; 306–309 lidas, não escritas; 310–311 não lidas | — |
-| 12 em diante | 312–1309 | 7-26 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** | — |
+| 11 | 287–296 | 7-1 a 7-10 | 7 Descrição dos Sistemas | **pendente** (lotes passam a ser de 10 páginas; nada gravado) | — |
+| 12 em diante | 297–1309 (10 em 10) | 7-11 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** | — |
 
-**Resumo:** págs. 37–286 do PDF feitas (250 de 1309, ≈19%); lote 11 em andamento; págs. 1–36 e 312–1309 pendentes.
+**Resumo:** págs. 37–286 do PDF feitas (250 de 1309, ≈19%); págs. 1–36 e 287–1309 pendentes.
 
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
@@ -94,7 +94,7 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 
 ## 5. Próximos passos
 
-1. Concluir o lote 11 (págs. 287–311): escrever 306–309, ler 310–311, gravar no `.md` e fazer commit.
-2. Lotes seguintes em ordem: 312–336, 337–361, … até a pág. 1309, atualizando a seção 1 a cada lote.
+1. Lote 11 (págs. 287–296), do zero.
+2. Lotes seguintes de 10 páginas em ordem: 297–306, 307–316, … até a pág. 1309, atualizando a seção 1 a cada lote.
 3. Por último, retranscrever as págs. 1–36 (abertura e Seção 1).
 4. Conferência final: comparar a contagem de páginas cobertas com 1309 e revisar as seções 2 e 3 deste arquivo.
