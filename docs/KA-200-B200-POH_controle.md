@@ -30,7 +30,7 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 12 | 312–321 | 7-26 a 7-35 | 7 (synchrophaser TYPE II, lubrificação, partida/ignição, indução, proteção contra gelo, combustível, detecção e extinção de fogo, hélice, sistema elétrico) | feito | `511ba93` |
 | 13 | 322–331 | 7-36 a 7-45 | 7 (iluminação, ambiental, pressurização, flow control units, ventilação, aquecimento, ar-condicionado) | feito | `82f7d79` |
 | 14 | 332–341 | 7-46 a 7-55 | 7 (controles ambientais, oxigênio, pitot/estático, sangria de ar, warning de sangria, yaw damp, stall warning, proteção contra gelo, deice de hélice, deice de superfície) | feito | `effb1d3` |
-| 15 | 342–351 | 7-56 a 8-7 | 7 (fim: esquema pneumático, stall warning vane heat, fuel heat, conforto, alívio, extintores, limpadores, retenção de carga), 8 Manutenção e Serviço (índice e início) | feito | `a75b1e0` |
+| 15 | 342–351 | 7-56 a 8-7 | 7 (fim: esquema pneumático, stall warning vane heat, fuel heat, conforto, alívio, extintores, limpadores, retenção de carga), 8 Manutenção e Serviço (índice e início) | feito | `bb695fe` |
 | 16 em diante | 352–1309 | 8-8 ao fim | 8 (restante), 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 352–361, 362–371, …) | — |
 
 **Resumo:** págs. 37–351 do PDF feitas (315 de 1309, ≈24%); págs. 352–1309 e 1–36 pendentes. A Seção 7 está transcrita até o fim (p. 7-58); a Seção 8 está transcrita até a p. 8-7 (OIL SYSTEM).
