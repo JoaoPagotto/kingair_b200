@@ -3,7 +3,7 @@
 Arquivo de acompanhamento da retranscrição do `KA-200-B200-POH_completo.md` (conversão automática do PDF escaneado, com OCR) para o `KA-200-B200-POH_corrigido.md`.
 
 - **Fonte de verdade:** as imagens das páginas de `KA-200-B200-POH.pdf` (1309 páginas). O PDF é escaneado; o texto embutido é uma camada de OCR e **não** serve de referência.
-- **Método:** cada página é renderizada (100–200 dpi) e retranscrita para Markdown, em lotes de ~25 páginas, com confirmação do usuário a cada lote. Tabelas numéricas são lidas a 200 dpi.
+- **Método:** cada página é renderizada (100–200 dpi) e retranscrita para Markdown, com confirmação do usuário a cada lote. **A partir do lote 12 o lote tem 10 páginas** (os lotes 1 a 11 usaram 25 páginas por lote). Tabelas numéricas são lidas a 200 dpi.
 - **Numeração:** "pág. PDF" é a página do arquivo PDF; "pág. manual" é a numeração impressa (ex.: 5-50).
 - **Pull request:** [JoaoPagotto/kingair_b200#1](https://github.com/JoaoPagotto/kingair_b200/pull/1), branch `claude/relaxed-thompson-9yr78s`.
 
@@ -26,10 +26,17 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 8 | 212–236 | 5-88 a 5-112 | 5 Desempenho (alcance, 1 motor) | feito | `495f2d6` |
 | 9 | 237–261 | 5-113 a 6-13 | 5 (fim), 6 Peso e Balanceamento (início) | feito | `56c7a6a` |
 | 10 | 262–286 | 6-14 a 6-38 | 6 Peso e Balanceamento (B200 e B200C) | feito | `92ce9f4` |
-| 11 | 287–311 | 7-1 a 7-25 | 7 Descrição dos Sistemas | **em andamento**: págs. 287–305 transcritas em arquivos de trabalho, não gravadas no `.md` nem enviadas; 306–309 lidas, não escritas; 310–311 não lidas | — |
-| 12 em diante | 312–1309 | 7-26 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** | — |
+| 11 | 287–311 | 7-1 a 7-25 | 7 Descrição dos Sistemas (início) | feito | `871d969` |
+| 12 em diante | 312–1309 | 7-26 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 312–321, 322–331, …) | — |
 
-**Resumo:** págs. 37–286 do PDF feitas (250 de 1309, ≈19%); lote 11 em andamento; págs. 1–36 e 312–1309 pendentes.
+**Resumo:** págs. 37–311 do PDF feitas (275 de 1309, ≈21%); págs. 312–1309 e 1–36 pendentes. A Seção 7 está transcrita até a pág. 7-25 (meio da subseção PROPELLER SYNCHROPHASER, TYPE II).
+
+### Observações sobre o lote 11 (págs. 287–311)
+- Páginas 296 e 297 têm `/Rotate 270` no PDF: renderizadas e giradas antes da leitura.
+- Páginas 296, 297 e 310 são só ilustração: mantidas as imagens `p00296_01.png`, `p00297_01.png` e `p00310_01.png` com uma frase descritiva.
+- Pág. 290 (7-4): "THIS PAGE INTENTIONALLY LEFT BLANK".
+- Tabelas dos painéis de anúncio (7-7 a 7-9) transcritas em grade 5×4 e 6 colunas, com as células em branco do original marcadas "—".
+- O trecho de 7-25 (TYPE II do synchrophaser) termina em "When the prop sync", continuando na pág. 7-26; o heading e o texto preservados do `.md` antigo foram mantidos como início da pág. 7-26.
 
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
@@ -60,6 +67,7 @@ Valores que parecem erro de impressão no próprio manual. Foram **transcritos c
 | 6-25 | Dados de carga (B200C) | nota 5 | "SQUARE FOOR" | "SQUARE FOOT" | mantido |
 | 6-19 | Índice do B200C | título | "Baisc Empty Weight" | "Basic" | mantido |
 | 6-1 | Índice da Seção 6 (B200) | "Usable Fuel 6-10" | 6-10 | 6-11 (no corpo, o combustível está na 6-11 e a carga na 6-10) | nota no texto |
+| 7-23 vs 7-25 | Limite de N₁ (38.100 rpm) | texto | "101.5% N₁" (7-23) e "104.5% N₁" (7-25) | 38.100/37.500 = 101,6%, logo 101.5% | transcrito como impresso em cada página + "Nota do transcritor" na 7-25 |
 
 Checagens automáticas aplicadas às tabelas de cruzeiro e alcance: 12 ou 15 valores por linha e fluxo total = 2 × fluxo por motor (nas tabelas de um motor, igual ao por motor). Na tabela de limites de momento (6-17 e 6-36): momento máximo = peso × 196,4 / 100 e momento mínimo conforme os limites de C.G., sem divergências.
 
@@ -81,6 +89,12 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 | 5-84 | Cruzeiro máximo 1800 RPM, ISA -10°C | OAT -1 a 2.000 ft (outras tabelas mostram 1) |
 | 6-11 | Combustível utilizável (4 densidades, 55 linhas) | momentos lidos coluna a coluna |
 | 6-14 a 6-18, 6-26, 6-37 | Formulários e diagramas | só descritos em texto; desenhos não transcritos |
+| 7-7 a 7-9 | Painéis de anúncio (grade de luzes) | posição exata de cada luz na grade e cores (Red/Yellow/Green) |
+| 7-12 | Raio de giro mínimo (39 ft 10 in) e disjuntores de flaps | valor lido em recorte de alta resolução |
+| 7-13/7-14 | 2775 ±55 psi e aproximadamente 2400 psi | pressões do sistema hidráulico |
+| 7-15 | Pressões dos pneus 18x5.5, 22x6.75-10 e do trem de nariz | três valores diferentes na mesma página |
+| 7-19 | "orange stripe on each of the six rotary latches (three on each side)" | confere com 6 travas (3 por lado) |
+| 7-23 | 850 SHP, 37.500 rpm = 100% N₁, 38.100 rpm, 38.500 rpm, 30.000 rpm, 2000 rpm | valores de motor conferidos em recorte |
 
 ## 4. Convenções da transcrição
 
@@ -94,7 +108,7 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 
 ## 5. Próximos passos
 
-1. Concluir o lote 11 (págs. 287–311): escrever 306–309, ler 310–311, gravar no `.md` e fazer commit.
-2. Lotes seguintes em ordem: 312–336, 337–361, … até a pág. 1309, atualizando a seção 1 a cada lote.
+1. ~~Concluir o lote 11 (págs. 287–311)~~ feito.
+2. Lotes seguintes em ordem, de 10 páginas: 312–321, 322–331, … até a pág. 1309, atualizando a seção 1 a cada lote.
 3. Por último, retranscrever as págs. 1–36 (abertura e Seção 1).
 4. Conferência final: comparar a contagem de páginas cobertas com 1309 e revisar as seções 2 e 3 deste arquivo.
