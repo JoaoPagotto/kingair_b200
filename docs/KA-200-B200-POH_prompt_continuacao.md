@@ -19,15 +19,15 @@ Arquivos em `docs/`:
 ## Tarefa
 
 Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 páginas do PDF**, parando ao fim de cada lote para eu confirmar. (Os lotes 1 a 10 e o lote 11 foram feitos com 25 páginas por lote, quando o volume ainda era suportável; a partir daqui o lote é de 10 páginas.) Estado atual (ver `_controle.md` para o detalhe):
-- **Feito:** págs. 37–341 do PDF (Seções 2 a 7; Seção 7 até a pág. 7-55, SURFACE DEICE SYSTEM).
-- **Próximo:** lote 15 = págs. **342–351** (continuação da Seção 7: fim do texto do deice de hélice, PNEUMATIC BLEED AIR SYSTEM AND SURFACE DEICE SYSTEM SCHEMATIC, stall warning vane heat etc.), sempre em lotes de 10 páginas até 1309 (resto da Seção 7, Seção 8 Manutenção, Seção 9 Suplementos, Seção 10 Segurança).
+- **Feito:** págs. 37–351 do PDF (Seções 2 a 7 completas; Seção 8 até a pág. 8-7, OIL SYSTEM).
+- **Próximo:** lote 16 = págs. **352–361** (continuação da Seção 8: CHANGING THE ENGINE OIL, OIL FILTER SERVICING, FUEL SYSTEM, FUEL HANDLING PRACTICES, FILLING THE TANKS…), sempre em lotes de 10 páginas até 1309 (resto da Seção 8, Seção 9 Suplementos, Seção 10 Segurança).
 - **Por último:** págs. 1–36 (capa, listas de páginas, logs de revisão, introdução, Seção 1). Uma tentativa anterior foi descartada; nada gravado.
 
 ## Método (siga igual aos lotes anteriores)
 
 1. Renderize as páginas do lote: `pdftoppm -r 120 -f A -l B -gray -png docs/KA-200-B200-POH.pdf <dir>/k` para texto corrido; **`-r 200`** para páginas com tabelas numéricas. Use como diretório de trabalho o scratchpad da sessão. Leia as imagens com a ferramenta Read.
 2. Retranscreva **a partir da imagem**, nunca do OCR do `.md` nem do texto do PDF. Preserve: numeração dos passos, negrito dos itens de ação imediata, `+` e `*` de notas, avisos (WARNING/CAUTION/NOTE) e notas de rodapé.
-3. Tabelas em Markdown (cabeçalho completo, uma linha por linha do original). Células vazias sem dados no original ("---") podem ser omitidas, com uma frase avisando abaixo da tabela. Páginas giradas em 90°: recorte e gire a faixa de texto (PIL) antes de ler.
+3. Tabelas em Markdown (cabeçalho completo, uma linha por linha do original). Células vazias sem dados no original ("---") podem ser omitidas, com uma frase avisando abaixo da tabela. Em índices (TOC) com recuos hierárquicos, preserve o nível com `&nbsp;` (2 por nível), como feito no lote 15. Páginas giradas em 90°: recorte e gire a faixa de texto (PIL) antes de ler.
 4. Figuras, desenhos e curvas de gráfico **não** são transcritos: mantenha a imagem do `.md` original (`![Image](KA-200-B200-POH_imagens/pNNNNN_MM.png)`) logo abaixo do texto da página e transcreva só título, condições, notas, exemplos e tabelas pequenas. Painéis e diagramas: descreva em uma frase.
 5. Páginas "THIS PAGE INTENTIONALLY LEFT BLANK": uma linha em itálico com o número da página do manual, para preservar a numeração.
 6. **Nunca corrija, estime ou interpole um número.** Se um valor impresso parece erro do próprio manual (fora da tendência, total ≠ 2 × por motor, título errado), transcreva exatamente como impresso, escreva "Nota do transcritor" abaixo da tabela e registre em `_controle.md`. Se estiver em dúvida entre dois dígitos, releia em resolução maior e, persistindo, **pare e pergunte**.
@@ -45,4 +45,4 @@ Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 
 
 ## Primeira ação
 
-Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 15 (págs. 342–351).
+Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 16 (págs. 352–361).

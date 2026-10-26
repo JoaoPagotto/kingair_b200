@@ -30,9 +30,10 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 12 | 312–321 | 7-26 a 7-35 | 7 (synchrophaser TYPE II, lubrificação, partida/ignição, indução, proteção contra gelo, combustível, detecção e extinção de fogo, hélice, sistema elétrico) | feito | `511ba93` |
 | 13 | 322–331 | 7-36 a 7-45 | 7 (iluminação, ambiental, pressurização, flow control units, ventilação, aquecimento, ar-condicionado) | feito | `82f7d79` |
 | 14 | 332–341 | 7-46 a 7-55 | 7 (controles ambientais, oxigênio, pitot/estático, sangria de ar, warning de sangria, yaw damp, stall warning, proteção contra gelo, deice de hélice, deice de superfície) | feito | `effb1d3` |
-| 15 em diante | 342–1309 | 7-56 ao fim | 7 (restante), 8 Manutenção e Serviço, 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 342–351, 352–361, …) | — |
+| 15 | 342–351 | 7-56 a 8-7 | 7 (fim: esquema pneumático, stall warning vane heat, fuel heat, conforto, alívio, extintores, limpadores, retenção de carga), 8 Manutenção e Serviço (índice e início) | feito | `a75b1e0` |
+| 16 em diante | 352–1309 | 8-8 ao fim | 8 (restante), 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 352–361, 362–371, …) | — |
 
-**Resumo:** págs. 37–341 do PDF feitas (305 de 1309, ≈23%); págs. 342–1309 e 1–36 pendentes. A Seção 7 está transcrita até a pág. 7-55 (SURFACE DEICE SYSTEM).
+**Resumo:** págs. 37–351 do PDF feitas (315 de 1309, ≈24%); págs. 352–1309 e 1–36 pendentes. A Seção 7 está transcrita até o fim (p. 7-58); a Seção 8 está transcrita até a p. 8-7 (OIL SYSTEM).
 
 ### Observações sobre o lote 11 (págs. 287–311)
 - Páginas 296 e 297 têm `/Rotate 270` no PDF: renderizadas e giradas antes da leitura.
@@ -62,6 +63,16 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 - A legenda do esquema da p. 7-55 é "PROPELLER ELECTRIC DEICE SYSTEM SCHEMATIC" (200-251-1); o `.md` antigo trazia apenas "PROPELLER ELECTRIC DEICE SYSTEM SCHEMATIC" sem o número do desenho — número acrescentado a partir da imagem.
 - A p. 7-54 tem dois blocos (PRIOR TO BB-829… e BB-829 AND AFTER…); o segundo bloco termina em "This switch is of the momentary type and", continuando na p. 7-56 (lote 15).
 - Suspeita anterior de frase incompleta em 7-53 (BLEED AIR WARNING SYSTEM) foi afastada: a 500 dpi o texto está completo ("…Excessive heat on the plastic tubing caused by a ruptured bleed air line will cause the tubing to fail…").
+
+### Observações sobre o lote 15 (págs. 342–351)
+- Não há páginas giradas neste lote; as dez páginas foram renderizadas a 120–250 dpi (releituras de 343, 344, 345, 347, 348, 349, 350 e 351 a 200–300 dpi).
+- A p. 7-56 (342) é só o esquema PNEUMATIC BLEED AIR SYSTEM AND SURFACE DEICE SYSTEM SCHEMATIC; a p. 7-58 (344) tem apenas o CAUTION dos limpadores e o trecho final de CARGO RESTRAINT (B200C) — o resto da página está em branco.
+- A Seção 7 termina na p. 7-58; a Seção VIII (HANDLING, SERVICING & MAINTENANCE) começa na p. 8-1.
+- Os índices de 8-1 e 8-2 foram transcritos em tabelas `| SUBJECT | PAGE |` com 49 e 16 linhas; o `.md` antigo tinha o índice corrompido (entradas faltando, sem números de página e com linhas em branco entre elas). A hierarquia de recuo do original foi preservada com `&nbsp;` (níveis de 1 a 3).
+- Em 8-4 a ordem de leitura é: coluna esquerda (TOWING e o CAUTION dos control locks) → coluna direita (fim do TOWING, CAUTION dos propulsores, PARKING, TIE-DOWN). O CAUTION "Do not exert force on the propellers…" vem **depois** do parágrafo "limit is exceeded…", e não no alto da coluna direita.
+- Imagens do lote: p00342_01 e p00344_02 (cabeçalho "Beechcraft Super King Air B200/B200C"), p00342_02 (esquema de 7-56), p00345_01, p00346_01, p00348_01 e p00350_01 (logotipo "Raytheon Aircraft"), p00343_01/02, p00344_01, p00348_02/03/04, p00349_01/02/03, p00350_02/03, p00351_01/03 (molduras de WARNING/CAUTION) e p00351_02 (ícone de nota, 38×28, mantido acima do NOTE de 8-7).
+- Os cabeçalhos de página de 8-3 a 8-7 ("Beech Super King Air B200 & B200C / Section VIII - Handling Serv & Maint") não foram transcritos como texto, seguindo a convenção dos lotes anteriores; os de 8-1 e 8-2 foram transcritos por conterem o título da seção e do índice.
+- No original há dois tipos de subcabeçalho: em **negrito** (ex.: GROUND HANDLING, PARKING, TIE-DOWN, BATTERY, TIRES, SHOCK STRUTS, TOILET) → `##`; e em **itálico** (ex.: TOWING, EXTERNAL POWER, BATTERY OVERHEAT FACTORS, MAINTENANCE PRACTICES…, NOSE GEAR STRUT, MAIN GEAR STRUT) → `###`. A distinção foi mantida.
 
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
@@ -99,6 +110,8 @@ Valores que parecem erro de impressão no próprio manual. Foram **transcritos c
 | 7-44 | RADIANT HEATING (B200C) | texto | "additonal" | "additional" | transcrito como impresso + Nota do transcritor |
 | 7-40/7-42/7-44 | texto | "fireseal", "condensor", "airconditioning" | "fire seal", "condenser", "air conditioning" | transcritos como impressos (grafia do original) |
 | 7-54 | PROP - MANUAL - OFF (BB-829 e posteriores) | texto | "aproximately 90 seconds" | "approximately" | transcrito como impresso + Nota do transcritor |
+| 8-5 | EXTERNAL POWER, CAUTION | texto | "sufficeint to shorten the life of the unit" | "sufficient" | transcrito como impresso + Nota do transcritor |
+| 8-5 | JACKING AND LEVELING | texto | "Wheel weighings can be leveled" | "weightings" (provável) | transcrito como impresso (palavra legível na imagem) |
 
 Checagens automáticas aplicadas às tabelas de cruzeiro e alcance: 12 ou 15 valores por linha e fluxo total = 2 × fluxo por motor (nas tabelas de um motor, igual ao por motor). Na tabela de limites de momento (6-17 e 6-36): momento máximo = peso × 196,4 / 100 e momento mínimo conforme os limites de C.G., sem divergências.
 
@@ -145,6 +158,11 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 | 7-53 | 18 psi; 17.000 pés (yaw damp); 50-ampere e five-ampere (windshield heat) | sangria de ar, yaw damp, proteção contra gelo |
 | 7-54 | 14 a 18 amperes; 20-ampere; 30 segundos; 90 segundos; 3 minutos; ".05" de carga | deice elétrico de hélice (dois blocos de série) |
 | 7-55 | 6 segundos; 4 segundos; -40°C (CAUTION) | pitot heat e surface deice |
+| 8-1/8-2 | Índices da Seção 8 (49 e 16 entradas) | números de página e recuos conferidos em recortes de 250 dpi; entrada "Publications" e "Airplane Inspection Periods" em negrito no original |
+| 8-4 | TOWING | 48° de giro máximo do trem de nariz e localização do "upper torque knee fitting" | 
+| 8-5 | EXTERNAL POWER | 1000 A/5 s, 500 A/2 min, 300 A contínuos, 350 A (dano) e 20 volts mínimos | 
+| 8-6 | BATTERY / TIRES | 24-volt e 20 células; pressões 96 ±2, 62 ±2 e 55–60 psi | 
+| 8-7 | SHOCK STRUTS / OIL SYSTEM | 3 a 3.5 in; 3.93 a 4.19 in; 5.56 a 5.93 in; 0.250 in; 2.3 gal; 14 quarts (3.50 gal); 1.5 e 12 quarts | 
 
 ## 4. Convenções da transcrição
 
@@ -159,6 +177,6 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 ## 5. Próximos passos
 
 1. ~~Concluir o lote 11 (págs. 287–311)~~ feito.
-2. Lotes seguintes em ordem, de 10 páginas: 342–351, 352–361, … até a pág. 1309, atualizando a seção 1 a cada lote.
+2. Lotes seguintes em ordem, de 10 páginas: 352–361, 362–371, … até a pág. 1309, atualizando a seção 1 a cada lote.
 3. Por último, retranscrever as págs. 1–36 (abertura e Seção 1).
 4. Conferência final: comparar a contagem de páginas cobertas com 1309 e revisar as seções 2 e 3 deste arquivo.

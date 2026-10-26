@@ -9569,217 +9569,263 @@ A three-position switch in the ICE group on the pilot's subpanel identified: DEI
 
 When the switch is held in the MANUAL position, all the boots will inflate simultaneously and remain inflated until the switch is released. The switch will return to the OFF position when released. After the cycle, the boots will remain in the vacuum hold-down condition until again actuated by the switch.
 
-![Image](KA-200-B200-POH_imagens/p00342_01.png)
+*(7-56)*
 
 ![Image](KA-200-B200-POH_imagens/p00342_02.png)
 
-## PNEUMATIC BLEED AiR SYSTEM AND SURFACE DEICE SYSTEM SCHEMATIC
-
-For most effective deicing operation, allow at least 1/2 inch of ice to form before thin ice may crack and cling to the boots instead of shedding: Subsequent cyclings of the boots will then have a tendency to build up a shell of ice outside the contour of the leading edge, thus making ice removal efforts ineffective: Very
-
-## STALL WARNING VANE HEAT
-
-The lift transducer is equipped with anti-icing capability on both the mounting plate and the vane The heat is controlled by a switch in the ice group located on the pilot's right subpanel identified: STALL WARN. The level of heat is minimal for ground operation, but is automatically increased tor flight operation through the left landing gear safety switch.
-
-![Image](KA-200-B200-POH_imagens/p00343_01.png)
-
-The heating elements protect the litt transducer vane ad face plate from ice. However, a buildup of ice on the may change or disrupt the airilow and prevent the system from accurately indicating an immiRemember that the stall speed increases whenever ice accumulates on any airplane. wing
-
-## FUEL HEAT
-
-An oil-to-fuel heat exchanger; located on the engine accessOry case, operates continuously and automatically to heat the tuel sufficiently to prevent ice from collecting in the fuel control unit when the procedure under "APPROVED FUEL ADDITIVE" located in LIMITATIONS Section is complied with
-
-Each pneumatic fuel control line is protected against ice by an electrically heated jacket Power is supplied to each fuel control air line jacket heater by two switches actuated by moving the condition levers in the pedestal out of the fuel cutott range. Fuel control heat is automatically turned on for all flight operations
-
-## ComFORT FEATURES
-
-## TOILET
-
-The side facing toilet is installed in the fover and faces the airstair door. The foyer can be closed off trom the cabin by sliding the two partition-type door panels to the center of the fuselage, where are held closed by magnetic strips: A cargo area and is enclosed by the cargo partition: The toilet may be either the chemical type or the electrically flushing type. In either case, the two hinged lid haltf-sections must be raised to access t0 the toilet A toilet tissue dispenser is contained in a slide-out compartment on the forward side of the toilet compartment. they gain If a Monogram  electrically flushing toilet is installed, the sliding knife valve should be open at all times, except when actually servicing the unit The cabinet below the toilet must be opened in Order to access to the knife valve actuator handle. gain relief tuba is contained in a special tilt-out compartment at the aft side of the toilet cabinet: A relief tube may also be installed in the cockpit and stowed under the pilot or copilot chair. The hose on the cockpit relief tube is of sufficient length to permit use by either pilot or copilot:
-
-![Image](KA-200-B200-POH_imagens/p00343_02.png)
-
-valve lever is located on the side of the relief tube horn: This valve lever must be depressed at all times while the relief tube is in use. Each tube drains into the atmosphere through its own special drain port; which protrudes from the bottom of the fuselage. Each drain port atomizes the discharge to keep it away from the skin Of the airplane:
+*Figura: PNEUMATIC BLEED AIR SYSTEM AND SURFACE DEICE SYSTEM SCHEMATIC — esquema do sistema pneumático de bleed air e do sistema de deice de superfície, com os rótulos VACUUM REGULATOR, PRESSURE BULKHEAD, PNEUMATIC GAGE, ENGINE BLEED AIR, FIRESEAL, BLEED AIR FLOW CONTROL UNIT, FIREWALL, BLEED AIR SHUTOFF VALVES, DEICE BOOT, DEICE BOOTS, MAIN SPAR, REAR SPAR, BRAKE DEICE VALVE, DOOR SEAL, PRESSURE, VACUUM, PRESSURE OR VACUUM e o DETAIL A (BLEED AIR LINE, WARNING BOOST SWITCH, TO RUDDER DEICE PRESSURE, PRESSURE DEICE LINE, REAR SPAR, REGULATOR).*
 
 ## NOTE
 
-The relief tubes are for use during fight only:
+AIRPLANES EQUIPPED WITH THE CARGO DOOR DO NOT HAVE AN INFLATABLE DOOR SEAL WITH ITS ATTENDANT VALVE AND PLUMBING
+
+![Image](KA-200-B200-POH_imagens/p00342_01.png)
+
+*Imagem: cabeçalho gráfico "Beechcraft Super King Air B200/B200C" do topo da página.*
+
+*(7-57)*
+
+For most effective deicing operation, allow at least 1/2 inch of ice to form before attempting ice removal. Very thin ice may crack and cling to the boots instead of shedding. Subsequent cyclings of the boots will then have a tendency to build up a shell of ice outside the contour of the leading edge, thus making ice removal efforts ineffective.
+
+## STALL WARNING VANE HEAT
+
+The lift transducer is equipped with anti-icing capability on both the mounting plate and the vane. The heat is controlled by a switch in the ice group located on the pilot's right subpanel identified: STALL WARN. The level of heat is minimal for ground operation, but is automatically increased for flight operation through the left landing gear safety switch.
+
+**WARNING**
+
+The heating elements protect the lift transducer vane and face plate from ice. However, a buildup of ice on the wing may change or disrupt the airflow and prevent the system from accurately indicating an imminent stall. Remember that the stall speed increases whenever ice accumulates on any airplane.
+
+![Image](KA-200-B200-POH_imagens/p00343_01.png)
+
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
+
+## FUEL HEAT
+
+An oil-to-fuel heat exchanger, located on the engine accessory case, operates continuously and automatically to heat the fuel sufficiently to prevent ice from collecting in the fuel control unit when the procedure under "APPROVED FUEL ADDITIVE" located in LIMITATIONS Section is complied with.
+
+Each pneumatic fuel control line is protected against ice by an electrically heated jacket. Power is supplied to each fuel control air line jacket heater by two switches actuated by moving the condition levers in the pedal out of the fuel cutoff range. Fuel control heat is automatically turned on for all flight operations.
+
+## COMFORT FEATURES
+
+## TOILET
+
+The side facing toilet is installed in the foyer and faces the airstair door. The foyer can be closed off from the cabin by sliding the two partition-type door panels to the center of the fuselage, where they are held closed by magnetic strips. A forward facing toilet, when installed, is located in the aft cargo area and is enclosed by the cargo partition. The toilet may be either the chemical type or the electrically flushing type. In either case, the two hinged lid half-sections must be raised to gain access to the toilet. A toilet tissue dispenser is contained in a slide-out compartment on the forward side of the toilet compartment.
+
+**CAUTION**
+
+If a Monogram electrically flushing toilet is installed, the sliding knife valve should be open at all times, except when actually servicing the unit. The cabinet below the toilet must be opened in order to gain access to the knife valve actuator handle.
+
+![Image](KA-200-B200-POH_imagens/p00343_02.png)
+
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
+
+## RELIEF TUBES
+
+A relief tube is contained in a special tilt-out compartment at the aft side of the toilet cabinet. A relief tube may also be installed in the cockpit and stowed under the pilot or copilot chair. The hose on the cockpit relief tube is of sufficient length to permit use by either pilot or copilot.
+
+A valve lever is located on the side of the relief tube horn. This valve lever must be depressed at all times while the relief tube is in use. Each tube drains into the atmosphere through its own special drain port, which protrudes from the bottom of the fuselage. Each drain port atomizes the discharge to keep it away from the skin of the airplane.
+
+## NOTE
+
+The relief tubes are for use during flight only.
 
 ## CABIN FEATURES
 
-An optional portable fire extinguisher may be installed on the floor on the left side of the airplane forward of the airstair entrance door, just att of the rearmost seat: Another one may also be installed underneath the copilot's seat:
+## FIRE EXTINGUISHERS
 
-## WINDSHIELD WIpERS
+An optional portable fire extinguisher may be installed on the floor on the left side of the airplane forward of the airstair entrance door, just aft of the rearmost seat. Another one may also be installed underneath the copilot's seat.
 
-The dual windshield wiper installation consists of an electric motor arm and wiper assemblies, drive shafts, and converters, all located forward of the instrument panel, The system also includes a control switch, located in the upper left cOrner of the overhead light control panel, and a circuit breaker located on the right circuit breaker panel. The control knob, placarded WINDSHIELD WIPER PARK OFF SLOW FAST, controls the wipers:  The wipers have two speeds; one for light and one for heawy precipitation After the control is turned to PARK to the wiper ars t0 their most inboard position, spring-loading returns the control to the OFF position bring
+## WINDSHIELD WIPERS
+
+The dual windshield wiper installation consists of an electric motor, arm and wiper assemblies, drive shafts, and converters, all located forward of the instrument panel. The system also includes a control switch, located in the upper left corner of the overhead light control panel, and a circuit breaker located on the right circuit breaker panel. The control knob, placarded WINDSHIELD WIPER - PARK - OFF - SLOW - FAST, controls the wipers. The wipers have two speeds, one for light and one for heavy precipitation. After the control is turned to PARK to bring the wiper arms to their most inboard position, spring-loading returns the control to the OFF position.
 
 Windshield wipers may be used during either ground or flight operations.
 
-![Image](KA-200-B200-POH_imagens/p00344_01.png)
+*(7-58)*
+
+**CAUTION**
 
 Do not operate windshield wipers on dry glass.
 
+![Image](KA-200-B200-POH_imagens/p00344_01.png)
+
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
+
 ## CARGO RESTRAINT (B200C)
 
-Beech Aircraft Corporation offers an FAA approved cargo restraint  system as Kit No. 101-5040. other restraint Any system used in this airplane must be approved by the FAA Such approval is the sole responsibility of the ownerl operator of the airplane.
+Beech Aircraft Corporation offers an FAA approved cargo restraint system as Kit No. 101-5040. Any other restraint system used in this airplane must be approved by the FAA. Such approval is the sole responsibility of the owner/operator of the airplane.
 
 ![Image](KA-200-B200-POH_imagens/p00344_02.png)
 
+*Imagem: cabeçalho gráfico "Beechcraft Super King Air B200/B200C" do topo da página.*
+
+*(8-1)*
+
 ![Image](KA-200-B200-POH_imagens/p00345_01.png)
+
+*Imagem: logotipo "Raytheon Aircraft" do cabeçalho da página.*
 
 ## SECTION VIII HANDLING, SERVICING &amp; MAINTENANCE
 
 ## TABLE OF CONTENTS
 
-| SUBJECT                                                                                                                  | PAGE   |
-|--------------------------------------------------------------------------------------------------------------------------|--------|
-| Introduction To Servicing                                                                                                | 8-3    |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Preventive Maintenance That May Be Accomplished By A Certificated Pilot . . . . . . . . . . . . . . . . . . . 8-4        |        |
-| Alterations Or Repairs To Airplane                                                                                       | 8-4    |
-|                                                                                                                          |        |
-| Towing                                                                                                                   | 8-4    |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Jacking And Leveling                                                                                                     |        |
-|                                                                                                                          |        |
-| Engine Care In Salty Environments                                                                                        |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Maintenance Practices To Prevent Battery Overheating                                                                     | 8-6    |
-|                                                                                                                          | 8-6    |
-|                                                                                                                          |        |
-| Nose Gear Strut                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Oil Filter Servicing                                                                                                     |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Fuel Grades And Types                                                                                                    | 8-9    |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Cleaning Firewall Fuel Filters and Engine Driven Fuel Pump Filter. . . . . . . . . . . . . . . . . . . . . . . . . . 8-9 |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Oxygen Cylinder Retesting                                                                                                |        |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Forward Evaporator Filter Replacement.                                                                                   | 8-11   |
-| Aft Evaporator Filter Replacement (When Opt. Evaporator Installed)                                                       | 8-11   |
-| Return Air Filter Replacement                                                                                            | 8-11   |
-|                                                                                                                          |        |
-|                                                                                                                          |        |
-| Frost Removal                                                                                                            | 8-12   |
+| SUBJECT | PAGE |
+|---|---|
+| **Introduction To Servicing** | 8-3 |
+| **Publications** | 8-3 |
+| **Airplane Inspection Periods** | 8-3 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Special Conditions Cautionary Notice | 8-3 |
+| **Preventive Maintenance That May Be Accomplished By A Certificated Pilot** | 8-4 |
+| **Alterations Or Repairs To Airplane** | 8-4 |
+| **Ground Handling** | 8-4 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Towing | 8-4 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Parking | 8-4 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Tie-Down | 8-4 |
+| **Jacking And Leveling** | 8-5 |
+| **Prolonged Out-Of-Service Care** | 8-5 |
+| **Engine Care In Salty Environments** | 8-5 |
+| **Servicing** | 8-5 |
+| &nbsp;&nbsp;&nbsp;&nbsp;External Power | 8-5 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Battery | 8-6 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Battery Overheat Factors | 8-6 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maintenance Practices To Prevent Battery Overheating | 8-6 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Tires | 8-6 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Shock Struts | 8-7 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nose Gear Strut | 8-7 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Main Gear Strut | 8-7 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Brake System | 8-7 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oil System | 8-7 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changing The Engine Oil | 8-8 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oil Filter Servicing | 8-8 |
+| **Fuel System** | 8-8 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Fuel Handling Practices | 8-8 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Filling The Tanks | 8-9 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Fuel Grades And Types | 8-9 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Draining The Main Fuel System | 8-9 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Draining The Auxiliary Fuel System | 8-9 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Engine Fuel Filters And Screens | 8-9 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Cleaning Firewall Fuel Filters and Engine Driven Fuel Pump Filter | 8-9 |
+| &nbsp;&nbsp;&nbsp;&nbsp;P3 Air Filter | 8-10 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Instrument Vacuum Air | 8-10 |
+| **Servicing The Oxygen System** | 8-10 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oxygen Components | 8-10 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oxygen System Purging | 8-10 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Filling The Oxygen System | 8-10 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Oxygen Cylinder Retesting | 8-10 |
+| **Air Conditioner** | 8-11 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Cabin Air Filters | 8-11 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forward Evaporator Filter Replacement | 8-11 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aft Evaporator Filter Replacement (When Opt. Evaporator Installed) | 8-11 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Return Air Filter Replacement | 8-11 |
+| **Deicing and Anti-Icing of Airplanes On The Ground** | 8-11 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Snow Removal | 8-11 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Frost Removal | 8-12 |
+
+*(8-2)*
 
 ![Image](KA-200-B200-POH_imagens/p00346_01.png)
 
+*Imagem: logotipo "Raytheon Aircraft" do cabeçalho da página.*
+
 ## SECTION VIII HANDLING, SERVICING &amp; MAINTENANCE TABLE OF CONTENTS (CONTD)
 
-| SUBJECT                                                                                                                    | PAGE   |
-|----------------------------------------------------------------------------------------------------------------------------|--------|
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-| Miscellaneous Maintenance                                                                                                  | 8-12   |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-| Surface Deice Boot Cleaning                                                                                                |        |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
-| Resetting Override Assembly For Normal Operation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. 8-14 |        |
-|                                                                                                                            |        |
-|                                                                                                                            |        |
+## TABLE OF CONTENTS (CONT'D)
 
-## Rayheon Aircraft
+| SUBJECT | PAGE |
+|---|---|
+| &nbsp;&nbsp;&nbsp;&nbsp;Ice Removal | 8-12 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Deicing and Anti-Icing Fluid Application | 8-12 |
+| **Miscellaneous Maintenance** | 8-12 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Cleaning | 8-12 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exterior Painted Surfaces | 8-12 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows And Windshields | 8-13 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows | 8-13 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Polarized Cabin Windows | 8-13 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windshields | 8-14 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface Deice Boot Cleaning | 8-14 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engine | 8-14 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Interior Care | 8-14 |
+| &nbsp;&nbsp;&nbsp;&nbsp;Ice Vanes (Inertial Separator System) | 8-14 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Resetting Override Assembly For Normal Operation | 8-14 |
+| **Consumable Materials** | 8-14 |
+| **Lamp Replacement Guide** | 8-15 |
+
+*(8-3)*
 
 ## INTRODUCTION TO SERVICING
 
-7. Wiring Diagram Manual
-
-The purpose of this section is to outline to the Owner and Operator the requirements for maintaining the Super King Air B2OO &amp; BZOOC in a condition equal to that of its original manufacture. This information sets the time intervals at which the airplane should be taken to a Raytheon Aircraft Authorized Outlet for periodic servicing or preventive maintenance.
+The purpose of this section is to outline to the Owner and Operator the requirements for maintaining the Super King Air B200 & B200C in a condition equal to that of its original manufacture. This information sets the time intervals at which the airplane should be taken to a Raytheon Aircraft Authorized Outlet for periodic servicing or preventive maintenance.
 
 The Federal Aviation Regulations place the responsibility for the maintenance of this airplane on the Owner and the Operator, who should make certain that all maintenance is done by qualified mechanics in conformity with all airworthiness requirements established for this airplane.
 
-AIl limits, procedures, safety practices, time limits, servicing and maintenance requirements contained in this handbook are considered mandatory:
+All limits, procedures, safety practices, time limits, servicing and maintenance requirements contained in this handbook are considered mandatory.
 
 Raytheon Aircraft Authorized Outlets can provide recommended modification, service, and operating procedures issued by both FAA and Beech Aircraft Corporation, which are designed to get maximum utility and safety from the airplane.
 
-If a question arises concerning the care 0f the King Air B2Oo &amp; BZOOC , it is important that the airplane serial number be included in any correspondence. The serial number appears on the Manufacturer's Identification Plaque, located either on the aft frame of the airstair door opening; or on the fuselage exterior, left side, aft of the airstair door: Super
+If a question arises concerning the care of the Super King Air B200 & B200C, it is important that the airplane serial number be included in any correspondence. The serial number appears on the Manufacturer's Identification Plaque, located either on the aft frame of the airstair door opening, or on the fuselage exterior, left side, aft of the airstair door.
+
+**WARNING**
+
+The Beech Super King Air B200 & B200C is a pressurized airplane. Drilling, modification, or any type of work which creates a break in the pressure vessel is considered the responsibility of the owner or facility performing the work. Obtaining approval of the work is, therefore, their responsibility.
 
 ![Image](KA-200-B200-POH_imagens/p00347_01.png)
 
-The Beech Super King Air B2OO &amp; B2OOC is a pressurized airplane. Drilling, modification, or any type of work which creates a break in the pressure vessel is considered the responsibility of the owner or facility performing the work Obtaining approval of the work is, therefore, their responsibility:
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
 
 ## PUBLICATIONS
 
-The following publications for the Super King Air B2OO &amp; BZOOC are available through Raytheon Aircraft Authorized Outlets:
+The following publications for the Super King Air B200 & B200C are available through Raytheon Aircraft Authorized Outlets:
 
-- Pilot's Operating Handbook and FAA Approved Airplane Flight Manual
-2. Pilot' s Check List
+1. Pilot's Operating Handbook and FAA Approved Airplane Flight Manual
+2. Pilot's Check List
 3. Maintenance Manual
-4. Component Maintenance Manual   (Includes   Supplier
-- 5 Structural Inspection and Repair Manual
+4. Component Maintenance Manual (Includes Supplier Data)
+5. Structural Inspection and Repair Manual
 6. Components Maintenance Manual
+7. Wiring Diagram Manual
 8. Parts Catalog
-- 9 Service Instructions and Service Bulletins
+9. Service Instructions and Service Bulletins
 
-The following publications will be provided, at no charge, to the registered ownerloperator of this airplane:
+The following publications will be provided, at no charge, to the registered owner/operator of this airplane:
 
-- Reissues and revisions of Pilots Operating Handbook and FAA Approved Airplane Flight Manual.
-- Original issues and revisions of FAA Approved Airplane Flight Manual Supplements:
-- Original issues and revisions of Raytheon Aircraft Service Bulletins:
+- Reissues and revisions of Pilot's Operating Handbook and FAA Approved Airplane Flight Manual.
+- Original issues and revisions of FAA Approved Airplane Flight Manual Supplements.
+- Original issues and revisions of Raytheon Aircraft Service Bulletins.
 
-The above publications will be provided to the registered ownerloperator at the address listed on the FAA Aircraft Registration Branch List or the Raytheon Aircraft Domesticl International Owners Notification List  Further, the ownerl operator will receive only those publications pertaining to the registered airplane serial number For detailed information on to obtain "Revision Service" applicable to this handbook or other Raytheon Aircraft Service Publications, consult any Raytheon Aircraft authorized outlet, or refer to the latest revision of Raytheon Aircraft Service Bulletin No. 2001. how
+The above publications will be provided to the registered owner/operator at the address listed on the FAA Aircraft Registration Branch List or the Raytheon Aircraft Domestic/International Owners Notification List. Further, the owner/operator will receive only those publications pertaining to the registered airplane serial number. For detailed information on how to obtain "Revision Service" applicable to this handbook or other Raytheon Aircraft Service Publications, consult any Raytheon Aircraft authorized outlet, or refer to the latest revision of Raytheon Aircraft Service Bulletin No. 2001.
 
 ## AIRPLANE INSPECTION PERIODS
 
 Refer to the following for required inspections:
 
-- Structural Inspection and Repair Manual
-- 2 Maintenance Manual
+1. Structural Inspection and Repair Manual
+2. Maintenance Manual
 
 ## NOTE
 
-The FAA may require other inspections by issuance of Airworthiness Directives applicable to the airplane, engines, propellers, and components. It is the responsibility of the ownerloperator to ensure that all applicable Airworthiness Directives are complied with, and when repetitive inspections are required, to prevent inadvertent noncompliance with subsequent inspection requirements. It is also the responsibility of the ownerloperator to ensure that all FAA-required inspections and most Raytheon-recommended inspections are accomplished by properly certificated mechanics at properly certificated agencies (both meeting FAR 91 and FAR 43 requirements) Consult a Raytheon Aircraft Authorized Outlet for assistance in determining and complying with these requirements.
+The FAA may require other inspections by issuance of Airworthiness Directives applicable to the airplane, engines, propellers, and components. It is the responsibility of the owner/operator to ensure that all applicable Airworthiness Directives are complied with, and when repetitive inspections are required, to prevent inadvertent noncompliance with subsequent inspection requirements. It is also the responsibility of the owner/operator to ensure that all FAA-required inspections and most Raytheon-recommended inspections are accomplished by properly certificated mechanics at properly certificated agencies (both meeting FAR 91 and FAR 43 requirements). Consult a Raytheon Aircraft Authorized Outlet for assistance in determining and complying with these requirements.
 
 ## SPECIAL CONDITIONS CAUTIONARY NOTICE
 
-Airplanes operated for Air Taxi or other than normal operations and airplanes operated in humid tropics or cold and damp climates, etc-, may need more frequent inspections for
+Airplanes operated for Air Taxi or other than normal operations and airplanes operated in humid tropics or cold and damp climates, etc., may need more frequent inspections for wear, corrosion, and/or lack of lubrication. In these areas, periodic inspections should be performed until the operator can set his own inspection periods based on experience. The required periods do not constitute a guarantee that the item will reach the period without malfunction, as the aforementioned factors cannot be controlled by the manufacturer.
 
-## Beech Super King Air B200 &amp; B2OOC Section VIII Handling Serv &amp; Maint
+*(8-4)*
 
 ![Image](KA-200-B200-POH_imagens/p00348_01.png)
 
-periodic inspections should be performed until the operator can set his own inspection periods based on experience The required periods do not constitute a guarantee that the item will reach the period without malfunction, as the aforementioned factors cannot be controlled by the manufacturer.
-
-limit is exceeded  The maximum nose wheel turn angle is 489 left and right: When ground handling the airplane, do not use the propellers or control surfaces as hand holds to push or move the airplane.
+*Imagem: logotipo "Raytheon Aircraft" do cabeçalho da página.*
 
 ## PREVENTIVE MAINTENANCE THAT MAY BE ACCOMPLISHED BY A CERTIFICATED PILOT
 
-A certificated pilot may perform limited maintenance. Refer to FAR Part 43 for the items which may be accomplished To ensure that proper procedures are followed, obtain a Beech Super King Air 200 Series Maintenance Manual prior to performing preventive maintenance. All other maintenance must be performed by properly certificated personnel. Contact a Raytheon Aircraft Authorized Outlet for further information.
+A certificated pilot may perform limited maintenance. Refer to FAR Part 43 for the items which may be accomplished. To ensure that proper procedures are followed, obtain a *Beech Super King Air 200 Series Maintenance Manual* prior to performing preventive maintenance. All other maintenance must be performed by properly certificated personnel. Contact a Raytheon Aircraft Authorized Outlet for further information.
 
 ## NOTE
 
-Pilots operating airplanes of other than U. S. regshould refer to the regulations of the country of registry for information on preventive maintenance that may be performed by a pilot: istry -
+Pilots operating airplanes of other than U. S. registry should refer to the regulations of the country of registry for information on preventive maintenance that may be performed by a pilot.
 
 ## ALTERATIONS OR REPAIRS TO AIRPLANE
 
-The FAA should be contacted prior to any alterations on the violated:
+The FAA should be contacted prior to any alterations on the airplane, to ensure that the airworthiness of the airplane is not violated.
 
 ## NOTE
 
@@ -9787,202 +9833,245 @@ Alterations or repairs to the airplane must be accomplished by properly licensed
 
 ## GROUND HANDLING
 
-## TOWING
+### TOWING
 
-The tow bar connects to the upper torque knee fitting of the nose strut. The airplane is steered with the tow bar when moving the airplane by hand, or an optional tow bar is available for towing the airplane with a tug: Although the tug will control the steering of the airplane, someone should be positioned in the pilots seat to operate the brakes in case of an
+The tow bar connects to the upper torque knee fitting of the nose strut. The airplane is steered with the tow bar when moving the airplane by hand, or an optional tow bar is available for towing the airplane with a tug. Although the tug will control the steering of the airplane, someone should be positioned in the pilot's seat to operate the brakes in case of an emergency.
+
+**CAUTION**
+
+Always ensure that the control locks are removed before towing the airplane. Serious damage to the steering linkage can result if the airplane is towed while the control locks are installed. Do not tow the airplane with a flat shock strut.
 
 ![Image](KA-200-B200-POH_imagens/p00348_02.png)
 
-Always ensure that the control locks are removed before towing the airplane. Serious damage to the steering linkage can result if the airplane is towed while the control locks are installed. Do not tow the airplane with a flat shock strut:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-The nose gear strut has turn limit warning marks to warn the tug driver when turning limits of the gear will be exceeded. Damage will occur to the nose gear and linkage if the turn Do not exert force on the propellers or control surfaces. Do not place weight on the stabilizers to raise the nose wheel. When towing; limit turns to prevent damage to the nose gear: Do not tow the airplane backward using the tail tie down ring as an attach point:
+The nose gear strut has turn limit warning marks to warn the tug driver when turning limits of the gear will be exceeded. Damage will occur to the nose gear and linkage if the turn limit is exceeded. The maximum nose wheel turn angle is 48° left and right. When ground handling the airplane, do not use the propellers or control surfaces as hand holds to push or move the airplane.
+
+**CAUTION**
+
+Do not exert force on the propellers or control surfaces. Do not place weight on the stabilizers to raise the nose wheel. When towing, limit turns to prevent damage to the nose gear. Do not tow the airplane backward using the tail tie down ring as an attach point.
 
 ![Image](KA-200-B200-POH_imagens/p00348_03.png)
 
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
+
 ## PARKING
 
-The parking brake may be set by pulling outward on the parking brake control, located on the extreme left side, below the pilot's subpanel, and depressing the toe portion of the pilots rudder pedals. The parking control closes dual valves in the brake lines that trap the hydraulic pressure applied to the brakes and prevents pressure loss through the master cylinders. To release the parking brake, depress the pilots brake pedals to equalize the pressure on both sides of the parking brake valves and push the parking brake control fully in.
+The parking brake may be set by pulling outward on the parking brake control, located on the extreme left side, below the pilot's subpanel, and depressing the toe portion of the pilot's rudder pedals. The parking control closes dual valves in the brake lines that trap the hydraulic pressure applied to the brakes and prevents pressure loss through the master cylinders. To release the parking brake, depress the pilot's brake pedals to equalize the pressure on both sides of the parking brake valves and push the parking brake control fully in.
 
 ## NOTE
 
-Avoid setting the parking brake when the brakes are hot from severe usage, or when moisture conditions and freezing temperatures could form ice locks:
+Avoid setting the parking brake when the brakes are hot from severe usage, or when moisture conditions and freezing temperatures could form ice locks.
+
+**CAUTION**
+
+The parking brake should be left off and wheel chocks installed while the airplane is unattended. Changes in ambient temperature can cause the brakes to release or to exert excessive pressures.
 
 ![Image](KA-200-B200-POH_imagens/p00348_04.png)
 
-The parking brake should be left off and wheel chocks installed while the airplane is unattended: Changes in ambient temperature can cause the brakes to release or to exert excessive pressures.
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
 ## TIE-DOWN
 
-Three mooring eyes are provided: one underneath each wing, and one in the ventral fin. To moor the airplane, chock the wheels fore and aft, install the control locks, and tie the airplane down at all three points: If extreme weather is anticipated, it is advisable to nose the airplane into the wind before tying it down. Install engine inlet and exhaust covers, propeller tie-down boots (one blade down), and pitot mast covers when mooring the airplane.
+Three mooring eyes are provided: one underneath each wing, and one in the ventral fin. To moor the airplane, chock the wheels fore and aft, install the control locks, and tie the airplane down at all three points. If extreme weather is anticipated, it is advisable to nose the airplane into the wind before tying it down. Install engine inlet and exhaust covers, propeller tie-down boots (one blade down), and pitot mast covers when mooring the airplane.
 
 ## NOTE
 
-Unrestrained propellers are apt to windmill: Prolonged windmilling at zero oil pressures can result in bearing damage: Windmilling propellers are a SAFETY HAZARD\_
+Unrestrained propellers are apt to windmill. Prolonged windmilling at zero oil pressures can result in bearing damage. Windmilling propellers are a SAFETY HAZARD.
 
-## Raytheon Aircraft
+*(8-5)*
 
 ## JACKING AND LEVELING
 
-The Beech Super King Air B2OO &amp; BZOOC is provided with three jacking to raise the airplane for servicing: The forward point is on the left side of the nose wheel well opening near the aft end of the nose wheel doors: The main gear points are on the rear spar just inboard of the nacelle fairing: AIl three points are easily identified by the placarding JACK PAD adjacent to the jack points: The areas around the jack pads are unobstructed to facilitate the use of jacks All adapters extend 0.7 inch or more below the structure surface. points
+The Beech Super King Air B200 & B200C is provided with three jacking points to raise the airplane for servicing. The forward point is on the left side of the nose wheel well opening near the aft end of the nose wheel doors. The main gear points are on the rear spar just inboard of the nacelle fairing. All three points are easily identified by the placarding JACK PAD adjacent to the jack points. The areas around the jack pads are unobstructed to facilitate the use of jacks. All adapters extend 0.7 inch or more below the structure surface.
 
-Leveling screws are located on the fuselage entrance door frame. Leveling is accomplished with a plumb bob. Jack pad leveling may require the nose-gear shock strut to be secured in the static position to prevent its extension. Wheel weighings can be leveled by varying the amounts of air in the shocks and tires:
+Leveling screws are located on the fuselage entrance door frame. Leveling is accomplished with a plumb bob. Jack pad leveling may require the nose-gear shock strut to be secured in the static position to prevent its extension. Wheel weighings can be leveled by varying the amounts of air in the shocks and tires.
 
 ## PROLONGED OUT-OF-SERVICE CARE
 
-Refer to the Beech Super King Air 200 Series Maintenance Manual
+Refer to the *Beech Super King Air 200 Series Maintenance Manual*.
 
 ## ENGINE CARE IN SALTY ENVIRONMENTS
 
 When the airplane is operated in a salty atmosphere (such as near the sea) or off airstrips treated with salt:
 
-- 1\_ Wash engine exterior as soon as possible with clean water:
-- 2 Start engine and run at ground idle for a minimum of 10 minutes to remove moisture and salt residue.
-- 3 Spray rust preventive material on fuel control assembly, controls linkage assembly, and any exposed metal parts:
-- Inspect the entire gearcase for corrosion and spray with rust preventive material at one-week intervals: particular attention to the areas around studs and inserts: Pay
+1. Wash engine exterior as soon as possible with clean water.
+2. Start engine and run at ground idle for a minimum of 10 minutes to remove moisture and salt residue.
+3. Spray rust preventive material on fuel control assembly, controls linkage assembly, and any exposed metal parts.
+4. Inspect the entire gearcase for corrosion and spray with rust preventive material at one-week intervals. Pay particular attention to the areas around studs and inserts.
 
 ## SERVICING
 
-## EXTERNAL POWER
+### EXTERNAL POWER
 
-The airplane is equipped with an external power receptacle, located just outboard of the right engine in the lower side of the wing center section. The receptacle will accept a standard AN-type plug: The airplane electrical system is automatically protected from reverse polarity (i.e-, positive ground) by a diode network A amber EXT PWR caution light on the cautionladvisory annunciator panel will flash when the external power plug is engaged
+The airplane is equipped with an external power receptacle, located just outboard of the right engine in the lower side of the wing center section. The receptacle will accept a standard AN-type plug. The airplane electrical system is automatically protected from reverse polarity (i.e., positive ground) by a diode network. A amber EXT PWR caution light on the caution/advisory annunciator panel will flash when the external power plug is engaged.
 
-External power can be used to operate all the airplane electrical equipment (this includes avionics checkouts) during ground operations without the engines running; and it can be
+External power can be used to operate all the airplane electrical equipment (this includes avionics checkouts) during ground operations without the engines running, and it can be used to start the engines. The external power unit should be capable of producing 1000 amperes for 5 seconds, 500 amperes for 2 minutes and 300 amperes continuously. A maximum continuous load of 350 amperes will damage the external power relay and power cables of the airplane.
 
-## Beech Super King Air B2Oo Section VIII Handling Serv &amp; Maint
+**CAUTION**
 
-used to start the engines: The external power unit should be capable of producing 1000 amperes for 5 seconds, 500 amperes for 2 minutes and 300 amperes continuously. A maximum continuous load of 350 amperes will damage the external power relay and power cables of the airplane.
+Any current in excess of 1000 amperes may overtorque the drive shaft of the starter-generator or produce heat sufficeint to shorten the life of the unit.
 
 ![Image](KA-200-B200-POH_imagens/p00349_01.png)
 
-current in excess of 1000 amperes may overtorque the drive shaft of the starter-generator Or produce heat sufficeint to shorten the life of the unit. Any
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
+
+Nota do transcritor: o original imprime "sufficeint" (com a letra "f" omitida); transcrito como impresso.
 
 The following precautions must be observed when using an external power source:
 
-1. AVIONICS MASTER PWR Switch (pilot's left subpanel) OFF
-2. GENerator 1 and GENerator 2 Switches OFF
-3. BATtery Switch ON
-4. 4 VoltLoadmeter (overhead panel) DEPRESS SWITCH on face of either meter, and read battery voltage.
+1. AVIONICS MASTER PWR Switch (pilot's left subpanel) - OFF
+2. GENerator 1 and GENerator 2 Switches - OFF
+3. BATtery Switch - ON
+4. Volt/Loadmeter (overhead panel) - DEPRESS SWITCH on face of either meter, and read battery voltage.
+
+**CAUTION**
+
+NEVER CONNECT AN EXTERNAL POWER SOURCE TO THE AIRPLANE UNLESS A BATTERY INDICATING A CHARGE OF AT LEAST 20 VOLTS IS IN THE AIRPLANE. If the battery voltage is less than 20 volts, the battery must be recharged, or replaced with a battery indicating at least 20 volts, before connecting external power.
 
 ![Image](KA-200-B200-POH_imagens/p00349_02.png)
 
-NEVER CONNECT AN EXTERNAL POWER SOURCE TO THE AIRPLANE UNLESS A BATTERY INDICATING A CHARGE OF AT LEAST 20 VOLTS IS IN THE AIRPLANE. If the battery voltage is less than 20 volts, the battery must be recharged, or replaced with a battery indicating at least 20 volts, before connecting external power:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-- 5 Auxiliary Power Unit Output Voltage SET AT 28.0 28.4 VOLTS
-6. Auxiliary Power Unit TURN OFF before connecting to airplane.
+5. Auxiliary Power Unit Output Voltage - SET AT 28.0 - 28.4 VOLTS
+6. Auxiliary Power Unit - TURN OFF before connecting to airplane.
+
+**CAUTION**
+
+Only use an external power source fitted with an AN-type plug.
 
 ![Image](KA-200-B200-POH_imagens/p00349_03.png)
 
-Only use an external power source fitted with an AN-type plug:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-- External Power Source PLUG INTO AIRPLANE RECEPTACLE Plug
-8. Auxiliary Power Unit TURN ON
-- Volt/Loadmeter (overhead panel) DEPRESS SWITCH on face of either meter, and read voltage. (If external power is properly connected, the value will be greater than it was when reading battery voltage only:)
+7. External Power Source Plug - PLUG INTO AIRPLANE RECEPTACLE
+8. Auxiliary Power Unit - TURN ON
+9. Volt/Loadmeter (overhead panel) - DEPRESS SWITCH on face of either meter, and read voltage. (If external power is properly connected, the value will be greater than it was when reading battery voltage only.)
 
-## Beech Super King Air B2Oo Section VIII Handling Serv &amp; Maint
+*(8-6)*
 
 ![Image](KA-200-B200-POH_imagens/p00350_01.png)
 
+*Imagem: logotipo "Raytheon Aircraft" do cabeçalho da página.*
+
 ## BATTERY
 
-5. Keep battery clean.
+Servicing the 24-volt, 20-cell, air-cooled, nickel-cadmium battery is normally limited to checking the electrolyte level, cleaning the battery box and associated components, and equalizing the cells. For detailed servicing of the battery, refer to the *Beech Super King Air 200 Series Maintenance Manual*.
 
-Servicing the 24-volt, 20-cell, air-cooled, nickel-cadmium battery is normally limited to checking the electrolyte level, cleaning the battery box and associated components, and equalizing the cells For detailed servicing of the battery, refer to the Beech Super King Air 200 Series Maintenance Manual
+**CAUTION**
+
+The electrolyte in the nickel-cadmium battery is an alkali solution. Use equipment reserved for nickel-cadmium batteries only. Even minute traces of acid can damage a nickel-cadmium battery.
 
 ![Image](KA-200-B200-POH_imagens/p00350_02.png)
 
-The electrolyte in the nickel-cadmium battery is an alkali solution. Use equipment reserved for nickel-cadmium batteries only. Even minute traces of acid can damage a nickel-cadmium bat-tery\_
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-Add only distilled water when liquid level is low. The battery electrolyte level is related to the amount of electrical charge stored in the battery- When the charge is the electrolyte will appear to be low, therefore the distilled water should only Iow,
+Add only distilled water when liquid level is low. The battery electrolyte level is related to the amount of electrical charge stored in the battery. When the charge is low, the electrolyte will appear to be low, therefore the distilled water should only be added when the battery is fully charged.
 
-## BATTERY OVERHEAT FACTORS
+### BATTERY OVERHEAT FACTORS
 
 Battery overheating can be caused or accelerated by the following factors:
 
-- 1 \_ Frequent engine starts and excessive engine cranking:
-- Airplane generator bus voltage too high.
-3. Improper charging:
-4. Unnecessary use of the airplane battery to run auxiliary equipment such as lights, avionics equipment, ventilation systems, etc-, during ground operations
-5. Loose cell-to-cell connectors (links):
-6. Ground operations using power units with voltage settings higher than the recommended airplane bus volt-
+1. Frequent engine starts and excessive engine cranking.
+2. Airplane generator bus voltage too high.
+3. Improper charging.
+4. Unnecessary use of the airplane battery to run auxiliary equipment such as lights, avionics equipment, ventilation systems, etc., during ground operations.
+5. Loose cell-to-cell connectors (links).
+6. Ground operations using power units with voltage settings higher than the recommended airplane bus voltage, or power units with poor regulation.
 
-## MAINTENANCE PRACTICES TO PREVENT BATTERY OVERHEATING
+### MAINTENANCE PRACTICES TO PREVENT BATTERY OVERHEATING
 
-1. Service the battery at the interval recommended in the maintenance manual; however; more frequent servicing may be necessary, depending upon the type of operation to which the airplane is subjected:
-2. The voltage regulators should be checked periodically for proper calibration, thereby reducing the possibility of overcharging and concurrent rise in battery temperature
+1. Service the battery at the interval recommended in the maintenance manual; however, more frequent servicing may be necessary, depending upon the type of operation to which the airplane is subjected.
+2. The voltage regulators should be checked periodically for proper calibration, thereby reducing the possibility of overcharging and concurrent rise in battery temperature.
 3. Keep battery loads to a minimum during extended ground operation.
-4. 4 Reduce the probability of localized heating of the cells by checking torque values of the cell-to-cell connectors
-6. observe the following:
-- a. Provide adequate ventilation for the battery compartment
-- b. The auxiliary power unit voltage should not exceed the specified airplane voltage. Make certain the unit is well regulated and that its ammeters are accurate.
-8. Open the battery cavity during charging, to allow visual monitoring and increased ventilation.
+4. Reduce the probability of localized heating of the cells by checking torque values of the cell-to-cell connectors.
+5. Keep battery clean.
+6. When charging the battery with an auxiliary power unit, observe the following:
+   1. Provide adequate ventilation for the battery compartment.
+   2. The auxiliary power unit voltage should not exceed the specified airplane voltage. Make certain the unit is well regulated and that its ammeters are accurate.
+   3. Open the battery cavity during charging, to allow visual monitoring and increased ventilation.
 
-## tirES
+## TIRES
 
 The airplane is equipped with dual tires on the main gear, and a single tire on the nose gear. The standard configuration features 18x5.5, 8-ply-rated (or optionally, 10-ply-rated) tubeless tires on the main gear, and a 22x6.75-10, 8-ply-rated tire is installed on the nose gear.
 
-Airplanes equipped with the optional high flotation landing gear are equipped with 22x6.75-10, 8-ply-rated tubeless tires on the main and on the nose gear gear.
+Airplanes equipped with the optional high flotation landing gear are equipped with 22x6.75-10, 8-ply-rated tubeless tires on the main gear and on the nose gear.
+
+**CAUTION**
+
+Tires that have picked up a film of fuel, hydraulic fluid, or oil should be washed down as soon as possible, in order to prevent deterioration of the rubber.
 
 ![Image](KA-200-B200-POH_imagens/p00350_03.png)
 
-Tires that have picked up a film of fuel, hydraulic fluid, or oil should be washed down as soon as possible, in order to prevent deterioration of the rubber:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-Maintaining proper tire inflation pressures will help prolong tire service life. Check tires frequently to maintain pressures within recommended limits, and maintain equal pressures on both tires of each dual-wheel installation. Proper inflation pressures will help avoid damage from landing shocks; contact with sharp stones and ruts, and will minimize tread wear: When inflating the tires, inspect them for cuts, cracks, breaks, and tread wear\_
-
-## NOTE
-
-This procedure is recommended only for those airplanes equipped with rim-inflated tubeless tires: The leak rate of tires to be sealed by this method should not exceed 5% over a 24-hour period:
-
-Refer to the Beech Super King Air 200 Series Maintenance Manual for more detailed inspection and repair procedures:
-
-Inflate the standard main wheel tires (18x5.5) to 96 +2 Inflate the optional high flotation main wheel tires (22x6.7510) to 62 +2 psi  Both the standard and high flotation configuration nose wheel tires should be inflated to between 55 and 60 psi
-
-## Raytheon Aircraft
+Maintaining proper tire inflation pressures will help prolong tire service life. Check tires frequently to maintain pressures within recommended limits, and maintain equal pressures on both tires of each dual-wheel installation. Proper inflation pressures will help avoid damage from landing shocks, contact with sharp stones and ruts, and will minimize tread wear. When inflating the tires, inspect them for cuts, cracks, breaks, and tread wear.
 
 ## NOTE
 
-## BRAKE SYSTEM
+This procedure is recommended only for those airplanes equipped with rim-inflated tubeless tires. The leak rate of tires to be sealed by this method should not exceed 5% over a 24-hour period.
 
-While Raytheon Aircraft Company cannot recommend the use of recapped tires, tires retreaded by an FAA-approved repair station with a specialized service-limited rating tor TSOC62c may be used.
+Refer to the *Beech Super King Air 200 Series Maintenance Manual* for more detailed inspection and repair procedures.
 
-Brake servicing is limited to maintaining adequate fluid in the reservoir mounted on the bulkhead in the upper left corner of the nose avionics compartment: A dipstick is provided as part of the reservoir lid to measure the fluid level. When the fluid is low, add sufficient quantity of approved hydraulic fluid to raise the level to the full mark on the dipstick
+Inflate the standard main wheel tires (18x5.5) to 96 ±2 psi. Inflate the optional high flotation main wheel tires (22x6.75-10) to 62 ±2 psi. Both the standard and high flotation configuration nose wheel tires should be inflated to between 55 and 60 psi.
+
+*(8-7)*
+
+![Image](KA-200-B200-POH_imagens/p00351_02.png)
+
+*Imagem: pequeno ícone gráfico (marcador de nota) que acompanha o NOTE abaixo.*
+
+## NOTE
+
+While Raytheon Aircraft Company cannot recommend the use of recapped tires, tires retreaded by an FAA-approved repair station with a specialized service-limited rating for TSO-C62c may be used.
 
 ## SHOCK STRUTS
 
 Servicing the shock struts is normally part of each 200-hour phase inspection procedure. If it becomes necessary to service the shock struts due to the leakage of either the hydraulic oil or the air, the following procedure should be followed:
 
+**WARNING**
+
+Release the air pressure entirely before removing the valve adapter.
+
+NEVER FILL SHOCK STRUTS WITH OXYGEN.
+
 ![Image](KA-200-B200-POH_imagens/p00351_01.png)
 
-Release the air pressure entirely before removing the valve adapter:
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
 
-NEVER FILL SHOCK STRUTS WITH
+### NOSE GEAR STRUT
 
-## NOSE GEAR STRUT
+1. Release all of the air from the strut by depressing the core of the air valve on top of the strut.
+2. Remove the air valve and wipe clean. With the strut fully compressed, the end of the filler neck on the air valve should touch the oil. If the oil is below this level, add approved hydraulic fluid. Reinstall and safety the air valve.
+3. With the airplane empty except for full fuel and oil, inflate the nose gear until the inner cylinder is extended approximately 3 to 3.5 inches.
 
-- 1\_ Release all of the air the strut by depressing the core Of the air valve on of the strut: from top
-- 2 Remove the air valve and wipe clean. With the strut fully compressed, the end of the filler neck on the air valve should touch the oil. If the oil is below this level, add approved hydraulic fluid. Reinstall and safety the air valve
-- 3 With the airplane empty except for full fuel and oil, inflate the nose gear until the inner cylinder is extended approximately 3 to 3.5 inches:
+### MAIN GEAR STRUT
 
-## MAIN GEAR STRUT
+1. Release all of the oil from the strut through the air valve, and remove the core from the valve.
+2. Fully compress the strut and attach a small hose over the air valve and immerse the other end of the hose in hydraulic fluid. Slowly extending the strut will create a partial vacuum, thereby drawing the oil into the cylinder. Cycling the strut slightly as it is extended will expel any trapped air. Slowly return the strut to the fully compressed position; this will force the excess oil back into the container, and the strut will be properly filled with oil.
+3. With the airplane empty except for full fuel and oil, inflate the strut until the inner cylinder is extended approximately 3.93 to 4.19 inches. If the optional high flotation gear is installed, inflate the strut until the inner cylinder is extended approximately 5.56 to 5.93 inches.
 
-- 1 . Release all of the oil from the strut through the air valve, and remove the core from the valve.
-2. Fully compress the strut and attach a small hose over the air valve and immerse the other end of the hose in hydraulic fluid  Slowly extending the strut will create a partial vacuum, thereby drawing the oil into the cylinder Cycling the strut slightly as it is extended will expel any trapped air. Slowly return the strut to the fully compressed position; this will force the excess oil back into the container, and the strut will be properly filled with oil.
-3. With the airplane empty except for full fuel and oil, inflate the strut until the inner cylinder is extended approximately 3.93 to 4.19 inches. If the optional high flotation gear is installed, inflate the strut until the inner cylinder is extended approximately 5.56 to 5.93 inches
+## BRAKE SYSTEM
 
-![Image](KA-200-B200-POH_imagens/p00351_02.png)
+Brake servicing is limited to maintaining adequate fluid in the reservoir mounted on the bulkhead in the upper left corner of the nose avionics compartment. A dipstick is provided as part of the reservoir lid to measure the fluid level. When the fluid is low, add sufficient quantity of approved hydraulic fluid to raise the level to the full mark on the dipstick.
 
-Brake assemblies are equipped with automatic adjusters to assure a positive clearance between disc and lining when the brakes are not applied:
+Brake assemblies are equipped with automatic adjusters to assure a positive clearance between disc and lining when the brakes are not applied.
 
-Each wheel cylinder (except those airplanes equipped with optional brake deice) is provided with a means of conveniently checking brake wear The distance between the piston housing and the lining carrier will increase with lining wear. When the distance exceeds 0.250 inch (as indicated by the accompanying illustration) the brakes should be replaced. This check should be accomplished with brake pressure applied. For more detail on servicing of the wheels and brakes, and airplanes equipped with brake deice, refer to the Beech Super King Air 200 Series Maintenance Manual.
+Each wheel cylinder (except those airplanes equipped with optional brake deice) is provided with a means of conveniently checking brake wear. The distance between the piston housing and the lining carrier will increase with lining wear. When the distance exceeds 0.250 inch (as indicated by the accompanying illustration) the brakes should be replaced. This check should be accomplished with brake pressure applied. For more detail on servicing of the wheels and brakes, and airplanes equipped with brake deice, refer to the *Beech Super King Air 200 Series Maintenance Manual*.
 
 ## OIL SYSTEM
 
-Servicing the engine oil system primarily involves maintaining the engine oil at the proper level, inspecting and cleaning or replacing the filter element, and changing the oil as conditions require. See the Beech Super King Air 200 Series Maintenance Manual and Pratt and Whitney Service Bulletin 3001 for oil system servicing procedures and requirements.
+Servicing the engine oil system primarily involves maintaining the engine oil at the proper level, inspecting and cleaning or replacing the filter element, and changing the oil as conditions require. See the *Beech Super King Air 200 Series Maintenance Manual* and Pratt and Whitney Service Bulletin 3001 for oil system servicing procedures and requirements.
+
+**CAUTION**
+
+Do not mix different brands of oil when adding oil between oil changes. Different brands or types of oil may be incompatible because of the difference in their chemical structures.
 
 ![Image](KA-200-B200-POH_imagens/p00351_03.png)
 
-Do not mix different brands of oi} when adding oil between oil changes. Different brands or types of oil may be incompatible because of the difference in their chemical structures:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-The oil tank is provided with an oil filler neck and quantity dipstick cap which protrude through the accessory gearcase at the eleven-0'clock position: The dipstick is marked in U.S: quarts and indicates the last five quarts required to bring the system up full. Access to the dipstick cap is gained through an access door on the aft engine cowl Service the oil system with oil as specified in Pratt and Whitney SB 3001. Do not mix different oil brands together. Total oil tank capacity is 2.3 U. S. gallons. When a engine is first serviced, it will require approximately 5 quarts in addition to tank capacity to fill the lines and cooler, giving a total system capacity of 14 U.S. quarts (3.50 U.S. gallons): The engine will approximately 1.5 quarts which cannot be drained; therefore, when performan oil change, refill the system with 12 quarts and add additional oil based on the dipstick reading: While the airplane is standing idle, engine oil could possibly seep into the scavenge pump reservoir, causing a low dipstick reading: dry ing
+The oil tank is provided with an oil filler neck and quantity dipstick cap which protrude through the accessory gearcase at the eleven-o'clock position. The dipstick is marked in U.S. quarts and indicates the last five quarts required to bring the system up full. Access to the dipstick cap is gained through an access door on the aft engine cowl. Service the oil system with oil as specified in Pratt and Whitney SB 3001. Do not mix different oil brands together. Total oil tank capacity is 2.3 U.S. gallons. When a dry engine is first serviced, it will require approximately 5 quarts in addition to tank capacity to fill the lines and cooler, giving a total system capacity of 14 U.S. quarts (3.50 U.S. gallons). The engine will trap approximately 1.5 quarts which cannot be drained; therefore, when performing an oil change, refill the system with 12 quarts and add additional oil based on the dipstick reading. While the airplane is standing idle, engine oil could possibly seep into the scavenge pump reservoir, causing a low dipstick reading.
 
 ## Raytheon Aircraft
 
