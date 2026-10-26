@@ -10073,244 +10073,277 @@ Do not mix different brands of oil when adding oil between oil changes. Differen
 
 The oil tank is provided with an oil filler neck and quantity dipstick cap which protrude through the accessory gearcase at the eleven-o'clock position. The dipstick is marked in U.S. quarts and indicates the last five quarts required to bring the system up full. Access to the dipstick cap is gained through an access door on the aft engine cowl. Service the oil system with oil as specified in Pratt and Whitney SB 3001. Do not mix different oil brands together. Total oil tank capacity is 2.3 U.S. gallons. When a dry engine is first serviced, it will require approximately 5 quarts in addition to tank capacity to fill the lines and cooler, giving a total system capacity of 14 U.S. quarts (3.50 U.S. gallons). The engine will trap approximately 1.5 quarts which cannot be drained; therefore, when performing an oil change, refill the system with 12 quarts and add additional oil based on the dipstick reading. While the airplane is standing idle, engine oil could possibly seep into the scavenge pump reservoir, causing a low dipstick reading.
 
-## Raytheon Aircraft
+*(8-8)*
 
-Anytime an engine has been shut down for 12 hours or more, or if the oil has just been changed, run the engine for at least two minutes before checking the oil level
+Anytime an engine has been shut down for 12 hours or more, or if the oil has just been changed, run the engine for at least two minutes before checking the oil level.
 
 ## NOTE
 
-The normal oil level is at the one quart mark Overfilling may cause a discharge of oil through the breather until a satisfactory level is reached:
+The normal oil level is at the one quart mark. Overfilling may cause a discharge of oil through the breather until a satisfactory level is reached.
 
-![Image](KA-200-B200-POH_imagens/p00352_01.png)
+**CAUTION**
 
 Spilled oil should be removed immediately to prevent possible tire contamination or damage.
 
+![Image](KA-200-B200-POH_imagens/p00352_01.png)
+
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
+
 ## CHANGING THE ENGINE OIL
+
+**CAUTION**
+
+When changing to a different brand of oil, completely drain the airplane oil system. Remove the oil filter and immerse it in the brand of oil to be used. Reinstall the oil filter and drain plugs. Fill the system to the proper level, and ground run the engine for 20 minutes to thoroughly circulate the new brand of oil throughout the system. Completely drain the airplane oil system and again remove the oil filter and immerse it in the new brand of oil. Refill the airplane oil system. This will prevent chemical interaction between it and the new brand.
 
 ![Image](KA-200-B200-POH_imagens/p00352_02.png)
 
-When changing to a different brand of oil, completely drain the airplane oil system. Remove the oil filter and immerse it in the brand of oil to be used. Reinstall the oil filter and drain plugs Fill the system to the proper level, and ground run the engine for 20 minutes to thoroughly circulate the new brand of oil throughout the system. Completely drain the airplane oil system and again remove the oil filter and immerse it in the new brand of oil. Refill the airplane oil system. This will prevent chemical interaction between it and the new brand:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-Refer to the Beech Super King Air 200 Series Maintenance Manual for detailed procedures for changing the engine oil.
+Refer to the *Beech Super King Air 200 Series Maintenance Manual* for detailed procedures for changing the engine oil.
 
 ## OIL FILTER SERVICING
 
-The engine oil filter is located under the square coverplate at the three-0'clock position of the compressor inlet case and just behind the aft fire seal. The filter element should be replaced according to the time periods specified in the Beech Super King Air 200 Series Maintenance Manual
+The engine oil filter is located under the square coverplate at the three-o'clock position of the compressor inlet case and just behind the aft fire seal. The filter element should be replaced according to the time periods specified in the *Beech Super King Air 200 Series Maintenance Manual*.
+
+**CAUTION**
+
+This filter element is not cleanable and must be replaced if it has been subjected to ultrasonic cleaning, or heavy contamination from the engine oil system.
 
 ![Image](KA-200-B200-POH_imagens/p00352_03.png)
 
-This filter element is not cleanable and must be replaced if it has been subjected to ultrasonic cleaning, or heavy contamination from the engine oil system
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-Light contaminants collected on the external protective screen may be removed by hand flushing the element with Varsol, The filter element may be removed; inspected, and replaced in accordance with the Beech Super King Air 200
+Light contaminants collected on the external protective screen may be removed by hand flushing the element with Varsol. The filter element may be removed, inspected, and replaced in accordance with the *Beech Super King Air 200 Series Maintenance Manual*.
 
 ## FUEL SYSTEM
 
-## FUEL HANDLING PRACTICES
+### FUEL HANDLING PRACTICES
 
-AII hydrocarbon fuels contain some dissolved, suspended water. The quantity of water contained in the fuel depends on temperature and the type of fuel. Kerosene, with its higher aromatic content, tends to absorb and suspend more water than aviation gasoline. with the water, it will suspend rust, and other foreign materials longer. Given sufficient time, these suspended contaminants will settle to the bottom of the tank: However, the settling time for kerosene is five times that of aviation gasoline. Due to this fact, jet fuels require good fuel handling practices to assure that the airplane is serviced with clean fuel. If recommended ground procedures are carefully followed, solid contaminants will settle and free water can be reduced to 30 parts per million (ppm) , a value that is currently accepted by the major airlines. Since most suspended matter can be removed from the fuel by sufficient settling time and proper filtration, it is not a major problem. Dissolved water has been found to be the major fuel contamination problem. Its effects are multiplied in airplanes operating primarily in humid regions and warm climates. Along lint,
+All hydrocarbon fuels contain some dissolved, suspended water. The quantity of water contained in the fuel depends on temperature and the type of fuel. Kerosene, with its higher aromatic content, tends to absorb and suspend more water than aviation gasoline. Along with the water, it will suspend rust, lint, and other foreign materials longer. Given sufficient time, these suspended contaminants will settle to the bottom of the tank. However, the settling time for kerosene is five times that of aviation gasoline. Due to this fact, jet fuels require good fuel handling practices to assure that the airplane is serviced with clean fuel. If recommended ground procedures are carefully followed, solid contaminants will settle and free water can be reduced to 30 parts per million (ppm), a value that is currently accepted by the major airlines. Since most suspended matter can be removed from the fuel by sufficient settling time and proper filtration, it is not a major problem. Dissolved water has been found to be the major fuel contamination problem. Its effects are multiplied in airplanes operating primarily in humid regions and warm climates.
 
-Dissolved water cannot be filtered from the fuel with micronic type filters, but can be released by lowering the fuel temperexample, a kerosene fuel may contain 65 ppm (8 fl 0z per 1000 gallons) of dissolved water at 809F. When the fuel temperature is lowered to 15*F, only about 25 ppm will remain in solution. The difference of 40 ppm will have been released as supercooled water droplets which need only a piece of solid contaminant or an impact shock to convert them to ice crystals. Tests indicate that these water droplets will not settle since the specific gravity of ice is approximately equal to that of kerosene. The 40 ppm of suspended water seems like a very small quantity, but when added to suspended water in the fuel at the time of delivery, is sufficient to a filter. While the critical fuel temperature range is from 0PF to ~209F, which produces severe system icing; water droplets can freeze at any temperature For ice
+Dissolved water cannot be filtered from the fuel with micronic type filters, but can be released by lowering the fuel temperature, such as will occur in flight. For example, a kerosene fuel may contain 65 ppm (8 fl oz per 1000 gallons) of dissolved water at 80°F. When the fuel temperature is lowered to 15°F, only about 25 ppm will remain in solution. The difference of 40 ppm will have been released as supercooled water droplets which need only a piece of solid contaminant or an impact shock to convert them to ice crystals. Tests indicate that these water droplets will not settle since the specific gravity of ice is approximately equal to that of kerosene. The 40 ppm of suspended water seems like a very small quantity, but when added to suspended water in the fuel at the time of delivery, is sufficient to ice a filter. While the critical fuel temperature range is from 0°F to -20°F, which produces severe system icing, water droplets can freeze at any temperature below 32°F.
 
-Water in jet fuel also creates an environment favorable to the growth of microbiological sludge in the settlement areas of the fuel cells: This sludge, plus other contaminants in the fuel, can cause corrosion of metal parts in the fuel system as well as clogging of the fuel filters:
+Water in jet fuel also creates an environment favorable to the growth of microbiological sludge in the settlement areas of the fuel cells. This sludge, plus other contaminants in the fuel, can cause corrosion of metal parts in the fuel system as well as clogging of the fuel filters.
 
-Since fuel temperature and settling time affect total water content and foreign matter suspension, contamination can be minimized by keeping equipment clean: Use adequate filtration equipment and careful water drainage procedures, store the fuel in the coolest areas possible, and allow adequate settling time. Underground storage is recommended for fuels. Filtering the fuel each time it is transferred will minimize the quantity of suspended contaminants carried by the fuel.
+Since fuel temperature and settling time affect total water content and foreign matter suspension, contamination can be minimized by keeping equipment clean. Use adequate filtration equipment and careful water drainage procedures, store the fuel in the coolest areas possible, and allow adequate settling time. Underground storage is recommended for fuels. Filtering the fuel each time it is transferred will minimize the quantity of suspended contaminants carried by the fuel.
 
-## Raytheon Aircraft
+*(8-9)*
 
-The primary means of contamination control by the ownerl operator is careful handling: This applies not only to fuel sup ply, but to keeping the airplane system clean The following is a list of steps that may be taken to prevent and recognize contamination problems
+The primary means of contamination control by the owner/operator is careful handling. This applies not only to fuel supply, but to keeping the airplane system clean. The following is a list of steps that may be taken to prevent and recognize contamination problems.
 
 1. Know your supplier. It is impractical to assume that fuel free of contaminants will always be available, but it is feasible to exercise precaution and be watchful for signs of fuel contamination.
-2. 2 Assure, as much as possible, that the fuel obtained has been properly stored, filtered as it is pumped to the truck, and filtered again as it is pumped from the truck to the airplane.
-3. 3 Perform filter   inspections to determine if sludge is present.
-4. Periodically flush the fuel tanks and systems The frequency of flushing should be determined by the climate and the presence of sludge.
-5. Use only clean fuel servicing equipment
-6. 6 Atter refueling, allow a three hour settle period, whenever possible, then drain a small amount of fuel from each drain:
+2. Assure, as much as possible, that the fuel obtained has been properly stored, filtered as it is pumped to the truck, and filtered again as it is pumped from the truck to the airplane.
+3. Perform filter inspections to determine if sludge is present.
+4. Periodically flush the fuel tanks and systems. The frequency of flushing should be determined by the climate and the presence of sludge.
+5. Use only clean fuel servicing equipment.
+6. After refueling, allow a three hour settle period, whenever possible, then drain a small amount of fuel from each drain.
+
+**CAUTION**
+
+Fuel spills on tires have a deteriorating effect and the tires should be cleaned promptly.
 
 ![Image](KA-200-B200-POH_imagens/p00353_01.png)
 
-Fuel spills on tires have a deteriorating effect and the tires should be cleaned promptly:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-## FILLING THE TANKS
+### FILLING THE TANKS
 
 When filling the airplane fuel tanks, always observe the following:
 
-- 1 Make sure the airplane is statically grounded to the servicing unit and that the airplane and servicing unit are both grounded to ground:
-- 2 The main filler cap is located on top of the outboard wing section, and the auxiliary filler cap is located on top of the center wing section. Do not rest fuel nozzle in tank filler neck, because this may damage the filler neck
+1. Make sure the airplane is statically grounded to the servicing unit and that the airplane and servicing unit are both grounded to ground.
+2. The main filler cap is located on top of the outboard wing section, and the auxiliary filler cap is located on top of the center wing section. Do not rest fuel nozzle in tank filler neck, because this may damage the filler neck.
 
-![Image](KA-200-B200-POH_imagens/p00353_02.png)
+**WARNING**
 
 Do not fill auxiliary tanks unless main tanks are full.
 
-3. Allow a three-hour settle period whenever possible, then drain a small amount of fuel into a container from each drain point  Check fuel at each drain point for contamination:
+![Image](KA-200-B200-POH_imagens/p00353_02.png)
 
-## FUEL GRADES AND TYPES
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
 
-Aviation Kerosene Grades Jet A, Jet A-1, Jet B, JP-4, JP-5, and JP-8 may be mixed in any ratio. Aviation Gasoline Grades 80 (80/87), 100 (100/130), 1OOLL, and 115/145 are emergency fuels and may be mixed with the recommended fuels in any ratio; however; use of the lowest octane rating available is recommended. Operation on Aviation Gasoline shall be limited to 150 hours per engine during each timebetween-overhaul (TBO) period  Refer to LIMITATIONS Section for additional limitations on the use of Aviation Gasoline:
+3. Allow a three-hour settle period whenever possible, then drain a small amount of fuel into a container from each drain point. Check fuel at each drain point for contamination.
+
+### FUEL GRADES AND TYPES
+
+Aviation Kerosene Grades Jet A, Jet A-1, Jet B, JP-4, JP-5, and JP-8 may be mixed in any ratio. Aviation Gasoline Grades 80 (80/87), 100 (100/130), 100LL, and 115/145 are emergency fuels and may be mixed with the recommended fuels in any ratio; however, use of the lowest octane rating available is recommended. Operation on Aviation Gasoline shall be limited to 150 hours per engine during each time-between-overhaul (TBO) period. Refer to LIMITATIONS Section for additional limitations on the use of Aviation Gasoline.
+
+**CAUTION**
+
+Do not allow the fuel cells to dry out and crack. At a later servicing, the cracks would allow fuel to diffuse through the walls of the fuel cell. If any fuel cell is to remain empty for an extended interval, ensure that the fuel cells last contained jet fuel; if the fuel cells last contained aviation gasoline, coat them with oil.
 
 ![Image](KA-200-B200-POH_imagens/p00353_03.png)
 
-Do not allow the fuel cells to dry out and crack At a later servicing, the cracks would allow fuel to diffuse through the walls of the fuel cell: If any fuel cell is to remain erpty for an extended interval, ensure that the fuel cells last contained jet fuel; if the fuel cells last contained aviation gasoline, coat them with oil.
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-## DRAINING THE MAIN FUEL SYSTEM
+### DRAINING THE MAIN FUEL SYSTEM
 
-rapid defueling adapter is installed in the nacelle tank sump strainer \_ A valve in the adapter opens as a standard AN-type fuel connector is screwed into the adapter. This facilitates rapid, complete draining of the main fuel system.
+A rapid defueling adapter is installed in the nacelle tank sump strainer. A valve in the adapter opens as a standard AN-type fuel connector is screwed into the adapter. This facilitates rapid, complete draining of the main fuel system.
 
-## DRAINING THE AUXILIARY FUEL SYSTEM
+### DRAINING THE AUXILIARY FUEL SYSTEM
 
-The auxiliary fuel system can be drained by either transferring it to the main system with the transfer system, or by draining it into a container by removing the drain plug located in the bottom of the auxiliary tank sump strainer:
+The auxiliary fuel system can be drained by either transferring it to the main system with the transfer system, or by draining it into a container by removing the drain plug located in the bottom of the auxiliary tank sump strainer.
 
-The auxiliary tank need not be drained to replace the standby fuel pump:
+The auxiliary tank need not be drained to replace the standby fuel pump.
 
-## ENGINE FUEL FILTERS AND SCREENS
+### ENGINE FUEL FILTERS AND SCREENS
 
 ## NOTE
 
 Inspect fuel filters and screens any time fuel that is suspected of contamination has been used. In addition to such precautions, all fuel filters and the tank should be cleaned any time the submerged boost pump is removed.
 
-## CLEANING FIREWALL FUEL FILTERS AND ENGINE DRIVEN FUEL PUMP FILTER
+### CLEANING FIREWALL FUEL FILTERS AND ENGINE DRIVEN FUEL PUMP FILTER
 
-Refer to the Beech Super King Air 200 Series Maintenance Manual for cleaning and replacement of the firewall fuel filters.
+Refer to the *Beech Super King Air 200 Series Maintenance Manual* for cleaning and replacement of the firewall fuel filters.
 
-Refer to the Pratt and Whitney Engine Maintenance Manual for the PT6A-41/42 engine for proper servicing procedures for the engine driven fuel pump screens and filters:
+Refer to the *Pratt and Whitney Engine Maintenance Manual* for the PT6A-41/42 engine for proper servicing procedures for the engine driven fuel pump screens and filters.
 
-## P3 AIR FILTER
+*(8-10)*
 
-An air filter is installed in the P3 air line between the gas erator case and the fuel control unit. The filter is located on the lower right side of the engine immediately aft of the rear fireseal mount ring: Inspect andlor replace in accordance with the Beech Super King Air 200 Series Maintenance Manual. gen-
+### P3 AIR FILTER
 
-## INSTRUMENT VACUUM AIR
+An air filter is installed in the P3 air line between the gas generator case and the fuel control unit. The filter is located on the lower right side of the engine immediately aft of the rear fireseal mount ring. Inspect and/or replace in accordance with the *Beech Super King Air 200 Series Maintenance Manual*.
 
-Vacuum for the flight instruments is obtained by operating an ejector with bleed air from the engines. During operation;, the ejector draws air in through the instrument filter and the gyros: A vacuum relief regulator valve regulates instrument pressure
+### INSTRUMENT VACUUM AIR
 
-## Raytheon Aircraft
+Vacuum for the flight instruments is obtained by operating an ejector with bleed air from the engines. During operation, the ejector draws air in through the instrument filter and the gyros. A vacuum relief regulator valve regulates instrument pressure.
 
-recharging cart into the system and permitting oxygen to flow through the lines and outlets until any offensive odors have been carried away\_ The following precautions should be observed when purging or servicing the oxygen system:
+The instrument filter, located at the top of the avionics compartment, is of prime importance and should be replaced in accordance with the *Beech Super King Air 200 Series Maintenance Manual*, or more often if conditions warrant (smoky, dusty conditions).
 
-- 1\_ Avoid any operation that could create sparks Keep all burning cigarettes or fire away from the vicinity of the airplane when the outlets are in use\_
-2. Inspect the filler connection cleanliness before attaching it to the filler valve.
-3. Make sure that your hands, tools, and clothing are clean, particularly of grease or oil stains, for these contaminants are extremely dangerous in the vicinity of oxygen:
-
-The instrument filter, located at the of the avionics compartment; is of prime importance and should be replaced in accordance with the Beech Super King Air 200 Series Maintenance Manual, or more often if conditions warrant (smoky, dusty conditions) top
-
-The vacuum relief regulator valve, located on the forward pressure bulkhead in the bottom of the avionics compartment; is protected by a foam sponge type filter which should be cleaned in accordance with the Beech Super King Air 200 Series Maintenance Manual. If vacuum pressure rises above reading, clean the filter and recheck vacuum pressure before attempting to adjust the valve:
+The vacuum relief regulator valve, located on the forward pressure bulkhead in the bottom of the avionics compartment, is protected by a foam sponge type filter which should be cleaned in accordance with the *Beech Super King Air 200 Series Maintenance Manual*. If vacuum pressure rises above a normal reading, clean the filter and recheck vacuum pressure before attempting to adjust the valve.
 
 ## SERVICING THE OXYGEN SYSTEM
 
-## OXYGEN COMPONENTS
+### OXYGEN COMPONENTS
 
-Oxygen for unpressurized; high-altitude flight is supplied by a cylinder located in the compartment immediately aft of the aft pressure bulkhead A 22-, 49-, 66-, 76-, or 115-cubic-footcylinder may be installed  The oxygen system is serviced by a filler valve accessible by removing an access plate on the right side of the aft fuselage: The system has two pressure gages, one located on the right subpanel in the crew compartment for in-flight use, and one adjacent to the filler valve for checking system pressure during filling:
+Oxygen for unpressurized, high-altitude flight is supplied by a cylinder located in the compartment immediately aft of the aft pressure bulkhead. A 22-, 49-, 66-, 76-, or 115-cubic-foot cylinder may be installed. The oxygen system is serviced by a filler valve accessible by removing an access plate on the right side of the aft fuselage. The system has two pressure gages, one located on the right subpanel in the crew compartment for in-flight use, and one adjacent to the filler valve for checking system pressure during filling.
 
-Refer to OXYGEN SYSTEM SCHEMATIC in Section VII; SYSTEMS DESCRIPTION:
+Refer to OXYGEN SYSTEM SCHEMATIC in Section VII, SYSTEMS DESCRIPTION.
 
-A shutoff valve and regulator, located on the cylinder, controls the flow of oxygen to the crew and passenger outlets. The shutoff valve is actuated by a push-pull type control located aft of the overhead light control in the cockpit. The regulator is a constant-ilow type which supplies low pressure oxygen through system plumbing to the outlets.
+A shutoff valve and regulator, located on the cylinder, controls the flow of oxygen to the crew and passenger outlets. The shutoff valve is actuated by a push-pull type control located aft of the overhead light control in the cockpit. The regulator is a constant-flow type which supplies low pressure oxygen through system plumbing to the outlets.
 
-## OXYGEN SYSTEM PURGING
+### OXYGEN SYSTEM PURGING
 
-Otfensive odors may be removed from the oxygen system by purging: The system should also be purged anytime system pressure drops below 50 psi, or a line in the system is opened. Purging is accomplished simply by connecting a
+Offensive odors may be removed from the oxygen system by purging. The system should also be purged anytime system pressure drops below 50 psi, or a line in the system is opened. Purging is accomplished simply by connecting a recharging cart into the system and permitting oxygen to flow through the lines and outlets until any offensive odors have been carried away. The following precautions should be observed when purging or servicing the oxygen system:
 
-- As a further precaution against fire, open and close all oxygen valves slowly during filling:
+1. Avoid any operation that could create sparks. Keep all burning cigarettes or fire away from the vicinity of the airplane when the outlets are in use.
+2. Inspect the filler connection for cleanliness before attaching it to the filler valve.
+3. Make sure that your hands, tools, and clothing are clean, particularly of grease or oil stains, for these contaminants are extremely dangerous in the vicinity of oxygen.
+4. As a further precaution against fire, open and close all oxygen valves slowly during filling.
 
-## FILLING THE OXYGEN SYSTEM
+### FILLING THE OXYGEN SYSTEM
 
-When the oxygen system, only use Aviators Breathing Oxygen, MIL-0-27210. filling
+When filling the oxygen system, only use Aviator's Breathing Oxygen, MIL-O-27210.
 
-![Image](KA-200-B200-POH_imagens/p00354_01.png)
+**WARNING**
 
 DO NOT USE MEDICAL or INDUSTRIAL OXYGEN. It contains moisture which can cause the oxygen valve to freeze.
 
-Fill the oxygen system slowly by adjusting the recharging rate with the pressure regulating valve on the servicing cart, because the oxygen, under high pressure, will cause excessive heating of the filler valve. Fill the cylinder (22-cubic-foot cylinder installation) to a pressure of 1800 + 50 psi at a temperature of 70PF. This pressure may be increased an additional 3.5 psi for each degree of increase in temperature; similarly, for each degree of drop in temperature, reduce the pressure for the cylinder by 3.5 psi. The oxygen system, after filling, will need to cool and stabilize for a short period before an accurate reading on the gage can be obtained. The 49\_ 64-, 76-, or 115-cubic-toot cylinders may be charged to a pressure of 1850 # 50 psi at a temperature of 609F. When the system is properly charged, disconnect the filler hose from the filler valve and replace the protective cap on the filler valve.
+![Image](KA-200-B200-POH_imagens/p00354_01.png)
 
-## OXYGEN CYLINDER RETESTING
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
 
-Oxygen cylinders used in the airplane are of two types: Light weight cylinders, stamped "3HT" on the plate on the side, must be hydrostatically tested every three years and the test date stamped on the cylinder. This bottle has a service life of 4,380 pressurizations or 24 years, whichever occurs first; and then must be discarded: Regular weight cylinders, stamped or "3AA must be hydrostatically tested every five years and stamped with the retest date. Service life on these cylinders is not limited:
+Fill the oxygen system slowly by adjusting the recharging rate with the pressure regulating valve on the servicing cart, because the oxygen, under high pressure, will cause excessive heating of the filler valve. Fill the cylinder (22-cubic-foot cylinder installation) to a pressure of 1800 ± 50 psi at a temperature of 70°F. This pressure may be increased an additional 3.5 psi for each degree of increase in temperature; similarly, for each degree of drop in temperature, reduce the pressure for the cylinder by 3.5 psi. The oxygen system, after filling, will need to cool and stabilize for a short period before an accurate reading on the gage can be obtained. The 49-, 64-, 76-, or 115-cubic-foot cylinders may be charged to a pressure of 1850 ± 50 psi at a temperature of 60°F. When the system is properly charged, disconnect the filler hose from the filler valve and replace the protective cap on the filler valve.
 
-## Raytheon Aircraft
+*Nota do transcritor: divergência interna do original — em OXYGEN COMPONENTS a lista de cilindros é "22-, 49-, 66-, 76-, or 115-cubic-foot" e em FILLING THE OXYGEN SYSTEM é "49-, 64-, 76-, or 115-cubic-foot". Ambos os trechos foram transcritos exatamente como impressos.*
+
+### OXYGEN CYLINDER RETESTING
+
+Oxygen cylinders used in the airplane are of two types. Light weight cylinders, stamped "3HT" on the plate on the side, must be hydrostatically tested every three years and the test date stamped on the cylinder. This bottle has a service life of 4,380 pressurizations or 24 years, whichever occurs first, and then must be discarded. Regular weight cylinders, stamped "3A" or "3AA", must be hydrostatically tested every five years and stamped with the retest date. Service life on these cylinders is not limited.
+
+*(8-11)*
 
 ## AIR CONDITIONER
 
-If an extended period of time occurs during which the air conditioning system is not operated, moisture may condense and settle in the system low spots, resulting in corrosion of the refrigerant lines. Also, the system seals may dry out, shrink, and crack; due to the lack of lubrication. In order to protect the integrity of the system, the air conditioner should be operated at least 10 minutes every month:
+If an extended period of time occurs during which the air conditioning system is not operated, moisture may condense and settle in the system low spots, resulting in corrosion of the refrigerant lines. Also, the system seals may dry out, shrink, and crack, due to the lack of lubrication. In order to protect the integrity of the system, the air conditioner should be operated at least 10 minutes every month.
+
+**CAUTION**
+
+Do not attempt to operate the air conditioner when the ambient temperature is below 10°C (50°F). If for several weeks it is impossible to obtain an ambient temperature of at least 10°C (50°F), the recommended monthly interval for operating the air conditioner may be extended somewhat.
 
 ![Image](KA-200-B200-POH_imagens/p00355_01.png)
 
-Do not attempt to operate the air conditioner when the ambient temperature is below 10PC (50*F): If for several weeks it is impossible to obtain an ambient temperature of at least 10PC (50 F) , the recommended monthly interval for operating the air conditioner may be extended somewhat:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-For air conditioner system servicing information, refer to Beech Super King Air 200 Series Maintenance Manual.
+For air conditioner system servicing information, refer to *Beech Super King Air 200 Series Maintenance Manual*.
+
+**WARNING**
+
+Refrigerant and oil are under pressure within the refrigeration system. Injury to personnel or damage to the system could occur if the maintenance is not performed properly. The refrigerant system should be serviced only by qualified air conditioner technicians.
 
 ![Image](KA-200-B200-POH_imagens/p00355_02.png)
 
-Refrigerant and oil are under pressure within the refrigeration system: Injury to personnel or damage to the system could occur if the maintenance is not perfomed properly: The refrigerant system should be serviced only by qualified air conditioner technicians:
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
 
 ## CABIN AIR FILTERS
 
-flexible, fiberglass-type air filter covers the coils of the forward air conditioner evaporator. When an aft evaporator is installed, another flexible filter is used at the aft evaporator coils. A foam-rubber type recirculated-air filter is also installed over the return-air valve, at floor level forward of the copilots rudder pedals. All these filters should be inspected in accordance with the Beech Super Air 200 Series Maintenance Manual: King
+A flexible, fiberglass-type air filter covers the coils of the forward air conditioner evaporator. When an aft evaporator is installed, another flexible filter is used at the aft evaporator coils. A foam-rubber type recirculated-air filter is also installed over the return-air valve, at floor level forward of the copilot's rudder pedals. All these filters should be inspected in accordance with the *Beech Super King Air 200 Series Maintenance Manual*.
 
-## FORWARD EVAPORATOR FILTER REPLACEMENT
+### FORWARD EVAPORATOR FILTER REPLACEMENT
 
-- 1\_ Remove the access door in the nose-wheel-well keel under the refrigerant plumbing:
-- 2 Pull the filter down and out of the retaining springs on the evaporator coil
-3. Fold the new filter to insert it through the access doors The filter must be carefully inserted between the coil assembly and the refrigerant plumbing under the retain-
-- 4 Replace the access doors
+1. Remove the access door in the nose-wheel-well keel under the refrigerant plumbing.
+2. Pull the filter down and out of the retaining springs on the evaporator coil.
+3. Fold the new filter to insert it through the access doors. The filter must be carefully inserted between the coil assembly and the refrigerant plumbing under the retaining springs.
+4. Replace the access doors.
 
-## AFTEVAPORATORFILTER REPLACEMENT (WHEN OPT. EVAPORATOR INSTALLED)
+### AFT EVAPORATOR FILTER REPLACEMENT (WHEN OPT. EVAPORATOR INSTALLED)
 
-- Remove the carpet and panel behind the rear spar, and remove the cover of the evaporator plenum: floor
-- 2 Remove the old filter from behind the retaining springs on the evaporator coil.
+1. Remove the carpet and floor panel behind the rear spar, and remove the cover of the evaporator plenum.
+2. Remove the old filter from behind the retaining springs on the evaporator coil.
 3. Insert the new filter between the retaining springs and the evaporator coil.
-- 4 Replace the plenum cover, floor panel, and carpet
+4. Replace the plenum cover, floor panel, and carpet.
 
-## RETURN AIR FILTER REPLACEMENT
+### RETURN AIR FILTER REPLACEMENT
 
-1. Reach forward of the copilot s rudder pedals to the pressure bulkhead at floor level\_
-2. 2 Pull out the two (left and right) flexible filters
-3. Insert one new filter into the left half of the channel on of the filter support grill, and one into the right half. top
-4. Tamp the filters into place by hand and smooth them out:
+1. Reach forward of the copilot's rudder pedals to the pressure bulkhead at floor level.
+2. Pull out the two (left and right) flexible filters.
+3. Insert one new filter into the left half of the channel on top of the filter support grill, and one into the right half.
+4. Tamp the filters into place by hand and smooth them out.
 
 ## DEICING AND ANTI-ICING OF AIRPLANES ON THE GROUND
 
-Deicing is the removal of ice, frost, and snow from the airplane's exterior after it has formed Anti-icing is a means of ice, snow and frost.
+Deicing is the removal of ice, frost, and snow from the airplane's exterior after it has formed. Anti-icing is a means of keeping the surface clear of subsequent accumulations of ice, snow and frost.
 
-Snow and ice on an airplane will seriously affect its pertor-mance\_ Even formation of a smooth covering of ice on the will change the contour of the wing, producing an increase in drag and a reduction in ettective lift coefficient. Frost or frozen snow may present an even greater hazard since the surface texture is rough and will seriously disrupt the smooth flow of air across the wing: wing
+Snow and ice on an airplane will seriously affect its performance. Even formation of a smooth covering of ice on the wing will change the contour of the wing, producing an increase in drag and a reduction in effective lift coefficient. Frost or frozen snow may present an even greater hazard since the surface texture is rough and will seriously disrupt the smooth flow of air across the wing.
 
-## SNOW REMOVAL
+### SNOW REMOVAL
 
-The best way to remove snow is to brush it off with &amp; squeegee, soft brush, or mop. Exercise care So as not to damage any components that may be attached to the outside of the airplane, such as antennas, vents, stall warning devices, etc\_ Remove loose snow from the airplane before heating the airplane interior; otherwise, at low temperatures, the snow may melt and refreeze to build up a considerable depth of ice. Never attempt to chip or break frozen snow from the airplane If the airplane has been hangared and snow is falling, coat the airplane surfaces with an anti-icing solution; snow falling on the warm surface will have a tendency to melt; then refreeze.
+The best way to remove snow is to brush it off with a squeegee, soft brush, or mop. Exercise care so as not to damage any components that may be attached to the outside of the airplane, such as antennas, vents, stall warning devices, etc. Remove loose snow from the airplane before heating the airplane interior; otherwise, at low temperatures, the snow may melt and refreeze to build up a considerable depth of ice. Never attempt to chip or break frozen snow from the airplane. If the airplane has been hangared and snow is falling, coat the airplane surfaces with an anti-icing solution; snow falling on the warm surface will have a tendency to melt, then refreeze.
 
-After snow has been removed from the airplane, inspect the airplane for evidence of residual snow , particularly in the area of control surface gaps and in the hinge areas: Carefully inspect the static ports for evidence of obstruction. Check the exterior of the airplane for damage to external components that may have occurred during the snow removal operations
+After snow has been removed from the airplane, inspect the airplane for evidence of residual snow, particularly in the area of control surface gaps and in the hinge areas. Carefully inspect the static ports for evidence of obstruction. Check the exterior of the airplane for damage to external components that may have occurred during the snow removal operations.
 
-## Beech Super King Air B2oo &amp; BzOOC Section VIII Handling Serv &amp; Maint
+*(8-12)*
 
-## Raytheon Aircraft
+Control surfaces should be moved to ascertain that they have full and free movement. The landing gear mechanism, doors, wheel wells, uplocks and microswitches should be checked for ice deposits that may impair function.
 
-Control surfaces should be moved to ascertain that they have full and free movement: The landing gear mechanism, doors, wheel wells, uplocks and microswitches should be checked for ice deposits that may impair function.
+When the airplane is hangared to melt snow, any melted snow may freeze again if the airplane is subsequently moved into subzero temperatures. Any measures taken to remove frozen deposits while the airplane is on the ground must also prevent the possibility of refreezing of the liquid.
 
-When the airplane is hangared to melt snow, any melted snow may freeze again if the airplane is subsequently moved into subzero temperatures measures taken to remove frozen deposits while the airplane is on the ground must also prevent the possibility of refreezing of the liquid. Any
+Following snow removal, should freezing precipitation continue, the airplane surface should be treated for anti-icing.
 
-Following snow removal, should freezing precipitation continue, the airplane surface should be treated for anti-icing:
+### FROST REMOVAL
 
-## FROST REMOVAL
+Heavy frost that cannot be removed by wiping with a gloved hand or soft towel must be removed by placing the airplane in a warm hangar or by the application of a deicing fluid.
 
-Heavy frost that cannot be removed by wiping with a gloved hand or soft towel must be removed by placing the airplane in a warm hangar or by the application of a deicing fluid
+After removal of all frost from the airplane exterior, check all external components for damage that may have occurred during frost removal.
 
-After removal of all frost from the airplane exterior; check all external components for damage that may have occurred during frost removal
+### ICE REMOVAL
 
-## ICE REMOVAL
+Moderate or heavy ice and residual snow deposits should be removed with a deicing fluid. No attempt should be made to remove ice deposits or break an ice bond by force.
 
-Moderate or heavy ice and residual snow deposits should be removed with a deicing fluid: No attempt should be made to remove ice deposits or break an ice bond by force:
+After completing the deicing process, the airplane should be inspected to ensure that its condition is satisfactory for flight. All external surfaces should be examined for residual ice or snow, particularly in the vicinity of control surface gaps and hinges. Static ports should be carefully inspected for any signs of obstruction.
 
-After completing the deicing process, the airplane should be inspected to ensure that its condition is satisfactory for flight: All external surtaces should be examined tor residual ice or snow, particularly in the vicinity of control surface gaps and hinges. Static ports should be carefully inspected for any signs of obstruction:
+Control surfaces should be moved to ascertain that they have full and free movement. The landing gear mechanism, doors, wheel wells, uplocks and microswitches should be checked for ice deposits that may impair function.
 
-Control surfaces should be moved to ascertain that have full and free movement  The landing gear mechanism, doors, wheel wells, uplocks and microswitches should be checked for ice deposits that may impair function: they
+When the airplane is hangared to melt ice, any melted ice may freeze again if the airplane is subsequently moved into subzero temperatures. Any measures taken to remove frozen deposits while the airplane is on the ground must also prevent the possible refreezing of the liquid.
 
-When the airplane is hangared to melt ice, any melted ice may freeze again if the airplane is subsequently moved into subzero temperatures: measures taken to remove frozen deposits while the airplane is on the ground must also prevent the possible refreezing of the liquid Any
+Following ice removal, should freezing precipitation continue, the airplane surface should be treated for anti-icing.
 
-Following ice removal, should freezing precipitation continue, the airplane surface should be treated for anti-icing:
+### DEICING AND ANTI-ICING FLUID APPLICATION
 
-## DEICING AND ANTI-ICING FLUID APPLICATION
-
-Airplane deicing fluids may be used diluted or undiluted according to manufacturers recommendations for deicing: For anti-icing purposes, the fluids should always be used undiluted. Deicing fluids may be applied either heated or unheated. Refer to Section II, LIMITATIONS, for a listing of approved airplane deicinglanti-icing fluids
+Airplane deicing fluids may be used diluted or undiluted according to manufacturers recommendations for deicing. For anti-icing purposes, the fluids should always be used undiluted. Deicing fluids may be applied either heated or unheated. Refer to Section II, LIMITATIONS, for a listing of approved airplane deicing/anti-icing fluids.
 
 ## NOTE
 
-Type Il and Type IV deicing fluids should only be applied at low pressure by trained personnel with proper equipment.
+Type II and Type IV deicing fluids should only be applied at low pressure by trained personnel with proper equipment.
 
 If a sprayer is not available, deicing fluid may be brushed or painted onto the airplane's surface.
 
@@ -10318,160 +10351,219 @@ If a sprayer is not available, deicing fluid may be brushed or painted onto the 
 
 ## CLEANING
 
-EXTERIOR PAINTED SURFACES
+### EXTERIOR PAINTED SURFACES
+
+**CAUTION**
+
+Polyester urethane undergoes a curing process for a period of 30 days after application. Wash uncured painted surfaces with a mild non-detergent soap (MILD detergents can be used on urethane finishes) and cold or lukewarm water only. Use soft cloths, keeping them free of dirt and grime. Any rubbing of the surface should be done gently and held to a minimum to avoid damaging the paint film. Rinse thoroughly with clear water. Stubborn oil or soot deposits may be removed with automotive tar removers.
 
 ![Image](KA-200-B200-POH_imagens/p00356_01.png)
 
-Polyester urethane undergoes a curing process for a period of 30 days after application. Wash uncured painted surfaces with a mild non-detergent soap (MILD detergents can be used on urethane finishes) and cold or lukewarm water only: Use soft cloths, keeping them free of dirt and grime rubbing of the surface should be done gently and held to a minimum to avoid damaging the paint film. Rinse thoroughly with clear water: Stubborn oil or soot deposits be removed may with automotive tar removers:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-Prior to cleaning, cover the wheels, making certain the brake or mask off all other openings. Be particularly careful to mask off all static air buttons before washing or waxing: Use special care to avoid removing lubricant from lubricated areas\_
+Prior to cleaning, cover the wheels, making certain the brake discs are covered. Attach the pitot cover securely, and plug or mask off all other openings. Be particularly careful to mask off all static air buttons before washing or waxing. Use special care to avoid removing lubricant from lubricated areas.
 
-Hand washing may be accomplished by flushing away loose dirt with clean water, then washing with a mild soap and water; soft cleaning cloths or a chamois: Avoid harsh, abrasive or alkaline soaps or detergents which could cause corrosion or scratches. Thorough clear-water rinsing prevents buildup of cleaning agent residue, which can dull the paint's appearance. To remove oily residue or exhaust soot, use a cloth dampened with an automotive tar remover: Wax or polish the affected area if necessary: using Do not expose elevator, rudder, and aileron trim tab hinge lines and their pushrod systems to the direct stream or spray of high-pressure soapand-water washing equipment: Fluid dispensed at high pressure could remove the protective lubricant, allowing moisture from or prolonged rain to collect at hinge lines, and then to freeze at low temperatures: After high-pressure or hand washing; and at each periodic inspeclubricate trim tab hinge lines and trim tab pushrod end fittings (Brayco 300 per Federal Specification VV-L-8O0 preferred). heavy tion, When using high-pressure washing equipment, keep the spray or stream clear of wheel bearings, propeller hub bearings, etc-, and openings such as pitot tubes, static air buttons, and battery and avionics equipment cooling ducts which should be securely covered or masked off. Avoid directing high-pressure sprays toward the fuselage, wings, and empennage from the rear, where moisture and chemicals might more easily enter the structure, causing corrosion damage to structural members and moving parts:
+Hand washing may be accomplished by flushing away loose dirt with clean water, then washing with a mild soap and water, using soft cleaning cloths or a chamois. Avoid harsh, abrasive or alkaline soaps or detergents which could cause corrosion or scratches. Thorough clear-water rinsing prevents buildup of cleaning agent residue, which can dull the paint's appearance. To remove oily residue or exhaust soot, use a cloth dampened with an automotive tar remover. Wax or polish the affected area if necessary.
+
+*(8-13)*
 
 ![Image](KA-200-B200-POH_imagens/p00357_01.png)
 
+*Imagem: logotipo "Raytheon Aircraft" do cabeçalho da página.*
+
+**WARNING**
+
+Do not expose elevator, rudder, and aileron trim tab hinge lines and their pushrod systems to the direct stream or spray of high-pressure soap-and-water washing equipment. Fluid dispensed at high pressure could remove the protective lubricant, allowing moisture from heavy or prolonged rain to collect at hinge lines, and then to freeze at low temperatures. After high-pressure or hand washing, and at each periodic inspection, lubricate trim tab hinge lines and trim tab pushrod end fittings (Brayco 300 per Federal Specification VV-L-800 preferred).
+
 ![Image](KA-200-B200-POH_imagens/p00357_02.png)
+
+*Imagem: moldura gráfica do aviso WARNING acima; o texto do aviso está transcrito.*
+
+When using high-pressure washing equipment, keep the spray or stream clear of wheel bearings, propeller hub bearings, etc., and openings such as pitot tubes, static air buttons, and battery and avionics equipment cooling ducts which should be securely covered or masked off. Avoid directing high-pressure sprays toward the fuselage, wings, and empennage from the rear, where moisture and chemicals might more easily enter the structure, causing corrosion damage to structural members and moving parts.
+
+**CAUTION**
+
+When cleaning wheel well areas with solvent, especially if high-pressure equipment is used, exercise care to avoid washing away grease from landing gear components. After washing the wheel well areas with solvent, lubricate all lubrication points, or premature wear may result.
 
 ![Image](KA-200-B200-POH_imagens/p00357_03.png)
 
-When cleaning wheel well areas with solvent;, especially if high-pressure equipment is used, exercise Care to avoid washing away grease from landing gear components After washing the wheel well areas with solvent, lubricate all lubrication points, or premature wear may result:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-wax on any exterior paint finish will yellow with age; therefore, wax should be removed periodically. Generally, alphatic naphtha is adequate and safe for this purpose
+During the curing period, do not make prolonged flights in heavy rain or sleet, and avoid all operating conditions which might cause abrasion or premature finish deterioration.
 
-## NOTE
+**CAUTION**
 
-Before returning the airplane to service, remove all maskings and coverings, and relubricate as necessary\_
-
-## WINDOWS AND WINDSHIELDS
-
-## WINDOWS
-
-The plastic windows should be kept clean and waxed To prevent scratches, wash the windows carefully with plenty of mild soap and water, using the palm of the hand to dislodge dirt and mud: Flood the surface with clean water to rinse away moist chamois Rubbing the surace of the plastic with a dry cloth should be avoided, as it builds up an electrostatic charge on the surface, which attracts dust particles
-
-If oil or grease is present on the surface of the plastic, remove it with a cloth moistened with kerosene, aliphatic naptha, or hexene, then rinse the surface with clear water: Never use gasoline, benzine, alcohol, acetone, carbon tetrachloride, fire-extinguisher or anti-ice fluid, lacquer thinner, or glass cleaner. These materials will soften the plastic and may
-
-If it is desired to use a commercial cleaner to clean the plastic windows, use only cleaners that are approved by Raytheon Aircraft Company and follow the directions on the container. It will not be necessary to apply wax to windows after use of the above commercial cleaners, as these cleaners contain wax, aS well as cleaning agents.
-
-During the curing period, do not make prolonged flights in rain or sleet, and avoid all operating conditions which might cause abrasion or premature finish deterioration:
+Do not apply wax, polish, rubbing compound, or abrasive cleaner to any uncured painted surface. Use of such items can permanently damage the surface finish. Also, waxes and polishes seal the paint from the air and prevent curing.
 
 ![Image](KA-200-B200-POH_imagens/p00357_04.png)
 
-Do not apply wax, polish, rubbing compound, or abrasive cleaner to any uncured painted surface. Use of such items can permanently damage the surface finish. Also, waxes and polishes seal the paint from the air and prevent curing:
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
-Waxing of polyester urethane finishes, although not required, is permitted; however, never use abrasive cleaner type waxes, polishes, or rubbing compounds, as these products cause eventual deterioration of the characteristic urethane gloss;
+Waxing of polyester urethane finishes, although not required, is permitted; however, never use abrasive cleaner type waxes, polishes, or rubbing compounds, as these products cause eventual deterioration of the characteristic urethane gloss.
 
-For waxing, select a high quality automotive or aircratt waxing product: Do not use a wax containing silicones, as silicone polishes are difficult to remove from surfaces A buildup of After thoroughly cleaning; wax the surface with a grade of commercial wax that does not have an acrylic base. The wax will fill in minor scratches and help prevent further high polish by rubbing lightly with a clean, soft;, flannel cloth. Do not use a power butfer; the heat generated by the buffing may soften the plastic; good dry; pad
+For waxing, select a high quality automotive or aircraft waxing product. Do not use a wax containing silicones, as silicone polishes are difficult to remove from surfaces. A buildup of wax on any exterior paint finish will yellow with age; therefore, wax should be removed periodically. Generally, aliphatic naphtha is adequate and safe for this purpose.
 
-## POLARIZED CABIN WINDOWS
+## NOTE
 
-The polarized cabin windows consist of two plastic window panels installed with the polarized surfaces facing each other in a sealed assembly: To clean the interior exposed surface of the window requires only careful application of the practices for cleaning plastic windows. If it should become necessary to clean the inner surface of the sealed assembly and the inside of the pressure glass, the sealed assembly may be removed by removing the escucheon, four screws, and the sealed assembly- Clean the interior windows and reinstall the sealed assembly and escucheon:
+Before returning the airplane to service, remove all maskings and coverings, and relubricate as necessary.
+
+### WINDOWS AND WINDSHIELDS
+
+### WINDOWS
+
+The plastic windows should be kept clean and waxed. To prevent scratches, wash the windows carefully with plenty of mild soap and water, using the palm of the hand to dislodge dirt and mud. Flood the surface with clean water to rinse away dirt and soap. After rinsing, dry the windows with a clean, moist chamois. Rubbing the surface of the plastic with a dry cloth should be avoided, as it builds up an electrostatic charge on the surface, which attracts dust particles.
+
+If oil or grease is present on the surface of the plastic, remove it with a cloth moistened with kerosene, aliphatic naphtha, or hexene, then rinse the surface with clear water. Never use gasoline, benzine, alcohol, acetone, carbon tetrachloride, fire-extinguisher or anti-ice fluid, lacquer thinner, or glass cleaner. These materials will soften the plastic and may cause it to craze.
+
+If it is desired to use a commercial cleaner to clean the plastic windows, use only cleaners that are approved by Raytheon Aircraft Company and follow the directions on the container. It will not be necessary to apply wax to windows after use of the above commercial cleaners, as these cleaners contain wax, as well as cleaning agents.
+
+After thoroughly cleaning, wax the surface with a good grade of commercial wax that does not have an acrylic base. The wax will fill in minor scratches and help prevent further scratching. Apply a thin, even coat of wax and bring it to a high polish by rubbing lightly with a clean, dry, soft, flannel cloth. Do not use a power buffer; the heat generated by the buffing pad may soften the plastic.
+
+### POLARIZED CABIN WINDOWS
+
+The polarized cabin windows consist of two plastic window panels installed with the polarized surfaces facing each other in a sealed assembly. To clean the interior exposed surface of the window requires only careful application of the practices for cleaning plastic windows. If it should become necessary to clean the inner surface of the sealed assembly and the inside of the pressure glass, the sealed assembly may be removed by removing the escucheon, four screws, and the sealed assembly. Clean the interior windows and reinstall the sealed assembly and escucheon.
+
+*Nota do transcritor: a palavra "escucheon" (duas ocorrências) está impressa assim no original; a grafia usual em inglês é "escutcheon".*
+
+*(8-14)*
 
 ## WINDSHIELDS
 
 Glass windshields with antistatic coating should be cleaned as follows:
 
-- 1\_ Wash excessive dirt and other substances the glass with clean water. from
-2. Clean the windshield with mild soap and water or a 50/ 50 solution of isopropyl alcohol and water. Wipe the glass surface in a straight rubbing motion with a soft cloth or sponge. Never use any abrasive materials or any strong acids or bases to clean the glass:
-- 3\_ Rinse the glass thoroughly and dry, but do not apply wax:
+1. Wash excessive dirt and other substances from the glass with clean water.
+2. Clean the windshield with mild soap and water or a 50/50 solution of isopropyl alcohol and water. Wipe the glass surface in a straight rubbing motion with a soft cloth or sponge. Never use any abrasive materials or any strong acids or bases to clean the glass.
+3. Rinse the glass thoroughly and dry, but do not apply wax.
 
-## SURFACE DEICE BOOT CLEANING
+### SURFACE DEICE BOOT CLEANING
 
-The deice boots are made of soft, flexible stock, which may be damaged if fuel hoses are dragged over the surface of the boots or if ladders and platforms are rested against them: Keep deice boots free of oil, fuel, paint remover, solvents, and other injurious substances. Deice boots should be cleaned regularly with a mild soap and water solution: The temperature of the solution should not exceed 1809F.
+The deice boots are made of soft, flexible stock, which may be damaged if fuel hoses are dragged over the surface of the boots or if ladders and platforms are rested against them. Keep deice boots free of oil, fuel, paint remover, solvents, and other injurious substances. Deice boots should be cleaned regularly with a mild soap and water solution. The temperature of the solution should not exceed 180°F.
 
-## ENGINE
+### ENGINE
 
-Clean the engine with neutral solvent. Spray or brush the fluid over the engine, then wash off with water and allow to dry:
+Clean the engine with neutral solvent. Spray or brush the fluid over the engine, then wash off with water and allow to dry.
 
-![Image](KA-200-B200-POH_imagens/p00358_01.png)
+**CAUTION**
 
-Do not use solutions which may attack rubber or seals; fluid applied at high pressure can unseat seals, resulting in contamination of the sealed systems
-
-## INTERIOR CARE
-
-To remove dust and loose dirt from the upholstery, headliner, and carpet, clean the interior regularly with a vacuum cleaner:
-
-Blot up any spilled liquid promptly with cleansing tissue or rags: Do not pat the spot  Press the blotting material firmly and hold it for several seconds. Continue blotting until no more liquid is taken up. Scratch off sticky materials with a dull knife, then spot clean the area.
-
-## Raytheon Aircraft
-
-![Image](KA-200-B200-POH_imagens/p00358_02.png)
-
-The colors of many leathers may only be accomplished by surface dye processing: The color may be rubbed off by continuously dragging hard or coarse material across the leather. While working in the cabin, use protective covers on the leather upholstery: Use only mild detergent with a soft cloth to clean soiled leather.
-
-The plastic trim, instrument panel, and control knobs need only be wiped with a damp cloth: Oil and grease on the control wheel and control knobs can be removed with a cloth moistened with kerosene. Volatile solvents, such as those mentioned in the article on care of plastic windows, should never by used, since soften and craze the plastic. they
-
-## ICE VANES (INERTIAL SEPARATOR SYSTEM)
-
-## RESETTING OVERRIDE ASSEMBLY FOR NORMAL OPERATION
-
-Once the manual extension handle has been pulled out, do not use the electric actuator system on the affected side again until the override is disengaged as follows:
-
-- Open the forward cowling:
-2. Push up on the latch where it protrudes into the slot in the override assembly until the clevis bolt on the side of the manual override arm is free to travel forward in the slot:
-3. lf necessary, center the clevis bolt on the end of the actuator arm in the semicircular slot in the override assembly: This will align the clevis bolt with the pin in the override assembly: When in this position, the actuator arm clevis engages the cam slot and is properly locked in place for the extent of travel required to operate the inertial vane:
+Do not use solutions which may attack rubber or plastic. Protect engine switches, controls and seals; fluid applied at high pressure can unseat seals, resulting in contamination of the sealed systems.
 
 ![Image](KA-200-B200-POH_imagens/p00358_03.png)
 
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
+
+### INTERIOR CARE
+
+To remove dust and loose dirt from the upholstery, headliner, and carpet, clean the interior regularly with a vacuum cleaner.
+
+Blot up any spilled liquid promptly with cleansing tissue or rags. Do not pat the spot. Press the blotting material firmly and hold it for several seconds. Continue blotting until no more liquid is taken up. Scratch off sticky materials with a dull knife, then spot clean the area.
+
+Oily spots may be cleaned with household spot removers, used sparingly. Before using any solvent, read the instructions on the container and test it on an obscure place on the fabric to be cleaned. Never saturate the fabric with a volatile solvent; it may damage the padding and backing materials.
+
+Soiled upholstery and carpet may be cleaned with foam-type detergent, used according to the manufacturer's instructions. To minimize wetting the fabric, keep the foam as dry as possible and remove it with a vacuum cleaner.
+
+**CAUTION**
+
+The colors of many leathers may only be accomplished by surface dye processing. The color may be rubbed off by continuously dragging hard or coarse material across the leather. While working in the cabin, use protective covers on the leather upholstery. Use only mild detergent with a soft cloth to clean soiled leather.
+
+![Image](KA-200-B200-POH_imagens/p00358_01.png)
+
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
+
+The plastic trim, instrument panel, and control knobs need only be wiped with a damp cloth. Oil and grease on the control wheel and control knobs can be removed with a cloth moistened with kerosene. Volatile solvents, such as those mentioned in the article on care of plastic windows, should never by used, since they soften and craze the plastic.
+
+*Nota do transcritor: "should never by used" está impresso assim no original; a leitura correta é "should never be used".*
+
+## ICE VANES (INERTIAL SEPARATOR SYSTEM)
+
+### RESETTING OVERRIDE ASSEMBLY FOR NORMAL OPERATION
+
+Once the manual extension handle has been pulled out, do not use the electric actuator system on the affected side again until the override is disengaged as follows:
+
+1. Open the forward cowling.
+2. Push up on the latch where it protrudes into the slot in the override assembly until the clevis bolt on the side of the manual override arm is free to travel forward in the slot.
+3. If necessary, center the clevis bolt on the end of the actuator arm in the semicircular slot in the override assembly. This will align the clevis bolt with the pin in the override assembly. When in this position, the actuator arm clevis engages the cam slot and is properly locked in place for the extent of travel required to operate the inertial vane.
+
+**CAUTION**
+
 Failure to properly position the end of the actuator arm in the semicircular slot of the override assembly will prevent full travel of the actuator and could result in damage to the electrical actuator.
 
-Oily spots may be cleaned with household spot removers, used sparingly- Before using any solvent, read the instructions on the container and test it on an obscure place on the fabric to be cleaned Never saturate the fabric with a volatile solvent; it may damage the padding and backing materials
+![Image](KA-200-B200-POH_imagens/p00358_02.png)
 
-Soiled upholstery and carpet may be cleaned with foam-type detergent, used according to the manufacturer's instructions: To minimize wetting the fabric, keep the foam as dry as sible and remove it with a vacuum cleaner: pos -
+*Imagem: moldura gráfica do aviso CAUTION acima; o texto do aviso está transcrito.*
 
 ## CONSUMABLE MATERIALS
 
-Refer to the Beech King Air 200 Series Maintenance Manual for consumables (type and brand name) approved for use in the Beech Super King Air B2OO &amp; BZOOC.
+Refer to the *Beech King Air 200 Series Maintenance Manual* for consumables (type and brand name) approved for use in the Beech Super King Air B200 & B200C.
+
+*(8-15)*
 
 ![Image](KA-200-B200-POH_imagens/p00359_01.png)
+
+*Imagem: logotipo "Raytheon Aircraft" do cabeçalho da página.*
 
 ## LAMP REPLACEMENT GUIDE
 
 ## EXTERIOR
 
-| Entry Light (under Left Wing)                                            | MS24513-4174          |
-|--------------------------------------------------------------------------|-----------------------|
-| Wing Ice Light                                                           | A7079B-24             |
-| Landing Lights                                                           | 4596                  |
-| Rotating Beacons (Upper/Lower)                                           | A7079B-24 / A7079B-25 |
-| Strobe Light Flash Tubes                                                 | 55-0221-1             |
-| Empennage Floodlight                                                     | DS0079-BJ             |
-| Tail Navigation Light                                                    | A-2064-1683           |
-| Taxi Light                                                               | 4587                  |
-| Wing Navigation Light                                                    | A7512-24              |
-| Wing-tip Recognition Light                                               | 1982                  |
-| PASSENGER COMPARTMENT                                                    | PASSENGER COMPARTMENT |
-| Aft Dome and Baggage Compartment Light                                   | 303                   |
-| Aisle Light                                                              | MS25231-313           |
-| Spar Cover Light                                                         | 1495                  |
-| Cabin Sign Light                                                         | D158-100-4            |
-| Cabin Door Observer and Overhead Lights                                  | 1864                  |
-| Cabin Table Light                                                        | 1309                  |
-| Flood Light                                                              | MS35478-1683          |
-| Fluorescent Light Tube                                                   | 5108WW                |
-| O.A.T. Light                                                             | MS25237-327           |
-| Reading and Chair Light                                                  | 1864                  |
-| Step Light                                                               | 313                   |
-| Threshold Light                                                          | 313                   |
-| Window Fluorescent light                                                 | PW 20B or 6900026     |
-| FLIGHT COMPARTMENT                                                       | FLIGHT COMPARTMENT    |
-| All Edge-lighted Placards and Panels                                     | 0158-100-5            |
-| Cabin Door Lock Light                                                    | 1864                  |
-| Fuel Quantity Indicator Light                                            | 267                   |
-| Glareshield Light                                                        | 1864                  |
-| Instrument Indirect Lights (RedlWhite)                                   | 1864R / 1864          |
-| Map Overhead Light (RedlWhite)                                           | 1309 / 1495           |
-| Map Overhead Floodlight                                                  | 303                   |
-| Lights for all other Instruments, Indicators, Annunciators, and Switches | 327                   |
+| LIGHT | LAMP |
+|---|---|
+| Entry Light (under Left Wing) | MS24513-4174 |
+| Wing Ice Light | A7079B-24 |
+| Landing Lights | 4596 |
+| Rotating Beacons (Upper/Lower) | A7079B-24 / A7079B-25 |
+| Strobe Light Flash Tubes | 55-0221-1 |
+| Empennage Floodlight | DS0079-BJ |
+| Tail Navigation Light | A-2064-1683 |
+| Taxi Light | 4587 |
+| Wing Navigation Light | A7512-24 |
+| Wing-tip Recognition Light | 1982 |
+
+## PASSENGER COMPARTMENT
+
+| LIGHT | LAMP |
+|---|---|
+| Aft Dome and Baggage Compartment Light | 303 |
+| Aisle Light | MS25231-313 |
+| Spar Cover Light | 1495 |
+| Cabin Sign Light | D158-100-4 |
+| Cabin Door Observer and Overhead Lights | 1864 |
+| Cabin Table Light | 1309 |
+| Flood Light | MS35478-1683 |
+| Fluorescent Light Tube | 5108WW |
+| O.A.T. Light | MS25237-327 |
+| Reading and Chair Light | 1864 |
+| Step Light | 313 |
+| Threshold Light | 313 |
+| Window Fluorescent light | PW 20B or 6900026 |
+
+## FLIGHT COMPARTMENT
+
+| LIGHT | LAMP |
+|---|---|
+| All Edge-lighted Placards and Panels | D158-100-5 |
+| Cabin Door Lock Light | 1864 |
+| Fuel Quantity Indicator Light | 267 |
+| Glare Shield Light | 1864 |
+| Instrument Indirect Lights (Red/White) | 1864R / 1864 |
+| Map Overhead Light (Red/White) | 1309 / 1495 |
+| Map Overhead Floodlight | 303 |
+| Lights for all other Instruments, Indicators, Annunciators, and Switches | 327 |
+
+*(8-16: THIS PAGE INTENTIONALLY LEFT BLANK)*
 
 ![Image](KA-200-B200-POH_imagens/p00360_01.png)
 
-THIS PAGE INTENTIONALLY LEFT BLANK
+*Imagem: logotipo "Raytheon Aircraft" do cabeçalho da página.*
 
-## SECTION IX SUPPLEMENTS
+*(9-1)*
+
+## SECTION IX
+
+## SUPPLEMENTS
 
 ## NOTE
 
-When a new airplane is delivered from the factory, the handbook delivered with it contains either an STC (Supplemental Type Certificate) Supplement or a Beech Flight Manual Supplement for every installed item requiring a supplement: If a new handbook for operation of the airplane is obtained at a later date, it is the responsibility of the ownerloperator t0 ensure that all required Flight Manual Supplements and STC Supplements (as well as weight and balance and other pertinent data) are transferred into the new handbook:
+When a new airplane is delivered from the factory, the handbook delivered with it contains either an STC (Supplemental Type Certificate) Supplement or a Beech Flight Manual Supplement for every installed item requiring a supplement. If a new handbook for operation of the airplane is obtained at a later date, it is the responsibility of the owner/operator to ensure that all required Flight Manual Supplements and STC Supplements (as well as weight and balance and other pertinent data) are transferred into the new handbook.
 
 ## THIS PAGE INTENTIONALLY LEFT BLANK
 

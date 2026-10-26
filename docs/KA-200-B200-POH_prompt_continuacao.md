@@ -19,8 +19,8 @@ Arquivos em `docs/`:
 ## Tarefa
 
 Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 páginas do PDF**, parando ao fim de cada lote para eu confirmar. (Os lotes 1 a 10 e o lote 11 foram feitos com 25 páginas por lote, quando o volume ainda era suportável; a partir daqui o lote é de 10 páginas.) Estado atual (ver `_controle.md` para o detalhe):
-- **Feito:** págs. 37–351 do PDF (Seções 2 a 7 completas; Seção 8 até a pág. 8-7, OIL SYSTEM).
-- **Próximo:** lote 16 = págs. **352–361** (continuação da Seção 8: CHANGING THE ENGINE OIL, OIL FILTER SERVICING, FUEL SYSTEM, FUEL HANDLING PRACTICES, FILLING THE TANKS…), sempre em lotes de 10 páginas até 1309 (resto da Seção 8, Seção 9 Suplementos, Seção 10 Segurança).
+- **Feito:** págs. 37–361 do PDF (Seções 2 a 7 completas; Seção 8 completa até a p. 8-16; Seção 9 começa na p. 9-1).
+- **Próximo:** lote 17 = págs. **362–371** (continuação da Seção 9 Suplementos: LOG OF SUPPLEMENTS e os suplementos), sempre em lotes de 10 páginas até 1309 (restante da Seção 9, Seção 10 Segurança).
 - **Por último:** págs. 1–36 (capa, listas de páginas, logs de revisão, introdução, Seção 1). Uma tentativa anterior foi descartada; nada gravado.
 
 ## Método (siga igual aos lotes anteriores)
@@ -45,4 +45,4 @@ Continuar a retranscrição do `KA-200-B200-POH_corrigido.md`, **em lotes de 10 
 
 ## Primeira ação
 
-Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 16 (págs. 352–361).
+Leia `docs/KA-200-B200-POH_controle.md`, confirme em uma frase onde estamos e comece o lote 17 (págs. 362–371).

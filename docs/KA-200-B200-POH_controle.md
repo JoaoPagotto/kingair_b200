@@ -31,9 +31,10 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 | 13 | 322–331 | 7-36 a 7-45 | 7 (iluminação, ambiental, pressurização, flow control units, ventilação, aquecimento, ar-condicionado) | feito | `82f7d79` |
 | 14 | 332–341 | 7-46 a 7-55 | 7 (controles ambientais, oxigênio, pitot/estático, sangria de ar, warning de sangria, yaw damp, stall warning, proteção contra gelo, deice de hélice, deice de superfície) | feito | `effb1d3` |
 | 15 | 342–351 | 7-56 a 8-7 | 7 (fim: esquema pneumático, stall warning vane heat, fuel heat, conforto, alívio, extintores, limpadores, retenção de carga), 8 Manutenção e Serviço (índice e início) | feito | `bb695fe` |
-| 16 em diante | 352–1309 | 8-8 ao fim | 8 (restante), 9 Suplementos, 10 Segurança | **pendente** (lotes de 10 págs.: 352–361, 362–371, …) | — |
+| 16 | 352–361 | 8-8 a 9-1 | 8 (óleo, combustível, oxigênio, ar-condicionado, degelo/anti-icing, limpeza, lâmpadas), 9 Suplementos (abertura) | feito | `d5906dc` |
+| 17 em diante | 362–1309 | 9-2 ao fim | 9 Suplementos (restante), 10 Segurança | **pendente** (lotes de 10 págs.: 362–371, 372–381, …) | — |
 
-**Resumo:** págs. 37–351 do PDF feitas (315 de 1309, ≈24%); págs. 352–1309 e 1–36 pendentes. A Seção 7 está transcrita até o fim (p. 7-58); a Seção 8 está transcrita até a p. 8-7 (OIL SYSTEM).
+**Resumo:** págs. 37–361 do PDF feitas (325 de 1309, ≈25%); págs. 362–1309 e 1–36 pendentes. A Seção 7 está transcrita até o fim (p. 7-58); a Seção 8 está transcrita até a p. 8-16 (fim da seção); a Seção 9 começa na p. 9-1.
 
 ### Observações sobre o lote 11 (págs. 287–311)
 - Páginas 296 e 297 têm `/Rotate 270` no PDF: renderizadas e giradas antes da leitura.
@@ -74,10 +75,20 @@ Estados: **feito** (transcrito e enviado), **em andamento** (parte já escrita, 
 - Os cabeçalhos de página de 8-3 a 8-7 ("Beech Super King Air B200 & B200C / Section VIII - Handling Serv & Maint") não foram transcritos como texto, seguindo a convenção dos lotes anteriores; os de 8-1 e 8-2 foram transcritos por conterem o título da seção e do índice.
 - No original há dois tipos de subcabeçalho: em **negrito** (ex.: GROUND HANDLING, PARKING, TIE-DOWN, BATTERY, TIRES, SHOCK STRUTS, TOILET) → `##`; e em **itálico** (ex.: TOWING, EXTERNAL POWER, BATTERY OVERHEAT FACTORS, MAINTENANCE PRACTICES…, NOSE GEAR STRUT, MAIN GEAR STRUT) → `###`. A distinção foi mantida.
 
+### Observações sobre o lote 16 (págs. 352–361)
+- Não há páginas giradas neste lote; as dez páginas foram renderizadas a 120 dpi e as de tabela/numéricos (352, 354, 356, 357, 358, 359, 361) relidas a 250 dpi.
+- A Seção 8 termina na p. 8-16 (página em branco, com o logotipo "Raytheon Aircraft"); a Seção IX (SUPPLEMENTS) começa na p. 9-1.
+- A p. 8-15 (359) é o LAMP REPLACEMENT GUIDE: três tabelas (`| LIGHT | LAMP |`) com 10, 13 e 8 linhas, conferidas número a número em recortes de 250 dpi. O `.md` antigo trazia a tabela corrompida (números trocados: "0158-100-5" em vez de "D158-100-5", "(RedlWhite)" em vez de "(Red/White)", cabeçalhos de grupo repetidos como linhas de dados).
+- Imagens do lote: p00352_01/02/03, p00353_01/02/03, p00354_01, p00355_01/02, p00356_01, p00357_02/03/04, p00358_01/02/03 (molduras de WARNING/CAUTION) e p00357_01, p00359_01, p00360_01 (logotipo "Raytheon Aircraft" do cabeçalho). As molduras de NOTE das páginas 352 e 353 não foram recortadas pelo conversor; o texto dos avisos está transcrito.
+- Subcabeçalhos em itálico no original (→ `###`): FUEL HANDLING PRACTICES, FILLING THE TANKS, FUEL GRADES AND TYPES, DRAINING THE MAIN FUEL SYSTEM, DRAINING THE AUXILIARY FUEL SYSTEM, ENGINE FUEL FILTERS AND SCREENS, CLEANING FIREWALL FUEL FILTERS AND ENGINE DRIVEN FUEL PUMP FILTER, P3 AIR FILTER, INSTRUMENT VACUUM AIR, OXYGEN COMPONENTS, OXYGEN SYSTEM PURGING, FILLING THE OXYGEN SYSTEM, OXYGEN CYLINDER RETESTING, FORWARD/AFT/RETURN AIR FILTER REPLACEMENT, SNOW REMOVAL, FROST REMOVAL, ICE REMOVAL, DEICING AND ANTI-ICING FLUID APPLICATION, EXTERIOR PAINTED SURFACES, WINDOWS AND WINDSHIELDS, WINDOWS, POLARIZED CABIN WINDOWS, SURFACE DEICE BOOT CLEANING, ENGINE, INTERIOR CARE, RESETTING OVERRIDE ASSEMBLY FOR NORMAL OPERATION.
+- Subcabeçalhos em negrito no original (→ `##`): FUEL SYSTEM, SERVICING THE OXYGEN SYSTEM, AIR CONDITIONER, CABIN AIR FILTERS, DEICING AND ANTI-ICING OF AIRPLANES ON THE GROUND, MISCELLANEOUS MAINTENANCE, CLEANING, WINDSHIELDS, ICE VANES (INERTIAL SEPARATOR SYSTEM), CONSUMABLE MATERIALS, LAMP REPLACEMENT GUIDE, EXTERIOR, PASSENGER COMPARTMENT, FLIGHT COMPARTMENT, SECTION IX, SUPPLEMENTS.
+- Em 8-14 a ordem de leitura é: coluna esquerda (WINDSHIELDS, SURFACE DEICE BOOT CLEANING, ENGINE + CAUTION, INTERIOR CARE) → coluna direita (CAUTION do couro, parágrafo do plástico, ICE VANES, RESETTING…, CAUTION, CONSUMABLE MATERIALS). A lista de precauções da purga do oxigênio (8-10) continua da coluna esquerda para a direita.
+- Em 8-12 os parágrafos "Control surfaces should be moved…" e "When the airplane is hangared to melt…" aparecem **duas vezes** no original (uma no bloco de SNOW REMOVAL e outra no bloco de ICE REMOVAL, com pequenas diferenças de redação); foram transcritos como impresso nas duas ocorrências.
+
 ### Pontos de atenção sobre o que falta
 - **Págs. 1–36:** o `.md` original tem erros de OCR em quase todo parágrafo e tabelas vazias (Lista de Páginas Efetivas, Logs de Revisão, índices).
 - **Seção 9 (Suplementos):** é a mais longa do PDF (grande parte das páginas restantes); cada suplemento tem suas próprias seções de limitações, emergência, normal e desempenho.
-- **Seção 8:** contém tabelas de lubrificantes e lâmpadas; ler a 200 dpi.
+- **Seção 8:** contém tabelas de lubrificantes e lâmpadas; ler a 200 dpi. **Concluída até a p. 8-16** (lote 16).
 - Há seções iniciais fora de ordem no `.md` original (ex.: blocos da Seção 9 repetidos); verificar ao chegar nelas.
 
 ## 2. Divergências do original mantidas como impressas
@@ -112,6 +123,10 @@ Valores que parecem erro de impressão no próprio manual. Foram **transcritos c
 | 7-54 | PROP - MANUAL - OFF (BB-829 e posteriores) | texto | "aproximately 90 seconds" | "approximately" | transcrito como impresso + Nota do transcritor |
 | 8-5 | EXTERNAL POWER, CAUTION | texto | "sufficeint to shorten the life of the unit" | "sufficient" | transcrito como impresso + Nota do transcritor |
 | 8-5 | JACKING AND LEVELING | texto | "Wheel weighings can be leveled" | "weightings" (provável) | transcrito como impresso (palavra legível na imagem) |
+| 8-10 | OXYGEN COMPONENTS vs FILLING THE OXYGEN SYSTEM | lista de cilindros | "22-, 49-, 66-, 76-, or 115-cubic-foot" (COMPONENTS) e "49-, 64-, 76-, or 115-cubic-foot" (FILLING) | uma das duas está errada (66 ou 64) | transcritos como impressos nas duas páginas + Nota do transcritor |
+| 8-13 | POLARIZED CABIN WINDOWS | texto | "escucheon" (2 ocorrências) | "escutcheon" | transcrito como impresso + Nota do transcritor |
+| 8-14 | INTERIOR CARE | texto | "should never by used" | "should never be used" | transcrito como impresso + Nota do transcritor |
+| 8-12 | EXTERIOR PAINTED SURFACES, CAUTION | texto | "(MILD detergents can be used on urethane finishes)" | "mild" minúsculo (provável) | transcrito como impresso (MILD em maiúsculas, legível na imagem) |
 
 Checagens automáticas aplicadas às tabelas de cruzeiro e alcance: 12 ou 15 valores por linha e fluxo total = 2 × fluxo por motor (nas tabelas de um motor, igual ao por motor). Na tabela de limites de momento (6-17 e 6-36): momento máximo = peso × 196,4 / 100 e momento mínimo conforme os limites de C.G., sem divergências.
 
@@ -163,6 +178,14 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 | 8-5 | EXTERNAL POWER | 1000 A/5 s, 500 A/2 min, 300 A contínuos, 350 A (dano) e 20 volts mínimos | 
 | 8-6 | BATTERY / TIRES | 24-volt e 20 células; pressões 96 ±2, 62 ±2 e 55–60 psi | 
 | 8-7 | SHOCK STRUTS / OIL SYSTEM | 3 a 3.5 in; 3.93 a 4.19 in; 5.56 a 5.93 in; 0.250 in; 2.3 gal; 14 quarts (3.50 gal); 1.5 e 12 quarts | 
+| 8-8 | OIL SYSTEM / CHANGING THE ENGINE OIL | 12 horas; 2 minutos; "one quart mark"; ground run de 20 minutos; posição de 3 h do coverplate | conferidos em recorte de 250 dpi |
+| 8-9 | FUEL HANDLING PRACTICES / FILLING THE TANKS | 5× o tempo de decantação; 30 ppm; 65 ppm = 8 fl oz/1000 gal a 80°F; 25 ppm a 15°F; diferença de 40 ppm; faixa crítica 0°F a -20°F; congelamento abaixo de 32°F; 150 h por motor entre TBO | conferidos em recorte de 250 dpi |
+| 8-10 | SERVICING THE OXYGEN SYSTEM | 22/49/66/76/115 pés cúbicos; 1800 ± 50 psi a 70°F; 1850 ± 50 psi a 60°F; 3.5 psi por grau; 4.380 pressurizações ou 24 anos (3HT); 5 anos (3A/3AA); 50 psi (purga) | **divergência 66 vs 64 pés cúbicos** — ver seção 2 |
+| 8-11 | AIR CONDITIONER / filtros de cabine | 10 minutos por mês; 10°C (50°F) | conferidos em recorte de 250 dpi |
+| 8-12 | CLEANING / EXTERIOR PAINTED SURFACES | cura de 30 dias; solução de limpeza das botas até 180°F | conferidos em recorte de 250 dpi |
+| 8-13 | EXTERIOR PAINTED SURFACES (fim) | Brayco 300 per Federal Specification VV-L-800 | conferido em recorte de 250 dpi |
+| 8-14 | SURFACE DEICE BOOT CLEANING | 180°F | conferido em recorte de 250 dpi |
+| 8-15 | LAMP REPLACEMENT GUIDE | 31 números de lâmpada (MS24513-4174, A7079B-24, 4596, 55-0221-1, DS0079-BJ, A-2064-1683, 4587, A7512-24, 1982, 303, MS25231-313, 1495, D158-100-4, 1864, 1309, MS35478-1683, 5108WW, MS25237-327, 313, PW 20B/6900026, D158-100-5, 267, 1864R/1864, 1309/1495, 327) | conferidos número a número em recortes de 250 dpi |
 
 ## 4. Convenções da transcrição
 
@@ -177,6 +200,6 @@ Pontos onde recomendo uma segunda leitura, por serem números críticos ou por t
 ## 5. Próximos passos
 
 1. ~~Concluir o lote 11 (págs. 287–311)~~ feito.
-2. Lotes seguintes em ordem, de 10 páginas: 352–361, 362–371, … até a pág. 1309, atualizando a seção 1 a cada lote.
+2. Lotes seguintes em ordem, de 10 páginas: 362–371, 372–381, … até a pág. 1309, atualizando a seção 1 a cada lote.
 3. Por último, retranscrever as págs. 1–36 (abertura e Seção 1).
 4. Conferência final: comparar a contagem de páginas cobertas com 1309 e revisar as seções 2 e 3 deste arquivo.
