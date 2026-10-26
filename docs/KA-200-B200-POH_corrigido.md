@@ -8410,255 +8410,296 @@ Painéis rotulados na figura: OVERHEAD LIGHT CONTROL PANEL; COPILOT'S CONTROL WH
 
 *(7-10)*
 
+*Nota do transcritor: a página 7-11 é uma figura girada em 90° (painel do copiloto e pedestal); só são transcritos os rótulos.*
+
+Rótulos na figura: RIGHT SIDE PANEL; PEDESTAL; FUEL CONTROL PANEL; AUTOPILOT/FLIGHT DIRECTOR; POSITIONS RESERVED FOR OPTIONS SHOWN (legenda do hachurado).
+
 ![Image](KA-200-B200-POH_imagens/p00297_01.png)
+
+*(7-11)*
 
 ## GROUND CONTROL
 
-Direct linkage from the rudder pedals allows for nose wheel steering: When the rudder control is augmented by a main wheel brake, the nose wheel deflection can be considerably increased:
+Direct linkage from the rudder pedals allows for nose wheel steering. When the rudder control is augmented by a main wheel brake, the nose wheel deflection can be considerably increased.
 
-The minimum wing-tip turning radius; Using partial braking action and difierential engine power , is 39 feet 10 inches:
+The minimum wing-tip turning radius, using partial braking action and differential engine power, is 39 feet 10 inches.
 
 ## FLAPS
 
-Two faps are installed on each Power is delivered side of the rear spar: The gearbox drives four flexible driveshatts wich are connected to jackscrews; one of which operates each fap: The motor incorporates &amp; dynamic brakwindings: mechanism is provided t0 disconnect power t0 the Olectric fap motor in the event of a malfunction which would cause any other ilaps: wing: ing fap
+Two flaps are installed on each wing. Power is delivered from an electric motor to a gearbox mounted on the forward side of the rear spar. The gearbox drives four flexible drive-shafts which are connected to jackscrews, one of which operates each flap. The motor incorporates a dynamic braking system, through the use of two sets of motor windings. This feature helps prevent overtravel of the flaps. A safety mechanism is provided to disconnect power to the electric flap motor in the event of a malfunction which would cause any flap to be three to six degrees out of phase with the other flaps.
 
-The flaps are operated by a sliding switch handle on the 0% (full up) to 100% (full down) is registered on an electric indicator on top of the pedestai. A side detent provides tor quick selection of the APPROACH position (40% flaps): From the UP position t0 the APPROACH position, the fiaps cannot be stopped in APPROACH and DOWN, the flaps can be stopped anywhere by moving the handle to the DOWN position until the flaps reach the desired position then moving the flap-switch handle back to APPROACH The flaps can be raised to any position between DOWN and APPROACH by raising the handle to UP until the desired setting is reached, then returning the handle to APPROACH:  Selecting the APPROACH position will stop travel anytime the filaps are deflected more than 40%.
+The flaps are operated by a sliding switch handle on the pedestal just below the condition levers. Flap travel, from 0% (full up) to 100% (full down) is registered on an electric indicator on top of the pedestal. A side detent provides for quick selection of the APPROACH position (40% flaps). From the UP position to the APPROACH position, the flaps cannot be stopped in an intermediate position. Between APPROACH and DOWN, the flaps can be stopped anywhere by moving the handle to the DOWN position until the flaps reach the desired position, then moving the flap-switch handle back to APPROACH. The flaps can be raised to any position between DOWN and APPROACH by raising the handle to UP until the desired setting is reached, then returning the handle to APPROACH. Selecting the APPROACH position will stop flap travel anytime the flaps are deflected more than 40%.
 
-The fap-motor power circuit is protected by a 20-ampere flap-motor circuit breaker placarded FLAP MOTOR, located on the leit circuit breaker panel below the fuel control panel: A 5-ampere circuit breaker for the control circuit (placarded FLAP CONTROL) is also located on this panel
+The flap-motor power circuit is protected by a 20-ampere flap-motor circuit breaker placarded FLAP MOTOR, located on the left circuit breaker panel below the fuel control panel. A 5-ampere circuit breaker for the control circuit (placarded FLAP CONTROL) is also located on this panel.
 
-Lowering the faps will produce these results:
+Lowering the flaps will produce these results:
 
-ATTITUDE Nose UP
-
-AIRSPEED Reduced
-
-STALL SPEED Lowered
-
-TRIM Nose-Down Adjustment Required to Maintain Attitude
+- ATTITUDE - Nose UP
+- AIRSPEED - Reduced
+- STALL SPEED - Lowered
+- TRIM - Nose-Down Adjustment Required to Maintain Attitude
 
 ## LANDING GEAR
 
-## MECHANICAL LANDING GEAR
+### MECHANICAL LANDING GEAR
 
-28-volt motor and gear box, located on the forward side of the center-section main spar, extends and retracts the landing gear. The landing gear motor is controlled by the handle placarded LDG GEAR CONTROL UP DN on the pilots right subpanel The landing gear control handle must be pulled out of a detent betore it can be moved from either the UP or the DN position   The motor incorporates a dynamic braking system controlled with "up" and "down limit switches; which in conjunction with the landing gear locking mechanism prevents overtravel of the landing gear:
+A 28-volt motor and gear box, located on the forward side of the center-section main spar, extends and retracts the landing gear. The landing gear motor is controlled by the handle placarded LDG GEAR CONTROL - UP - DN on the pilot's right subpanel. The landing gear control handle must be pulled out of a detent before it can be moved from either the UP or the DN position. The motor incorporates a dynamic braking system controlled with "up" and "down" limit switches, which in conjunction with the landing gear locking mechanism prevents overtravel of the landing gear.
 
-Torque shafts drive main gear actuators, and duplex chains drive the nose gear actuator: A spring-loaded fiction-type overload clutch in the gearbox prevents damage to the structure and t0 the torque shalts in the event Of a malfunction. A 150 amp limiter, located on the landing gear panel fonward of tha main spar under the center floorboard; protects the system from electrical overload:
+Torque shafts drive main gear actuators, and duplex chains drive the nose gear actuator. A spring-loaded friction-type overload clutch in the gearbox prevents damage to the structure and to the torque shafts in the event of a malfunction. A 150 amp limiter, located on the landing gear panel forward of the main spar under the center floorboard, protects the system from electrical overload.
 
-pressed air and hydraulic fluid: Linkage from the rudder pedals permits nose wheel steering when the nose gear is down. One spring-loaded link in the system absorbs some of tha force applied to any of the interconnected rudder pedals until the nose wheel is at which time the resisting force is less and more pedal motion results in more nose weel deflection; Since motion of the pedals is tansmitted occurs when force is applied to ay of the rudder pedals With the nose landing gear retracted, some of tha force applied to ay of the rudder pedals is absorbed by the motion at the nose wheel, but rudder defilection still occurs\_ Tha nose wheel is centering upon retracton ralling; self
+The Beech air-oil type shock struts are filled with compressed air and hydraulic fluid. Linkage from the rudder pedals permits nose wheel steering when the nose gear is down. One spring-loaded link in the system absorbs some of the force applied to any of the interconnected rudder pedals until the nose wheel is rolling, at which time the resisting force is less and more pedal motion results in more nose wheel deflection. Since motion of the pedals is transmitted via cables and linkage to the rudder, rudder deflection occurs when force is applied to any of the rudder pedals. With the nose landing gear retracted, some of the force applied to any of the rudder pedals is absorbed by the spring-loaded link in the steering system so that there is no motion at the nose wheel, but rudder deflection still occurs. The nose wheel is self centering upon retraction.
 
-When force on the rudder pedal is augmented by a main wheel braking action, the nose wheel deilecton can be considerably increased
+When force on the rudder pedal is augmented by a main wheel braking action, the nose wheel deflection can be considerably increased.
 
-safety switch on the right main gear torque knee opens the control circuit wen the strut is compressed The safety switch also activates a solenoid-operated down-Iock hook on the landing gear control handle located on the pilots right subpanel; This mechanism prevents the landing gear control handle from being raised when the airplane is on the leaves the ground; down-lock solenoid, the down lock can be released by pressing downward on the red down-Iock release button: The release button is located just left of the landing gear control handle: The landing gear control handle should never be moved out of the DN detent while the airplane is on the ground; if it is, the landing gear waming hom will sound intermittently and the red gear-in-transit lights in the landing gear control handle will illuminate (provided the MASTER SWITCH is ON), warning the pilot t0 retum the handle to the DN position
+A safety switch on the right main gear torque knee opens the control circuit when the strut is compressed. The safety switch also activates a solenoid-operated down-lock hook on the landing gear control handle located on the pilot's right subpanel. This mechanism prevents the landing gear control handle from being raised when the airplane is on the ground. The hook automatically unlocks when the airplane leaves the ground. In the event of a malfunction of the down-lock solenoid, the down lock can be released by pressing downward on the red down-lock release button. The release button is located just left of the landing gear control handle. The landing gear control handle should never be moved out of the DN detent while the airplane is on the ground; if it is, the landing gear warning horn will sound intermittently and the red gear-in-transit lights in the landing gear control handle will illuminate (provided the MASTER SWITCH is ON), warning the pilot to return the handle to the DN position.
 
-Visual indication of landing gear position is provided by individual green GEAR DOWN annunciators placarded NOSE L Ron the pilots right subpanel  The annunciators may be checked in flight by pressing the annunciator: parallel-wired indicator lights located in the control handle illuminate to show that the gear is in transit or not locked also illuminate when the landing gear warning horn is actuated. Absence of illumination indicates that the gear is They lights may be checked by pressing the HDL LT TEST button located t0 the right of the ianding gear control handle.
+Visual indication of landing gear position is provided by individual green GEAR DOWN annunciators placarded NOSE - L - R on the pilot's right subpanel. The annunciators may be checked in flight by pressing the annunciator. Two red, parallel-wired indicator lights, located in the control handle illuminate to show that the gear is in transit or not locked. They also illuminate when the landing gear warning horn is actuated. Absence of illumination indicates that the gear is up and locked or down and locked. The red control handle
 
-## LANDING GEAR WARNING SYSTEM (MECHANICAL SYSTEM)
+*(7-12)*
 
-The landing gear waring system is provided to Warn the pilot that the landing gear is not down and locked during specific flight regimes   Various warning modes result; depending upon the position of tne faps.
+lights may be checked by pressing the HDL LT TEST button located to the right of the landing gear control handle.
 
-With the flaps in the UP or APPROACH position and either or both power levers retarded below approximately 80% N+, gear control handle lights will illuminate: The hom can be silenced by pressing the WARN HORN silence button adjacent to the landing gear control handle; the lights in the landing gear control handle cannot be cancelled. The landing gear warning system will be rearmed if the power lever(s) are advanced sufficiently:
+#### LANDING GEAR WARNING SYSTEM (MECHANICAL SYSTEM)
 
-With the flaps beyond the APPROACH position; the waming hor and landing gear control handle lights will be actvated regardless of the power settings, and neither can be cancelled:
+The landing gear warning system is provided to warn the pilot that the landing gear is not down and locked during specific flight regimes. Various warning modes result, depending upon the position of the flaps.
 
-## MANUAL LANDING GEAR EXTENSION (MECHANICAL SYSTEM)
+With the flaps in the UP or APPROACH position and either or both power levers retarded below approximately 80% N₁, the warning horn will sound intermittently and the landing gear control handle lights will illuminate. The horn can be silenced by pressing the WARN HORN silence button adjacent to the landing gear control handle; the lights in the landing gear control handle cannot be cancelled. The landing gear warning system will be rearmed if the power lever(s) are advanced sufficiently.
 
-Manual landing gear extension is provided through a separate, chain-drive system: To engage the system, the LDG GEAR RELAY circuit breaker, located t0 the left of the landing gear control handle on the pilots right subpanel; and ensure that the landing gear contol handle is in the DN position Pull up on the alterate engage handle (located on tho floor) and tum it clockwise until it stops. This will electrically disconnect the motor from tha system and lock the alternate drive system t0 the gear bOX With the alterate drive locked in, the chain is driven by a continuous-acton ratchet; which is activated by pumping the altemate extension handle located adjacent to the alternate engage handle: Stop pumping when all three green gear-down annunciators are illuminated: Further movement of the handle could damage tha drive mechanism and prevent subsequent electrical gear retraction: Refer to LANDING GEAR MANUAL EXTENSION (MECHANICAL SYSTEM) in Section IIIA, ABNORMAL PROCEDURES. If any of the following conditions exist; it is likely that an unsafe gear indication is due to Puli
+With the flaps beyond the APPROACH position, the warning horn and landing gear control handle lights will be activated regardless of the power settings, and neither can be cancelled.
 
-1. The inoperative gear down annunciator illuminates when tested
-2. The red light in the handle is illuminated:
-3. levers are retarded below a preset Ni:
+#### MANUAL LANDING GEAR EXTENSION (MECHANICAL SYSTEM)
 
-Atter a practice manual extension of the landing gear, the gear may be retracted electrically: Refer to LANDING GEAR RETRACTION AFTER PRACTICE MANUAL BXTENSION (MECHANICAL SYSTEM) in Section IV , NORMAL PROCE DURES
+Manual landing gear extension is provided through a separate, chain-drive system. To engage the system, pull the LDG GEAR RELAY circuit breaker, located to the left of the landing gear control handle on the pilot's right subpanel, and ensure that the landing gear control handle is in the DN position. Pull up on the alternate engage handle (located on the floor) and turn it clockwise until it stops. This will electrically disconnect the motor from the system and lock the alternate drive system to the gear box. With the alternate drive locked in, the chain is driven by a continuous-action ratchet, which is activated by pumping the alternate extension handle located adjacent to the alternate engage handle. Stop pumping when all three green gear-down annunciators are illuminated. Further movement of the handle could damage the drive mechanism and prevent subsequent electrical gear retraction. Refer to LANDING GEAR MANUAL EXTENSION (MECHANICAL SYSTEM) in Section IIIA, ABNORMAL PROCEDURES. If any of the following conditions exist, it is likely that an unsafe gear indication is due to an unsafe gear and is not a false indication.
 
-## HYDRAULIC LANDING GEAR
+1. The inoperative gear down annunciator illuminates when tested.
+2. The red light in the handle is illuminated.
+3. The gear warning horn sounds when one or both power levers are retarded below a preset N₁.
 
-The retractable tricycle landing gear is electrically controlled and hydraulically actuated. The . system   utilizes folding braces, called drag legs; that lock in place when the gear is fully extended  The nase gear actuator incorporates an internal mechanical down-lock to hold the gear in the fully extended pasition   The main gear incorporate mechanical locks on the drag leg and no locks on the actuators. The landing gear is held in the up-lock pasition by hydraulic pressure Hydraulic pressue to the system is supplied by &amp; hydraulic power pack A hydraulic reservoir located in the left center wing section provides hydraulic fluid t0 the power pack The reservoir incorporates a dip stick to provde a visual check of fuid level:
+After a practice manual extension of the landing gear, the gear may be retracted electrically. Refer to LANDING GEAR RETRACTION AFTER PRACTICE MANUAL EXTENSION (MECHANICAL SYSTEM) in Section IV, NORMAL PROCEDURES.
 
-Electrically actuated control valves control the hydraulic fluid to the individual gear actuators: The control valves receive electrical power through the landing gear control handle: flow
+### HYDRAULIC LANDING GEAR
+
+The retractable tricycle landing gear is electrically controlled and hydraulically actuated. The system utilizes folding braces, called drag legs, that lock in place when the gear is fully extended. The nose gear actuator incorporates an internal mechanical down-lock to hold the gear in the fully extended position. The main gear incorporate mechanical locks on the drag leg and no locks on the actuators. The landing gear is held in the up-lock position by hydraulic pressure.
+
+Hydraulic pressue to the system is supplied by a hydraulic power pack. A hydraulic reservoir located in the left center wing section provides hydraulic fluid to the power pack. The reservoir incorporates a dip stick to provide a visual check of fluid level.
+
+Electrically actuated control valves control the flow of hydraulic fluid to the individual gear actuators. The control valves receive electrical power through the landing gear control handle.
 
 Accidental retraction of the landing gear is prevented through safety switches located on the main landing gears.
 
-## RETRACTION (HYDRAULIC SYSTEM)
+#### LANDING GEAR EXTENSION AND RETRACTION (HYDRAULIC SYSTEM)
 
-The nose and main landing gear assemblies are extended and retracted by a hydraulic power pack in conjunction with hydraulic actuators: The hydraulic power pack is kcated in the left center section, just forward of the main spar. One hydraulic actuator is located at each landing gear. The power pack consists of: a hydraulic pump, a ?8VDC motor, a two section fuid reservoir; flter sceens; gear selector valve, two solenoids, a fuid level sensor, and an up-lock pressure switch   For manual extension tha system has a hand-lever-operated pump lacated on the floor between the one for retraction, routed from the power pack, and one for manual extension from the hand pump, are routed t0 the nose and main gear actuators: Tha nonal extension lines and the manual extension lines are connected t0 the upper end of each hydraulic actuator. The hydraulic lines for Hydraulic fluid under pressure generated by the power pack pump and contained in the accumulator acts 0n tha piston faces of the actuators which are attached t0 folding drag braces resulting in the extension Or retraction @f the landing gear.
+The nose and main landing gear assemblies are extended and retracted by a hydraulic power pack in conjunction with hydraulic actuators. The hydraulic power pack is located in the left center section, just forward of the main spar. One hydraulic actuator is located at each landing gear. The power pack consists of: a hydraulic pump, a 28VDC motor, a two section fluid reservoir, filter screens, gear selector valve, two solenoids, a fluid level sensor, and an up-lock pressure switch. For manual extension the system has a hand-lever-operated pump located on the floor between the crew seats. Hydraulic lines, one for normal extension, and one for retraction, routed from the power pack, and one for manual extension from the hand pump, are routed to the nose and main gear actuators. The normal extension lines and the manual extension lines are connected to the upper end of each hydraulic actuator. The hydraulic lines for retraction are fitted to the lower ends of the actuators. Hydraulic fluid under pressure generated by the power pack pump and contained in the accumulator acts on the piston faces of the actuators which are attached to folding drag braces resulting in the extension or retraction of the landing gear.
 
-An intemal mechanical lock in the nose gear actuator ad leg assembly lack the nose gear in the down pasition Notched hook; lock link and lock link guide attachments fitted to each main gear upper drag provide positive down-lock acton for the main gear. drag leg
+An internal mechanical lock in the nose gear actuator and the over-center action of the nose gear drag leg assembly lock the nose gear in the down position. Notched hook, lock link and lock link guide attachments fitted to each main gear upper drag leg provide positive down-lock action for the main gear.
 
-Electrical overload to the system is prevented through the use of a 60 ampere circuit breaker located below tha flooring near tha hydraulic power pack
+Electrical overload to the system is prevented through the use of a 60 ampere circuit breaker located below the flooring near the hydraulic power pack.
 
-The landing gear hydraulic power pack motor is controlled by the use Of the landing gear control handle placarded LDG GEAR CONTROL UP DN located on the pilots subpanel The control handle must be pulled out of a detent before it can be moved from either the UP or DN pasition:
+The landing gear hydraulic power pack motor is controlled by the use of the landing gear control handle placarded LDG GEAR CONTROL - UP - DN located on the pilot's subpanel. The control handle must be pulled out of a detent before it can be moved from either the UP or DN position.
 
-Safety switches, called squat switches, on the main gear torque knees open the control circuit when the Strut is comdown-lock hook on the landing gear control handle to the released position: This mechanism prevents the landing gear control handle from Placed in the UP position when the airplane is on the ground: The hook automatically disengages when the airplane leaves the ground, and can be overridden by pressing dow on the red gear control handle. being In flight;, as the landing gear moves to the full down position; the down lock switches are actuated and interrupt curent t0 the pump motor. When the red gear in-transit lights in the landing gear control handle extinguish and the three green GEAR DOWN annunciators illuminate; the landing gear is in the fully extended position pump are energized through positioning of the landing gear control switch handle either t0 the UP or DN position. Once energized, the gear select valve is actuated, allowing hydraulic fluid t0 fiow to the actuators:
+Safety switches, called squat switches, on the main gear torque knees open the control circuit when the strut is compressed. The squat switches must close to actuate a solenoid which moves a down-lock hook on the landing gear
 
-Hydraulic system pressure performs the up-lock function, holding the landing gear in the retracted poSition. When the sure switch will cause the landing gear t0 open and interrupt the current t0 the pump motor. The Same pressure switch will cause tha pump to actuate, should the hydraulic 2400 pressure drop t0 approximately psi. relay
+*(7-13)*
 
-A caution annunciator, placarded HYD FLUID LOW, in the cautionladvisory annunciator panel will illuminate (yellow) whenever the hydraulic fluid level in the hydraulic power FLUID SENSOR TEST button located on the pilots subpanel
+control handle to the released position. This mechanism prevents the landing gear control handle from being placed in the UP position when the airplane is on the ground. The hook automatically disengages when the airplane leaves the ground, and can be overridden by pressing down on the red down-lock release button located to the left of the landing gear control handle.
 
-The landing gear control handle should never ba moved out of the DN detent while the airplana is on the ground. If it is, the landing gear warning hor will sound intermittently, and the red gear-in-transit lights in the landing gear control handle will illuminate (provided the MASTER SWITCH is tion:
+In flight, as the landing gear moves to the full down position, the down lock switches are actuated and interrupt current to the pump motor. When the red gear in-transit lights in the landing gear control handle extinguish and the three green GEAR DOWN annunciators illuminate, the landing gear is in the fully extended position.
 
-Landing gear position is indicated by an assembly of three green annunciators: Whan illuminated, the annunciators indicate that the particular gear is down Absence of illumination indicates that the gear is Up.
+Two gear select solenoids located on the valve body of the pump are energized through positioning of the landing gear control switch handle either to the UP or DN position. Once energized, the gear select valve is actuated, allowing hydraulic fluid to flow to the actuators.
 
-Two red parallel-wired indicator lights, located in the landing gear control handle, illuminate to show that the gear is in transit or unlocked The red lights in the handle also illuminate when the landing gear warning hom is actuated
+Hydraulic system pressure performs the up-lock function, holding the landing gear in the retracted position. When the hydraulic pressure reaches 2775 ±55 psi, the up-lock pressure switch will cause the landing gear relay to open and interrupt the current to the pump motor. The same pressure switch will cause the pump to actuate, should the hydraulic pressure drop to approximately 2400 psi.
+
+A caution annunciator, placarded HYD FLUID LOW, in the caution/advisory annunciator panel will illuminate (yellow) whenever the hydraulic fluid level in the hydraulic power pack is low. The annunciator is tested by pressing the HYD FLUID SENSOR TEST button located on the pilot's subpanel.
+
+The landing gear control handle should never be moved out of the DN detent while the airplane is on the ground. If it is, the landing gear warning horn will sound intermittently, and the red gear-in-transit lights in the landing gear control handle will illuminate (provided the MASTER SWITCH is ON), warning the pilot to return the handle to the DN position.
+
+Landing gear position is indicated by an assembly of three green annunciators. When illuminated, the annunciators indicate that the particular gear is down. Absence of illumination indicates that the gear is up.
+
+Two red parallel-wired indicator lights, located in the landing gear control handle, illuminate to show that the gear is in transit or unlocked. The red lights in the handle also illuminate when the landing gear warning horn is actuated.
 
 The red lights may be checked by pressing the HDL LT TEST button located adjacent to the landing gear control handle.
 
-## LANDING GEAR WARNING SYSTEM (HYDRAULIC SYSTEM)
+#### LANDING GEAR WARNING SYSTEM (HYDRAULIC SYSTEM)
 
-The landing gear waming system is provided to wam the regimes. Various Warning modes result, depending upon the pasition of the flaps:
+The landing gear warning system is provided to warn the pilot that the landing gear is not down during specific flight regimes. Various warning modes result, depending upon the position of the flaps.
 
-With the flps in the UP or APPROACH position and either or both power levers retarded below approximately 80% N+, the waming hom will sound intermittently and the landing gear control handle lights will illuminate. The hom can be silenced by pressing the WARN HORN silence button adjacent to the landing gear control handle; the lights in the landing gear control handle cannot be cancelled. The landing gear warning system will be rearmed if the power lever(s) are advanced sufficientfy:
+With the flaps in the UP or APPROACH position and either or both power levers retarded below approximately 80% N₁, the warning horn will sound intermittently and the landing gear control handle lights will illuminate. The horn can be silenced by pressing the WARN HORN silence button adjacent to the landing gear control handle; the lights in the landing gear control handle cannot be cancelled. The landing gear warning system will be rearmed if the power lever(s) are advanced sufficiently.
 
-hom and landing gear switch handle lights will be activated ` regardless of the power settings, and neither can be cancelled.
+With the flaps beyond APPROACH position, the warning horn and landing gear switch handle lights will be activated regardless of the power settings, and neither can be cancelled.
 
-## MANUAL LANDING GEAR EXTENSION (HYDRAULIC SYSTEM)
+#### MANUAL LANDING GEAR EXTENSION (HYDRAULIC SYSTEM)
 
-An alternate extension handle, placarded LANDING GEAR pilots side of the pedestal. To engage the system, pull the LANDING GEAR RELAY circuit breaker , located to the left of the landing gear control handle on the pilots right subpanel, &amp;nd ensure that the landing gear control handle is in the DN position Remove the alternate extension handle ing, do not lower the handle below the level of the securing clip during the dow stroke as this will allow accumulated hydraulic pressure to bleed oft. Continue the pumping action until the three green gear-dow annunciators are illumimore gear down annunciators do not illuminate, te alternate handle must not be stowed  Instead, leave it at the tOp of the up stroke. Continue to pump the handle when conditions permit until the gear is mechanically secured after landing: Refar to LANDING GEAR MANUAL EXTENSION in Section IIIA , ABNORMAL PROCEDURES. If any of the fol-
+An alternate extension handle, placarded LANDING GEAR ALTERNATE EXTENSION, is located on the floor on the pilot's side of the pedestal. To engage the system, pull the LANDING GEAR RELAY circuit breaker, located to the left of the landing gear control handle on the pilot's right subpanel, and ensure that the landing gear control handle is in the DN position. Remove the alternate extension handle from the securing clip and pump up and down. While pumping, do not lower the handle below the level of the securing clip during the down stroke as this will allow accumulated hydraulic pressure to bleed off. Continue the pumping action until the three green gear-down annunciators are illuminated, then stow the handle in the securing clip. If one or more gear down annunciators do not illuminate, the alternate handle must not be stowed. Instead, leave it at the top of the up stroke. Continue to pump the handle when conditions permit until the gear is mechanically secured after landing. Refer to LANDING GEAR MANUAL EXTENSION in Section IIIA, ABNORMAL PROCEDURES. If any of the following conditions exist, it is likely that an unsafe gear indication is due to an unsafe gear and is not a false indication.
 
-- The inoperative gear down annunciator illuminates when tested:
-- 2 The red light in the handle is illuminated
-3. The gear waming hom sounds wen one or both power levers are retarded below a preset Ni-
+1. The inoperative gear down annunciator illuminates when tested.
+2. The red light in the handle is illuminated.
+3. The gear warning horn sounds when one or both power levers are retarded below a preset N₁.
 
-After a practice manual extension of the landing gear, the] gear may be retracted hydraulically: Refer t0 LANDING GEAR RETRACTION AFTER PRACTICE MANUAL BXTENSION in Section IV, NORMAL PROCEDURES:
+After a practice manual extension of the landing gear, the gear may be retracted hydraulically. Refer to LANDING GEAR RETRACTION AFTER PRACTICE MANUAL EXTENSION in Section IV, NORMAL PROCEDURES.
 
-## BRAKE SYSTEM
+*(7-14)*
 
-The dual hydraulic brakes are operated by depressing the toe portion of either the pilot's or copilots rudder pedals: The series system plumbing enables braking by either pilot Or copilot
+### BRAKE SYSTEM
 
-Dual parking-brake valves are installed adjacent to the rudder pedals between the master cylinders of the pilot's rudder pedals and the wheel brakes A control for the valves; plac arded PARKING BRAKE, is located below the pilots left subpanel: After the pilot's brake pedals have been depressed to build Up pressure in the brake lines, both valves can be closed simultaneously by pulling out the parking brake handle.  This retains the pressure in the brake lines: The parking brake is released by depressing the ped: als briefly to equalize the pressure on both sides of the valve, then pushing in the parking brake handle t0 open the valve:
+The dual hydraulic brakes are operated by depressing the toe portion of either the pilot's or copilot's rudder pedals. The series system plumbing enables braking by either pilot or copilot.
 
-![Image](KA-200-B200-POH_imagens/p00301_01.png)
+Dual parking-brake valves are installed adjacent to the rudder pedals between the master cylinders of the pilot's rudder pedals and the wheel brakes. A control for the valves, placarded PARKING BRAKE, is located below the pilot's left subpanel. After the pilot's brake pedals have been depressed to build up pressure in the brake lines, both valves can be closed simultaneously by pulling out the parking brake handle. This retains the pressure in the brake lines. The parking brake is released by depressing the pedals briefly to equalize the pressure on both sides of the valve, then pushing in the parking brake handle to open the valve.
 
-The parking brake should be left off and wheel chocks installed it the airplane is to be left unattended. Changes in the ambient temperature can cause the brakes t0 release Or t0 exert excessive pressures:
+> **CAUTION**
+>
+> The parking brake should be left off and wheel chocks installed if the airplane is to be left unattended. Changes in the ambient temperature can cause the brakes to release or to exert excessive pressures.
 
-The airplane is normally equipped with dual 18x5.5 Type ` 8-ply-rated, tubeless, rim-inflated tires on each main gear: For increased service lite, 10-ply-rated tires of the same size bo installed: may
+### TIRES
 
-Optionally, the airplane may be equipped with dual 22x6.75tires provide higher  flotation, and permit  operation at approximately 2/3 the infilation pressure required for the Standard 18x5.5 tires:
+The airplane is normally equipped with dual 18x5.5 Type VII, 8-ply-rated, tubeless, rim-inflated tires on each main gear. For increased service life, 10-ply-rated tires of the same size may be installed.
+
+Optionally, the airplane may be equipped with dual 22x6.75-10, 8-ply-rated, tubeless tires on each main gear. These tires provide higher flotation, and permit operation at approximately 2/3 the inflation pressure required for the standard 18x5.5 tires.
 
 The nose gear is equipped with a 22x6.75-10, 8-ply-rated, tubeless tire.
 
 ## BAGGAGE COMPARTMENT
 
-utilized as a baggage compartment: A nylon web is provided Loading Data" and "Cabin Arangement Diagrams" in Section VI, WEIGHT AND BALANCEIEQUIPMENT UST.
+The entire aft-cabin area (which is aft of the foyer) may be utilized as a baggage compartment. A nylon web is provided for the restraining of loose items. See "Dimensional and Loading Data" and "Cabin Arrangement Diagrams" in Section VI, WEIGHT AND BALANCE/EQUIPMENT LIST.
 
-![Image](KA-200-B200-POH_imagens/p00301_02.png)
+> **WARNING**
+>
+> Unless authorized by applicable Department of Transportation Regulations, do not carry hazardous material anywhere in the airplane.
 
-Unless authorized by applicable Department of Transportation Regulations, d not carry hazardous material anywhere in the airplane partment unless secured in a seat Baggage and other   objects should be secured by webs in order to prevent shifting in turbulent air.
+Do not carry children in the baggage compartment unless secured in a seat.
 
-![Image](KA-200-B200-POH_imagens/p00301_03.png)
+> **CAUTION**
+>
+> Baggage and other objects should be secured by webs in order to prevent shifting in turbulent air.
 
-Items Stowed in the aft-cabin area are accessible in fight The aft-cabin area can be closed off from the foyer by pulling the optional baggage compartment curtain across the opening and securing it with the snap fasteners provided Aterately, a The door is unlatched by rotating the latch handle cockwise; and latched by rotating the handle counterclockwise
+Items stowed in the aft-cabin area are accessible in flight. The aft-cabin area can be closed off from the foyer by pulling the optional baggage compartment curtain across the opening and securing it with the snap fasteners provided. Alternately, a latching compartment door may be installed. The door is unlatched by rotating the latch handle clockwise, and latched by rotating the handle counterclockwise.
 
 ## SEATS, SEATBELTS, AND SHOULDER HARNESSES
 
-## SEATS
+### SEATS
 
-## COCKPIT
+#### COCKPIT
 
-The and copilot seats are adjustable fore and at, as well as vertically: When the release lever under the front forward or aft as required When the release lever under the front outboard corner of the seat is lifted and no weight is on the seat, the seat will rise in hal-inch increments t0 its highest position: When weight is on the seat and the lever is ments until the lever is released, Or until the seat reaches its lowest Of vartical travel. Tha armrests pivot at the aft end and can be raised t0 facilitate to and egress from the seats: pilot point entry
+The pilot and copilot seats are adjustable fore and aft, as well as vertically. When the release lever under the front inboard corner of the seat is lifted, the seat can be moved forward or aft as required. When the release lever under the front outboard corner of the seat is lifted and no weight is on the seat, the seat will rise in half-inch increments to its highest position. When weight is on the seat and the lever is lifted, the seat will slowly move downward in half-inch increments until the lever is released, or until the seat reaches its lowest point of vertical travel. The armrests pivot at the aft end and can be raised to facilitate entry to and egress from the seats.
 
-## CABIN
+#### CABIN
 
-Various coniigurations Of passenger chairs and 2-or 4-place couches may ba installed on the continuous tracks which are mounted on the cabin foor: All passenger chairs are placarded either FRONT FACING ONLY or FRONT OR AFT FACING on the horizontal leg cross brace. Only chairs placarded FRONT OR AFT FACING may ba installed facing ait All at-tacing chairs (and all forward-iacing chairs that are equipped with   shoulder harnesses) are equipped with adjustable headrests:
+Various configurations of passenger chairs and 2- or 4-place couches may be installed on the continuous tracks which are mounted on the cabin floor. All passenger chairs are placarded either FRONT FACING ONLY or FRONT OR AFT FACING. Only chairs placarded FRONT OR AFT FACING may be installed facing aft. All aft-facing chairs (and all forward-facing chairs that are equipped with shoulder harnesses) are equipped with adjustable headrests.
 
-![Image](KA-200-B200-POH_imagens/p00301_04.png)
+> **WARNING**
+>
+> Before takeoff and landing, the headrest should be adjusted as required to provide support for the head and neck when the passenger leans against the seatback.
 
-Before takeoff and landing, the headrest should be adjusted as required to provide support for the head and neck when the passenger leans against the seatback Some passenger chairs can be moved fore and aft; to suit legroom  requirements of different passengers, by lifting a horizontal release lever that extends laterally under the front of adjustable seats\_ ("Front" is the direction opposite the seatback, regardless of whether the chair faces fore or aft The seatbacks can be adjusted to any angle from fully upright to fully reclining, by depressing the release lever located on the side of the seat at the tront inboard comer When the lever is depressed and the passenger leans against the seatback, the seatback will slowly recline until the lever is released, or until the fully reclining position is attained: When no weight is placed against the seatback and the lever is depressed, tha seatback will rise until the lever is released, or until the fully upright position is reached: The seatbacks Of all occupied seats must be upright for takeoff and landing:
+*(7-15)*
 
-The passenger-chair seatback can also be folded flat over the side of the seat at the back inboard corner
+Some passenger chairs can be moved fore and aft, to suit legroom requirements of different passengers, by lifting a horizontal release lever that extends laterally under the front of adjustable seats. ("Front" is the direction opposite the seatback, regardless of whether the chair faces fore or aft.)
 
-Tha optional lateral-tracking passenger chairs incorporate a flat, rectangular release lever undereath the front inboard corer of the seats\_ When this lever is lifted, the chairs can be adjusted fore and aft &amp;s well as laterally: The seatback adjustmnents are the same as those on the standard passenger chairs: When occupied, these seats must be in the outboard position (e, against the cabin wall) for takeotf and landing:
+The seatbacks can be adjusted to any angle from fully upright to fully reclining, by depressing the release lever located on the side of the seat at the front inboard corner. When the lever is depressed and the passenger leans against the seatback, the seatback will slowly recline until the lever is released, or until the fully reclining position is attained. When no weight is placed against the seatback and the lever is depressed, the seatback will rise until the lever is released, or until the fully upright position is reached. The seatbacks of all occupied seats must be upright for takeoff and landing.
 
-Inboard armrests on passenger chairs and both armrests on couches and lateral-tracking chairs can ba folded fush egress from the seat The armrests can be lowered by lifting the flat, rectangular release plate located under the front end of the arrest; then movng the arrest toward the front the seat and dowward. The armrest can be raised by pulling the arrest upward and toward the seatback until it locks into place.
+The passenger-chair seatback can also be folded flat over the seat cushion, after releasing the lock lever located on the side of the seat at the back inboard corner.
 
-Tha couches are not adjustable:
+The optional lateral-tracking passenger chairs incorporate a flat, rectangular release lever underneath the front inboard corner of the seats. When this lever is lifted, the chairs can be adjusted fore and aft, as well as laterally. The seatback adjustments are the same as those on the standard passenger chairs. When occupied, these seats must be in the outboard position (i.e., against the cabin wall) for takeoff and landing.
 
-## FOYER
+Inboard armrests on passenger chairs - and both armrests on couches and lateral-tracking chairs - can be folded flush with the top of the seat cushions to facilitate entry to and egress from the seat. The armrests can be lowered by lifting the flat, rectangular release plate located under the front end of the armrest, then moving the armrest toward the front of the seat and downward. The armrest can be raised by pulling the armrest upward and toward the seatback until it locks into place.
 
-Hinged seat-cushion halves mounted on toP of the toilet fom an extra passenger seat when the toilet is not is uSB.
+The couches are not adjustable.
 
-## AFT-CABIN AREA
+#### FOYER
 
-One or two optional folding seats may be installed in the aftcabin area They are mounted on the cabin sidewall and swing inboard when unfolded. A latch mechanism on the locks the seats in place when are unfolded. When this seating is not needed, the seat(s) may be folded against the cabin Sidewall and held in place with retaining Straps: leg they
+Hinged seat-cushion halves mounted on top of the toilet form an extra passenger seat when the toilet is not in use.
 
-## SEATBELTS
+#### AFT-CABIN AREA
 
-Every seat in the airplane is equipped wth a seatbett The seatbelt can be lengthened by turing the male half of the bucke at a right angle to the belt, then pulling the male half in the direction away from the anchored end of the belt The buckle is locked by sliding the male half into the female half of the buckle. The belt is then tightened by pulling the short end of the bett through the male half of the buckle until a The buckie is released by the large, hinged release lever on the temale buckle half and wear seat belts during takeoff and landing: lifting
+One or two optional folding seats may be installed in the aft-cabin area. They are mounted on the cabin sidewall and swing inboard when unfolded. A latch mechanism on the leg locks the seats in place when they are unfolded. When this seating is not needed, the seat(s) may be folded against the cabin sidewall and held in place with retaining straps.
 
-## SHOULDER HARNESSES
+### SEATBELTS
 
-## COCKPIT
+Every seat in the airplane is equipped with a seatbelt. The seatbelt can be lengthened by turning the male half of the buckle at a right angle to the belt, then pulling the male half in the direction away from the anchored end of the belt. The buckle is locked by sliding the male half into the female half of the buckle. The belt is then tightened by pulling the short end of the belt through the male half of the buckle until a snug fit is obtained. The buckle is released by lifting the large, hinged release lever on the female buckle half and pulling the male half of the buckle free. All occupants must wear seat belts during takeoff and landing.
 
-The shoulder haress installations for the pilot and copilot seats consist of two straps each. Each strap is routed from the lower aft area of the seat, Up the seatback; and through a retaining loop on top of the seatback One Strap is worn over each  shoulder. Each strap terminates in a slotted bayonet-blade fastener which is aligned with one edge of the shoulder hamess Straps can be secured by sliding the male half of the seatbett buckle thraugh the bayonet slots and into the female half of the seatbelt buckle.
+### SHOULDER HARNESSES
 
-The shoulder hamess straps proceed from inertia reels built into the crew chairs Spring loading atthe inertia reels keeps the shoulder hamesses snug; but allows the pilot and copilot all te freedom of movement normally required in flight. However, the inerta reels incorporate a locking device that will secure the haress straps in the event Of sudden forward movement
+#### COCKPIT
 
-## CABIN
+The shoulder harness installations for the pilot and copilot seats consist of two straps each. Each strap is routed from the lower aft area of the seat, up the seatback, and through a retaining loop on top of the seatback. One strap is worn over each shoulder. Each strap terminates in a slotted bayonet-blade fastener which is aligned with one edge of the strap. When the two bayonet blades are placed together, the shoulder harness straps can be secured by sliding the male half of the seatbelt buckle through the bayonet slots and into the female half of the seatbelt buckle.
 
-The shoulder hamess on passenger chairs consists of a single strap: It is routed through the top of the seatback and terminates in a triangular metal fastener. Tha strap is wom diagonally: It runs from the outboard shoulder t0 the inboard hip area, where it is secured by hooking the metal fastener around the securing Stud on the male half of the seatbelt buckle.
+The shoulder harness straps proceed from inertia reels built into the crew chairs. Spring loading at the inertia reels keeps the shoulder harness snug, but allows the pilot and copilot all the freedom of movement normally required in flight. However, the inertia reels incorporate a locking device that will secure the harness straps in the event of sudden forward movement.
 
-The shoulder hamess strap coils and uncoils from an inertia reel built into the passenger chair. Spring loading at the inertia reel keeps the shoulder haress strap snug, but allows considerable freedom of movement However, the inertia reel incorporates a locking device that will secure the the seat is equipped with a shoulder hamess; it must be during takeolf and landing:
+#### CABIN
 
-![Image](KA-200-B200-POH_imagens/p00303_01.png)
+The shoulder harness on passenger chairs consists of a single strap. It is routed through the top of the seatback and terminates in a triangular metal fastener. The strap is worn diagonally. It runs from the outboard shoulder to the inboard hip area, where it is secured by hooking the metal fastener around the securing stud on the male half of the seatbelt buckle.
 
-Ensure the seatback is in the fully upright position and that the headrest is properly adjusted whenever the shoulder harness is used.
+The shoulder harness strap coils and uncoils from an inertia reel built into the passenger chair. Spring loading at the inertia reel keeps the shoulder harness strap snug, but allows considerable freedom of movement. However, the inertia reel incorporates a locking device that will secure the harness strap in the event of sudden forward movement. If the seat is equipped with a shoulder harness, it must be worn during takeoff and landing.
 
-## AFT-CABIN AREA
+*(7-16)*
 
-The shoulder harness for the aft-cabin area fold-up chairs is of a double-strap configuration: The middle portion of the strap is secured by a metal slip ring which is anchored to the aft pressure bulkhead The two ends (which actually tunction as two separate straps) extend downward toward the seatbelt-buckle area. One end of the shoulder harness strap terminates in a slotted bayonet-blade fastener: The other end is attached to the upper edge of the shoulder harness adjuster: A short adjusting strap; which is also equipped with a slotted bayonet blade fastener; extends upward from the area of the seatbelt buckle and slides through the lower pOrtion A small,   flexible adjusting tab is also attached to the lower edge of the adjuster.
+> **WARNING**
+>
+> Ensure the seatback is in the fully upright position and that the headrest is properly adjusted whenever the shoulder harness is used.
 
-One shoulder harness strap is worn When the two bayonet blades are placed together, the shoulder harness straps can be secured by sliding the male tha female half of the seatbelt buckle. The shoulder harness strap can be lengthened by grasping the tab on the adjuster and pulling upward The strap can be tightened by grasping the loose end of the adjusting strap and pulling it through the adjuster until the shoulder harness is snug:
+#### AFT-CABIN AREA
 
-![Image](KA-200-B200-POH_imagens/p00304_01.png)
+The shoulder harness for the aft-cabin area fold-up chairs is of a double-strap configuration. The middle portion of the strap is secured by a metal slip ring which is anchored to the aft pressure bulkhead. The two ends (which actually function as two separate straps) extend downward toward the seatbelt-buckle area. One end of the shoulder harness strap terminates in a slotted bayonet-blade fastener. The other end is attached to the upper edge of the shoulder harness adjuster. A short adjusting strap, which is also equipped with a slotted bayonet blade fastener, extends upward from the area of the seatbelt buckle and slides through the lower portion of the shoulder harness adjuster. A small, flexible adjusting tab is also attached to the lower edge of the adjuster.
+
+One shoulder harness strap is worn over each shoulder. When the two bayonet blades are placed together, the shoulder harness straps can be secured by sliding the male half of the seatbelt buckle through the bayonet slots and into the female half of the seatbelt buckle. The shoulder harness strap can be lengthened by grasping the tab on the adjuster and pulling upward. The strap can be tightened by grasping the loose end of the adjusting strap and pulling it through the adjuster until the shoulder harness is snug.
+
+*(7-17)*
 
 ## DOORS, WINDOWS, AND EXITS
 
-## AIRSTAIR DOOR
+### AIRSTAIR ENTRANCE DOOR (B200)
 
-## AIRSTAIR ENTRANCE DOOR (B200)
+The airstair entrance door (cabin door) is hinged at the bottom. It swings outward and downward when opened. A stairway is built onto the outboard side of the door. Two of the stairsteps fold flat against the door when the door is closed. A hydraulic damper ensures that the door will swing down slowly when it opens. While the door is open, it is supported by a plastic-encased cable, which also serves as a handrail. Additionally, this cable is utilized when closing the door from inside the airplane. An inflatable rubber seal is installed around the perimeter of the door, and seats against the door frame as the door is closed. When weight is off the landing gear, engine bleed air supplies pressure to inflate the door seal, which provides a positive pressure-vessel seal around the door. The outside door handle can be locked with a key, for security of the airplane on the ground.
 
-The airstair entrance door (cabin door) is hinged at the bottom: It swings outward and downward when opened. A stairway is built onto the outboard side of the door\_ Two of the stairsteps fold flat against the door when the door is closed. A hydraulic damper ensures that the door will swing down slowly when it opens While the door is open, it is supported by a plastic-encased cable, which also serves as a handrail Additionally, this cable is utilized when closing the door from inside the airplane. An inflatable rubber seal is installed around the perimeter of the door, and seats against the door frame as the door is closed. When weight is off the landing gear, engine bleed air supplies pressure to inflate the door seal, which provides a positive pressure-vessel seal around the door, The outside door handle can be locked with a for security of the airplane on the ground, key,
+> **CAUTION**
+>
+> Only one person should be on the airstair door stairway at any one time.
 
-![Image](KA-200-B200-POH_imagens/p00304_02.png)
+#### AIRSTAIR DOOR
 
-Only one person should be on the airstair door stairway t any one time:
+The door locking mechanism is operated by rotating either the outside or the inside door handle. The handles are linked together, so they move together. Two latch bolts at each side of the door, and two latch hooks at the top of the door, lock into the door frame to secure the airstair door.
 
-The door locking mechanism is operated by rotating either the outside linked together, so they move together. Two latch bolts at each side of the door; and two latch hooks at the top of the door; lock into the door frame to secure the airstair door;
+Whether unlocking the door from the outside or the inside, the release button adjacent to the door handle must be held depressed before the handle can be rotated (counterclockwise from inside the airplane, clockwise from outside) to unlock the door. Consequently, unlocking the door is a two-hand operation requiring deliberate action. The release button acts as a safety device to help prevent accidental opening of the door. As an additional safety measure, a differential-pressure-sensitive diaphragm is incorporated into the release-button mechanism. The outboard side of the diaphragm is open to atmoshperic pressure, the inboard side to cabin air pressure. As the cabin-to-atmospheric pressure differential increases, it becomes increasingly difficult to depress the release button, because the diaphragm moves inboard when either the outboard or inside release button is depressed.
 
-Whether unlocking the door from the outside or the inside, the release button adjacent to the door handle must be held depressed before the handle can be rotated (counterclockwise from inside the airplane, clockwise from outside) to unlock the door: Consequently, unlocking the door is a twOhand operation requiring deliberate action. The release butsafety device to help prevent accidental opening of the door. As an additional safety measure, a differential-pressure-sensitive   diaphragm is incorporated into the release-button mechanism. The outboard side of the diaphragm is open to atmoshperic pressure, the inboard side to cabin air pressure. As the cabin-to-atmospheric pressure differential increases, it becomes increasingly difficult to depress the release button, because the diaphragm moves inboard when either the outboard or inside release button is depressed.
+![Image](KA-200-B200-POH_imagens/p00304_01.png)
 
-![Image](KA-200-B200-POH_imagens/p00305_01.png)
+*(7-18)*
 
-Never attempt to unlock or even check the
+> **WARNING**
+>
+> Never attempt to unlock or even check the security of the door in flight.
+>
+> If the CABIN DOOR annunciator illuminates in flight, or if the pilot has any reason whatever to suspect that the door may not be securely locked, the cabin should be depressurized (after first considering altitude), and all occupants instructed to remain seated with their seatbelts fastened. After the airplane has made a full-stop landing and the cabin has been depressurized, a crew member should check the security of the cabin door.
 
-If the CABIN DOOR annunciator illuminates in flight, or if the pilot has any reason whatever to suspect that the door may not be securely locked; the cabin should be depressurized (after first considering altitude) , and all occupants instructed to remain seated with their  seatbelts fastened: After the airplane has made a tull-stop landing and the cabin has been depressurized, a crew member should check the security ot the cabin door:
+To close the door from outside the airplane, lift up the free end of the airstair door and push it up against the door frame as far as possible. Then grasp the handle with one hand and rotate it clockwise as far as it will go. The door will then move into the closed position. Then rotate the handle counterclockwise as far as it will go. The release button should pop out, and the handle should be pointing aft. Check the security of the airstair door by attempting to rotate the handle clockwise without depressing the release button; the handle should not move.
 
-end ofthe airstair door and push it up against the door frame as far as possible. Then grasp the handle with one hand and rotate it clockwise &amp;s far as it will go. The door will then move into the clased position; Then rotate the handle counsecurity of the airstair door by attempting to rotate the handle clockwise without depressing the release button; the handle should not move\_
+To close the door from inside the airplane, grasp the handrail cable and pull the airstair door up against the door frame. Then grasp the handle with one hand and rotate it counterclockwise as far as it will go, continuing to pull inward on the door. The door will then move into the closed position. Then turn the handle clockwise as far as it will go. The release button should pop out, and the handle should be pointing down. Check the security of the door by attempting to rotate the handle counterclockwise without depressing the release button; the handle should not move. Next, lift the folded stairstep that is just below the door handle. A placard adjacent to the round observation window advises the observer that the safety lock arm should be in position around the diaphragm shaft (plunger) when the handle is in the locked position. The placard also presents a diagram showing how the arm and shaft should be positioned. A red push-button switch near the window turns on a lamp inside the door, which illuminates the area observable through the window. If the arm is properly positioned around the shaft, proceed to check the indication in each of the visual inspection ports, one of which is located near each corner of the door. The green stripe painted on the latch bolt should be aligned with the black pointer in the visual inspection port. If any condition specified in this door-locking procedure is not met, DO NOT TAKE OFF.
 
-To close the door from inside the airplane, grasp the handthe airstair door Up against the door Then grasp the handle with one hand and rotate it counterclockwise as tar as it will go, continuing to inward on the door: The door will then move into the closed position Then turn the handle clockwise as far &amp;s it will go. The release button should pOp out, and the handle should be pointing down Check the security of the door by attempting to rotate the handle counterclockwise without depressing the release button; the handle should not move. Next; lift the folded stairstep that is just below the door handle. A placard adjacent to the round observation window advises the observer that the safety lock arm should be in position around the diaphragm shaft (plunger) when the handle is in the locked position: The placard also presents a diagram showing how the arm and shaft should be positioned red push-button switch near the window turns on a lamp inside the door; which illuminates the area observable through the window. If the arm is properly positioned around the shaft, proceed to check the indication in each of the visual inspection ports, one of which is located near each corner of the door. The green stripe painted on the latch bolt should be aligned with the black pointer in the visual inspection port; If any condition specified in this door-locking procedure is not met; DO NOT TAKE OFF. pull pull
+### AIRSTAIR ENTRANCE DOOR (B200C)
+
+The airstair door is built into the cargo door. It is hinged at the bottom, and swings downward when opened. It has a stairway built onto the inboard side. Two of the stairsteps fold flat against the door when the door is closed. When the door is opened, a self-storing platform automatically folds down over the door sill to protect the rubber door seal. A hydraulic damper ensures that the door will swing down slowly when it opens. While the door is open, it is supported by a plastic-encased cable, which also serves as a handrail. Additionally, this cable is utilized when closing the door from inside the airplane. An inflatable rubber seal is installed around the perimeter of the door, and seats against the door frame as the door is closed. When the cabin is pressurized, air seeps into the rubber seal through small holes in the outboard side of the seal. The higher the cabin differential pressure, the more the seal inflates. This is a passive-seal system with no mechanical connection to a bleed air source. The outside door handle can be locked with a key, for security of the airplane on the ground.
 
 ![Image](KA-200-B200-POH_imagens/p00305_02.png)
 
-## AIRSTAIR ENTRANCE DOOR (B200C)
+*(7-19)*
 
-The airstair door is built into the cargo door It is hinged at the bottom, and swings downward when opened: It has a stainway built onto the inboard side Two of the stairsteps told flat against the door when the door is closed When the door is opened, a self-storing platform automatically folds down over the door sill to protect the rubber door seal A hydraulic damper ensures that the door will swing down slowly when it opens: While the door is open; it is supported by a plastic-encased cable, which also serves as a handrail. Additionally, this cable is utilized when closing the door from inside the airplane. An inflatable rubber seal is installed around the perimeter of the door, and seats against the door frame as the door is closed  When the cabin is pressurized, air seeps into the rubber seal through small holes in the out - board side of the seal. The higher the cabin differential pressure, the more the seal inflates  This is a passive-seal system with no mechanical connection to a bleed air source\_ The outside door handle can be locked with a for security of the airplane on the ground key;
+> **CAUTION**
+>
+> Only one person should be on the airstair door stairway at any one time.
 
-![Image](KA-200-B200-POH_imagens/p00306_01.png)
+The door locking mechanism is operated by rotating either the outside or the inside door handle, both of which move simultaneously. Three hollow, crescent latches on each side of the door rotate to capture or release latch posts mounted in the cargo door to secure the airstair door. When latched, the airstair door becomes an integral part of the cargo door.
 
-one person should be on the airstair door stairway at any one time. Only
+Whether unlocking the door from the outside or the inside, the release button adjacent to the door handle must be held depressed before the handle can be rotated (counterclockwise from inside the airplane, clockwise from outside) to unlock the door. Consequently, unlocking the door is a two-hand operation requiring deliberate action. The release button acts as a safety device to help prevent accidental opening of the door. As an additional safety measure, a differential-pressure-sensitive diaphragm is incorporated into the release-button mechanism. The outboard side of the diaphragm is open to atmoshperic pressure, the inboard side to cabin air pressure. As the cabin-to-atmospheric pressure differential increases, it becomes increasingly difficult to depress the release button, because the diaphragm moves inboard when either the outboard or inside release button is depressed.
 
-The door locking mechanism is operated by rotating either the outside or the inside door handle, both of which move simultaneously: Three hollow, crescent latches on each side of the door rotate to capture or release latch posts mounted in the cargo door to secure the airstair door: When latched, the airstair door becomes an integral part of the cargo dor:
+> **WARNING**
+>
+> Never attempt to unlock or even check the security of the door in flight.
 
-Whether unlocking the door from the outside or the inside; the release button adjacent to the door handle must be held depressed before the handle can be rotated (counterclockwise from  inside the airplane, clockwise from outside) to unlock the door. Consequently, unlocking the door is a two hand operation requiring deliberate action  The release button acts as a safety device to help prevent accidental opening of the door, As an additional safety measure, a differential-pressure-sensitive diaphragm is incorporated into the release-button mechanism. The outboard side of the diaphragm is open to atmoshperic pressure, the inboard side to cabin air pressure: As the cabin-to-atmospheric pressure differential increases to depress the release button, because the diaphragm moves inboard when either the outboard or inside release button is depressed.
+If the CABIN DOOR annunciator illuminates in flight, or if the pilot has any reason whatever to suspect that the door may not be securely locked, the cabin should be depressurized (after first considering altitude), and all occupants instructed to remain seated with their seatbelts fastened. After the airplane has made a full-stop landing and the cabin has been depressurized, a crew member should check the security of the airstair door and the cargo door.
 
-![Image](KA-200-B200-POH_imagens/p00306_02.png)
+To close the door from outside the airplane, lift up the free end of the airstair door and push it up against the door frame as far as possible. Then grasp the handle with one hand and rotate it clockwise as far as it will go. The door will then move into the closed position. Then rotate the handle counterclockwise as far as it will go. The release button should pop out, and the handle should be pointing aft. Check the security of the door by attempting to rotate the handle clockwise without depressing the release button; the handle should not move.
 
-Never attempt to unlock Or even check the security of the door in flight.
+To close the door from inside the airplane, grasp the handrail cable and pull the airstair door up against the door frame. Then grasp the handle with one hand and rotate it counterclockwise as far as it will go, continuing to pull inward on the door. The door will then move into the closed position. Then turn the handle clockwise as far as it will go. The release button should pop out, and the handle should be pointing down. Check the security of the door by attempting to rotate the handle counterclockwise without depressing the release button; the handle should not move. Next, lift the second folded airstep below the door handle. A placard adjacent to the round observation window advises the observer that the safety lock arm should be in position around the diaphragm shaft (plunger) when the handle is in the locked position. The placard also presents a diagram showing how the arm and shaft should be positioned. A red push-button switch near the window turns on a lamp inside the door, which illuminates the area observable through the window. If the arm is properly positioned around the shaft, proceed to check the orange stripe on each of the six rotary latches (three on each side of the airstair door) and ensure each is aligned with the notch in the plate on the door frame. Finally, turn the battery switch ON and check the warning annunciator panel in the cockpit; ensure that the red CABIN DOOR annunciator is extinguished. It will illuminate when the battery switch is ON and the airstair door is not closed and securely latched. With the BATtery switch OFF and the airstair door closed but not latched, the CABIN DOOR annunciator will illuminate. If any condition specified in this door-latching procedure is not met, DO NOT TAKE OFF.
 
-Ifthe CABIN DOOR annunciator illuminates in flight; or itf the pilot has any reason whatever to suspect that the door may not be securely locked, the cabin should be depressurized (atter first considering altitude) , and all occupants instructed to remain seated with their seatbelts fastened. After the airplane has made a full-stop landing and the cabin has been depressurized, a crew member should check the security of the airstair door and the cargo door:
-
-To close the door from outside the airplane, lift Up the free end of the airstair door and push it up against the door frame as far as possible: Then grasp the handle with one hand and rotate it clockwise as far as it will go. The door will then move into the closed position  Then rotate the handle counterclockwise as far as it will go. The release button should POp out, and the handle should be pointing Check tha security of the door by attempting to rotate the handle clockwise without   depressing the release button; the handle should not move aft,
-
-To close the door from inside the airplane, grasp the hand: rail cable and the airstair door Up against the door frame: Then grasp the handle with one hand and rotate i counterclockwise as tar as it will go, continuing to inward on the door; The door will then move into the closed position; Then turn the handle clockwise as far as it will go. The release button should pop out, and the handle should be pointing down; Check the security of the door by attempting to rotate the handle counterclockwise without depressing the release button; the handle should not move Next; lift the second folded airstep below the door handle: A placard adjacent to the round  observation window advises the observer that the safety lock arm should be in position around the diaphragm shait (plunger) when the handle is in the locked position The placard also presents a diagram showing how the arm and shaft should be positioned: A red push-button switch near the window turns on a lamp inside the door, which illuminates the area observable through the window. If the arm is properly positioned around the shaft, proceed to check the orange stripe on each of the six rotary latches (three on each side of the airstair door) and ensure each is aligned with the notch in the plate on the frame: Finally, turn tha battery switch ON and check the warning annunciator panel in the cockpit; ensure that the red CABIN DOOR annunciator is extinguished: It will illuminate when the battery switch is ON and the airstair door is not closed and securely latched: With the BATtery switch OFF and the airstair door closed but not latched, the CABIN DOOR annunciator will illuminate: If any condition specified in this door-latching procedure is not met, DO NOT TAKE OFF, pull pull door-
+*(7-20)*
 
 ![Image](KA-200-B200-POH_imagens/p00307_01.png)
 
