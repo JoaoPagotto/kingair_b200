@@ -1,0 +1,3988 @@
+{
+  "source_pdf": "KA-200-B200-PTM.pdf",
+  "source_sha256": "6835a8102c8f600c3b39aa34d2b53f9a848790321447136ec2cd821af245986d",
+  "physical_pages": 382,
+  "reviewed_through": 100,
+  "hash_definition": "SHA-256 do texto UTF-8 entre as linhas de marcador START e END, excluindo as próprias linhas de marcador e a linha de status; inclui título, metadados, corpo, notas e links de imagem do trecho.",
+  "pages": [
+    {
+      "physical": 1,
+      "printed": "Cover",
+      "section": "Abertura",
+      "status": "revisada",
+      "sha256": "6e5ff437601608ce22e0807a9541e0cb858449681f51b7e961b6507eee3d7eb2",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 2,
+      "printed": "Notice",
+      "section": "Abertura",
+      "status": "revisada",
+      "sha256": "3c9fd1d1675f635de17d2641bb017ae7e3cffd970f36e72cbfce4b3afd13bc82",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 3,
+      "printed": "Copyright",
+      "section": "Abertura",
+      "status": "revisada",
+      "sha256": "f635c48694622d290a7d7a5fe87f71b2c5e3c30b45c52ff5fdf39d24f58e2a61",
+      "notes": "Grafia “Famborough” mantida como impressa.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 4,
+      "printed": "Lista de páginas efetivas",
+      "section": "Abertura",
+      "status": "revisada",
+      "sha256": "dd9591f5b763bfdaa54d29fc7b17fc5cd3130c3ef55dbc378aa5ea15a42e1983",
+      "notes": "Lista de páginas efetivas reconstruída; entrada “10-1—22” mantida como impressa.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 5,
+      "printed": "Contents",
+      "section": "Abertura",
+      "status": "revisada",
+      "sha256": "7b75089bb8140f370bfca6a19995f64c1f7dc8ae1c63be8f698a9a19c15629b8",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 6,
+      "printed": "1-i",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "fc839a20bee6cb65d39ff9949f26e1c8316f49ec62f4c5bcc84b054a3c1c08c4",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 7,
+      "printed": "1-ii",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "5662bae3da5d8baaa1db326d47d7b5ac1f9340f7453838896424596ab43675da",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 8,
+      "printed": "1-iii",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "ef90f2f761263cc5316c1b961edd40c2e82d943492d0e670b8074d9d8d17c21b",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 9,
+      "printed": "1-iv",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "bb622b385faca2e3eb288da532791028ebb26da5d4803274ae909941cbf50557",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 10,
+      "printed": "1-1",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "9862c3cf36c097c440fb03ce4a90c40b3ec3d1696f2fa50592d49342ddf9e43e",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "art"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 11,
+      "printed": "1-2",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "717f752e16e9fbf2602d22d2f6a39661021ffbe42ba2dafc584dd5ed18807070",
+      "notes": "Mantidos “24-volt. 42-ampere”, “BB-1 632” e “startergenerators”; parênteses em itálico na fonte.",
+      "figures": [
+        "1-1"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 12,
+      "printed": "1-3",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "898913f363b1f29ae4ace590087f8105fa37dfeafaff0639da133a7203fde02f",
+      "notes": "Confirmadas visualmente e mantidas as grafias “baltery”, “interconnecled”, “buttery” e “SO-amp”.",
+      "figures": [
+        "1-2",
+        "1-3"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 13,
+      "printed": "1-4",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "71fbf9b9347e864b737a74ec76de30cb1887641a5e6c5d403c2ef5715a145a18",
+      "notes": "Mantidos “This switch control” e “Prior·to”. Continua na página física 14.",
+      "figures": [
+        "1-5",
+        "1-4"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 14,
+      "printed": "1-5",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "68c6c9970866651355ad038976d6bea0a2bbae7229efcc6c0ed1a1748db1c3b6",
+      "notes": "Continuação da página física 13.",
+      "figures": [
+        "1-6"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 15,
+      "printed": "1-6",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "7995e1ab097465513f8d2de03e2834169e7ab3d629b908c6a746bdc115bfd31d",
+      "notes": "Mantido “threestage”; N1 representado com subscrito.",
+      "figures": [
+        "1-7"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 16,
+      "printed": "1-7",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "222dcbbb12d6a05231388dc26985f7f039eea7451e57ce267ac8c72d2c375d83",
+      "notes": "Continua na página física 17.",
+      "figures": [
+        "1-8"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 17,
+      "printed": "1-8",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "44e64a7aaabfeeb8814c31cb45e37541675334d0641676a5c5fb533b5799a235",
+      "notes": "Texto de proteção contra gelo remete à Figure 1-9; mantido como impresso. Continua na página física 18. Continuação da página física 16.",
+      "figures": [
+        "1-9",
+        "1-10"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 18,
+      "printed": "1-9",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "0a03d6d0e8573548e5c76b9ec9343af266a049b132fca0dd90718048fbda6acb",
+      "notes": "Continuação da página física 17.",
+      "figures": [
+        "1-11"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 19,
+      "printed": "1-10",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "b08e536503aeca85facea4eac2796c881fb48976d7800f8c956b387bca76dafe",
+      "notes": "Tabela 1-1 reconstruída; valores e tolerâncias ± conferidos.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 20,
+      "printed": "1-11",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "ee32b10f178621dcc5e19c84a0024149d2b594bcd4e03194c6bf12bdac2a6e39",
+      "notes": "Mantida a quebra “control-ler”. Continua na página física 21.",
+      "figures": [
+        "1-12",
+        "1-13"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 21,
+      "printed": "1-12",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "52e36b37d4e3c2b0e7d5642a3edd76447fe1577008a0e705e95b148f0fed1f93",
+      "notes": "Mantido “selfcentered”. Continuação da página física 20.",
+      "figures": [
+        "1-14",
+        "1-15"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 22,
+      "printed": "1-13",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "3b4436dd1e47c0dead5f01ae607eb641112d4b9acb87a90b972cceb538f46ad1",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "1-16"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 23,
+      "printed": "1-14",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "0107019988c4a7998a61ddbc09b84679de83bd0f4fe4c5a9e0a01505a5e47d5b",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "1-18",
+        "1-17",
+        "1-19"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 24,
+      "printed": "1-15",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "f21dd27a0c40fda3fb6f2e1c6df9fe25953b3165436ef18538cd1048f9f301cd",
+      "notes": "Mantidos “certificated”, “constantflow” e capitalização “SYStem”. Continua na página física 25.",
+      "figures": [
+        "1-20",
+        "1-21"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 25,
+      "printed": "1-16",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "4f818a83e1263baaa87b47d8a935d5ce5c42ea6d81fb7744fcc90d8933a755d5",
+      "notes": "Texto informa 43 ft 9 in; figuras 1-23/1-24 distinguem configurações (1) e (2). Não harmonizado. Continuação da página física 24.",
+      "figures": [
+        "1-22"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 26,
+      "printed": "1-17",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "d9deea10a8252a55160cabf34373131836c2c3cd409bbf2317d0f70a77994d36",
+      "notes": "Cotas e configurações preservadas no desenho; não convertidas em tabela para não perder a associação das setas.",
+      "figures": [
+        "1-23"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 27,
+      "printed": "1-18",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "df3839a0cfb02ce545bca841d178968120bfc7efeb2e92f98a12d785e0fb505d",
+      "notes": "Cotas diferem da figura 1-23 conforme configuração; preservadas sem correção.",
+      "figures": [
+        "1-24"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 28,
+      "printed": "1-19",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "decbdf72f52bd3683ea65383b2213d74590fb8cf040c776712138b5e7ae0c983",
+      "notes": "Legenda da Figure 1-25 diz “Airplane Dimensions”, embora o desenho seja de disposição de cabine; mantida.",
+      "figures": [
+        "1-25"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 29,
+      "printed": "1-20",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "8bc7c3db7f428af3c58f5a52fee3b4b5f13176215a7940da2d16bf17ebf8433a",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "1-26",
+        "1-27"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 30,
+      "printed": "1-21",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "4e6671168dcc4cea928785bbabd2f41422079ca69d7b87060db73a6692969be4",
+      "notes": "Continua na página física 31.",
+      "figures": [
+        "1-28",
+        "1-29"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 31,
+      "printed": "1-22",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "c1b4fdacda41ce733b0a3d18fbc35537fee94c230170bbabf76d0b38f7527688",
+      "notes": "Mantido “EXITPULL” sem espaço. Continuação da página física 30.",
+      "figures": [
+        "1-30"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 32,
+      "printed": "1-23",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "b20a5440407350cc99d362701296e778db21361db6bc50d8693c13a412e40357",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "1-31"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 33,
+      "printed": "1-24",
+      "section": "1 Aircraft General",
+      "status": "revisada",
+      "sha256": "ee7c95e1f1211a345285940c85aed701b02a1ad41cac00f9db6b39d7e01cdfaa",
+      "notes": "Mantido “Ushaped”.",
+      "figures": [
+        "1-32"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 34,
+      "printed": "2-i",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "917c0635308c9bcc9cdc808f74ba51f58368148e5d417eba9b3051687eb06d73",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 35,
+      "printed": "2-iii",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "802404ee578c40844b819a9117cf02e1d2371a23f7a36d51cd63bb11cc2a001a",
+      "notes": "Mantida a grafia “Nickel Cadium” na lista de ilustrações.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 36,
+      "printed": "2-iv",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "3edcd2532e8a6f178aec975ec5abdf7de89ba594d1dbb22bb2b4be7ef65aa0e8",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 37,
+      "printed": "2-1",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "e3533515f20e600ffb77749b819c8730a2370cf3cfe05d8fa2f1b64677b4c648",
+      "notes": "Camada nativa extrai “SYSTEMES”; a imagem mostra “SYSTEMS”. Transcrito conforme a imagem.",
+      "figures": [
+        "art"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 38,
+      "printed": "2-2",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "654a3833cfbc4c87c9f6a2b8afa0f9944e4dd52af6e3cc2af5eb6dacad12e4ff",
+      "notes": "Continua na página física 39.",
+      "figures": [
+        "2-1"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 39,
+      "printed": "2-3",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "c09052895b293f49ea1f11f08ac7cc94727efc831b0008c6b3946c446f7110de",
+      "notes": "Continuação da página física 38.",
+      "figures": [
+        "2-2",
+        "2-3",
+        "2-4"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 40,
+      "printed": "2-4",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "38b3e06d73ab86efc129f2e411528f7045634372b0ba0a402d3e9bffb9c4bc5f",
+      "notes": "Legenda da Figure 2-5 diz “BATTERY CHG”; a lente fotografada diz “BATTERY CHARGE”. Ambas preservadas. Continua na página física 41.",
+      "figures": [
+        "2-6",
+        "2-5"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 41,
+      "printed": "2-5",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "17dd185571b340cdae2be83846dfba0837427682adca4ba4d5bd07e24dc6fef7",
+      "notes": "Continuação da página física 40.",
+      "figures": [
+        "2-7"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 42,
+      "printed": "2-6",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "0bf887e16751b3288486fc98d02e5088f0308144bd195ab5b5101b12498f80d5",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "2-8"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 43,
+      "printed": "2-7",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "b56b25a252cb30859a6b70facb3703bc21db4ea5e8d10aa19d9e4a123b4dca61",
+      "notes": "Continua na página física 44.",
+      "figures": [
+        "2-9",
+        "2-10"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 44,
+      "printed": "2-8",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "ae2d488f85cb605ad7e62172d86e1c3e4f23212a629c754c162d146bc7c6f57b",
+      "notes": "Texto cita BB-1098 (excluding BB-1096); página 12 cita prior to BB-1096. Divergência mantida. Continua na página física 45. Continuação da página física 43.",
+      "figures": [
+        "2-11",
+        "2-12"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 45,
+      "printed": "2-9",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "2bc6d6243c4e16bfe9d82c25fb2ee1850a007711ffaa7f062af5285541709374",
+      "notes": "Continuação da página física 44.",
+      "figures": [
+        "2-13"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 46,
+      "printed": "2-10",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "80ac8fb6a0613fa01744f6f72107b0a8f6b9b57bdbcfb6aa032e4adf8efc18b6",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "2-14"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 47,
+      "printed": "2-11",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "189569ce6d3825b96d2f8378a0190b7a387147aa7393c474838bf86c71075f85",
+      "notes": "Continua na página física 48.",
+      "figures": [
+        "2-15"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 48,
+      "printed": "2-12",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "ded39adb165530d7a6c79480ef2eea4b00e1a1832ffae81938465ad5d9b6a9c0",
+      "notes": "Legenda “B-2 THROUGH BB-1443, EXCEPT 1439” mantida como impressa. Continuação da página física 47.",
+      "figures": [
+        "2-15"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 49,
+      "printed": "2-13",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "b15296fef710cd4996ed2a8e3f9069fed298b2527427b203d4db7a4fdbc6ea6d",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "2-16"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 50,
+      "printed": "2-14",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "6ba5a7722d2807e2b46d3b0966ad9f18e8370ae125b884f020e5ea089d38d676",
+      "notes": "Rótulo “AVONICS” no diagrama preservado na imagem.",
+      "figures": [
+        "2-17"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 51,
+      "printed": "2-15",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "8abc27534e49e1e4a9ed640777a0764d791b0bd402267f3fc8695c04538ecb27",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "2-18",
+        "2-19"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 52,
+      "printed": "2-16",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "1135a97e374b1f9475af12eb34060407d0500259eff696003bd969c97eaf8026",
+      "notes": "Diagrama girado para leitura; nota de serialidade preservada no detalhe.",
+      "figures": [
+        "2-20"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 53,
+      "printed": "2-17",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "bfc3ba1fc547191d0dca5271165dca1e8bde5508b1e5867aad8673af55fbaa27",
+      "notes": "Diagrama girado para leitura; notas de serialidade preservadas no detalhe.",
+      "figures": [
+        "2-21"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 54,
+      "printed": "2-18",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "caac40d6e3c059ff837149bc441feb5fa76b201d433e18e194fe6b1aae2aa7f8",
+      "notes": "Faixa de seriais da legenda mantida, inclusive “BB-1449”.",
+      "figures": [
+        "2-22"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 55,
+      "printed": "2-19",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "2e05cf86c9aac5ee66ab6d96abf8eb1a22e294773a342f8e612c0f45f4112aa6",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "2-23"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 56,
+      "printed": "2-20",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "24f79730b6474488b967a2709056d44df8a2a87aa9dcc66c82d19c4c604ebd01",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "2-24"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 57,
+      "printed": "2-21",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "76c4158f90469e4a698e3c3e2b7db3f91682718c22d44e8e37fb5b9c0d0b3f59",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "2-25"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 58,
+      "printed": "2-22",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "60e54dcef673bbe5040cc0bd8040648254b3b3effbd1636fe182454164fe9043",
+      "notes": "Tabela 2-1: o segundo grupo não traz a linha “70 to 75%”; ausência mantida, sem interpolação.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 59,
+      "printed": "2-23",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "7fdb2b4edcf6c089f0457da97dff3570f296ac76db84dd805986765bf0ed061b",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 60,
+      "printed": "2-24",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "644c3a4bf56c1eb9ba3d6d14bae4edc2764cd17198bb44f4a9f39e154f37daf5",
+      "notes": "Mantidas as formas “BB 1-162” e “BB 163” como impressas. Continua na página física 61.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 61,
+      "printed": "2-25",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "16deb9aa01a937c43acaa211d6fc2a8e618975c3156ab9ed7ee0036775de8d33",
+      "notes": "Mantidas as faixas “BB 1-450” e “BB 450 AND SUBSEQUENT” como impressas. Continua na página física 62. Continuação da página física 60.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 62,
+      "printed": "2-26",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "e77a646f9d9df0f6a76884ba451c772baffe34085103587dcb2a08e4ba50229d",
+      "notes": "Continuação da página física 61.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 63,
+      "printed": "2-27",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "caede2adf6f77eb8cf4e8a9c7f7e2e6dca1ba713020c0a96a3a131164de58a2b",
+      "notes": "Tabela 2-4: “STALL WARN” associado a “FIREWALL VALVE SWITCH” como impresso; não corrigido.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 64,
+      "printed": "2-28",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "d4f570ae2c25e0b9352470b4deb069b270d0c93b7828c45ebfaf30c73bdb9768",
+      "notes": "Questões preservadas sem indicar respostas.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 65,
+      "printed": "2-29",
+      "section": "2 Electrical Power Systems",
+      "status": "revisada",
+      "sha256": "318d1dd4e9da01d802a95d266d6172621c2086f024045c7f3fcd8bf47aa6b1ed",
+      "notes": "Questões preservadas sem indicar respostas.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 66,
+      "printed": "3-i",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "2ca7714fad46ea94f20bfa3231e21c49388286d14ee623d9cda4788493c0c89e",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 67,
+      "printed": "3-iii",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "7a3cc96766714c8093dc6b404c7e2ed45397259e62bbeed3cfd18b51d31e0838",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 68,
+      "printed": "3-1",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "a9c837a9cdd2312bce5f379857e3583e9101d7cd3ad4a6fc10fe67e82cdadfa9",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "art"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 69,
+      "printed": "3-2",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "57bca3a6cb158736e97169f3de5c27d1ad9aa56b6cd7e69a59fe4562a771e9d2",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "3-1",
+        "3-2"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 70,
+      "printed": "3-3",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "c72b861cf35fc548e46daec28c136124a96cb8965105d4ca169987076bb41a94",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "3-3",
+        "3-4"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 71,
+      "printed": "3-4",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "059ffe0220e71998fe4c2eb3c07a66a76aa24649ac55a5bcb717f030f7d0407c",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "3-5",
+        "3-7",
+        "3-6"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 72,
+      "printed": "3-5",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "66319614211061148289e142432ee87222268114116efe62030b2c0ef0318bde",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "3-8",
+        "3-10",
+        "3-9",
+        "3-11"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 73,
+      "printed": "3-6",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "585f719788c2bc8bca498be0f846d9d4cb1205d6c4bb126ffb31668140515905",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "3-12",
+        "3-13"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 74,
+      "printed": "3-7",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "40a65168fc5be352c96745c7c386b99456dbb95b66e55de82ab068693107bc40",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "3-14"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 75,
+      "printed": "3-8",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "0bd6394978dcf24af202d86a3110aa6189cf3ccdf10a5a71ed2d4cc1198cf634",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "3-15",
+        "3-16",
+        "3-17"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 76,
+      "printed": "3-9",
+      "section": "3 Lighting",
+      "status": "revisada",
+      "sha256": "edbaffce1fe37584ecfcbaf179032c467a038a7c3e998b2779d4d385a35cc27d",
+      "notes": "Questões preservadas sem indicar respostas.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 77,
+      "printed": "4-i",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "a8bcc0bd03f6d3f2175c3d9f3f5810128cb083e00569203040ce43945e802796",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 78,
+      "printed": "4-iii",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "4dee2ef0437ecd1038dfe0149b764558bf52ca6dcc269b5be37c8b2097513d04",
+      "notes": "Lista de ilustrações mantém a ordem impressa 4-9 antes de 4-8.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 79,
+      "printed": "4-1",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "7fe118055c8979aa5b7ffc4159ac31b558b4d105095a382b9eb5f06719e127f3",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "art"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 80,
+      "printed": "4-2",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "5d9ab86f747ff8dca06ef87a064340b431da4766ad5d7fbeb8c8a8b9aa738445",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "4-1"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 81,
+      "printed": "4-3",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "305c581d118b57f600f627f6c78f884a102bef8f024756be24eb5e1bcb4f71c6",
+      "notes": "Continua na página física 82.",
+      "figures": [
+        "4-2"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 82,
+      "printed": "4-4",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "ef541e0d9b624d8c12374f2907364f1d3b8683a9fb82472421da9d416af0e294",
+      "notes": "Continuação da página física 81.",
+      "figures": [
+        "4-3",
+        "4-4"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 83,
+      "printed": "4-5",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "e2b56f4b0b4697041d3acca4373081375f74f67539ea7ce632cb0e62118f67e9",
+      "notes": "Tabela 4-1 reconstruída; lentes vermelhas preservadas em imagem de apoio.",
+      "figures": [
+        "4-5"
+      ],
+      "has_table": true
+    },
+    {
+      "physical": 84,
+      "printed": "4-6",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "77be34aa7eb673bb829ee914060090de8490e19a27eeede5442e3add993988d2",
+      "notes": "Tabela 4-3 mantém pares impressos incomuns: DOOR UNLOCKED→altitude de cabine; ALT WARN→fogo motor direito. Não corrigido.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 85,
+      "printed": "4-7",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "a51f2a4b5999137ef02daccfdb55158998921255df450b588923c9850ff65373",
+      "notes": "Continua na página física 86.",
+      "figures": [
+        "4-6"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 86,
+      "printed": "4-8",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "224291fc42eb72d76279a1cfa0ea054275a43d3c7c81ccf4eb2a02bcde090e92",
+      "notes": "Continuação da página física 85.",
+      "figures": [
+        "4-7",
+        "4-8",
+        "4-9"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 87,
+      "printed": "4-9",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "0d8fb78561ff80fe713b7f6a6f8dcd7d3ab07a2c49c62fd1916ba5762647fcb2",
+      "notes": "Mantido “deengergized”; introdução fala em warning annunciators, mas a tabela é caution advisory.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 88,
+      "printed": "4-10",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "002a9825fa1f1ba5901357b79133c8f98c943a5dd54911bb0450ed82e5d067cc",
+      "notes": "Mantidos “deengergized” e “B-200”.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 89,
+      "printed": "4-11",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "31a95548f468dc3b52d4b96bec69ec45bb00b3109cc84ffe63af835aa2eda5ee",
+      "notes": "Mantido “deengergized”.",
+      "figures": [],
+      "has_table": true
+    },
+    {
+      "physical": 90,
+      "printed": "4-12",
+      "section": "4 Master Warning Systems",
+      "status": "revisada",
+      "sha256": "2259c4d7811b9d397e59280d018562dc4e263f4e6c4f2e02216b0cd427ed087f",
+      "notes": "Questões preservadas sem indicar respostas.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 91,
+      "printed": "5-i",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "a8953f8d3e00fe0e4e99bd8d41bc30d74db8e8624ed61b2fd22b9ddbc0028a27",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 92,
+      "printed": "5-ii",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "4c9826b1d94733515974114f86ccb381860f7c57127db4caf548ee22367c085e",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 93,
+      "printed": "5-iii",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "26b2d83316dbab7650db5fccf47bab48a4f62e71d402312d119f1039e55f89c7",
+      "notes": "Texto conferido com a imagem.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 94,
+      "printed": "5-1",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "93bdfc385790ec42069cbef26305e6f69d1fcf8209141383233ccc21ba63d101",
+      "notes": "Totais de combustível mantidos como impressos (386/158/544 gal; 2.586/1.058/3.644 lb).",
+      "figures": [
+        "art"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 95,
+      "printed": "5-2",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "6f7babadad7c593bea262762099b37abcb3ab383dadbe490497ee069927c1ee5",
+      "notes": "Continua na página física 96.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 96,
+      "printed": "5-3",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "9724be69fd061d5e43af95c974c3947033c9bdc69a2bf9353a86eabe8dfc1142",
+      "notes": "Esquema colorido girado para leitura; legenda, símbolos e notas preservados no detalhe. Continuação da página física 95.",
+      "figures": [
+        "5-1"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 97,
+      "printed": "5-4",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "073bb224b0a16f56182165bee0962e0f6a68c245c5862c2226ea888eba34530a",
+      "notes": "Esquema colorido girado para leitura; legenda, símbolos e notas preservados no detalhe.",
+      "figures": [
+        "5-2"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 98,
+      "printed": "5-5",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "80f05d248034875c7a5763186b09f5728231f2bf6a3d090caffee856926556f7",
+      "notes": "Capacidades por célula preservadas no desenho; totais do texto não foram redistribuídos. Continua na página física 99.",
+      "figures": [
+        "5-3"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 99,
+      "printed": "5-6",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "e8f456d435c572a92865c4c8c625ce58554938a6e317dec5f39ff5ef490084df",
+      "notes": "Mantida a referência “Service Bulletin 0703-286”. Continuação da página física 98.",
+      "figures": [
+        "5-4"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 100,
+      "printed": "5-7",
+      "section": "5 Fuel System",
+      "status": "revisada",
+      "sha256": "a11bd53408e495f010a54dbd730303805a57336f2b9bf295d4744545db1738de",
+      "notes": "Figuras preservadas em imagem de apoio.",
+      "figures": [
+        "5-5"
+      ],
+      "has_table": false
+    },
+    {
+      "physical": 101,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 102,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 103,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 104,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 105,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 106,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 107,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 108,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 109,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 110,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 111,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 112,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 113,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 114,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 115,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 116,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 117,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 118,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 119,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 120,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 121,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 122,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 123,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 124,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 125,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 126,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 127,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 128,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 129,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 130,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 131,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 132,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 133,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 134,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 135,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 136,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 137,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 138,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 139,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 140,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 141,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 142,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 143,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 144,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 145,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 146,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 147,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 148,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 149,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 150,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 151,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 152,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 153,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 154,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 155,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 156,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 157,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 158,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 159,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 160,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 161,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 162,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 163,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 164,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 165,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 166,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 167,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 168,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 169,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 170,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 171,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 172,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 173,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 174,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 175,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 176,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 177,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 178,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 179,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 180,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 181,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 182,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 183,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 184,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 185,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 186,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 187,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 188,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 189,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 190,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 191,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 192,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 193,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 194,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 195,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 196,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 197,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 198,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 199,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 200,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 201,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 202,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 203,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 204,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 205,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 206,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 207,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 208,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 209,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 210,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 211,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 212,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 213,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 214,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 215,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 216,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 217,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 218,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 219,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 220,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 221,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 222,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 223,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 224,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 225,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 226,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 227,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 228,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 229,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 230,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 231,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 232,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 233,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 234,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 235,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 236,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 237,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 238,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 239,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 240,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 241,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 242,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 243,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 244,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 245,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 246,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 247,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 248,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 249,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 250,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 251,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 252,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 253,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 254,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 255,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 256,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 257,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 258,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 259,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 260,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 261,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 262,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 263,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 264,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 265,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 266,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 267,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 268,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 269,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 270,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 271,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 272,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 273,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 274,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 275,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 276,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 277,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 278,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 279,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 280,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 281,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 282,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 283,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 284,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 285,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 286,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 287,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 288,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 289,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 290,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 291,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 292,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 293,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 294,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 295,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 296,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 297,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 298,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 299,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 300,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 301,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 302,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 303,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 304,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 305,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 306,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 307,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 308,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 309,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 310,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 311,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 312,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 313,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 314,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 315,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 316,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 317,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 318,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 319,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 320,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 321,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 322,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 323,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 324,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 325,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 326,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 327,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 328,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 329,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 330,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 331,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 332,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 333,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 334,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 335,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 336,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 337,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 338,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 339,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 340,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 341,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 342,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 343,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 344,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 345,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 346,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 347,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 348,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 349,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 350,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 351,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 352,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 353,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 354,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 355,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 356,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 357,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 358,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 359,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 360,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 361,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 362,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 363,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 364,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 365,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 366,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 367,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 368,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 369,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 370,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 371,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 372,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 373,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 374,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 375,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 376,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 377,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 378,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 379,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 380,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 381,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    },
+    {
+      "physical": 382,
+      "printed": null,
+      "section": null,
+      "status": "pendente",
+      "sha256": null,
+      "notes": "Aguardando lote autorizado.",
+      "figures": [],
+      "has_table": false
+    }
+  ]
+}
