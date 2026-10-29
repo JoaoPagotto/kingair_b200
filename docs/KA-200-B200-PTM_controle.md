@@ -21,7 +21,7 @@ PDF, POH e conversões automáticas anteriores do PTM permanecem inalterados. O 
 | Lote | Páginas físicas | Estado | Revisadas no lote | Commit |
 |---|---|---|---:|---|
 | 1 | 1–100 | Concluído e publicado | 100 | `2c02f6f54990c9a3afac5cd9ebbe85f3d5669e2e` |
-| 2 | 101–200 | Concluído; aguardando confirmação para o lote 3 | 100 | A publicar neste lote |
+| 2 | 101–200 | Concluído; aguardando confirmação para o lote 3 | 100 | `95dee970562207f0f6c3b9a3620ee5136a48bfad` |
 | 3 | 201–300 | Pendente; não iniciar sem confirmação | 0 | — |
 | 4 | 301–382 | Pendente; não iniciar sem confirmação | 0 | — |
 
@@ -558,7 +558,7 @@ Hash do trecho: SHA-256 do conteúdo entre marcadores, excluindo linhas de marca
 | Data | Lote | Intervalo | Método | Resultado | Ressalvas |
 |---|---|---|---|---|---|
 | 2026-10-29 | 1 | 1–100 | Visual 144 dpi + detalhes; tabelas Markdown; imagens | 100 revisadas; commit `2c02f6f` | Divergências mantidas |
-| 2026-10-29 | 2 | 101–200 | Visual 144 dpi + tabelas/gráficos 240 dpi; esquemas girados 200 dpi; inserção apenas em marcadores pendentes | 100 revisadas; 182 pendentes; commit a publicar | Lote 1 preservado; tabelas e gráficos sem interpolação |
+| 2026-10-29 | 2 | 101–200 | Visual 144 dpi + tabelas/gráficos 240 dpi; esquemas girados 200 dpi; inserção apenas em marcadores pendentes | 100 revisadas; 182 pendentes; commit `95dee970562207f0f6c3b9a3620ee5136a48bfad` | Lote 1 preservado; tabelas e gráficos sem interpolação |
 
 ## 9. Verificações executadas
 
