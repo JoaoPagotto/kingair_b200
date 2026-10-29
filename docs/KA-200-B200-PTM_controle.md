@@ -7,35 +7,38 @@
 - **SHA-256 esperado e observado:** `6835a8102c8f600c3b39aa34d2b53f9a848790321447136ec2cd821af245986d` — conferem.
 - **Tamanho:** 32.274.925 bytes.
 - **Transcrição:** [KA-200-B200-PTM.md](KA-200-B200-PTM.md)
-- **Manifesto de hashes/metadados:** [KA-200-B200-PTM_manifesto.json](KA-200-B200-PTM_manifesto.json)
-- **Branch da sessão:** `arena/25936ceb-kingair-b200`.
-- **Data da revisão do lote 1:** 2026-10-29.
+- **Manifesto:** [KA-200-B200-PTM_manifesto.json](KA-200-B200-PTM_manifesto.json)
+- **Branch:** `arena/25936ceb-kingair-b200`.
+- **Datas:** lote 1 e lote 2 em 2026-10-29.
 - **Escopo:** comparação documental, não validação operacional nem aprovação para voo.
 
 ## 2. Trabalho anterior preservado
 
-Foram preservados sem sobrescrita: `KA-200-B200-PTM.pdf`, todos os arquivos do POH, `KA-200-B200-PTM_completo.md`, `KA-200-B200-PTM_corrigido.md`, `KA-200-B200-PTM_docling/` e `KA-200-B200-PTM_imagens/`. Esses materiais são conversões/edições automáticas anteriores, **sem revisão visual atestada neste trabalho**. O novo arquivo revisado é separado e usa marcadores físicos; conversores não devem escrever nele.
+PDF, POH e conversões automáticas anteriores do PTM permanecem inalterados. O lote 1 foi preservado byte a byte nos trechos 1–100; apenas o cabeçalho de estado e os trechos pendentes 101–200 foram atualizados. Verificação adicional comparou todos os arquivos rastreados antes do lote 2: somente `PTM.md`, `PTM_controle.md`, `PTM_manifesto.json` e testes foram alterados, além dos novos assets do lote 2.
 
 ## 3. Progresso por lote
 
 | Lote | Páginas físicas | Estado | Revisadas no lote | Commit |
 |---|---|---|---:|---|
-| 1 | 1–100 | Concluído; aguardando confirmação para o lote 2 | 100 | `2c02f6f54990c9a3afac5cd9ebbe85f3d5669e2e` (conteúdo do lote 1) |
-| 2 | 101–200 | Pendente; não iniciar sem confirmação | 0 | — |
+| 1 | 1–100 | Concluído e publicado | 100 | `2c02f6f54990c9a3afac5cd9ebbe85f3d5669e2e` |
+| 2 | 101–200 | Concluído; aguardando confirmação para o lote 3 | 100 | A publicar neste lote |
 | 3 | 201–300 | Pendente; não iniciar sem confirmação | 0 | — |
 | 4 | 301–382 | Pendente; não iniciar sem confirmação | 0 | — |
 
-**Total revisado:** 100/382 (26.18%). **Pendentes:** 282 páginas.
+**Total revisado:** 200/382 (52.36%). **Pendentes:** 182 páginas.
 
-## 4. Método empregado no lote 1
+## 4. Método empregado
 
-1. Conferência de hash, contagem de páginas, branch e estado inicial do Git.
-2. Renderização das 100 páginas a 144 dpi para conferência visual sequencial; detalhes, tabelas e esquemas a 200–220 dpi.
-3. Texto nativo do PDF usado apenas como apoio; palavras e números confirmados visualmente. A camada nativa apresentou pelo menos uma divergência relevante (`SYSTEMES` na p. 37, enquanto a imagem mostra `SYSTEMS`).
-4. Tabelas reconstruídas em Markdown, preservando linhas, colunas, cabeçalhos, notas e continuações. Células mescladas foram representadas por células vazias ou cabeçalhos repetidos, com imagem de apoio.
-5. Figuras, fotos, diagramas e esquemas coloridos preservados em `docs/assets/ptm/`. Esquemas girados receberam detalhe rotacionado apenas para leitura; o fac-símile mantém a orientação original.
-6. Divergências aparentes do próprio manual foram mantidas e registradas; nenhum valor foi corrigido, estimado ou interpolado.
-7. Cada página revisada tem marcador `PTM:PAGE:NNN`, link para o PDF, hash SHA-256 do trecho e fac-símile. Páginas 101–382 permanecem como pendentes, sem conteúdo automático.
+### Lote 1 (1–100)
+Renderização 144 dpi; detalhes 200–220 dpi; texto nativo apenas como apoio; tabelas Markdown; imagens de apoio; divergências mantidas; hashes por trecho.
+### Lote 2 (101–200)
+1. Reconfirmados hash do PDF, 382 páginas, branch, Git limpo e 19 testes do lote 1 antes de editar.
+2. Conferência visual sequencial das páginas 101–200 a 144 dpi; tabelas críticas e gráficos a 240 dpi; esquemas girados a 200 dpi.
+3. Texto nativo usado apenas como apoio. Trechos foram montados somente nos marcadores pendentes 101–200; marcadores 1–100 e 201–382 preservados.
+4. Tabelas 5-1, 7-1, 7-2, 7-3, 7-4 e 8-1 reconstruídas em Markdown, com cabeçalhos, células vazias, notas e continuações. Tabelas de limites foram conferidas em detalhe.
+5. Figuras e esquemas preservados em `docs/assets/ptm/`; detalhes girados apenas para leitura, com fac-símile original.
+6. Nenhuma leitura de gráfico foi interpolada; nenhuma linha ausente de tabela foi completada; questões sem gabarito.
+7. Cada página revisada tem marcador, link PDF, hash SHA-256 e fac-símile.
 
 ## 5. Principais ressalvas e divergências mantidas
 
@@ -81,17 +84,89 @@ Foram preservados sem sobrescrita: `KA-200-B200-PTM.pdf`, todos os arquivos do P
 | 97 | 5-4 | Esquema colorido girado para leitura; legenda, símbolos e notas preservados no detalhe. |
 | 98 | 5-5 | Capacidades por célula preservadas no desenho; totais do texto não foram redistribuídos. Continua na página física 99. |
 | 99 | 5-6 | Mantida a referência “Service Bulletin 0703-286”. Continuação da página física 98. |
+| 101 | 5-8 | Figura 5-6 mostra lente “L FUEL PRESS LO”; texto usa FUEL PRESS. Mantido. |
+| 102 | 5-9 | Faixas de seriais e alimentação dos medidores de fluxo mantidas; continua na p. 103. |
+| 103 | 5-10 | Aquecedor de combustível 70° a 90°F; nota da figura sobre BB-1401 preservada. Continua na página física 104. Continuação da página física 102. |
+| 104 | 5-11 | Crossfeed apenas com um motor inoperante conforme texto; continua na p. 105. Continuação da página física 103. |
+| 105 | 5-12 | Capitalização “FUEL PRESSure” mantida. Continuação da página física 104. |
+| 106 | 5-13 | Tabela 5-1 reconstruída; “Aft” maiúsculo mantido. Continua na página física 107. |
+| 107 | 5-14 | Gráfico preservado em imagem; nenhuma leitura foi interpolada. Concentração de aditivo 0.10%–0.15% mantida. Continua na página física 108. Continuação da página física 106. |
+| 108 | 5-15 | Referência “MEL-T-5624” mantida como impressa; pesos zero-fuel 10.400/11.000 lb. Continuação da página física 107. |
+| 109 | 5-16 | Questões preservadas sem indicar respostas. |
+| 110 | 6-i | Capítulo 6 declara informação não aplicável; apenas página 6-i presente, sem 6-ii no PDF. |
+| 114 | 7-v | Índice mantém 7-14 antes de 7-13; página impressa 7-v (7-iv não presente no PDF). |
+| 115 | 7-vi | Índice mantém 7-34 antes de 7-33 e Table 7-2 antes de 7-1; títulos de aplicabilidade mantidos. |
+| 116 | 7-1 | Valores declarados ilustrativos; não substituem o manual de voo aprovado. |
+| 118 | 7-3 | Figura 7-2 usa N<sub>G</sub>/N<sub>F</sub>; texto usa N<sub>1</sub>/NP. Ambas as notações preservadas. |
+| 119 | 7-4 | Figura girada para leitura; orientação original no fac-símile. |
+| 120 | 7-5 | Válvulas de sangria fecham acima de aproximadamente 90% N1. |
+| 123 | 7-8 | Sistema de óleo e detecção de partículas preservados. |
+| 124 | 7-9 | Figura 7-7 mostra CHIP DETECT em âmbar/vermelho conforme série. |
+| 125 | 7-10 | Esquema de óleo girado para leitura; legenda e cores preservadas. |
+| 127 | 7-12 | Esquema de combustível girado; notas BB-1401/BB-666 preservadas. |
+| 128 | 7-13 | Início “aDownstream” mantido como impresso; texto continua após a figura da p. 129, na p. 130. |
+| 129 | 7-14 | Esquema FCU girado para leitura. |
+| 130 | 7-15 | Continuação do texto da p. 128; fuel topping 106%/95% e autoignition 400 ft-lb mantidos. |
+| 131 | 7-16 | Texto continua após a figura da p. 132, na p. 133. |
+| 133 | 7-18 | Grafia “B-1192” mantida; ângulos de pá por fabricante/série preservados. Continua na página física 134. Continuação da página física 131. |
+| 134 | 7-19 | Overspeed 2.120/2.080 rpm e teste 1.830–1.910 rpm mantidos. Continua na página física 135. Continuação da página física 133. |
+| 135 | 7-20 | Limite de reverso 1.900 rpm e comandos 83%±5%, –9°/–10°, 95% mantidos. Continuação da página física 134. |
+| 138 | 7-23 | LOW IDLE 61%/56%/52% conforme série/motor; mantido. Continua na página física 140. |
+| 140 | 7-25 | Figura 7-23 mostra 2.080 rpm normal e ~1.870 rpm em teste; não harmonizado com o texto. Continuação da página física 138. |
+| 141 | 7-26 | Texto remete ITT a “Figure 7-27”, mas a figura dos gages ITT é 7-26; mantido. |
+| 142 | 7-27 | Torque limiter 2.368–2.447 ft-lb e máximo certificado 2.230 ft-lb mantidos. |
+| 143 | 7-28 | Redação sobre alimentação dos gages N1 “prior to BB-1484 including BB-1485” mantida. |
+| 147 | 7-32 | Texto de indicação remete a “Figure 7-35”, mas as luzes aparecem na Figure 7-36; mantido. |
+| 148 | 7-33 | Autofeather: limiares 400/200 ft-lb preservados. |
+| 149 | 7-34 | Nota sobre LOW IDLE e teste; desbandeiramento ~18° preservado. |
+| 150 | 7-35 | Tabelas 7-1/7-2 reconstruídas; título da 7-2 (“PRIOR TO BB-1439, 1444 AND SUBSEQUENT”) mantido como impresso. |
+| 151 | 7-36 | Tabela 7-3 e 13 notas preservadas; nota 12 sem marcador visível nas tabelas; óleo 0–99°C em cruise climb mantido. |
+| 152 | 7-37 | Diâmetros de hélice e limites de partida preservados; repetição “Rotational Speed Limits” mantida. |
+| 153 | 7-38 | Tabela 7-4: terceiro grupo tem apenas ITT e torquímetro; “extends form” mantido como impresso. |
+| 154 | 7-39 | Questões preservadas sem indicar respostas. |
+| 155 | 7-40 | Questões preservadas sem indicar respostas. |
+| 157 | 8-iii | Índice do capítulo 8; página 8-ii não presente no PDF. |
+| 159 | 8-2 | Rótulo “DETAL B” mantido na imagem. |
+| 160 | 8-3 | Rótulo “DETAL B” mantido na imagem. |
+| 161 | 8-4 | Agente CBrF3 e alimentação pelo hot battery bus preservados. |
+| 162 | 8-5 | Rótulo “DETAL B” mantido na imagem. |
+| 163 | 8-6 | Tabela 8-1 reconstruída; pares temperatura/pressão conferidos em detalhe. |
+| 165 | 8-8 | Questões preservadas sem indicar respostas. |
+| 167 | 9-iii | Índice mantém Figure 9-6 antes de 9-5; página 9-ii não presente no PDF. |
+| 170 | 9-3 | Efeitos de vazamento de sangria em torque/ITT mantidos como impressos. |
+| 172 | 9-5 | Nota: anunciador de sangria não apaga após fechar válvulas; mantida. |
+| 173 | 9-6 | Diagrama girado para leitura; temporização 6–8 s preservada. |
+| 174 | 9-7 | Limites pneumáticos 12–20 psi e faixas de vácuo preservados. |
+| 175 | 9-8 | Questões preservadas sem indicar respostas. |
+| 180 | 10-2 | Aviso sobre botas insufladas e OAT abaixo de –40°C preservado. |
+| 183 | 10-5 | Ciclo SINGLE: 6 s asas, 4 s estabilizador; preservado. |
+| 184 | 10-6 | Brake deice: 85% N1 e.timer 10 min preservados. Continua na página física 185. |
+| 185 | 10-7 | Windshield heat +95°F a +105°F preservado. Continuação da página física 184. |
+| 186 | 10-8 | Figura 10-6 mostra sensor “95° TO 105°” sem unidade F; texto usa °F. |
+| 187 | 10-9 | Sequências de aquecimento 90 s/30 s e redação “prior to BB-2 through...” mantidas. Continua na página física 188. |
+| 188 | 10-10 | PROP AMPS 18–24 A (4 pás) / 14–18 A (3 pás); modo manual não registra no amperímetro. Continuação da página física 187. |
+| 189 | 10-11 | Avisos sobre pitot/stall warning heat no solo preservados; continua na p. 190. |
+| 190 | 10-12 | Aquecimento de vent e FCU preservados; continua na p. 191. Continuação da página física 189. |
+| 191 | 10-13 | Ice vanes: 15 s, 160 knots; aviso continua após figuras 10-11/10-12, na p. 194. Continuação da página física 190. |
+| 194 | 10-16 | Continuação do aviso da p. 191; +5°C/+15°C e perda de torque preservados. |
+| 195 | 10-17 | Wipers não operar em vidro seco; limitações de gelo continuam na p. 196. |
+| 196 | 10-18 | Limites 140 KIAS mínimo e 226 KIAS máximo efetivo preservados. Continua na página física 197. Continuação da página física 195. |
+| 197 | 10-19 | Avisos de gelo, wipers e hélice estática preservados. Continua na página física 198. Continuação da página física 196. |
+| 198 | 10-20 | NOTES de backup manual 90 s/30 s e deflexão ~5% preservadas. Continuação da página física 197. |
+| 199 | 10-21 | Questões preservadas sem indicar respostas. |
+| 200 | 10-22 | Questão 12 alternativa D termina em “Indication speeds” como impresso; nada acrescentado. |
 
 ## 6. Limitações
 
-- Rótulos muito pequenos de diagramas e esquemas não foram linearizados em texto; devem ser consultados nas imagens de apoio em alta resolução.
-- Cores, símbolos, setas e relações espaciais de diagramas são preservados por imagem, não por descrição textual exaustiva.
-- A revisão não confirma atualidade operacional, aplicabilidade a aeronaves específicas nem procedimentos de voo.
-- Questões foram transcritas sem indicar respostas ou gabarito.
+- Rótulos pequenos, cores, setas e relações espaciais de diagramas permanecem nas imagens de apoio.
+- Gráfico 5-11 preservado sem interpolação de valores.
+- Tabela 7-4, grupo PT6A-41, contém apenas ITT e torquímetro na fonte; nada foi acrescentado.
+- Questão 12 da página 200 termina em “Indication speeds” na alternativa D; final ausente não foi inventado.
+- Revisão não confirma atualidade operacional nem aplicabilidade a aeronaves específicas.
 
 ## 7. Inventário por página física
 
-Hash do trecho: SHA-256 do conteúdo entre marcadores, excluindo as linhas de marcador e status, conforme definido no manifesto. `—` indica trecho ainda não revisado.
+Hash do trecho: SHA-256 do conteúdo entre marcadores, excluindo linhas de marcador e status. `—` indica trecho pendente.
 
 | Página física | Página impressa | Seção | Status | Hash do trecho | Marcador | Observações |
 |---:|---|---|---|---|---|---|
@@ -195,106 +270,106 @@ Hash do trecho: SHA-256 do conteúdo entre marcadores, excluindo as linhas de ma
 | [98](KA-200-B200-PTM.pdf#page=98) | 5-5 | 5 Fuel System | Revisada | `80f05d248034875c7a5763186b09f5728231f2bf6a3d090caffee856926556f7` | `PTM:PAGE:098` | Capacidades por célula preservadas no desenho; totais do texto não foram redistribuídos. Continua na página física 99. |
 | [99](KA-200-B200-PTM.pdf#page=99) | 5-6 | 5 Fuel System | Revisada | `e8f456d435c572a92865c4c8c625ce58554938a6e317dec5f39ff5ef490084df` | `PTM:PAGE:099` | Mantida a referência “Service Bulletin 0703-286”. Continuação da página física 98. |
 | [100](KA-200-B200-PTM.pdf#page=100) | 5-7 | 5 Fuel System | Revisada | `a11bd53408e495f010a54dbd730303805a57336f2b9bf295d4744545db1738de` | `PTM:PAGE:100` | Figuras preservadas em imagem de apoio. |
-| [101](KA-200-B200-PTM.pdf#page=101) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:101` | Aguardando lote autorizado. |
-| [102](KA-200-B200-PTM.pdf#page=102) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:102` | Aguardando lote autorizado. |
-| [103](KA-200-B200-PTM.pdf#page=103) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:103` | Aguardando lote autorizado. |
-| [104](KA-200-B200-PTM.pdf#page=104) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:104` | Aguardando lote autorizado. |
-| [105](KA-200-B200-PTM.pdf#page=105) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:105` | Aguardando lote autorizado. |
-| [106](KA-200-B200-PTM.pdf#page=106) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:106` | Aguardando lote autorizado. |
-| [107](KA-200-B200-PTM.pdf#page=107) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:107` | Aguardando lote autorizado. |
-| [108](KA-200-B200-PTM.pdf#page=108) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:108` | Aguardando lote autorizado. |
-| [109](KA-200-B200-PTM.pdf#page=109) | — | 5 Fuel System | Pendente | `—` | `PTM:PAGE:109` | Aguardando lote autorizado. |
-| [110](KA-200-B200-PTM.pdf#page=110) | — | 6 Auxiliary Power Systems | Pendente | `—` | `PTM:PAGE:110` | Aguardando lote autorizado. |
-| [111](KA-200-B200-PTM.pdf#page=111) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:111` | Aguardando lote autorizado. |
-| [112](KA-200-B200-PTM.pdf#page=112) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:112` | Aguardando lote autorizado. |
-| [113](KA-200-B200-PTM.pdf#page=113) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:113` | Aguardando lote autorizado. |
-| [114](KA-200-B200-PTM.pdf#page=114) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:114` | Aguardando lote autorizado. |
-| [115](KA-200-B200-PTM.pdf#page=115) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:115` | Aguardando lote autorizado. |
-| [116](KA-200-B200-PTM.pdf#page=116) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:116` | Aguardando lote autorizado. |
-| [117](KA-200-B200-PTM.pdf#page=117) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:117` | Aguardando lote autorizado. |
-| [118](KA-200-B200-PTM.pdf#page=118) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:118` | Aguardando lote autorizado. |
-| [119](KA-200-B200-PTM.pdf#page=119) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:119` | Aguardando lote autorizado. |
-| [120](KA-200-B200-PTM.pdf#page=120) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:120` | Aguardando lote autorizado. |
-| [121](KA-200-B200-PTM.pdf#page=121) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:121` | Aguardando lote autorizado. |
-| [122](KA-200-B200-PTM.pdf#page=122) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:122` | Aguardando lote autorizado. |
-| [123](KA-200-B200-PTM.pdf#page=123) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:123` | Aguardando lote autorizado. |
-| [124](KA-200-B200-PTM.pdf#page=124) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:124` | Aguardando lote autorizado. |
-| [125](KA-200-B200-PTM.pdf#page=125) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:125` | Aguardando lote autorizado. |
-| [126](KA-200-B200-PTM.pdf#page=126) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:126` | Aguardando lote autorizado. |
-| [127](KA-200-B200-PTM.pdf#page=127) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:127` | Aguardando lote autorizado. |
-| [128](KA-200-B200-PTM.pdf#page=128) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:128` | Aguardando lote autorizado. |
-| [129](KA-200-B200-PTM.pdf#page=129) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:129` | Aguardando lote autorizado. |
-| [130](KA-200-B200-PTM.pdf#page=130) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:130` | Aguardando lote autorizado. |
-| [131](KA-200-B200-PTM.pdf#page=131) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:131` | Aguardando lote autorizado. |
-| [132](KA-200-B200-PTM.pdf#page=132) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:132` | Aguardando lote autorizado. |
-| [133](KA-200-B200-PTM.pdf#page=133) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:133` | Aguardando lote autorizado. |
-| [134](KA-200-B200-PTM.pdf#page=134) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:134` | Aguardando lote autorizado. |
-| [135](KA-200-B200-PTM.pdf#page=135) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:135` | Aguardando lote autorizado. |
-| [136](KA-200-B200-PTM.pdf#page=136) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:136` | Aguardando lote autorizado. |
-| [137](KA-200-B200-PTM.pdf#page=137) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:137` | Aguardando lote autorizado. |
-| [138](KA-200-B200-PTM.pdf#page=138) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:138` | Aguardando lote autorizado. |
-| [139](KA-200-B200-PTM.pdf#page=139) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:139` | Aguardando lote autorizado. |
-| [140](KA-200-B200-PTM.pdf#page=140) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:140` | Aguardando lote autorizado. |
-| [141](KA-200-B200-PTM.pdf#page=141) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:141` | Aguardando lote autorizado. |
-| [142](KA-200-B200-PTM.pdf#page=142) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:142` | Aguardando lote autorizado. |
-| [143](KA-200-B200-PTM.pdf#page=143) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:143` | Aguardando lote autorizado. |
-| [144](KA-200-B200-PTM.pdf#page=144) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:144` | Aguardando lote autorizado. |
-| [145](KA-200-B200-PTM.pdf#page=145) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:145` | Aguardando lote autorizado. |
-| [146](KA-200-B200-PTM.pdf#page=146) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:146` | Aguardando lote autorizado. |
-| [147](KA-200-B200-PTM.pdf#page=147) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:147` | Aguardando lote autorizado. |
-| [148](KA-200-B200-PTM.pdf#page=148) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:148` | Aguardando lote autorizado. |
-| [149](KA-200-B200-PTM.pdf#page=149) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:149` | Aguardando lote autorizado. |
-| [150](KA-200-B200-PTM.pdf#page=150) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:150` | Aguardando lote autorizado. |
-| [151](KA-200-B200-PTM.pdf#page=151) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:151` | Aguardando lote autorizado. |
-| [152](KA-200-B200-PTM.pdf#page=152) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:152` | Aguardando lote autorizado. |
-| [153](KA-200-B200-PTM.pdf#page=153) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:153` | Aguardando lote autorizado. |
-| [154](KA-200-B200-PTM.pdf#page=154) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:154` | Aguardando lote autorizado. |
-| [155](KA-200-B200-PTM.pdf#page=155) | — | 7 Powerplant | Pendente | `—` | `PTM:PAGE:155` | Aguardando lote autorizado. |
-| [156](KA-200-B200-PTM.pdf#page=156) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:156` | Aguardando lote autorizado. |
-| [157](KA-200-B200-PTM.pdf#page=157) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:157` | Aguardando lote autorizado. |
-| [158](KA-200-B200-PTM.pdf#page=158) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:158` | Aguardando lote autorizado. |
-| [159](KA-200-B200-PTM.pdf#page=159) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:159` | Aguardando lote autorizado. |
-| [160](KA-200-B200-PTM.pdf#page=160) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:160` | Aguardando lote autorizado. |
-| [161](KA-200-B200-PTM.pdf#page=161) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:161` | Aguardando lote autorizado. |
-| [162](KA-200-B200-PTM.pdf#page=162) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:162` | Aguardando lote autorizado. |
-| [163](KA-200-B200-PTM.pdf#page=163) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:163` | Aguardando lote autorizado. |
-| [164](KA-200-B200-PTM.pdf#page=164) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:164` | Aguardando lote autorizado. |
-| [165](KA-200-B200-PTM.pdf#page=165) | — | 8 Fire Protection | Pendente | `—` | `PTM:PAGE:165` | Aguardando lote autorizado. |
-| [166](KA-200-B200-PTM.pdf#page=166) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:166` | Aguardando lote autorizado. |
-| [167](KA-200-B200-PTM.pdf#page=167) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:167` | Aguardando lote autorizado. |
-| [168](KA-200-B200-PTM.pdf#page=168) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:168` | Aguardando lote autorizado. |
-| [169](KA-200-B200-PTM.pdf#page=169) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:169` | Aguardando lote autorizado. |
-| [170](KA-200-B200-PTM.pdf#page=170) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:170` | Aguardando lote autorizado. |
-| [171](KA-200-B200-PTM.pdf#page=171) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:171` | Aguardando lote autorizado. |
-| [172](KA-200-B200-PTM.pdf#page=172) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:172` | Aguardando lote autorizado. |
-| [173](KA-200-B200-PTM.pdf#page=173) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:173` | Aguardando lote autorizado. |
-| [174](KA-200-B200-PTM.pdf#page=174) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:174` | Aguardando lote autorizado. |
-| [175](KA-200-B200-PTM.pdf#page=175) | — | 9 Pneumatics | Pendente | `—` | `PTM:PAGE:175` | Aguardando lote autorizado. |
-| [176](KA-200-B200-PTM.pdf#page=176) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:176` | Aguardando lote autorizado. |
-| [177](KA-200-B200-PTM.pdf#page=177) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:177` | Aguardando lote autorizado. |
-| [178](KA-200-B200-PTM.pdf#page=178) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:178` | Aguardando lote autorizado. |
-| [179](KA-200-B200-PTM.pdf#page=179) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:179` | Aguardando lote autorizado. |
-| [180](KA-200-B200-PTM.pdf#page=180) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:180` | Aguardando lote autorizado. |
-| [181](KA-200-B200-PTM.pdf#page=181) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:181` | Aguardando lote autorizado. |
-| [182](KA-200-B200-PTM.pdf#page=182) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:182` | Aguardando lote autorizado. |
-| [183](KA-200-B200-PTM.pdf#page=183) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:183` | Aguardando lote autorizado. |
-| [184](KA-200-B200-PTM.pdf#page=184) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:184` | Aguardando lote autorizado. |
-| [185](KA-200-B200-PTM.pdf#page=185) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:185` | Aguardando lote autorizado. |
-| [186](KA-200-B200-PTM.pdf#page=186) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:186` | Aguardando lote autorizado. |
-| [187](KA-200-B200-PTM.pdf#page=187) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:187` | Aguardando lote autorizado. |
-| [188](KA-200-B200-PTM.pdf#page=188) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:188` | Aguardando lote autorizado. |
-| [189](KA-200-B200-PTM.pdf#page=189) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:189` | Aguardando lote autorizado. |
-| [190](KA-200-B200-PTM.pdf#page=190) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:190` | Aguardando lote autorizado. |
-| [191](KA-200-B200-PTM.pdf#page=191) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:191` | Aguardando lote autorizado. |
-| [192](KA-200-B200-PTM.pdf#page=192) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:192` | Aguardando lote autorizado. |
-| [193](KA-200-B200-PTM.pdf#page=193) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:193` | Aguardando lote autorizado. |
-| [194](KA-200-B200-PTM.pdf#page=194) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:194` | Aguardando lote autorizado. |
-| [195](KA-200-B200-PTM.pdf#page=195) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:195` | Aguardando lote autorizado. |
-| [196](KA-200-B200-PTM.pdf#page=196) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:196` | Aguardando lote autorizado. |
-| [197](KA-200-B200-PTM.pdf#page=197) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:197` | Aguardando lote autorizado. |
-| [198](KA-200-B200-PTM.pdf#page=198) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:198` | Aguardando lote autorizado. |
-| [199](KA-200-B200-PTM.pdf#page=199) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:199` | Aguardando lote autorizado. |
-| [200](KA-200-B200-PTM.pdf#page=200) | — | 10 Ice and Rain Protection | Pendente | `—` | `PTM:PAGE:200` | Aguardando lote autorizado. |
+| [101](KA-200-B200-PTM.pdf#page=101) | 5-8 | 5 Fuel System | Revisada | `db132d1787d549c19362747d39cd04a9fee0488f6a700fa7641e422e67e6a119` | `PTM:PAGE:101` | Figura 5-6 mostra lente “L FUEL PRESS LO”; texto usa FUEL PRESS. Mantido. |
+| [102](KA-200-B200-PTM.pdf#page=102) | 5-9 | 5 Fuel System | Revisada | `6d162fb1fa161f580d1e3498bc03f8170ceee7df33c131bbe2df91e4e6a6cc42` | `PTM:PAGE:102` | Faixas de seriais e alimentação dos medidores de fluxo mantidas; continua na p. 103. |
+| [103](KA-200-B200-PTM.pdf#page=103) | 5-10 | 5 Fuel System | Revisada | `c85d9247f073f61c10fb8712779fcaf3ee54393353cf434a2252d78a6d165019` | `PTM:PAGE:103` | Aquecedor de combustível 70° a 90°F; nota da figura sobre BB-1401 preservada. Continua na página física 104. Continuação da página física 102. |
+| [104](KA-200-B200-PTM.pdf#page=104) | 5-11 | 5 Fuel System | Revisada | `2d4b8dc8bfe197e820245bbaeff204b7375210dd4b7d19e6e456e2f2af525ed0` | `PTM:PAGE:104` | Crossfeed apenas com um motor inoperante conforme texto; continua na p. 105. Continuação da página física 103. |
+| [105](KA-200-B200-PTM.pdf#page=105) | 5-12 | 5 Fuel System | Revisada | `832e5430e416f0614adcf941bdc1e11d46ef2dea2ebf4fb0df8e1203739dc33d` | `PTM:PAGE:105` | Capitalização “FUEL PRESSure” mantida. Continuação da página física 104. |
+| [106](KA-200-B200-PTM.pdf#page=106) | 5-13 | 5 Fuel System | Revisada | `2a91de1f0c3afa36b9fa8e861abbbbd743557fae59481bccf5253689657c4b45` | `PTM:PAGE:106` | Tabela 5-1 reconstruída; “Aft” maiúsculo mantido. Continua na página física 107. |
+| [107](KA-200-B200-PTM.pdf#page=107) | 5-14 | 5 Fuel System | Revisada | `41687b5acb9a96392f5525bef948c8bbe3549927eb33c5566759de648692e9cc` | `PTM:PAGE:107` | Gráfico preservado em imagem; nenhuma leitura foi interpolada. Concentração de aditivo 0.10%–0.15% mantida. Continua na página física 108. Continuação da página física 106. |
+| [108](KA-200-B200-PTM.pdf#page=108) | 5-15 | 5 Fuel System | Revisada | `e0a0613f304be06a91d3d71cff537645375c1c9770ca92f8edae5a6dedcfa1b6` | `PTM:PAGE:108` | Referência “MEL-T-5624” mantida como impressa; pesos zero-fuel 10.400/11.000 lb. Continuação da página física 107. |
+| [109](KA-200-B200-PTM.pdf#page=109) | 5-16 | 5 Fuel System | Revisada | `53fc4d3872800855f1eea40226e783f06a140f8053e88a89b3fc64fedaf086bd` | `PTM:PAGE:109` | Questões preservadas sem indicar respostas. |
+| [110](KA-200-B200-PTM.pdf#page=110) | 6-i | 6 Auxiliary Power Systems | Revisada | `06a87612f1e98b39afe94d27f5cae8a2fa0020dc4c5eaded846845a412bdce5d` | `PTM:PAGE:110` | Capítulo 6 declara informação não aplicável; apenas página 6-i presente, sem 6-ii no PDF. |
+| [111](KA-200-B200-PTM.pdf#page=111) | 7-i | 7 Powerplant | Revisada | `a6734f53c539c8156c4a0c69c3a516f9a99064b06df0dbcb77bd8825d2a6fe12` | `PTM:PAGE:111` | Texto conferido com a imagem. |
+| [112](KA-200-B200-PTM.pdf#page=112) | 7-ii | 7 Powerplant | Revisada | `c6b26c8c320619c77e213973498bf0312da75c0c0b6fa475395579b1ac075004` | `PTM:PAGE:112` | Texto conferido com a imagem. |
+| [113](KA-200-B200-PTM.pdf#page=113) | 7-iii | 7 Powerplant | Revisada | `21fc417ed1da7f24e9dba7aab4b15cd8226e98471c8a78776b1d351f48bdbbb6` | `PTM:PAGE:113` | Texto conferido com a imagem. |
+| [114](KA-200-B200-PTM.pdf#page=114) | 7-v | 7 Powerplant | Revisada | `1623273f4cdc9232e59d89d6ae6395ca7e8c4540b715f4855f49441909d466aa` | `PTM:PAGE:114` | Índice mantém 7-14 antes de 7-13; página impressa 7-v (7-iv não presente no PDF). |
+| [115](KA-200-B200-PTM.pdf#page=115) | 7-vi | 7 Powerplant | Revisada | `a2b4ddbdf18fe176de723054f747734a0606d673f489eaa01a818b056ba5b6ee` | `PTM:PAGE:115` | Índice mantém 7-34 antes de 7-33 e Table 7-2 antes de 7-1; títulos de aplicabilidade mantidos. |
+| [116](KA-200-B200-PTM.pdf#page=116) | 7-1 | 7 Powerplant | Revisada | `e4d7ce8e285d4bb91ca7a90d01b4c6aaf06356e46354fbeea02e78e137651220` | `PTM:PAGE:116` | Valores declarados ilustrativos; não substituem o manual de voo aprovado. |
+| [117](KA-200-B200-PTM.pdf#page=117) | 7-2 | 7 Powerplant | Revisada | `1a3cc914ae878cc7a1ff5004829a32da730265ee7a9d76ce812ba82f35c14756` | `PTM:PAGE:117` | Figuras preservadas em imagem de apoio. |
+| [118](KA-200-B200-PTM.pdf#page=118) | 7-3 | 7 Powerplant | Revisada | `9364024b06ec011c7227684c4e7fcc3b6bcef2951cbc0d7cf172f46fe65ce70c` | `PTM:PAGE:118` | Figura 7-2 usa N<sub>G</sub>/N<sub>F</sub>; texto usa N<sub>1</sub>/NP. Ambas as notações preservadas. |
+| [119](KA-200-B200-PTM.pdf#page=119) | 7-4 | 7 Powerplant | Revisada | `f7301e756d74e869f6e1442d9fff4b0babd7820affdf1d56cf154787a270019a` | `PTM:PAGE:119` | Figura girada para leitura; orientação original no fac-símile. |
+| [120](KA-200-B200-PTM.pdf#page=120) | 7-5 | 7 Powerplant | Revisada | `c0635feeafb3e30fd93da933f04604cbd194dcaa08d896ae3082073ecbd68e26` | `PTM:PAGE:120` | Válvulas de sangria fecham acima de aproximadamente 90% N1. |
+| [121](KA-200-B200-PTM.pdf#page=121) | 7-6 | 7 Powerplant | Revisada | `6eec4d6c2f6e3170631bca1687ff973ed28e6f2ecdfb3cd1d36118981f535f28` | `PTM:PAGE:121` | Texto conferido com a imagem. |
+| [122](KA-200-B200-PTM.pdf#page=122) | 7-7 | 7 Powerplant | Revisada | `a57dd6fab44571cdf847b1f7d34c06c419c4e4724298ad928d44d7ec683dc144` | `PTM:PAGE:122` | Figuras preservadas em imagem de apoio. |
+| [123](KA-200-B200-PTM.pdf#page=123) | 7-8 | 7 Powerplant | Revisada | `af5717ff493e724149217c1df2e06a96f274fe3552eb870e8261647527ee162b` | `PTM:PAGE:123` | Sistema de óleo e detecção de partículas preservados. |
+| [124](KA-200-B200-PTM.pdf#page=124) | 7-9 | 7 Powerplant | Revisada | `210a9dc78454fe42170399a6811de93e13d08408c1aaed108208d026cd9851de` | `PTM:PAGE:124` | Figura 7-7 mostra CHIP DETECT em âmbar/vermelho conforme série. |
+| [125](KA-200-B200-PTM.pdf#page=125) | 7-10 | 7 Powerplant | Revisada | `c41434cf880cc9110e68be339573183b2e699c74954c3cec7b7fc5b3a0f76e72` | `PTM:PAGE:125` | Esquema de óleo girado para leitura; legenda e cores preservadas. |
+| [126](KA-200-B200-PTM.pdf#page=126) | 7-11 | 7 Powerplant | Revisada | `730edab8107874d83540151c45e5050943d1313f6482a08e7fe7df40770da717` | `PTM:PAGE:126` | Figuras preservadas em imagem de apoio. |
+| [127](KA-200-B200-PTM.pdf#page=127) | 7-12 | 7 Powerplant | Revisada | `daba8040a073dd7264b73cca27205d520bcd995d278f5fe41bc20ed7b339a249` | `PTM:PAGE:127` | Esquema de combustível girado; notas BB-1401/BB-666 preservadas. |
+| [128](KA-200-B200-PTM.pdf#page=128) | 7-13 | 7 Powerplant | Revisada | `d6f65b54c12263a3ac75be00fa3c46673e70eaa184c6ed2fe8e5ce4629011483` | `PTM:PAGE:128` | Início “aDownstream” mantido como impresso; texto continua após a figura da p. 129, na p. 130. |
+| [129](KA-200-B200-PTM.pdf#page=129) | 7-14 | 7 Powerplant | Revisada | `fb45cfa0df85c8b3658b79c14815d5902c3f5848cb6260c76edb6bb1465c4109` | `PTM:PAGE:129` | Esquema FCU girado para leitura. |
+| [130](KA-200-B200-PTM.pdf#page=130) | 7-15 | 7 Powerplant | Revisada | `f5ec25b9c2eb09ab7e7a3db39d340f1a0cfd679b29b2005d939c08f39797df4d` | `PTM:PAGE:130` | Continuação do texto da p. 128; fuel topping 106%/95% e autoignition 400 ft-lb mantidos. |
+| [131](KA-200-B200-PTM.pdf#page=131) | 7-16 | 7 Powerplant | Revisada | `c35bfcf6eda7add9b3f59cea7877fb9370726528d3017953c2db5460e412b78c` | `PTM:PAGE:131` | Texto continua após a figura da p. 132, na p. 133. |
+| [132](KA-200-B200-PTM.pdf#page=132) | 7-17 | 7 Powerplant | Revisada | `1ae276698000342cee7407dc7e0695e3ec1103aed8635ca9eabad86005d1b233` | `PTM:PAGE:132` | Figuras preservadas em imagem de apoio. |
+| [133](KA-200-B200-PTM.pdf#page=133) | 7-18 | 7 Powerplant | Revisada | `982b408b36a5f77d59c906157c775c07dd927f09bd73148dcf7e6a886af27345` | `PTM:PAGE:133` | Grafia “B-1192” mantida; ângulos de pá por fabricante/série preservados. Continua na página física 134. Continuação da página física 131. |
+| [134](KA-200-B200-PTM.pdf#page=134) | 7-19 | 7 Powerplant | Revisada | `f17b783d5e19da19e484361c4541e5c809e6f3bf4554ab4343aa5c30acafc27e` | `PTM:PAGE:134` | Overspeed 2.120/2.080 rpm e teste 1.830–1.910 rpm mantidos. Continua na página física 135. Continuação da página física 133. |
+| [135](KA-200-B200-PTM.pdf#page=135) | 7-20 | 7 Powerplant | Revisada | `a0eec0cb5795bb47e644941210111daa6c64965cf3c5704c71c56ba4019529e8` | `PTM:PAGE:135` | Limite de reverso 1.900 rpm e comandos 83%±5%, –9°/–10°, 95% mantidos. Continuação da página física 134. |
+| [136](KA-200-B200-PTM.pdf#page=136) | 7-21 | 7 Powerplant | Revisada | `e48a79f89ac53db5cdae9f0bff5046b107d4805b4bc811923a16977a91f18631` | `PTM:PAGE:136` | Texto conferido com a imagem. |
+| [137](KA-200-B200-PTM.pdf#page=137) | 7-22 | 7 Powerplant | Revisada | `58dadd655e5383b7fce865f445fdab1f13c8a3ee33b678d94aadec79d04f91b6` | `PTM:PAGE:137` | Figuras preservadas em imagem de apoio. |
+| [138](KA-200-B200-PTM.pdf#page=138) | 7-23 | 7 Powerplant | Revisada | `893473058ebc262a89b9d6c5a4d5df461eb61639227e04131fad946489207a84` | `PTM:PAGE:138` | LOW IDLE 61%/56%/52% conforme série/motor; mantido. Continua na página física 140. |
+| [139](KA-200-B200-PTM.pdf#page=139) | 7-24 | 7 Powerplant | Revisada | `89ca65b0b65a603e0848a8674ceed864093118f8f462b5b555bdf017db7199dc` | `PTM:PAGE:139` | Figuras preservadas em imagem de apoio. |
+| [140](KA-200-B200-PTM.pdf#page=140) | 7-25 | 7 Powerplant | Revisada | `f8412f22ed247aadfa493fe34f854e6f107f369ba9e91f59f3c1ccad4eb7f179` | `PTM:PAGE:140` | Figura 7-23 mostra 2.080 rpm normal e ~1.870 rpm em teste; não harmonizado com o texto. Continuação da página física 138. |
+| [141](KA-200-B200-PTM.pdf#page=141) | 7-26 | 7 Powerplant | Revisada | `1cef05787c0fad41bc818cdeba71645c077060915fee7a0e222965b89ee7d4e3` | `PTM:PAGE:141` | Texto remete ITT a “Figure 7-27”, mas a figura dos gages ITT é 7-26; mantido. |
+| [142](KA-200-B200-PTM.pdf#page=142) | 7-27 | 7 Powerplant | Revisada | `9962030ca07e2913d77c5d5eec5b777de63afe62a2e13d11fc998eee5d9e6b58` | `PTM:PAGE:142` | Torque limiter 2.368–2.447 ft-lb e máximo certificado 2.230 ft-lb mantidos. |
+| [143](KA-200-B200-PTM.pdf#page=143) | 7-28 | 7 Powerplant | Revisada | `b93b07abe96a07d6a7ffaba9896f60f1b00b4e37c0986f05392901ab49828a51` | `PTM:PAGE:143` | Redação sobre alimentação dos gages N1 “prior to BB-1484 including BB-1485” mantida. |
+| [144](KA-200-B200-PTM.pdf#page=144) | 7-29 | 7 Powerplant | Revisada | `87aba73d73ff90975d34974518092db8eb44b4fae57a3a0a175963efbae8ac5c` | `PTM:PAGE:144` | Figuras preservadas em imagem de apoio. |
+| [145](KA-200-B200-PTM.pdf#page=145) | 7-30 | 7 Powerplant | Revisada | `775b1a4c8630d7b07b5db1ba42858dfbaa0067233341b8c874a47fd78d35d084` | `PTM:PAGE:145` | Figuras preservadas em imagem de apoio. |
+| [146](KA-200-B200-PTM.pdf#page=146) | 7-31 | 7 Powerplant | Revisada | `ed72ae2c37063477a588cb290b5c7d1aa96da144f46c60d27d13eb39caf0e06c` | `PTM:PAGE:146` | Figuras preservadas em imagem de apoio. |
+| [147](KA-200-B200-PTM.pdf#page=147) | 7-32 | 7 Powerplant | Revisada | `5b1ae1efb3f127e5cec4264c546fea9249d273cea303ac1072364a8a89961c9b` | `PTM:PAGE:147` | Texto de indicação remete a “Figure 7-35”, mas as luzes aparecem na Figure 7-36; mantido. |
+| [148](KA-200-B200-PTM.pdf#page=148) | 7-33 | 7 Powerplant | Revisada | `c93d489aedf40c1b359e28a9488e5e40714d637ef3d64398612f9bbfd8c0ba9f` | `PTM:PAGE:148` | Autofeather: limiares 400/200 ft-lb preservados. |
+| [149](KA-200-B200-PTM.pdf#page=149) | 7-34 | 7 Powerplant | Revisada | `b6f1b8834d6e850454c4617092ccddfebf7087547508f3a226a7c4a3cfb80016` | `PTM:PAGE:149` | Nota sobre LOW IDLE e teste; desbandeiramento ~18° preservado. |
+| [150](KA-200-B200-PTM.pdf#page=150) | 7-35 | 7 Powerplant | Revisada | `a0f63153ae88934cb82674ce438478b6c0100722373677205ec997bd09faee1f` | `PTM:PAGE:150` | Tabelas 7-1/7-2 reconstruídas; título da 7-2 (“PRIOR TO BB-1439, 1444 AND SUBSEQUENT”) mantido como impresso. |
+| [151](KA-200-B200-PTM.pdf#page=151) | 7-36 | 7 Powerplant | Revisada | `8ee5e766d9c156e4f32e39a783bd0a278e1f9cb9fe0ea50d02fffaf4ce091e45` | `PTM:PAGE:151` | Tabela 7-3 e 13 notas preservadas; nota 12 sem marcador visível nas tabelas; óleo 0–99°C em cruise climb mantido. |
+| [152](KA-200-B200-PTM.pdf#page=152) | 7-37 | 7 Powerplant | Revisada | `b8b47d784ceb5f6f46777554fd95275231c4df3076427ade7198f9b46bf6ee29` | `PTM:PAGE:152` | Diâmetros de hélice e limites de partida preservados; repetição “Rotational Speed Limits” mantida. |
+| [153](KA-200-B200-PTM.pdf#page=153) | 7-38 | 7 Powerplant | Revisada | `a0f5d709d588a1b7cdaf128e4fa043d198b79193d326a11b06f74b3dd2455800` | `PTM:PAGE:153` | Tabela 7-4: terceiro grupo tem apenas ITT e torquímetro; “extends form” mantido como impresso. |
+| [154](KA-200-B200-PTM.pdf#page=154) | 7-39 | 7 Powerplant | Revisada | `6fed3dcdc530677f3f20bca819c0ebd6504f120d6800b130cea1190e26325f75` | `PTM:PAGE:154` | Questões preservadas sem indicar respostas. |
+| [155](KA-200-B200-PTM.pdf#page=155) | 7-40 | 7 Powerplant | Revisada | `7e8284170850c7be144bc20ba7180b2854b327e58a744387f08dcee111804338` | `PTM:PAGE:155` | Questões preservadas sem indicar respostas. |
+| [156](KA-200-B200-PTM.pdf#page=156) | 8-i | 8 Fire Protection | Revisada | `f059ea86738f0cdda305cb3ab82cee6dddf3f8215ce29fe6a03fb7f535975c1f` | `PTM:PAGE:156` | Texto conferido com a imagem. |
+| [157](KA-200-B200-PTM.pdf#page=157) | 8-iii | 8 Fire Protection | Revisada | `8bbe3f152dc69c923319f1c93f9c7c8903756b008302c05ff2490d51a4423a7d` | `PTM:PAGE:157` | Índice do capítulo 8; página 8-ii não presente no PDF. |
+| [158](KA-200-B200-PTM.pdf#page=158) | 8-1 | 8 Fire Protection | Revisada | `742159df4a5c8933037be11d951d931a7932284317377fdd9246dcd0d4510fc6` | `PTM:PAGE:158` | Figuras preservadas em imagem de apoio. |
+| [159](KA-200-B200-PTM.pdf#page=159) | 8-2 | 8 Fire Protection | Revisada | `4ddd473dee010d136adc95e14d20d34b28b44bdd5c2e767d18fb09d559155ed0` | `PTM:PAGE:159` | Rótulo “DETAL B” mantido na imagem. |
+| [160](KA-200-B200-PTM.pdf#page=160) | 8-3 | 8 Fire Protection | Revisada | `dbfd45dd7f5e5e00af000790c202310ce7ba3c8b380dbf3bac42b00041d1af76` | `PTM:PAGE:160` | Rótulo “DETAL B” mantido na imagem. |
+| [161](KA-200-B200-PTM.pdf#page=161) | 8-4 | 8 Fire Protection | Revisada | `85c3b3712ca09e82278755f16604ee04498095afcece31fe040052d2c5e08afe` | `PTM:PAGE:161` | Agente CBrF3 e alimentação pelo hot battery bus preservados. |
+| [162](KA-200-B200-PTM.pdf#page=162) | 8-5 | 8 Fire Protection | Revisada | `5b80a14a57d2f3d1147ae0e553a5bc26170143455df788fcf9ad8dcbca53f501` | `PTM:PAGE:162` | Rótulo “DETAL B” mantido na imagem. |
+| [163](KA-200-B200-PTM.pdf#page=163) | 8-6 | 8 Fire Protection | Revisada | `31a862c8b1dd685dc6ecfc5004109075ea23a2c67b98465c9384210672fdd30b` | `PTM:PAGE:163` | Tabela 8-1 reconstruída; pares temperatura/pressão conferidos em detalhe. |
+| [164](KA-200-B200-PTM.pdf#page=164) | 8-7 | 8 Fire Protection | Revisada | `29a7ec58aa5e60221a30208c74d892a0b1b121c17f0b489360e14858ef03c7e3` | `PTM:PAGE:164` | Figuras preservadas em imagem de apoio. |
+| [165](KA-200-B200-PTM.pdf#page=165) | 8-8 | 8 Fire Protection | Revisada | `cb1bddad566bd2ea766b088b5c1c8c3d7a328d283a2214f72be910a167b95647` | `PTM:PAGE:165` | Questões preservadas sem indicar respostas. |
+| [166](KA-200-B200-PTM.pdf#page=166) | 9-i | 9 Pneumatics | Revisada | `ea9ad6779bdbfb82fb0cade784b905009a85165a0093be97a311ef6488ee5c38` | `PTM:PAGE:166` | Texto conferido com a imagem. |
+| [167](KA-200-B200-PTM.pdf#page=167) | 9-iii | 9 Pneumatics | Revisada | `a3c008721d28e07dec5f5959f23d9791d2bb6a4e0716087e066c00bba89f046f` | `PTM:PAGE:167` | Índice mantém Figure 9-6 antes de 9-5; página 9-ii não presente no PDF. |
+| [168](KA-200-B200-PTM.pdf#page=168) | 9-1 | 9 Pneumatics | Revisada | `bfad808003dd32d5c999a5acaa6434e315db8ae077e029ad6102cf64e6166fa9` | `PTM:PAGE:168` | Figuras preservadas em imagem de apoio. |
+| [169](KA-200-B200-PTM.pdf#page=169) | 9-2 | 9 Pneumatics | Revisada | `38b54d97ebd2308424faa47e145f117f9c764fd3ae7425c74a617472eea9da1e` | `PTM:PAGE:169` | Figuras preservadas em imagem de apoio. |
+| [170](KA-200-B200-PTM.pdf#page=170) | 9-3 | 9 Pneumatics | Revisada | `32386fede22d54c03bf479a17526a6107d8751490cfeb235d853ca16b19757d2` | `PTM:PAGE:170` | Efeitos de vazamento de sangria em torque/ITT mantidos como impressos. |
+| [171](KA-200-B200-PTM.pdf#page=171) | 9-4 | 9 Pneumatics | Revisada | `481957ae513623405dd984504f6d63cf4f67a5fca8a9ab9c0c73b3d4d8d2e84b` | `PTM:PAGE:171` | Figuras preservadas em imagem de apoio. |
+| [172](KA-200-B200-PTM.pdf#page=172) | 9-5 | 9 Pneumatics | Revisada | `9a857ead1cd435812e3b6fa307e729c06d1840745b69365fcb74323eabe5bd42` | `PTM:PAGE:172` | Nota: anunciador de sangria não apaga após fechar válvulas; mantida. |
+| [173](KA-200-B200-PTM.pdf#page=173) | 9-6 | 9 Pneumatics | Revisada | `94af11379f78b9f3cdd5c6d0784ba2193fd8a3b570b2dfa2b47cdd8ed6681e09` | `PTM:PAGE:173` | Diagrama girado para leitura; temporização 6–8 s preservada. |
+| [174](KA-200-B200-PTM.pdf#page=174) | 9-7 | 9 Pneumatics | Revisada | `8bb304b60d037602fb9ac19fc6d09132c6d5a025e068832e7e2753c6a20e35cc` | `PTM:PAGE:174` | Limites pneumáticos 12–20 psi e faixas de vácuo preservados. |
+| [175](KA-200-B200-PTM.pdf#page=175) | 9-8 | 9 Pneumatics | Revisada | `ea517b36b6124f576b1d5f823bb00d0adc6b69195756750e5e4a863adfc22312` | `PTM:PAGE:175` | Questões preservadas sem indicar respostas. |
+| [176](KA-200-B200-PTM.pdf#page=176) | 10-i | 10 Ice and Rain Protection | Revisada | `4598adb9dafaf26573c92cf7a5308d3001ec9222bc93107ea2337c2ef1c21935` | `PTM:PAGE:176` | Texto conferido com a imagem. |
+| [177](KA-200-B200-PTM.pdf#page=177) | 10-ii | 10 Ice and Rain Protection | Revisada | `749d04b84a2fab40106737313661756b8939300dfa03c4221dfbccd83a6b7513` | `PTM:PAGE:177` | Texto conferido com a imagem. |
+| [178](KA-200-B200-PTM.pdf#page=178) | 10-iii | 10 Ice and Rain Protection | Revisada | `a9d618ad98384cc34cc6fa83afdae5fdf30904bcb6307b8980c564b417c002ef` | `PTM:PAGE:178` | Texto conferido com a imagem. |
+| [179](KA-200-B200-PTM.pdf#page=179) | 10-1 | 10 Ice and Rain Protection | Revisada | `4337ce6168f7c74610e8e3e03de410a6baa14c2e7ab5a693392d5f05cfa8add8` | `PTM:PAGE:179` | Figuras preservadas em imagem de apoio. |
+| [180](KA-200-B200-PTM.pdf#page=180) | 10-2 | 10 Ice and Rain Protection | Revisada | `6d29d9dea82a3dd01135f17f872b1a948db78376efc149986917c026dca7cafc` | `PTM:PAGE:180` | Aviso sobre botas insufladas e OAT abaixo de –40°C preservado. |
+| [181](KA-200-B200-PTM.pdf#page=181) | 10-3 | 10 Ice and Rain Protection | Revisada | `c4f4b717cce173d20726ac76d3053d3794e1567616df1d4b8d8d87c9d7ddf1f0` | `PTM:PAGE:181` | Figuras preservadas em imagem de apoio. |
+| [182](KA-200-B200-PTM.pdf#page=182) | 10-4 | 10 Ice and Rain Protection | Revisada | `ca77878e919e94e884c252b2473e9daccb55baa276f81254ef4b20d44f3f16d9` | `PTM:PAGE:182` | Figuras preservadas em imagem de apoio. |
+| [183](KA-200-B200-PTM.pdf#page=183) | 10-5 | 10 Ice and Rain Protection | Revisada | `4c197a694668663e1b516979e70acf4c2506628e9bcebe603dfbf5cdadc894c6` | `PTM:PAGE:183` | Ciclo SINGLE: 6 s asas, 4 s estabilizador; preservado. |
+| [184](KA-200-B200-PTM.pdf#page=184) | 10-6 | 10 Ice and Rain Protection | Revisada | `d37c859508a717604d47081cec0136c5b7742a42689d55f2db984ccec5d19c4b` | `PTM:PAGE:184` | Brake deice: 85% N1 e.timer 10 min preservados. Continua na página física 185. |
+| [185](KA-200-B200-PTM.pdf#page=185) | 10-7 | 10 Ice and Rain Protection | Revisada | `9737bfad72cc4d1de5e7206060cd45e259d5c3296c73e3225ff8f34e606e185e` | `PTM:PAGE:185` | Windshield heat +95°F a +105°F preservado. Continuação da página física 184. |
+| [186](KA-200-B200-PTM.pdf#page=186) | 10-8 | 10 Ice and Rain Protection | Revisada | `d4b6498807dd445b7d2767657cbf4ac1ebb548a6136baadcb1ccfed091621798` | `PTM:PAGE:186` | Figura 10-6 mostra sensor “95° TO 105°” sem unidade F; texto usa °F. |
+| [187](KA-200-B200-PTM.pdf#page=187) | 10-9 | 10 Ice and Rain Protection | Revisada | `3e26c985197a708cff55e85d68623000bde56e393f05c335e4926e648f101533` | `PTM:PAGE:187` | Sequências de aquecimento 90 s/30 s e redação “prior to BB-2 through...” mantidas. Continua na página física 188. |
+| [188](KA-200-B200-PTM.pdf#page=188) | 10-10 | 10 Ice and Rain Protection | Revisada | `42af4b8c34a932dd1668f895888d3b989bb91178d389db7f8272eda7a6d2717f` | `PTM:PAGE:188` | PROP AMPS 18–24 A (4 pás) / 14–18 A (3 pás); modo manual não registra no amperímetro. Continuação da página física 187. |
+| [189](KA-200-B200-PTM.pdf#page=189) | 10-11 | 10 Ice and Rain Protection | Revisada | `79636dddc8f01303fd6052466c84128d4839fbbd05313ff9033cc132fc6096b1` | `PTM:PAGE:189` | Avisos sobre pitot/stall warning heat no solo preservados; continua na p. 190. |
+| [190](KA-200-B200-PTM.pdf#page=190) | 10-12 | 10 Ice and Rain Protection | Revisada | `31aa5ec7f83a23797f3cb61711931aa7d665cda42fd66c0939a6ddfec0e6f55d` | `PTM:PAGE:190` | Aquecimento de vent e FCU preservados; continua na p. 191. Continuação da página física 189. |
+| [191](KA-200-B200-PTM.pdf#page=191) | 10-13 | 10 Ice and Rain Protection | Revisada | `76c1a952242e9c5913a4b988800c37c92c5ff46ae661fda3d8bb90e46110c792` | `PTM:PAGE:191` | Ice vanes: 15 s, 160 knots; aviso continua após figuras 10-11/10-12, na p. 194. Continuação da página física 190. |
+| [192](KA-200-B200-PTM.pdf#page=192) | 10-14 | 10 Ice and Rain Protection | Revisada | `7881c1c1ac499808b10f27c86a575276bf47d734055f408b77928d7197d54048` | `PTM:PAGE:192` | Figuras preservadas em imagem de apoio. |
+| [193](KA-200-B200-PTM.pdf#page=193) | 10-15 | 10 Ice and Rain Protection | Revisada | `1dd7d7fe19cf45f3ad9e7129a94e8fd28af1ac61b30589afac2017caec609402` | `PTM:PAGE:193` | Figuras preservadas em imagem de apoio. |
+| [194](KA-200-B200-PTM.pdf#page=194) | 10-16 | 10 Ice and Rain Protection | Revisada | `2ac4237262f97f5341096307c8d466efc2babb14edc81acfdbe083f977a994a8` | `PTM:PAGE:194` | Continuação do aviso da p. 191; +5°C/+15°C e perda de torque preservados. |
+| [195](KA-200-B200-PTM.pdf#page=195) | 10-17 | 10 Ice and Rain Protection | Revisada | `663dcb6db93eb61ebd30d0da44ff9439700b56ff2c4f34b7271239a06a4ade48` | `PTM:PAGE:195` | Wipers não operar em vidro seco; limitações de gelo continuam na p. 196. |
+| [196](KA-200-B200-PTM.pdf#page=196) | 10-18 | 10 Ice and Rain Protection | Revisada | `0c85e602cff6d9b25ac482447ffa6649da130952b93d3dcafede5cd433f47d28` | `PTM:PAGE:196` | Limites 140 KIAS mínimo e 226 KIAS máximo efetivo preservados. Continua na página física 197. Continuação da página física 195. |
+| [197](KA-200-B200-PTM.pdf#page=197) | 10-19 | 10 Ice and Rain Protection | Revisada | `c59a4f05aff99a2d14e1c4cab5b4f95104ddb78357ef34ce9f3d390d9c397ba8` | `PTM:PAGE:197` | Avisos de gelo, wipers e hélice estática preservados. Continua na página física 198. Continuação da página física 196. |
+| [198](KA-200-B200-PTM.pdf#page=198) | 10-20 | 10 Ice and Rain Protection | Revisada | `2a1632d6139943e3e8e2b2c738ad2415619608ceb41e1b1356b457b978a7e3e9` | `PTM:PAGE:198` | NOTES de backup manual 90 s/30 s e deflexão ~5% preservadas. Continuação da página física 197. |
+| [199](KA-200-B200-PTM.pdf#page=199) | 10-21 | 10 Ice and Rain Protection | Revisada | `a7db154a9b8730639a5bdbab99f7c747b442c10d0223c8ecb65858b23645e7bc` | `PTM:PAGE:199` | Questões preservadas sem indicar respostas. |
+| [200](KA-200-B200-PTM.pdf#page=200) | 10-22 | 10 Ice and Rain Protection | Revisada | `0bd82cbf613d1892eb18f8365e959b08ada106291ead55868321e96705d15f70` | `PTM:PAGE:200` | Questão 12 alternativa D termina em “Indication speeds” como impresso; nada acrescentado. |
 | [201](KA-200-B200-PTM.pdf#page=201) | — | 11 Air-Conditioning System | Pendente | `—` | `PTM:PAGE:201` | Aguardando lote autorizado. |
 | [202](KA-200-B200-PTM.pdf#page=202) | — | 11 Air-Conditioning System | Pendente | `—` | `PTM:PAGE:202` | Aguardando lote autorizado. |
 | [203](KA-200-B200-PTM.pdf#page=203) | — | 11 Air-Conditioning System | Pendente | `—` | `PTM:PAGE:203` | Aguardando lote autorizado. |
@@ -482,23 +557,22 @@ Hash do trecho: SHA-256 do conteúdo entre marcadores, excluindo as linhas de ma
 
 | Data | Lote | Intervalo | Método | Resultado | Ressalvas |
 |---|---|---|---|---|---|
-| 2026-10-29 | 1 | 1–100 | Visual 144 dpi + detalhes 200–220 dpi; texto nativo apenas como apoio; tabelas Markdown; imagens de apoio | 100 páginas revisadas; 282 pendentes; commit `2c02f6f54990c9a3afac5cd9ebbe85f3d5669e2e` | Divergências impressas mantidas; diagramas preservados em imagem |
+| 2026-10-29 | 1 | 1–100 | Visual 144 dpi + detalhes; tabelas Markdown; imagens | 100 revisadas; commit `2c02f6f` | Divergências mantidas |
+| 2026-10-29 | 2 | 101–200 | Visual 144 dpi + tabelas/gráficos 240 dpi; esquemas girados 200 dpi; inserção apenas em marcadores pendentes | 100 revisadas; 182 pendentes; commit a publicar | Lote 1 preservado; tabelas e gráficos sem interpolação |
 
 ## 9. Verificações executadas
 
-- Hash SHA-256 do PDF e contagem de 382 páginas: conferidos.
-- Marcadores físicos 1–382 em ordem, sem lacunas: conferidos.
-- Hashes dos 100 trechos revisados: conferidos contra o manifesto.
-- Links locais, links de página do PDF e imagens PNG: conferidos.
-- Tabelas Markdown retangulares e separadores válidos: conferidos.
-- Inventário do controle com 382 páginas e hashes dos trechos revisados: conferido.
-- Arquivos protegidos (PDF, POH e conversões anteriores do PTM): hashes inalterados.
-- Testes automatizados: `python -m pytest tests/test_ptm_integrity.py -q` → **19 passed**.
-- Nenhuma página de lote anterior foi alterada: este é o primeiro lote.
+- Hash do PDF e 382 páginas: conferidos.
+- Marcadores 1–382 em ordem: conferidos.
+- Hashes dos 200 trechos revisados: conferidos.
+- Links, imagens PNG e tabelas Markdown: conferidos.
+- Arquivos protegidos e baseline de todos os rastreados: sem alterações inesperadas.
+- Testes: `python -m pytest tests/test_ptm_integrity.py -q` → **22 passed**.
+- Nenhuma página do lote 1 foi alterada; não houve necessidade de correção retroativa.
 
 ## 10. Próximos passos
 
-1. Aguardar confirmação do usuário antes de iniciar o lote 2 (páginas 101–200).
-2. Não executar conversores sobre `KA-200-B200-PTM.md`; inserir novos trechos apenas nos marcadores pendentes.
-3. Ao concluir cada lote futuro, atualizar este controle, executar os testes, fazer commit e push na branch da sessão.
-4. Se alguma página de lote anterior precisar de alteração, registrar e justificar nesta seção e no histórico.
+1. Aguardar confirmação antes do lote 3 (201–300).
+2. Não executar conversores sobre o Markdown revisado; inserir apenas nos marcadores pendentes.
+3. Ao concluir lote futuro, atualizar controle, testes, commit e push na branch da sessão.
+4. Qualquer alteração retroativa deve ser registrada e justificada.

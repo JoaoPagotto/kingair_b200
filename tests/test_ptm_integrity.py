@@ -46,10 +46,10 @@ def test_markers_sequential_and_status(text, manifest):
     assert starts == list(range(1, 383))
     assert ends == list(range(1, 383))
     assert manifest['physical_pages'] == 382
-    assert manifest['reviewed_through'] == 100
+    assert manifest['reviewed_through'] == 200
     for e in manifest['pages']:
         n = e['physical']
-        expected = 'revisada' if n <= 100 else 'pendente'
+        expected = 'revisada' if n <= 200 else 'pendente'
         assert e['status'] == expected
         assert f'<!-- PTM:PAGE:{n:03d} START -->\n<!-- PTM:STATUS:{expected} -->' in text
 
@@ -62,14 +62,14 @@ def test_reviewed_chunk_hashes(text, manifest):
         assert h == e['sha256'], f"hash mismatch page {e['physical']}"
 
 def test_pending_chunks_have_no_automatic_conversion(text):
-    for n in range(101, 383):
+    for n in range(201, 383):
         c = chunk(text, n)
         assert 'Pendente de revisão' in c
         assert 'KA-200-B200-PTM_imagens' not in c
         assert 'assets/ptm/' not in c
 
 def test_reviewed_chunks_have_facsimile_and_no_old_converter(text):
-    for n in range(1, 101):
+    for n in range(1, 201):
         c = chunk(text, n)
         assert f'assets/ptm/page-{n:03d}.png' in c
         assert 'KA-200-B200-PTM_imagens' not in c
@@ -91,7 +91,7 @@ def test_local_links_and_images_exist(text):
             assert 1 <= page <= 382
 
 def test_markdown_tables_rectangular(text):
-    for n in range(1, 101):
+    for n in range(1, 201):
         lines = chunk(text, n).splitlines()
         i = 0
         while i < len(lines):
@@ -133,3 +133,30 @@ def test_control_inventory_matches_manifest(manifest):
     for e in manifest['pages']:
         if e['status'] == 'revisada':
             assert e['sha256'] in control
+
+
+def test_batch2_source_anomalies_preserved(text):
+    assert 'aDownstream' in chunk(text, 128)
+    assert 'extends form 85 to 100 psi' in chunk(text, 153)
+    assert 'D. Indication speeds' in chunk(text, 200)
+    assert 'PRIOR TO BB-1439, 1444 AND SUBSEQUENT' in chunk(text, 150)
+    assert '12. These values are time limited to five minutes.' in chunk(text, 151)
+    assert 'MEL-T-5624' in chunk(text, 108)
+    assert 'B-1192' in chunk(text, 133)
+
+def test_batch2_critical_tables_present(text):
+    c150 = chunk(text, 150)
+    assert c150.count('| OPERATING CONDITION | SHP |') == 2
+    assert '| LOW IDLE | --- | --- | 750 (6) | 22,875 | 61 (min) |' in c150.replace('<br>', '')
+    c151 = chunk(text, 151)
+    assert '| LOW IDLE | --- | --- | 660 (6) | 19,500 | 52 (min) |' in c151.replace('<br>', '')
+    c153 = chunk(text, 153)
+    assert c153.count('| INSTRUMENT | RED LINE MINIMUM LIMIT |') == 3
+    assert '| OIL PRESSURE \\*\\* | 60 psi | --- | 100 psi to 135 psi | 200 psi |' in c153
+    c163 = chunk(text, 163)
+    assert '| PSI MINIMUM | 190 | 220 | 250 | 290 | 340 | 390 | 455 | 525 | 605 |' in c163
+    assert '| PSI MAXIMUM | 240 | 275 | 315 | 365 | 420 | 480 | 550 | 635 | 730 |' in c163
+
+def test_batch2_reviewed_ranges(manifest):
+    assert manifest.get('reviewed_ranges') == [[1, 100], [101, 200]]
+    assert sum(1 for e in manifest['pages'] if e['status'] == 'revisada') == 200
