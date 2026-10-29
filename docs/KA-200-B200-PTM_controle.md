@@ -20,7 +20,7 @@ Foram preservados sem sobrescrita: `KA-200-B200-PTM.pdf`, todos os arquivos do P
 
 | Lote | Páginas físicas | Estado | Revisadas no lote | Commit |
 |---|---|---|---:|---|
-| 1 | 1–100 | Concluído; aguardando confirmação para o lote 2 | 100 | A publicar neste lote |
+| 1 | 1–100 | Concluído; aguardando confirmação para o lote 2 | 100 | `2c02f6f54990c9a3afac5cd9ebbe85f3d5669e2e` (conteúdo do lote 1) |
 | 2 | 101–200 | Pendente; não iniciar sem confirmação | 0 | — |
 | 3 | 201–300 | Pendente; não iniciar sem confirmação | 0 | — |
 | 4 | 301–382 | Pendente; não iniciar sem confirmação | 0 | — |
@@ -482,7 +482,7 @@ Hash do trecho: SHA-256 do conteúdo entre marcadores, excluindo as linhas de ma
 
 | Data | Lote | Intervalo | Método | Resultado | Ressalvas |
 |---|---|---|---|---|---|
-| 2026-10-29 | 1 | 1–100 | Visual 144 dpi + detalhes 200–220 dpi; texto nativo apenas como apoio; tabelas Markdown; imagens de apoio | 100 páginas revisadas; 282 pendentes | Divergências impressas mantidas; diagramas preservados em imagem |
+| 2026-10-29 | 1 | 1–100 | Visual 144 dpi + detalhes 200–220 dpi; texto nativo apenas como apoio; tabelas Markdown; imagens de apoio | 100 páginas revisadas; 282 pendentes; commit `2c02f6f54990c9a3afac5cd9ebbe85f3d5669e2e` | Divergências impressas mantidas; diagramas preservados em imagem |
 
 ## 9. Verificações executadas
 
